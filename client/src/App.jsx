@@ -13,6 +13,9 @@ import Population from "./pages/dashboard/Population";
 import Reports from "./pages/dashboard/Reports";
 import Settings from "./pages/dashboard/Settings";
 
+// ✅ NEW: import the full-screen simulation landing (no header/sidebar)
+import SimulationLanding from "./pages/dashboard/SimulationLanding";
+
 function App() {
   const { isAuthenticated, isLoading, error, user } = useAuth0();
   const navigate = useNavigate();
@@ -29,14 +32,16 @@ function App() {
       const hasAuthCode = urlParams.has("code");
       const hasState = urlParams.has("state");
       
+      // 🧠 CHANGED: redirect authenticated user to /simulation instead of /dashboard
       if (window.location.pathname === "/" || window.location.pathname === "" || hasAuthCode || hasState) {
         if (hasAuthCode || hasState) {
           setTimeout(() => {
-            window.history.replaceState({}, document.title, "/dashboard");
-            navigate("/dashboard", { replace: true });
+            // CHANGED: replace URL to /simulation (not /dashboard)
+            window.history.replaceState({}, document.title, "/simulation");
+            navigate("/simulation", { replace: true });
           }, 100);
         } else {
-          navigate("/dashboard", { replace: true });
+          navigate("/simulation", { replace: true });
         }
       }
     }
@@ -67,8 +72,24 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<LandingPage />} />
+
+      {/* ✅ NEW: Simulation route WITHOUT dashboard layout */}
+      <Route
+        path="/simulation"
+        element={
+          isAuthenticated ? (
+            <SimulationLanding />
+          ) : (
+            <div className="flex min-h-screen items-center justify-center bg-black text-white">
+              <div className="text-center">
+                <p>Please log in to access the simulation</p>
+              </div>
+            </div>
+          )
+        }
+      />
       
-      {/* Dashboard Routes */}
+      {/* Dashboard Routes (with header + sidebar) */}
       <Route
         path="/dashboard"
         element={

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   Card,
   CardContent,
@@ -13,23 +13,52 @@ import {
   Loader2,
   CheckCircle,
   AlertCircle,
+  PlayCircle,
 } from "lucide-react";
 
-function PdfUploadCard() {
+function PdfUploadCard({ onRun, isRunning }) {
   const [file, setFile] = useState(null);
   const [uploading, setUploading] = useState(false);
   const [result, setResult] = useState(null);
   const [error, setError] = useState(null);
 
+  // ✅ Hydrate from sessionStorage on mount
+  useEffect(() => {
+    const storedResult = window.sessionStorage.getItem("pdfResult");
+    const storedFileName = window.sessionStorage.getItem("pdfFileName");
+
+    if (storedResult) {
+      try {
+        const parsed = JSON.parse(storedResult);
+        setResult(parsed);
+      } catch (e) {
+        console.error("Failed to parse stored pdfResult:", e);
+      }
+    }
+
+    if (storedFileName) {
+      // we only need name for display
+      setFile({ name: storedFileName });
+    }
+  }, []);
+
   const handleFileChange = (e) => {
     const selectedFile = e.target.files[0];
+
     if (selectedFile && selectedFile.type === "application/pdf") {
       setFile(selectedFile);
       setResult(null);
       setError(null);
+
+      // ❌ Clear old stored result when new file is selected
+      window.sessionStorage.removeItem("pdfResult");
+      window.sessionStorage.setItem("pdfFileName", selectedFile.name);
     } else {
       setError("Please select a valid PDF file");
       setFile(null);
+      setResult(null);
+      window.sessionStorage.removeItem("pdfResult");
+      window.sessionStorage.removeItem("pdfFileName");
     }
   };
 
@@ -56,13 +85,30 @@ function PdfUploadCard() {
 
       if (data.success) {
         setResult(data);
+
+        // ✅ Persist parsed result & filename for dashboard
+        window.sessionStorage.setItem("pdfResult", JSON.stringify(data));
+        window.sessionStorage.setItem(
+          "pdfFileName",
+          file.name || window.sessionStorage.getItem("pdfFileName") || ""
+        );
       } else {
         setError(data.message || "Upload failed");
+        window.sessionStorage.removeItem("pdfResult");
       }
     } catch (err) {
       setError("Failed to upload file: " + err.message);
+      window.sessionStorage.removeItem("pdfResult");
     } finally {
       setUploading(false);
+    }
+  };
+
+  const handleRunClick = () => {
+    if (typeof onRun === "function") {
+      onRun();
+    } else {
+      console.warn("onRun prop not provided to PdfUploadCard");
     }
   };
 
@@ -77,6 +123,7 @@ function PdfUploadCard() {
           Upload a memorandum PDF to extract and analyze its content
         </CardDescription>
       </CardHeader>
+
       <CardContent className="space-y-4">
         {/* File Input */}
         <div className="flex items-center gap-4">
@@ -98,8 +145,11 @@ function PdfUploadCard() {
           </label>
         </div>
 
-        {/* Upload Button */}
-        {file && (
+        {/* Primary button: 
+            - Before parse success: Upload Memorandum
+            - After parse success: Run Simulation
+        */}
+        {file && !result && (
           <Button
             onClick={handleUpload}
             disabled={uploading}
@@ -114,6 +164,26 @@ function PdfUploadCard() {
               <>
                 <Upload className="h-4 w-4 mr-2" />
                 Upload Memorandum
+              </>
+            )}
+          </Button>
+        )}
+
+        {file && result && (
+          <Button
+            onClick={handleRunClick}
+            disabled={isRunning}
+            className="w-full"
+          >
+            {isRunning ? (
+              <>
+                <Loader2 className="h-4 w-4 mr-2 animate-spin" />
+                Running simulation...
+              </>
+            ) : (
+              <>
+                <PlayCircle className="h-4 w-4 mr-2" />
+                Run Simulation
               </>
             )}
           </Button>

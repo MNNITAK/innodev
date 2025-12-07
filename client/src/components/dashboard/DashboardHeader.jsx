@@ -1,18 +1,9 @@
 import { LogOut as LogOutIcon, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { useAuth0 } from "@auth0/auth0-react";
+import {useLogout} from "../../utils/logout.js";
 
 function DashboardHeader() {
-  const { logout } = useAuth0();   // ← hook must be here
-
-  const handleLogout = () => {
-    logout({
-      logoutParams: {
-        returnTo: window.location.origin,
-      },
-    });å
-  };
 
   return (
     <header className="flex h-16 items-center justify-between border-b border-border bg-card px-6">
@@ -24,7 +15,7 @@ function DashboardHeader() {
       <div className="flex items-center gap-4">
         <Button 
         className="gap-2"
-          onClick={handleLogout}>
+          onClick={useLogout()}>
           <LogOutIcon className="h-4 w-4" />
           Logout
         </Button>

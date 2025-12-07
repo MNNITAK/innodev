@@ -1,46 +1,33 @@
 import { useState, useEffect } from "react";
-
-import WorldMapSimulation from "../../components/dashboard/WorldMapSimulation.jsx";
+import { useNavigate } from "react-router-dom";
 import IndiaMap from "../../components/dashboard/IndiaMap.jsx";
 import MetricsCards from "../../components/dashboard/MetricsCards.jsx";
-import PolicySelector from "../../components/dashboard/PolicySelector.jsx";
 import DemographicBreakdown from "../../components/dashboard/DemographicBreakdown.jsx";
 import OpinionTimeline from "../../components/dashboard/OpinionTimeline.jsx";
 import { PdfUploadCard } from "../../components/dashboard/PdfUploadCard.jsx";
 
 function DashboardHome() {
-  const [selectedPolicy, setSelectedPolicy] = useState("digital");
-  const [hasRun, setHasRun] = useState(false);
   const [isRunning, setIsRunning] = useState(false);
   const [loadingInitial, setLoadingInitial] = useState(true);
+  const navigate = useNavigate();
 
-  // Load state from THIS session only
   useEffect(() => {
     const stored = window.sessionStorage.getItem("dashboardHasRun");
-    if (stored === "true") {
-      setHasRun(true);
+    if (stored !== "true") {
+      // If user somehow hits /dashboard without running simulation, send back
+      navigate("/simulation");
+      return;
     }
     setLoadingInitial(false);
-  }, []);
+  }, [navigate]);
 
   const runSimulation = async () => {
     if (isRunning) return;
-
     setIsRunning(true);
 
     try {
-      // 🔮 Dummy delay (simulate backend)
       await new Promise((resolve) => setTimeout(resolve, 1500));
-
-      // 🧠 Later replace with real backend
-      // const response = await fetch("/api/simulations/run", { ... });
-      // const data = await response.json();
-      // update charts/maps with data
-
-      // Mark simulation as completed THIS session
-      setHasRun(true);
-      window.sessionStorage.setItem("dashboardHasRun", "true");
-
+      // could refresh charts from backend here later
     } catch (error) {
       console.error("Simulation error:", error);
     } finally {
@@ -48,33 +35,8 @@ function DashboardHome() {
     }
   };
 
-  // Avoid flicker while reading sessionStorage
   if (loadingInitial) return null;
 
-
-  // BEFORE FIRST SIMULATION → World map background + centered selector
-  if (!hasRun) {
-    return (
-      <div className="relative w-full h-full overflow-hidden flex items-center justify-center">
-        {/* Background world simulation */}
-        <WorldMapSimulation />
-
-        {/* Centered simulation selector */}
-        <div className="relative z-10 w-full max-w-md px-4 animate-in fade-in zoom-in duration-500 ">
-          <PolicySelector
-            selectedPolicy={selectedPolicy}
-            onChangePolicy={setSelectedPolicy}
-            onRun={runSimulation}
-            isRunning={isRunning}
-            hasRun={hasRun}
-          />
-        </div>
-      </div>
-    );
-  }
-
-
-  // AFTER FIRST SIMULATION → Full Dashboard
   return (
     <div className="relative h-full w-full overflow-auto p-6">
       {/* Header text */}
@@ -88,17 +50,8 @@ function DashboardHome() {
       </div>
 
       <div className="mb-6">
-        <PdfUploadCard />
+        <PdfUploadCard onRun={runSimulation} isRunning={isRunning} />
       </div>
-
-      {/* Top controls */}
-      <PolicySelector
-        selectedPolicy={selectedPolicy}
-        onChangePolicy={setSelectedPolicy}
-        onRun={runSimulation}
-        isRunning={isRunning}
-        hasRun={hasRun}
-      />
 
       {/* Metrics */}
       <MetricsCards />

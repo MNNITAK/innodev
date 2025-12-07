@@ -10,7 +10,7 @@ const LoginButton = () => {
   const handleLogin = async () => {
     await loginWithRedirect({
       appState: {
-        returnTo: "/dashboard",
+        returnTo: "/simulation",
       },
     });
   };
