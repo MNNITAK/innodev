@@ -26,17 +26,26 @@ function DashboardSidebar() {
   return (
     <aside className="flex w-64 flex-col border-r border-sidebar-border bg-sidebar">
       <div className="flex h-16 items-center gap-2 border-b border-sidebar-border px-6">
+        {/* 🔁 CIVORA logo now matches Landing Header */}
         <div className="flex h-8 w-8 items-center justify-center rounded-full border border-sidebar-border">
           <svg
             viewBox="0 0 24 24"
-            className="h-4 w-4"
+            className="h-5 w-5 text-sidebar-foreground"
             fill="none"
             stroke="currentColor"
             strokeWidth="1.5"
           >
-            <circle cx="12" cy="12" r="3" />
-            <path d="M12 2v4M12 18v4M2 12h4M18 12h4" />
-            <path d="M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" />
+            <circle cx="12" cy="12" r="3" stroke="currentColor" fill="none" />
+            <circle cx="8" cy="8" r="2" stroke="currentColor" fill="none" opacity="0.7" />
+            <circle cx="16" cy="8" r="2" stroke="currentColor" fill="none" opacity="0.7" />
+            <circle cx="8" cy="16" r="2" stroke="currentColor" fill="none" opacity="0.7" />
+            <circle cx="16" cy="16" r="2" stroke="currentColor" fill="none" opacity="0.7" />
+            <path
+              d="M10 10 L12 12 M14 10 L12 12 M10 14 L12 12 M14 14 L12 12"
+              stroke="currentColor"
+              strokeWidth="1"
+              opacity="0.5"
+            />
           </svg>
         </div>
         <span className="text-sm font-medium tracking-widest text-sidebar-foreground">
@@ -47,7 +56,6 @@ function DashboardSidebar() {
       <nav className="flex-1 p-4">
         <ul className="space-y-1">
           {navItems.map((item) => {
-            // Check for exact match or sub-route
             const isActive = pathname === item.href;
             return (
               <li key={item.label}>
