@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>client</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Suppress Chrome extension errors before React loads -->
+    <script>
+      (function() {
+        'use strict';
+        // Suppress Chrome runtime lastError immediately
+        if (typeof chrome !== 'undefined' && chrome.runtime) {
+          try {
+            var descriptor = Object.getOwnPropertyDescriptor(chrome.runtime, 'lastError');
+            if (descriptor && descriptor.get) {
+              Object.defineProperty(chrome.runtime, 'lastError', {
+                get: function() {
+                  try {
+                    var error = descriptor.get.call(chrome.runtime);
+                    if (error && (
+                      (error.message && (
+                        error.message.indexOf('message port') !== -1 ||
+                        error.message.indexOf('Extension context') !== -1 ||
+                        error.message.indexOf('Could not establish connection') !== -1
+                      ))
+                    )) {
+                      return undefined;
+                    }
+                    return error;
+                  } catch (e) {
+                    return undefined;
+                  }
+                },
+                configurable: true,
+                enumerable: false
+              });
+            }
+          } catch (e) {
+            // Ignore setup errors
+          }
+        }
+        
+        // Suppress error events
+        window.addEventListener('error', function(event) {
+          var msg = (event.message || event.error?.message || String(event.error || '')).toLowerCase();
+          if (msg.indexOf('message port') !== -1 || 
+              msg.indexOf('lasterror') !== -1 ||
+              msg.indexOf('extension context') !== -1 ||
+              msg.indexOf('could not establish connection') !== -1 ||
+              msg.indexOf('unchecked runtime.lasterror') !== -1) {
+            event.preventDefault();
+            event.stopImmediatePropagation();
+            return false;
+          }
+        }, true);
+        
+        // Suppress unhandled rejections
+        window.addEventListener('unhandledrejection', function(event) {
+          var msg = (event.reason?.message || String(event.reason || '')).toLowerCase();
+          if (msg.indexOf('message port') !== -1 || 
+              msg.indexOf('lasterror') !== -1 ||
+              msg.indexOf('extension context') !== -1 ||
+              msg.indexOf('could not establish connection') !== -1) {
+            event.preventDefault();
+            return false;
+          }
+        });
+        
+        // Filter console errors
+        var originalError = console.error;
+        console.error = function() {
+          var msg = Array.prototype.join.call(arguments, ' ').toLowerCase();
+          if (msg.indexOf('message port') !== -1 || 
+              msg.indexOf('lasterror') !== -1 ||
+              msg.indexOf('extension context') !== -1 ||
+              msg.indexOf('unchecked runtime.lasterror') !== -1) {
+            return;
+          }
+          originalError.apply(console, arguments);
+        };
+      })();
+    </script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
