@@ -1,13 +1,15 @@
 
 
 import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/card";
-import { Users, UserCheck, UserX, TrendingUp } from "lucide-react";
+import { Users, UserCheck,Venus,Mars} from "lucide-react";
 
 const populationData = {
   total: 250000,
   active: 198500,
   inactive: 51500,
   growth: 12.5,
+  male: 130000,
+  female: 120000,
   demographics: [
     { category: "Urban", count: 145000, percentage: 58 },
     { category: "Rural", count: 105000, percentage: 42 },
@@ -24,6 +26,26 @@ const populationData = {
     { group: "Middle Income", count: 125000, percentage: 50 },
     { group: "High Income", count: 50000, percentage: 20 },
   ],
+  householdSize:[
+    { group: "1-2", count: 60000, percentage: 24 },
+    { group: "3-4", count: 125000, percentage: 50 },
+    { group: "5-6", count: 50000, percentage: 20 },
+    { group: "7+", count: 20000, percentage: 6 },  
+  ],
+  caste:[
+    { group: "General", count: 100000, percentage: 40 },
+    { group: "OBC", count: 80000, percentage: 32 },
+    { group: "SC", count: 40000, percentage: 16 },
+    { group: "ST", count: 30000, percentage: 12 },  
+  ],
+  religion:[
+    { group: "Hindu", count: 175000, percentage: 70 },
+    { group: "Muslim", count: 50000, percentage: 20 },
+    { group: "Sikh", count: 15000, percentage: 6 },
+    { group: "Buddhist", count: 5000, percentage: 2 },
+    { group: "Christian", count: 2500, percentage: 1 },
+    { group: "Other", count: 2500, percentage: 1},  
+  ]
 };
 
 export default function PopulationPage() {
@@ -75,14 +97,14 @@ export default function PopulationPage() {
           <CardContent className="pt-6">
             <div className="flex items-center gap-4">
               <div className="rounded-lg bg-red-500/10 p-3">
-                <UserX className="h-5 w-5 text-red-500" />
+                <Mars className="h-5 w-5 text-red-500" />
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">
-                  Inactive Citizens
+                  Males
                 </p>
                 <p className="text-2xl font-bold">
-                  {populationData.inactive.toLocaleString()}
+                  {populationData.male.toLocaleString()}
                 </p>
               </div>
             </div>
@@ -93,11 +115,13 @@ export default function PopulationPage() {
           <CardContent className="pt-6">
             <div className="flex items-center gap-4">
               <div className="rounded-lg bg-blue-500/10 p-3">
-                <TrendingUp className="h-5 w-5 text-blue-500" />
+                <Venus className="h-5 w-5 text-blue-500" />
               </div>
               <div>
-                <p className="text-sm text-muted-foreground">Growth Rate</p>
-                <p className="text-2xl font-bold">+{populationData.growth}%</p>
+                <p className="text-sm text-muted-foreground">Female</p>
+                <p className="text-2xl font-bold">
+                  {populationData.female.toLocaleString()}
+                </p>
               </div>
             </div>
           </CardContent>
@@ -162,6 +186,79 @@ export default function PopulationPage() {
               <div key={item.group}>
                 <div className="flex justify-between mb-1 text-sm">
                   <span>{item.group}</span>
+                  <span className="text-muted-foreground">
+                    {item.count.toLocaleString()} ({item.percentage}%)
+                  </span>
+                </div>
+                <div className="h-2 rounded-full bg-secondary">
+                  <div
+                    className="h-full rounded-full bg-accent"
+                    style={{ width: `${item.percentage}%` }}
+                  />
+                </div>
+              </div>
+            ))}
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader>
+            <CardTitle>Household Size</CardTitle>
+          </CardHeader>
+          <CardContent className="space-y-4">
+            {populationData.householdSize.map((item) => (
+              <div key={item.group}>
+                <div className="flex justify-between mb-1 text-sm">
+                  <span>{item.group}</span>
+                  <span className="text-muted-foreground">
+                    {item.count.toLocaleString()} ({item.percentage}%)
+                  </span>
+                </div>
+                <div className="h-2 rounded-full bg-secondary">
+                  <div
+                    className="h-full rounded-full bg-accent"
+                    style={{ width: `${item.percentage}%` }}
+                  />
+                </div>
+              </div>
+            ))}
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader>
+            <CardTitle>Caste</CardTitle>
+          </CardHeader>
+          <CardContent className="space-y-4">
+            {populationData.caste.map((item) => (
+              <div key={item.category}>
+                <div className="flex justify-between mb-1 text-sm">
+                  <span>{item.category}</span>
+                  <span className="text-muted-foreground">
+                    {item.count.toLocaleString()} ({item.percentage}%)
+                  </span>
+                </div>
+                <div className="h-2 rounded-full bg-secondary">
+                  <div
+                    className="h-full rounded-full bg-accent"
+                    style={{ width: `${item.percentage}%` }}
+                  />
+                </div>
+              </div>
+            ))}
+          </CardContent>
+        </Card>
+
+
+        <Card>
+          <CardHeader>
+            <CardTitle>Religion</CardTitle>
+          </CardHeader>
+          <CardContent className="space-y-4">
+            {populationData.religion.map((item) => (
+              <div key={item.category}>
+                <div className="flex justify-between mb-1 text-sm">
+                  <span>{item.category}</span>
                   <span className="text-muted-foreground">
                     {item.count.toLocaleString()} ({item.percentage}%)
                   </span>
