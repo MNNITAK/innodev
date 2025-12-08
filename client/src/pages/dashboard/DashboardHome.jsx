@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import IndiaMap from "../../components/dashboard/IndiaMap.jsx";
 import MetricsCards from "../../components/dashboard/MetricsCards.jsx";
 import { PdfUploadCard } from "../../components/dashboard/PdfUploadCard.jsx";
+import IndiaImpactCard from "../../components/dashboard/IndiaImpactCard.jsx";
 import { Button } from "../../components/ui/button.jsx";
 import { BarChart3 } from "lucide-react";
 
@@ -65,30 +66,9 @@ function DashboardHome() {
         </div>
       </div>
 
-      {/* CALL TO ACTION - Navigate to State Analytics */}
+      {/* National Impact Analytics Card */}
       <div className="pt-6 border-t border-zinc-800">
-        <div className="bg-linear-to-r from-accent/10 to-accent/5 border border-accent/20 rounded-2xl p-8 text-center">
-          <div className="flex items-center justify-center mb-4">
-            <div className="p-3 rounded-full bg-accent/20">
-              <BarChart3 className="h-8 w-8 text-accent" />
-            </div>
-          </div>
-          <h2 className="text-2xl font-bold text-white mb-2">
-            Detailed State-wise Impact Analysis
-          </h2>
-          <p className="text-white/60 mb-6 max-w-2xl mx-auto">
-            Explore comprehensive impact analytics across all 28 states and
-            union territories. Analyze socio-economic, health, digital
-            inclusion, environmental, and mobility metrics.
-          </p>
-          <Button
-            size="lg"
-            onClick={() => navigate("/dashboard/analytics")}
-            className="bg-accent hover:bg-accent/90 text-accent-foreground font-semibold"
-          >
-            View State Analytics →
-          </Button>
-        </div>
+        <IndiaImpactCard />
       </div>
     </div>
   );
