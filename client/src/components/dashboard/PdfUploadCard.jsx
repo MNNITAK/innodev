@@ -118,28 +118,49 @@ function PdfUploadCard({ onRun, isRunning, onUploadComplete }) {
   };
 
   return (
-    <Card className="w-full border-white/10 bg-[oklch(0.18_0_0)]/90 backdrop-blur-md">
-      <CardHeader>
-        <CardTitle className="flex items-center gap-2 text-white">
-          <FileText className="h-5 w-5" />
-          Select Your Policy
-        </CardTitle>
-        <CardDescription className="text-white/60">
-          Upload a policy PDF to extract and analyze its content
-        </CardDescription>
-      </CardHeader>
+    <div className="w-full relative group">
+      {/* Ambient glow effect */}
+      <div className="absolute -inset-1 bg-gradient-to-r from-accent/20 via-accent/30 to-accent/20 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
 
-      <CardContent className="space-y-4">
-        {/* File Input */}
-        <div className="flex items-center gap-4">
+      <Card className="relative border border-white/10 bg-gradient-to-br from-[oklch(0.20_0_0)]/95 to-[oklch(0.16_0_0)]/95 backdrop-blur-xl shadow-2xl overflow-hidden">
+        {/* Subtle gradient overlay */}
+        <div className="absolute inset-0 bg-gradient-to-br from-accent/5 via-transparent to-transparent pointer-events-none" />
+
+        <CardContent className="relative p-6 space-y-4">
+          {/* Compact header with icon */}
+          <div className="flex items-center gap-3 mb-4">
+            <div className="p-2 rounded-lg bg-accent/10 backdrop-blur-sm">
+              <FileText className="h-4 w-4 text-accent" />
+            </div>
+            <div>
+              <h3 className="text-sm font-semibold text-white">
+                Policy Document
+              </h3>
+              <p className="text-xs text-white/50">
+                Upload PDF to begin simulation
+              </p>
+            </div>
+          </div>
+
+          {/* Compact File Input */}
           <label
             htmlFor="pdf-upload"
-            className="flex-1 flex items-center justify-center gap-2 px-4 py-8 border-2 border-dashed border-white/20 rounded-lg cursor-pointer hover:border-white/40 hover:bg-white/5 transition-colors"
+            className="group/upload relative flex items-center gap-3 px-4 py-4 border border-dashed border-white/20 rounded-xl cursor-pointer overflow-hidden transition-all duration-300 hover:border-accent/50 hover:bg-white/5"
           >
-            <Upload className="h-5 w-5 text-white/60" />
-            <span className="text-sm text-white/60">
-              {file ? file.name : "Click to select policy PDF"}
-            </span>
+            {/* Hover gradient effect */}
+            <div className="absolute inset-0 bg-gradient-to-r from-accent/0 via-accent/5 to-accent/0 opacity-0 group-hover/upload:opacity-100 transition-opacity duration-500" />
+
+            <div className="relative flex items-center justify-center w-10 h-10 rounded-lg bg-white/5 group-hover/upload:bg-accent/10 transition-colors duration-300">
+              <Upload className="h-5 w-5 text-white/60 group-hover/upload:text-accent transition-colors duration-300" />
+            </div>
+            <div className="relative flex-1 min-w-0">
+              <p className="text-sm font-medium text-white truncate">
+                {file ? file.name : "Choose policy document"}
+              </p>
+              <p className="text-xs text-white/40 mt-0.5">
+                {file ? "PDF selected" : "Click or drag to upload"}
+              </p>
+            </div>
             <input
               id="pdf-upload"
               type="file"
@@ -148,85 +169,122 @@ function PdfUploadCard({ onRun, isRunning, onUploadComplete }) {
               className="hidden"
             />
           </label>
-        </div>
 
-        {/* Primary button: 
-            - Before parse success: Upload Policy
-            - After parse success: Run Simulation
-        */}
-        {file && !result && (
-          <Button
-            onClick={handleUpload}
-            disabled={uploading}
-            className="w-full bg-white text-black hover:bg-white/90"
-          >
-            {uploading ? (
-              <>
-                <Loader2 className="h-4 w-4 mr-2 animate-spin" />
-                Uploading...
-              </>
-            ) : (
-              <>
-                <Upload className="h-4 w-4 mr-2" />
-                Upload Policy
-              </>
-            )}
-          </Button>
-        )}
+          {/* Elegant Action Buttons */}
+          {file && !result && (
+            <button
+              onClick={handleUpload}
+              disabled={uploading}
+              className="group/btn relative w-full px-6 py-3.5 rounded-xl font-medium text-sm overflow-hidden transition-all duration-300 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {/* Animated gradient background */}
+              <div className="absolute inset-0 bg-linear-to-r from-accent via-accent/90 to-accent transition-all duration-300 group-hover/btn:scale-105" />
+              <div className="absolute inset-0 bg-linear-to-r from-white/0 via-white/20 to-white/0 opacity-0 group-hover/btn:opacity-100 transition-opacity duration-500 group-hover/btn:animate-shimmer" />
 
-        {file && result && (
-          <Button
-            onClick={handleRunClick}
-            disabled={isRunning}
-            className="w-full bg-white text-black hover:bg-white/90"
-          >
-            {isRunning ? (
-              <>
-                <Loader2 className="h-4 w-4 mr-2 animate-spin" />
-                Running simulation...
-              </>
-            ) : (
-              <>
-                <PlayCircle className="h-4 w-4 mr-2" />
-                Run Simulation
-              </>
-            )}
-          </Button>
-        )}
+              {/* Button content */}
+              <span className="relative flex items-center justify-center gap-2 text-black">
+                {uploading ? (
+                  <>
+                    <Loader2 className="h-4 w-4 animate-spin" />
+                    <span>Processing document...</span>
+                  </>
+                ) : (
+                  <>
+                    <Upload className="h-4 w-4" />
+                    <span>Upload & Analyze</span>
+                  </>
+                )}
+              </span>
+            </button>
+          )}
 
-        {/* Success Message - without text preview */}
-        {result && (
-          <div className="p-4 bg-green-500/10 border border-green-500/20 rounded-lg">
-            <div className="flex items-center gap-3">
-              <CheckCircle className="h-5 w-5 text-green-500" />
-              <div className="flex-1">
-                <p className="text-sm font-medium text-green-500">
-                  Policy Parsed Successfully!
-                </p>
-                <p className="text-xs text-white/60 mt-1">
-                  Ready to run simulation
-                </p>
+          {file && result && (
+            <button
+              onClick={handleRunClick}
+              disabled={isRunning}
+              className="group/btn relative w-full px-6 py-3.5 rounded-xl font-medium text-sm overflow-hidden transition-all duration-300 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {/* Animated gradient background */}
+              <div className="absolute inset-0 bg-linear-to-r from-accent via-accent/90 to-accent" />
+              <div className="absolute inset-0 bg-linear-to-r from-transparent via-white/20 to-transparent translate-x-[-100%] group-hover/btn:translate-x-[100%] transition-transform duration-1000" />
+
+              {/* Pulsing effect for ready state */}
+              {!isRunning && (
+                <div className="absolute inset-0 bg-accent/50 animate-pulse" />
+              )}
+
+              {/* Button content */}
+              <span className="relative flex items-center justify-center gap-2 text-black">
+                {isRunning ? (
+                  <>
+                    <Loader2 className="h-4 w-4 animate-spin" />
+                    <span>Simulation in progress...</span>
+                  </>
+                ) : (
+                  <>
+                    <PlayCircle className="h-4 w-4" />
+                    <span>Start Simulation</span>
+                    <span className="ml-2 text-xs opacity-75">→</span>
+                  </>
+                )}
+              </span>
+            </button>
+          )}
+
+          {/* Success Message - Elegant compact design */}
+          {result && (
+            <div className="relative p-3 bg-linear-to-r from-green-500/10 to-emerald-500/10 border border-green-500/20 rounded-xl overflow-hidden backdrop-blur-sm">
+              {/* Animated success glow */}
+              <div className="absolute inset-0 bg-linear-to-r from-green-500/5 via-green-500/10 to-green-500/5 animate-pulse" />
+
+              <div className="relative flex items-center gap-3">
+                <div className="flex items-center justify-center w-8 h-8 rounded-lg bg-green-500/20">
+                  <CheckCircle className="h-4 w-4 text-green-400" />
+                </div>
+                <div className="flex-1 min-w-0">
+                  <p className="text-sm font-semibold text-green-400">
+                    Analysis Complete
+                  </p>
+                  <p className="text-xs text-white/50 mt-0.5">
+                    Ready to begin simulation
+                  </p>
+                </div>
+                <div className="flex items-center gap-1">
+                  <div className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse" />
+                  <div
+                    className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse"
+                    style={{ animationDelay: "0.2s" }}
+                  />
+                  <div
+                    className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse"
+                    style={{ animationDelay: "0.4s" }}
+                  />
+                </div>
               </div>
             </div>
-          </div>
-        )}
+          )}
 
-        {/* Error Message */}
-        {error && (
-          <div className="p-4 bg-red-500/10 border border-red-500/20 rounded-lg">
-            <div className="flex items-start gap-3">
-              <AlertCircle className="h-5 w-5 text-red-500 mt-0.5" />
-              <div className="flex-1">
-                <p className="text-sm font-medium text-red-500">
-                  Upload Failed
-                </p>
-                <p className="text-xs text-muted-foreground mt-1">{error}</p>
+          {/* Error Message - Elegant compact design */}
+          {error && (
+            <div className="relative p-3 bg-linear-to-r from-red-500/10 to-rose-500/10 border border-red-500/20 rounded-xl overflow-hidden backdrop-blur-sm">
+              <div className="relative flex items-center gap-3">
+                <div className="flex items-center justify-center w-8 h-8 rounded-lg bg-red-500/20">
+                  <AlertCircle className="h-4 w-4 text-red-400" />
+                </div>
+                <div className="flex-1 min-w-0">
+                  <p className="text-sm font-semibold text-red-400">
+                    Upload Failed
+                  </p>
+                  <p className="text-xs text-white/50 mt-0.5 truncate">
+                    {error}
+                  </p>
+                </div>
               </div>
             </div>
-          </div>
-        )}
-      </CardContent>
-    </Card>
+          )}
+        </CardContent>
+      </Card>
+    </div>
   );
 }
 

@@ -177,14 +177,19 @@ function Simulation() {
             <SimulationCheckpoints currentStep={currentStep} compact />
           </div>
 
-          <Button
-            variant="outline"
-            size="sm"
-            className="rounded-full border-white/15 bg-white/5 text-white hover:bg-white/10 hover:border-white/25"
+          <button
             onClick={handleLogout}
+            className="group/logout relative px-4 py-2 rounded-full text-sm font-medium text-white overflow-hidden transition-all duration-300 hover:scale-105"
           >
-            Log Out
-          </Button>
+            {/* Gradient background */}
+            <div className="absolute inset-0 bg-linear-to-r from-white/5 to-white/10 transition-all duration-300 group-hover/logout:from-white/10 group-hover/logout:to-white/15" />
+            <div className="absolute inset-0 border border-white/15 rounded-full transition-colors duration-300 group-hover/logout:border-white/30" />
+
+            {/* Shimmer effect on hover */}
+            <div className="absolute inset-0 bg-linear-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover/logout:translate-x-full transition-transform duration-1000" />
+
+            <span className="relative">Log Out</span>
+          </button>
         </nav>
       </header>
 
@@ -193,9 +198,9 @@ function Simulation() {
 
       {/* Main content area */}
       <div className="relative z-10 flex flex-col h-full px-4 pt-32 pb-8">
-        {/* Upload card at bottom - ChatGPT-like styling */}
-        <div className="w-full max-w-4xl mx-auto pb-8 mt-auto">
-          <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+        {/* Compact upload section with elegant positioning */}
+        <div className="w-full max-w-2xl mx-auto pb-8 mt-auto">
+          <div className="animate-in fade-in slide-in-from-bottom-8 duration-700">
             <PdfUploadCard
               onRun={goToDashboard}
               isRunning={isRunning}
