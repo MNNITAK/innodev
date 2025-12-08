@@ -4,13 +4,17 @@ import { Outlet } from "react-router-dom";
 
 function DashboardLayout() {
   return (
-    <div className="flex min-h-screen bg-background text-foreground">
+    <div className="flex h-screen w-full overflow-hidden bg-background text-foreground">
+      {/* Sidebar - fixed width, separate scroll context */}
       <DashboardSidebar />
-      <div className="flex-1 flex flex-col">
+      
+      {/* Main Content Wrapper - One single scrollable area for Header + Page Content */}
+      <div className="flex-1 h-full overflow-y-auto relative isolate scroll-smooth">
+        {/* Header flows naturally, so it scrolls up/hides when user scrolls down */}
         <DashboardHeader />
-        {/* [FIX] Added 'relative isolate' to prevent z-index conflicts */}
-        {/* [FIX] Added 'flex flex-col' so children (like the map) can use flex-1 to fill space */}
-        <main className="flex-1 p-6 overflow-auto flex flex-col relative isolate">
+        
+        {/* Main Page Content */}
+        <main className="w-full p-6">
           <Outlet />
         </main>
       </div>

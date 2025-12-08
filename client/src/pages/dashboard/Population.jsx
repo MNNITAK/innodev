@@ -1,7 +1,8 @@
+// client/src/pages/dashboard/Population.jsx
 
-
+import { useState, useEffect } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/card";
-import { Users, UserCheck,Venus,Mars} from "lucide-react";
+import { Users, UserCheck, Venus, Mars } from "lucide-react";
 
 const populationData = {
   total: 250000,
@@ -48,11 +49,51 @@ const populationData = {
   ]
 };
 
+// Animated Number Component
+const CountUp = ({ end, duration = 1500 }) => {
+  const [count, setCount] = useState(0);
+
+  useEffect(() => {
+    let startTime = null;
+    let animationFrame;
+
+    const animate = (timestamp) => {
+      if (!startTime) startTime = timestamp;
+      const progress = timestamp - startTime;
+      const percentage = Math.min(progress / duration, 1);
+      
+      // Easing function (easeOutExpo)
+      const ease = (x) => (x === 1 ? 1 : 1 - Math.pow(2, -10 * x));
+      
+      // Randomize slightly during animation for "scramble" effect
+      const currentVal = Math.floor(ease(percentage) * end);
+      setCount(currentVal);
+
+      if (progress < duration) {
+        animationFrame = requestAnimationFrame(animate);
+      }
+    };
+
+    animationFrame = requestAnimationFrame(animate);
+    return () => cancelAnimationFrame(animationFrame);
+  }, [end, duration]);
+
+  return <>{count.toLocaleString()}</>;
+};
+
 export default function PopulationPage() {
+  const [showAnimation, setShowAnimation] = useState(false);
+
+  useEffect(() => {
+    // Trigger animation slightly after mount
+    const timer = setTimeout(() => setShowAnimation(true), 100);
+    return () => clearTimeout(timer);
+  }, []);
+
   return (
     <>
       <div className="mb-6">
-        <h1 className="text-2xl font-bold">Population Analytics</h1>
+        <h1 className="text-2xl font-bold">Population Analytics(INDIA)</h1>
         <p className="text-muted-foreground">
           Synthetic citizen distribution and demographics
         </p>
@@ -70,7 +111,7 @@ export default function PopulationPage() {
                   Total Population
                 </p>
                 <p className="text-2xl font-bold">
-                  {populationData.total.toLocaleString()}
+                  <CountUp end={populationData.total} />
                 </p>
               </div>
             </div>
@@ -86,7 +127,7 @@ export default function PopulationPage() {
               <div>
                 <p className="text-sm text-muted-foreground">Active Citizens</p>
                 <p className="text-2xl font-bold">
-                  {populationData.active.toLocaleString()}
+                  <CountUp end={populationData.active} />
                 </p>
               </div>
             </div>
@@ -104,7 +145,7 @@ export default function PopulationPage() {
                   Males
                 </p>
                 <p className="text-2xl font-bold">
-                  {populationData.male.toLocaleString()}
+                  <CountUp end={populationData.male} />
                 </p>
               </div>
             </div>
@@ -120,7 +161,7 @@ export default function PopulationPage() {
               <div>
                 <p className="text-sm text-muted-foreground">Female</p>
                 <p className="text-2xl font-bold">
-                  {populationData.female.toLocaleString()}
+                  <CountUp end={populationData.female} />
                 </p>
               </div>
             </div>
@@ -129,150 +170,42 @@ export default function PopulationPage() {
       </div>
 
       <div className="grid gap-6 lg:grid-cols-3">
-        <Card>
-          <CardHeader>
-            <CardTitle>Demographics</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {populationData.demographics.map((item) => (
-              <div key={item.category}>
-                <div className="flex justify-between mb-1 text-sm">
-                  <span>{item.category}</span>
-                  <span className="text-muted-foreground">
-                    {item.count.toLocaleString()} ({item.percentage}%)
-                  </span>
+        {/* Helper function to render progress bars with animation */}
+        {[
+          { title: "Demographics", data: populationData.demographics },
+          { title: "Age Distribution", data: populationData.ageGroups },
+          { title: "Income Groups", data: populationData.incomeGroups },
+          { title: "Household Size", data: populationData.householdSize },
+          { title: "Caste", data: populationData.caste },
+          { title: "Religion", data: populationData.religion },
+        ].map((section, idx) => (
+          <Card key={idx}>
+            <CardHeader>
+              <CardTitle>{section.title}</CardTitle>
+            </CardHeader>
+            <CardContent className="space-y-4">
+              {section.data.map((item, i) => (
+                <div key={item.category || item.group}>
+                  <div className="flex justify-between mb-1 text-sm">
+                    <span>{item.category || item.group}</span>
+                    <span className="text-muted-foreground">
+                      {item.count.toLocaleString()} ({item.percentage}%)
+                    </span>
+                  </div>
+                  <div className="h-2 rounded-full bg-secondary overflow-hidden">
+                    <div
+                      className="h-full rounded-full bg-accent transition-all duration-1000 ease-out"
+                      style={{ 
+                        width: showAnimation ? `${item.percentage}%` : "0%",
+                        transitionDelay: `${i * 100}ms` // Stagger effect
+                      }}
+                    />
+                  </div>
                 </div>
-                <div className="h-2 rounded-full bg-secondary">
-                  <div
-                    className="h-full rounded-full bg-accent"
-                    style={{ width: `${item.percentage}%` }}
-                  />
-                </div>
-              </div>
-            ))}
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardHeader>
-            <CardTitle>Age Distribution</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {populationData.ageGroups.map((item) => (
-              <div key={item.group}>
-                <div className="flex justify-between mb-1 text-sm">
-                  <span>{item.group}</span>
-                  <span className="text-muted-foreground">
-                    {item.percentage}%
-                  </span>
-                </div>
-                <div className="h-2 rounded-full bg-secondary">
-                  <div
-                    className="h-full rounded-full bg-accent"
-                    style={{ width: `${item.percentage}%` }}
-                  />
-                </div>
-              </div>
-            ))}
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardHeader>
-            <CardTitle>Income Groups</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {populationData.incomeGroups.map((item) => (
-              <div key={item.group}>
-                <div className="flex justify-between mb-1 text-sm">
-                  <span>{item.group}</span>
-                  <span className="text-muted-foreground">
-                    {item.count.toLocaleString()} ({item.percentage}%)
-                  </span>
-                </div>
-                <div className="h-2 rounded-full bg-secondary">
-                  <div
-                    className="h-full rounded-full bg-accent"
-                    style={{ width: `${item.percentage}%` }}
-                  />
-                </div>
-              </div>
-            ))}
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardHeader>
-            <CardTitle>Household Size</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {populationData.householdSize.map((item) => (
-              <div key={item.group}>
-                <div className="flex justify-between mb-1 text-sm">
-                  <span>{item.group}</span>
-                  <span className="text-muted-foreground">
-                    {item.count.toLocaleString()} ({item.percentage}%)
-                  </span>
-                </div>
-                <div className="h-2 rounded-full bg-secondary">
-                  <div
-                    className="h-full rounded-full bg-accent"
-                    style={{ width: `${item.percentage}%` }}
-                  />
-                </div>
-              </div>
-            ))}
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardHeader>
-            <CardTitle>Caste</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {populationData.caste.map((item) => (
-              <div key={item.category}>
-                <div className="flex justify-between mb-1 text-sm">
-                  <span>{item.category}</span>
-                  <span className="text-muted-foreground">
-                    {item.count.toLocaleString()} ({item.percentage}%)
-                  </span>
-                </div>
-                <div className="h-2 rounded-full bg-secondary">
-                  <div
-                    className="h-full rounded-full bg-accent"
-                    style={{ width: `${item.percentage}%` }}
-                  />
-                </div>
-              </div>
-            ))}
-          </CardContent>
-        </Card>
-
-
-        <Card>
-          <CardHeader>
-            <CardTitle>Religion</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {populationData.religion.map((item) => (
-              <div key={item.category}>
-                <div className="flex justify-between mb-1 text-sm">
-                  <span>{item.category}</span>
-                  <span className="text-muted-foreground">
-                    {item.count.toLocaleString()} ({item.percentage}%)
-                  </span>
-                </div>
-                <div className="h-2 rounded-full bg-secondary">
-                  <div
-                    className="h-full rounded-full bg-accent"
-                    style={{ width: `${item.percentage}%` }}
-                  />
-                </div>
-              </div>
-            ))}
-          </CardContent>
-        </Card>
+              ))}
+            </CardContent>
+          </Card>
+        ))}
       </div>
     </>
   );

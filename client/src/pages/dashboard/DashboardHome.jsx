@@ -14,7 +14,6 @@ function DashboardHome() {
   useEffect(() => {
     const stored = window.sessionStorage.getItem("dashboardHasRun");
     if (stored !== "true") {
-      // If user somehow hits /dashboard without running simulation, send back
       navigate("/simulation");
       return;
     }
@@ -27,7 +26,6 @@ function DashboardHome() {
 
     try {
       await new Promise((resolve) => setTimeout(resolve, 1500));
-      // could refresh charts from backend here later
     } catch (error) {
       console.error("Simulation error:", error);
     } finally {
@@ -38,7 +36,8 @@ function DashboardHome() {
   if (loadingInitial) return null;
 
   return (
-    <div className="relative h-full w-full overflow-auto p-6">
+    // REMOVED: h-full, overflow-auto, p-6 (handled by layout now)
+    <div className="relative w-full">
       {/* Header text */}
       <div className="mb-6 flex items-center justify-between gap-4">
         <div>
