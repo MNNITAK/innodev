@@ -2,8 +2,7 @@ import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import IndiaMap from "../../components/dashboard/IndiaMap.jsx";
 import MetricsCards from "../../components/dashboard/MetricsCards.jsx";
-import DemographicBreakdown from "../../components/dashboard/DemographicBreakdown.jsx";
-import OpinionTimeline from "../../components/dashboard/OpinionTimeline.jsx";
+import IndiaAnalytics from "../../components/dashboard/IndiaAnalytics.jsx";
 import { PdfUploadCard } from "../../components/dashboard/PdfUploadCard.jsx";
 
 function DashboardHome() {
@@ -23,7 +22,6 @@ function DashboardHome() {
   const runSimulation = async () => {
     if (isRunning) return;
     setIsRunning(true);
-
     try {
       await new Promise((resolve) => setTimeout(resolve, 1500));
     } catch (error) {
@@ -36,35 +34,39 @@ function DashboardHome() {
   if (loadingInitial) return null;
 
   return (
-    // REMOVED: h-full, overflow-auto, p-6 (handled by layout now)
-    <div className="relative w-full">
-      {/* Header text */}
-      <div className="mb-6 flex items-center justify-between gap-4">
-        <div>
-          <h1 className="text-2xl font-bold">Policy Simulation Dashboard</h1>
-          <p className="text-muted-foreground">
-            Analyze public sentiment across India&apos;s states and demographics
-          </p>
+    <div className="relative w-full space-y-8 pb-12">
+      {/* TOP SECTION: LEFT (header + metrics + map) & RIGHT (PDF parser) */}
+      <div className="flex flex-col xl:flex-row gap-6">
+        {/* LEFT COLUMN */}
+        <div className="flex-1 space-y-6">
+          {/* Header */}
+          <div>
+            <h1 className="text-2xl font-bold tracking-tight text-white">
+              Policy Simulation Dashboard
+            </h1>
+            <p className="text-zinc-400">
+              Analyze public sentiment across India&apos;s states.
+            </p>
+          </div>
+
+          {/* Metrics row */}
+          <MetricsCards />
+
+          {/* India heatmap just below metrics, narrower and card-like */}
+          <div className="mt-2 bg-zinc-900 border border-zinc-800 rounded-2xl p-4 min-h-[340px]">
+            <IndiaMap />
+          </div>
+        </div>
+
+        {/* RIGHT COLUMN: PDF upload / memorandum parser */}
+        <div className="w-full xl:w-1/3">
+          <PdfUploadCard onRun={runSimulation} isRunning={isRunning} />
         </div>
       </div>
 
-      <div className="mb-6">
-        <PdfUploadCard onRun={runSimulation} isRunning={isRunning} />
-      </div>
-
-      {/* Metrics */}
-      <MetricsCards />
-
-      {/* Main content: India Map + right-side panels */}
-      <div className="mt-6 grid gap-6 lg:grid-cols-3">
-        <div className="lg:col-span-2">
-          <IndiaMap />
-        </div>
-
-        <div className="space-y-6">
-          <DemographicBreakdown />
-          <OpinionTimeline />
-        </div>
+      {/* IMPACT ANALYSIS PANEL BELOW BOTH COLUMNS */}
+      <div className="pt-6 border-t border-zinc-800">
+        <IndiaAnalytics />
       </div>
     </div>
   );
