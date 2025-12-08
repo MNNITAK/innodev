@@ -10,6 +10,7 @@ import { BarChart3 } from "lucide-react";
 function DashboardHome() {
   const [isRunning, setIsRunning] = useState(false);
   const [loadingInitial, setLoadingInitial] = useState(true);
+  const [hasPolicyUploaded, setHasPolicyUploaded] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -18,6 +19,11 @@ function DashboardHome() {
       navigate("/simulation");
       return;
     }
+
+    // Check if policy has been uploaded
+    const pdfResult = window.sessionStorage.getItem("pdfResult");
+    setHasPolicyUploaded(!!pdfResult);
+
     setLoadingInitial(false);
   }, [navigate]);
 
@@ -38,7 +44,11 @@ function DashboardHome() {
   return (
     <div className="relative w-full space-y-8 pb-12">
       {/* TOP SECTION: LEFT (header + metrics + map) & RIGHT (PDF parser) */}
-      <div className="flex flex-col xl:flex-row gap-6">
+      <div
+        className={`flex flex-col ${
+          !hasPolicyUploaded ? "xl:flex-row" : ""
+        } gap-6`}
+      >
         {/* LEFT COLUMN */}
         <div className="flex-1 space-y-6">
           {/* Header */}
@@ -60,10 +70,12 @@ function DashboardHome() {
           </div>
         </div>
 
-        {/* RIGHT COLUMN: PDF upload / memorandum parser */}
-        <div className="w-full xl:w-1/3">
-          <PdfUploadCard onRun={runSimulation} isRunning={isRunning} />
-        </div>
+        {/* RIGHT COLUMN: PDF upload / memorandum parser - Only show if policy not uploaded */}
+        {!hasPolicyUploaded && (
+          <div className="w-full xl:w-1/3">
+            <PdfUploadCard onRun={runSimulation} isRunning={isRunning} />
+          </div>
+        )}
       </div>
 
       {/* National Impact Analytics Card */}
