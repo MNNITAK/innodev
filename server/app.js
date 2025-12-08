@@ -67,6 +67,9 @@ app.use("/api/dashboard", dashboardRouter);
 import pdfRouter from "./src/routes/pdf.routes.js";
 app.use("/api/pdf", pdfRouter);
 
+import analyticsRouter from "./src/routes/analytics.route.js";
+app.use("/api/analytics", analyticsRouter);
+
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error("❌ Error:", err);
