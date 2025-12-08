@@ -73,6 +73,9 @@ app.use("/api/pdf", pdfRouter);
 import analyticsRouter from "./src/routes/analytics.route.js";
 app.use("/api/analytics", analyticsRouter);
 
+import reportRouter from "./src/routes/report.routes.js";
+app.use("/api/reports", reportRouter);
+
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error("❌ Error:", err);

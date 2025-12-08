@@ -27,10 +27,14 @@ function Simulation() {
       // Read parsed PDF from sessionStorage (if already uploaded)
       const storedResult = window.sessionStorage.getItem("pdfResult");
       let pdfData = null;
+      let policyName = "Policy Simulation Report";
 
       if (storedResult) {
         try {
           pdfData = JSON.parse(storedResult);
+          // Extract policy name from the first line or use first 50 chars
+          const firstLine = pdfData.text?.split("\n")[0] || "";
+          policyName = firstLine.substring(0, 80) || "Policy Simulation Report";
           console.log("[Simulation] Using parsed PDF for fake API:", pdfData);
         } catch (e) {
           console.error("[Simulation] Failed to parse pdfResult:", e);
@@ -54,14 +58,32 @@ function Simulation() {
         window.sessionStorage.getItem("dashboardHasRun")
       );
 
-
-      
-      // 🔮 Fake API call to a simulation backend
-      console.log("[Simulation] Hitting fake /api/simulations/run endpoint...");
+      // 🔮 Simulation backend call
+      console.log("[Simulation] Running simulation...");
       await new Promise((resolve) => setTimeout(resolve, 800));
 
       // Move to step 3 - generating report
       setCurrentStep(3);
+
+      // Create report via backend API
+      try {
+        const response = await fetch("http://localhost:8000/api/reports", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            policyName: policyName,
+            pdfText: pdfData?.text || "",
+          }),
+        });
+
+        const result = await response.json();
+        console.log("[Simulation] Report created:", result);
+      } catch (error) {
+        console.error("[Simulation] Failed to create report:", error);
+      }
+
       await new Promise((resolve) => setTimeout(resolve, 400));
 
       console.log(
