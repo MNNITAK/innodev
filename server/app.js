@@ -55,6 +55,9 @@ app.get("/health", (req, res) => {
 
 // Test endpoint
 
+import authRouter from "./src/routes/auth.routes.js";
+app.use("/api/auth", authRouter);
+
 import userRouter from "./src/routes/user.router.js";
 app.use("/api/users", userRouter);
 
@@ -73,8 +76,16 @@ app.use("/api/analytics", analyticsRouter);
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error("❌ Error:", err);
-  res.status(err.status || 500).json({
-    message: err.message || "Internal server error",
+
+  // Handle custom API errors
+  const statusCode = err.statusCode || err.status || 500;
+  const message = err.message || "Internal server error";
+  const errors = err.error || [];
+
+  res.status(statusCode).json({
+    success: false,
+    message: message,
+    errors: errors,
     error: process.env.NODE_ENV === "development" ? err.stack : undefined,
   });
 });
