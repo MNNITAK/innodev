@@ -1,128 +1,253 @@
-import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/card.jsx";
+import { useNavigate } from "react-router-dom";
 import {
-  LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
-  BarChart, Bar, PieChart, Pie, Cell,
-} from "recharts";
-
-// ... [Copy the trendData, policyComparison, sentimentData constants here] ...
-const trendData = [
-  { month: "Jan", support: 45, opposition: 35, neutral: 20 },
-  { month: "Feb", support: 48, opposition: 32, neutral: 20 },
-  { month: "Mar", support: 52, opposition: 30, neutral: 18 },
-  { month: "Apr", support: 58, opposition: 28, neutral: 14 },
-  { month: "May", support: 62, opposition: 25, neutral: 13 },
-  { month: "Jun", support: 65, opposition: 23, neutral: 12 },
-];
-
-const policyComparison = [
-  { policy: "Healthcare", support: 78 },
-  { policy: "Education", support: 72 },
-  { policy: "Tax Reform", support: 45 },
-  { policy: "Infrastructure", support: 68 },
-  { policy: "Environment", support: 61 },
-];
-
-const sentimentData = [
-  { name: "Positive", value: 62, color: "#22c55e" },
-  { name: "Neutral", value: 23, color: "#6b7280" },
-  { name: "Negative", value: 15, color: "#ef4444" },
-];
+  Card,
+  CardContent,
+  CardHeader,
+  CardTitle,
+} from "../../components/ui/card.jsx";
+import { Button } from "../../components/ui/button.jsx";
+import { Input } from "../../components/ui/input.jsx";
+import { MapPin, Search, TrendingUp, Activity } from "lucide-react";
+import { INDIAN_STATES } from "@/data/statesData";
+import { useState, useEffect } from "react";
+import { cn } from "@/lib/utils";
 
 export default function AnalyticsPage() {
+  const navigate = useNavigate();
+  const [searchTerm, setSearchTerm] = useState("");
+  const [statesData, setStatesData] = useState(INDIAN_STATES);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchStates = async () => {
+      try {
+        const response = await fetch(
+          "http://localhost:8000/api/analytics/states"
+        );
+
+        if (response.ok) {
+          const result = await response.json();
+          if (result.success) {
+            setStatesData(result.data);
+          }
+        }
+      } catch (err) {
+        console.error("Error fetching states:", err);
+        // Use fallback data
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchStates();
+  }, []);
+
+  const filteredStates = statesData.filter(
+    (state) =>
+      state.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      state.capital.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  const states = filteredStates.filter((s) => s.type === "State");
+  const unionTerritories = filteredStates.filter((s) => s.type === "UT");
+
+  if (loading) {
+    return (
+      <div className="space-y-6">
+        <div className="mb-6">
+          <h1 className="text-3xl font-bold text-white flex items-center gap-2">
+            <Activity className="h-8 w-8 text-accent" />
+            State-wise Impact Analytics
+          </h1>
+          <p className="text-white/60 mt-2">Loading state data...</p>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {[...Array(6)].map((_, i) => (
+            <Card key={i} className="bg-white/5 border-white/10 animate-pulse">
+              <CardHeader>
+                <div className="h-4 bg-white/10 rounded w-3/4"></div>
+                <div className="h-3 bg-white/10 rounded w-1/2 mt-2"></div>
+              </CardHeader>
+              <CardContent>
+                <div className="h-8 bg-white/10 rounded"></div>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </div>
+    );
+  }
+
   return (
-     // ... [Copy the exact Return JSX from the analytics/page.jsx file] ...
-     // (The JSX content is identical to the file you provided, just ensure imports match)
-     <>
+    <div className="space-y-6">
+      {/* Header */}
       <div className="mb-6">
-        <h1 className="text-2xl font-bold">Analytics</h1>
-        <p className="text-muted-foreground">
-          Detailed analysis of policy simulations and citizen responses
+        <h1 className="text-3xl font-bold text-white flex items-center gap-2">
+          <Activity className="h-8 w-8 text-accent" />
+          State-wise Impact Analytics
+        </h1>
+        <p className="text-white/60 mt-2">
+          Select a state or union territory to view detailed impact analysis
+          across 5 key sectors
         </p>
       </div>
-      {/* ... Rest of the JSX ... */}
-      <div className="grid gap-6 lg:grid-cols-2 mb-6">
-        <Card>
-          <CardHeader><CardTitle>Support Trends Over Time</CardTitle></CardHeader>
-          <CardContent>
-            <div className="h-72">
-              <ResponsiveContainer width="100%" height="100%">
-                <LineChart data={trendData}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="#333" />
-                  <XAxis dataKey="month" stroke="#666" />
-                  <YAxis stroke="#666" />
-                  <Tooltip contentStyle={{ backgroundColor: "#1a1a1a", border: "1px solid #333" }} labelStyle={{ color: "#fff" }} />
-                  <Line type="monotone" dataKey="support" stroke="#22c55e" strokeWidth={2} />
-                  <Line type="monotone" dataKey="opposition" stroke="#ef4444" strokeWidth={2} />
-                  <Line type="monotone" dataKey="neutral" stroke="#6b7280" strokeWidth={2} />
-                </LineChart>
-              </ResponsiveContainer>
+
+      {/* Search Bar */}
+      <div className="relative">
+        <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-white/40" />
+        <Input
+          type="text"
+          placeholder="Search for states or union territories..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          className="pl-10 bg-white/5 border-white/10 text-white placeholder:text-white/40"
+        />
+      </div>
+
+      {/* Summary Stats */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <Card className="bg-emerald-500/10 border-emerald-500/20">
+          <CardContent className="pt-6">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-white/60">Total States</p>
+                <p className="text-3xl font-bold text-emerald-400">
+                  {states.length}
+                </p>
+              </div>
+              <TrendingUp className="h-8 w-8 text-emerald-400" />
             </div>
           </CardContent>
         </Card>
-        <Card>
-          <CardHeader><CardTitle>Policy Comparison</CardTitle></CardHeader>
-          <CardContent>
-            <div className="h-72">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={policyComparison} layout="vertical">
-                  <CartesianGrid strokeDasharray="3 3" stroke="#333" />
-                  <XAxis type="number" stroke="#666" />
-                  <YAxis dataKey="policy" type="category" stroke="#666" width={100} />
-                  <Tooltip contentStyle={{ backgroundColor: "#1a1a1a", border: "1px solid #333" }} labelStyle={{ color: "#fff" }} />
-                  <Bar dataKey="support" fill="#22c55e" radius={[0, 4, 4, 0]} />
-                </BarChart>
-              </ResponsiveContainer>
+
+        <Card className="bg-blue-500/10 border-blue-500/20">
+          <CardContent className="pt-6">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-white/60">Union Territories</p>
+                <p className="text-3xl font-bold text-blue-400">
+                  {unionTerritories.length}
+                </p>
+              </div>
+              <MapPin className="h-8 w-8 text-blue-400" />
+            </div>
+          </CardContent>
+        </Card>
+
+        <Card className="bg-purple-500/10 border-purple-500/20">
+          <CardContent className="pt-6">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-white/60">Total Regions</p>
+                <p className="text-3xl font-bold text-purple-400">
+                  {INDIAN_STATES.length}
+                </p>
+              </div>
+              <Activity className="h-8 w-8 text-purple-400" />
             </div>
           </CardContent>
         </Card>
       </div>
 
-      <div className="grid gap-6 lg:grid-cols-3">
-        <Card>
-            <CardHeader><CardTitle>Overall Sentiment</CardTitle></CardHeader>
-            <CardContent>
-                <div className="h-64">
-                    <ResponsiveContainer width="100%" height="100%">
-                        <PieChart>
-                            <Pie data={sentimentData} cx="50%" cy="50%" innerRadius={60} outerRadius={80} paddingAngle={5} dataKey="value">
-                                {sentimentData.map((entry, index) => (
-                                    <Cell key={`cell-${index}`} fill={entry.color} />
-                                ))}
-                            </Pie>
-                            <Tooltip contentStyle={{ backgroundColor: "#1a1a1a", border: "1px solid #333" }} />
-                        </PieChart>
-                    </ResponsiveContainer>
+      {/* States Section */}
+      <div>
+        <h2 className="text-xl font-bold text-white mb-4 flex items-center gap-2">
+          <MapPin className="h-5 w-5 text-emerald-400" />
+          States ({states.length})
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+          {states.map((state) => (
+            <Card
+              key={state.code}
+              className={cn(
+                "group cursor-pointer transition-all duration-200 hover:scale-105",
+                "bg-gradient-to-br from-white/5 to-white/10 border-white/10",
+                "hover:border-accent hover:shadow-lg hover:shadow-accent/20"
+              )}
+              onClick={() =>
+                navigate(`/dashboard/analytics/${state.code.toLowerCase()}`)
+              }
+            >
+              <CardHeader className="pb-3">
+                <CardTitle className="text-lg font-semibold text-white group-hover:text-accent transition-colors">
+                  {state.name}
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-2">
+                  <div className="flex items-center gap-2 text-xs text-white/60">
+                    <MapPin className="h-3 w-3" />
+                    <span>Capital: {state.capital}</span>
+                  </div>
+                  <div className="flex items-center gap-2 text-xs text-white/40">
+                    <span className="px-2 py-0.5 bg-emerald-500/10 text-emerald-400 rounded">
+                      State
+                    </span>
+                    <span className="font-mono">{state.code}</span>
+                  </div>
                 </div>
-                 <div className="flex justify-center gap-4 mt-4">
-                  {sentimentData.map((item) => (
-                    <div key={item.name} className="flex items-center gap-2 text-sm">
-                      <div className="h-3 w-3 rounded-full" style={{ backgroundColor: item.color }} />
-                      <span>{item.name}: {item.value}%</span>
-                    </div>
-                  ))}
-                </div>
-            </CardContent>
-        </Card>
-        <Card className="lg:col-span-2">
-            <CardHeader><CardTitle>Key Insights</CardTitle></CardHeader>
-            <CardContent>
-                <div className="space-y-4">
-                    <div className="rounded-lg bg-accent/10 p-4">
-                        <h4 className="font-medium text-accent mb-1">High Support Detected</h4>
-                        <p className="text-sm text-muted-foreground">Healthcare policy shows 78% support across all demographics. Consider accelerating implementation.</p>
-                    </div>
-                    <div className="rounded-lg bg-yellow-500/10 p-4">
-                        <h4 className="font-medium text-yellow-500 mb-1">Mixed Reactions</h4>
-                        <p className="text-sm text-muted-foreground">Tax Reform policy has polarized opinions. Urban areas show 60% support vs 35% in rural regions.</p>
-                    </div>
-                    <div className="rounded-lg bg-blue-500/10 p-4">
-                        <h4 className="font-medium text-blue-500 mb-1">Trending Upward</h4>
-                        <p className="text-sm text-muted-foreground">Overall policy support has increased by 20% over the past 6 months across all simulations.</p>
-                    </div>
-                </div>
-            </CardContent>
-        </Card>
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  className="w-full mt-4 text-xs group-hover:bg-accent/10 group-hover:text-accent"
+                >
+                  View Analytics →
+                </Button>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
       </div>
-     </>
+
+      {/* Union Territories Section */}
+      <div className="mt-8">
+        <h2 className="text-xl font-bold text-white mb-4 flex items-center gap-2">
+          <MapPin className="h-5 w-5 text-blue-400" />
+          Union Territories ({unionTerritories.length})
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+          {unionTerritories.map((state) => (
+            <Card
+              key={state.code}
+              className={cn(
+                "group cursor-pointer transition-all duration-200 hover:scale-105",
+                "bg-gradient-to-br from-blue-500/5 to-blue-500/10 border-blue-500/20",
+                "hover:border-blue-400 hover:shadow-lg hover:shadow-blue-400/20"
+              )}
+              onClick={() =>
+                navigate(`/dashboard/analytics/${state.code.toLowerCase()}`)
+              }
+            >
+              <CardHeader className="pb-3">
+                <CardTitle className="text-lg font-semibold text-white group-hover:text-blue-400 transition-colors">
+                  {state.name}
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-2">
+                  <div className="flex items-center gap-2 text-xs text-white/60">
+                    <MapPin className="h-3 w-3" />
+                    <span>Capital: {state.capital}</span>
+                  </div>
+                  <div className="flex items-center gap-2 text-xs text-white/40">
+                    <span className="px-2 py-0.5 bg-blue-500/10 text-blue-400 rounded">
+                      UT
+                    </span>
+                    <span className="font-mono">{state.code}</span>
+                  </div>
+                </div>
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  className="w-full mt-4 text-xs group-hover:bg-blue-500/10 group-hover:text-blue-400"
+                >
+                  View Analytics →
+                </Button>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </div>
+    </div>
   );
 }

@@ -12,6 +12,7 @@ import MapView from "./pages/dashboard/MapView";
 import Population from "./pages/dashboard/Population";
 import Reports from "./pages/dashboard/Reports";
 import Settings from "./pages/dashboard/Settings";
+import StateAnalytics from "./pages/dashboard/StateAnalytics";
 
 // ✅ NEW: import the full-screen simulation landing (no header/sidebar)
 import SimulationLanding from "./pages/dashboard/SimulationLanding";
@@ -31,9 +32,14 @@ function App() {
       const urlParams = new URLSearchParams(window.location.search);
       const hasAuthCode = urlParams.has("code");
       const hasState = urlParams.has("state");
-      
+
       // 🧠 CHANGED: redirect authenticated user to /simulation instead of /dashboard
-      if (window.location.pathname === "/" || window.location.pathname === "" || hasAuthCode || hasState) {
+      if (
+        window.location.pathname === "/" ||
+        window.location.pathname === "" ||
+        hasAuthCode ||
+        hasState
+      ) {
         if (hasAuthCode || hasState) {
           setTimeout(() => {
             // CHANGED: replace URL to /simulation (not /dashboard)
@@ -88,7 +94,7 @@ function App() {
           )
         }
       />
-      
+
       {/* Dashboard Routes (with header + sidebar) */}
       <Route
         path="/dashboard"
@@ -106,6 +112,7 @@ function App() {
       >
         <Route index element={<DashboardHome />} />
         <Route path="analytics" element={<Analytics />} />
+        <Route path="analytics/:stateCode" element={<StateAnalytics />} />
         <Route path="history" element={<History />} />
         <Route path="map" element={<MapView />} />
         <Route path="population" element={<Population />} />
