@@ -67,7 +67,7 @@ function DashboardHome() {
 
       {/* CALL TO ACTION - Navigate to State Analytics */}
       <div className="pt-6 border-t border-zinc-800">
-        <div className="bg-gradient-to-r from-accent/10 to-accent/5 border border-accent/20 rounded-2xl p-8 text-center">
+        <div className="bg-linear-to-r from-accent/10 to-accent/5 border border-accent/20 rounded-2xl p-8 text-center">
           <div className="flex items-center justify-center mb-4">
             <div className="p-3 rounded-full bg-accent/20">
               <BarChart3 className="h-8 w-8 text-accent" />

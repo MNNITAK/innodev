@@ -161,7 +161,7 @@ export default function AnalyticsPage() {
               key={state.code}
               className={cn(
                 "group cursor-pointer transition-all duration-200 hover:scale-105",
-                "bg-gradient-to-br from-white/5 to-white/10 border-white/10",
+                "bg-linear-to-br from-white/5 to-white/10 border-white/10",
                 "hover:border-accent hover:shadow-lg hover:shadow-accent/20"
               )}
               onClick={() =>
@@ -211,7 +211,7 @@ export default function AnalyticsPage() {
               key={state.code}
               className={cn(
                 "group cursor-pointer transition-all duration-200 hover:scale-105",
-                "bg-gradient-to-br from-blue-500/5 to-blue-500/10 border-blue-500/20",
+                "bg-linear-to-br from-blue-500/5 to-blue-500/10 border-blue-500/20",
                 "hover:border-blue-400 hover:shadow-lg hover:shadow-blue-400/20"
               )}
               onClick={() =>
