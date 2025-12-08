@@ -54,6 +54,8 @@ function Simulation() {
         window.sessionStorage.getItem("dashboardHasRun")
       );
 
+
+      
       // 🔮 Fake API call to a simulation backend
       console.log("[Simulation] Hitting fake /api/simulations/run endpoint...");
       await new Promise((resolve) => setTimeout(resolve, 800));
