@@ -3,16 +3,25 @@ import { useNavigate } from "react-router-dom";
 import { useLogout } from "../../utils/logout.js";
 import WorldMapSimulation from "../../components/dashboard/WorldMapSimulation.jsx";
 import { PdfUploadCard } from "../../components/dashboard/PdfUploadCard.jsx";
+import SimulationCheckpoints from "../../components/dashboard/SimulationCheckpoints.jsx";
 import { Button } from "@/components/ui/button";
 
 function Simulation() {
   const [isRunning, setIsRunning] = useState(false);
+  const [currentStep, setCurrentStep] = useState(1); // 1: Upload, 2: Simulate, 3: Report
+  const [isTransitioning, setIsTransitioning] = useState(false);
   const navigate = useNavigate();
   const handleLogout = useLogout();
+
+  const handleUploadComplete = () => {
+    // Move to step 2 when upload is complete
+    setCurrentStep(2);
+  };
 
   const goToDashboard = async () => {
     if (isRunning) return;
     setIsRunning(true);
+    setCurrentStep(2); // Show "Running simulation" state
 
     try {
       // Read parsed PDF from sessionStorage (if already uploaded)
@@ -27,7 +36,9 @@ function Simulation() {
           console.error("[Simulation] Failed to parse pdfResult:", e);
         }
       } else {
-        console.log("[Simulation] No pdfResult found, running simulation anyway");
+        console.log(
+          "[Simulation] No pdfResult found, running simulation anyway"
+        );
       }
 
       console.log(
@@ -45,21 +56,34 @@ function Simulation() {
 
       // 🔮 Fake API call to a simulation backend
       console.log("[Simulation] Hitting fake /api/simulations/run endpoint...");
-      await new Promise((resolve) => setTimeout(resolve, 1500));
-      // later you can replace this with:
-      // const res = await fetch("/api/simulations/run", { method: "POST", body: JSON.stringify({ pdfData }) });
+      await new Promise((resolve) => setTimeout(resolve, 800));
 
-      console.log("[Simulation] Fake simulation complete, navigating to /dashboard");
+      // Move to step 3 - generating report
+      setCurrentStep(3);
+      await new Promise((resolve) => setTimeout(resolve, 400));
 
-      // Now go to dashboard
-      navigate("/dashboard");
+      console.log(
+        "[Simulation] Fake simulation complete, navigating to /dashboard"
+      );
+
+      // Start transition animation
+      setIsTransitioning(true);
+
+      // Navigate after fade out
+      setTimeout(() => {
+        navigate("/dashboard");
+      }, 300);
     } finally {
       setIsRunning(false);
     }
   };
 
   return (
-    <div className="relative w-screen h-screen overflow-hidden bg-background text-foreground">
+    <div
+      className={`relative w-screen h-screen overflow-hidden bg-background text-foreground transition-opacity duration-500 ${
+        isTransitioning ? "opacity-0" : "opacity-100"
+      }`}
+    >
       {/* Header */}
       <header className="fixed top-6 left-1/2 z-50 -translate-x-1/2 w-full max-w-5xl px-6">
         <nav className="flex h-14 items-center justify-between rounded-2xl border border-white/10 bg-[oklch(0.18_0_0)]/90 backdrop-blur-md px-6 shadow-lg shadow-black/20">
@@ -72,11 +96,45 @@ function Simulation() {
                 stroke="currentColor"
                 strokeWidth="1.5"
               >
-                <circle cx="12" cy="12" r="3" stroke="currentColor" fill="none" />
-                <circle cx="8" cy="8" r="2" stroke="currentColor" fill="none" opacity="0.7" />
-                <circle cx="16" cy="8" r="2" stroke="currentColor" fill="none" opacity="0.7" />
-                <circle cx="8" cy="16" r="2" stroke="currentColor" fill="none" opacity="0.7" />
-                <circle cx="16" cy="16" r="2" stroke="currentColor" fill="none" opacity="0.7" />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                  stroke="currentColor"
+                  fill="none"
+                />
+                <circle
+                  cx="8"
+                  cy="8"
+                  r="2"
+                  stroke="currentColor"
+                  fill="none"
+                  opacity="0.7"
+                />
+                <circle
+                  cx="16"
+                  cy="8"
+                  r="2"
+                  stroke="currentColor"
+                  fill="none"
+                  opacity="0.7"
+                />
+                <circle
+                  cx="8"
+                  cy="16"
+                  r="2"
+                  stroke="currentColor"
+                  fill="none"
+                  opacity="0.7"
+                />
+                <circle
+                  cx="16"
+                  cy="16"
+                  r="2"
+                  stroke="currentColor"
+                  fill="none"
+                  opacity="0.7"
+                />
                 <path
                   d="M10 10 L12 12 M14 10 L12 12 M10 14 L12 12 M14 14 L12 12"
                   stroke="currentColor"
@@ -88,6 +146,11 @@ function Simulation() {
             <span className="text-sm font-medium tracking-[0.2em] uppercase text-white">
               CIVORA
             </span>
+          </div>
+
+          {/* Checkpoints in header center */}
+          <div className="flex-1 max-w-md mx-6">
+            <SimulationCheckpoints currentStep={currentStep} compact />
           </div>
 
           <Button
@@ -104,10 +167,17 @@ function Simulation() {
       {/* Background */}
       <WorldMapSimulation />
 
-      {/* Center content */}
-      <div className="relative z-10 flex items-center justify-center h-full px-4">
-        <div className="w-full max-w-md animate-in fade-in zoom-in duration-500">
-          <PdfUploadCard onRun={goToDashboard} isRunning={isRunning} />
+      {/* Main content area */}
+      <div className="relative z-10 flex flex-col h-full px-4 pt-32 pb-8">
+        {/* Upload card at bottom - ChatGPT-like styling */}
+        <div className="w-full max-w-4xl mx-auto pb-8 mt-auto">
+          <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+            <PdfUploadCard
+              onRun={goToDashboard}
+              isRunning={isRunning}
+              onUploadComplete={handleUploadComplete}
+            />
+          </div>
         </div>
       </div>
     </div>

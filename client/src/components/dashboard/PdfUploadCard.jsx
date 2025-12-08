@@ -16,7 +16,7 @@ import {
   PlayCircle,
 } from "lucide-react";
 
-function PdfUploadCard({ onRun, isRunning }) {
+function PdfUploadCard({ onRun, isRunning, onUploadComplete }) {
   const [file, setFile] = useState(null);
   const [uploading, setUploading] = useState(false);
   const [result, setResult] = useState(null);
@@ -92,6 +92,11 @@ function PdfUploadCard({ onRun, isRunning }) {
           "pdfFileName",
           file.name || window.sessionStorage.getItem("pdfFileName") || ""
         );
+
+        // Notify parent component about upload completion
+        if (typeof onUploadComplete === "function") {
+          onUploadComplete();
+        }
       } else {
         setError(data.message || "Upload failed");
         window.sessionStorage.removeItem("pdfResult");
@@ -113,14 +118,14 @@ function PdfUploadCard({ onRun, isRunning }) {
   };
 
   return (
-    <Card className="w-full">
+    <Card className="w-full border-white/10 bg-[oklch(0.18_0_0)]/90 backdrop-blur-md">
       <CardHeader>
-        <CardTitle className="flex items-center gap-2">
+        <CardTitle className="flex items-center gap-2 text-white">
           <FileText className="h-5 w-5" />
-          Upload Memorandum
+          Select Your Policy
         </CardTitle>
-        <CardDescription>
-          Upload a memorandum PDF to extract and analyze its content
+        <CardDescription className="text-white/60">
+          Upload a policy PDF to extract and analyze its content
         </CardDescription>
       </CardHeader>
 
@@ -129,11 +134,11 @@ function PdfUploadCard({ onRun, isRunning }) {
         <div className="flex items-center gap-4">
           <label
             htmlFor="pdf-upload"
-            className="flex-1 flex items-center justify-center gap-2 px-4 py-8 border-2 border-dashed border-border rounded-lg cursor-pointer hover:border-primary hover:bg-accent/50 transition-colors"
+            className="flex-1 flex items-center justify-center gap-2 px-4 py-8 border-2 border-dashed border-white/20 rounded-lg cursor-pointer hover:border-white/40 hover:bg-white/5 transition-colors"
           >
-            <Upload className="h-5 w-5 text-muted-foreground" />
-            <span className="text-sm text-muted-foreground">
-              {file ? file.name : "Click to select memorandum PDF"}
+            <Upload className="h-5 w-5 text-white/60" />
+            <span className="text-sm text-white/60">
+              {file ? file.name : "Click to select policy PDF"}
             </span>
             <input
               id="pdf-upload"
@@ -146,14 +151,14 @@ function PdfUploadCard({ onRun, isRunning }) {
         </div>
 
         {/* Primary button: 
-            - Before parse success: Upload Memorandum
+            - Before parse success: Upload Policy
             - After parse success: Run Simulation
         */}
         {file && !result && (
           <Button
             onClick={handleUpload}
             disabled={uploading}
-            className="w-full"
+            className="w-full bg-white text-black hover:bg-white/90"
           >
             {uploading ? (
               <>
@@ -163,7 +168,7 @@ function PdfUploadCard({ onRun, isRunning }) {
             ) : (
               <>
                 <Upload className="h-4 w-4 mr-2" />
-                Upload Memorandum
+                Upload Policy
               </>
             )}
           </Button>
@@ -173,7 +178,7 @@ function PdfUploadCard({ onRun, isRunning }) {
           <Button
             onClick={handleRunClick}
             disabled={isRunning}
-            className="w-full"
+            className="w-full bg-white text-black hover:bg-white/90"
           >
             {isRunning ? (
               <>
@@ -189,23 +194,18 @@ function PdfUploadCard({ onRun, isRunning }) {
           </Button>
         )}
 
-        {/* Success Message */}
+        {/* Success Message - without text preview */}
         {result && (
           <div className="p-4 bg-green-500/10 border border-green-500/20 rounded-lg">
-            <div className="flex items-start gap-3">
-              <CheckCircle className="h-5 w-5 text-green-500 mt-0.5" />
+            <div className="flex items-center gap-3">
+              <CheckCircle className="h-5 w-5 text-green-500" />
               <div className="flex-1">
                 <p className="text-sm font-medium text-green-500">
-                  Memorandum Parsed Successfully!
+                  Policy Parsed Successfully!
                 </p>
-                <p className="text-xs text-muted-foreground mt-1">
-                  Extracted {result.textLength} characters
+                <p className="text-xs text-white/60 mt-1">
+                  Ready to run simulation
                 </p>
-                {result.textPreview && (
-                  <div className="mt-3 p-3 bg-background rounded text-xs font-mono overflow-auto max-h-40">
-                    {result.textPreview}...
-                  </div>
-                )}
               </div>
             </div>
           </div>
