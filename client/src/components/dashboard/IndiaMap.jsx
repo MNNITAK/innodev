@@ -107,14 +107,25 @@ function IndiaMap() {
       <CardContent>
         <div className="relative">
           <svg
-            viewBox="0 0 600 700"
+            viewBox="0 0 680 850"
             className="w-full h-auto"
-            style={{ maxHeight: "500px" }}
+            preserveAspectRatio="xMidYMid meet"
+            style={{ maxHeight: "650px" }}
           >
             {/* Simplified India Map SVG paths */}
+            {/* Ladakh */}
+            <path
+              d="M240,20 L290,15 L320,45 L305,90 L260,100 L235,70 Z"
+              fill={getHeatmapColor(stateData["LA"].support)}
+              stroke="#1f2937"
+              strokeWidth="1"
+              className="cursor-pointer transition-all hover:opacity-80"
+              onMouseMove={(e) => handleMouseMove(e, "LA")}
+              onMouseLeave={() => setHoveredState(null)}
+            />
             {/* Jammu & Kashmir */}
             <path
-              d="M200,50 L280,30 L320,60 L310,120 L260,140 L200,120 Z"
+              d="M205,55 L265,100 L280,130 L320,135 L315,160 L270,175 L230,160 L195,125 Z"
               fill={getHeatmapColor(stateData["JK"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -124,7 +135,7 @@ function IndiaMap() {
             />
             {/* Himachal Pradesh */}
             <path
-              d="M260,140 L310,120 L330,150 L300,180 L260,160 Z"
+              d="M270,175 L315,160 L340,180 L330,215 L280,225 L260,200 Z"
               fill={getHeatmapColor(stateData["HP"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -134,7 +145,7 @@ function IndiaMap() {
             />
             {/* Punjab */}
             <path
-              d="M200,120 L260,140 L260,180 L220,200 L180,180 Z"
+              d="M195,155 L230,160 L260,200 L250,235 L210,240 L180,210 Z"
               fill={getHeatmapColor(stateData["PB"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -142,9 +153,19 @@ function IndiaMap() {
               onMouseMove={(e) => handleMouseMove(e, "PB")}
               onMouseLeave={() => setHoveredState(null)}
             />
+            {/* Chandigarh (small region near Haryana-Punjab border) */}
+            <path
+              d="M243,230 L253,228 L255,238 L245,240 Z"
+              fill={getHeatmapColor(stateData["CH"].support)}
+              stroke="#1f2937"
+              strokeWidth="1.5"
+              className="cursor-pointer transition-all hover:opacity-80"
+              onMouseMove={(e) => handleMouseMove(e, "CH")}
+              onMouseLeave={() => setHoveredState(null)}
+            />
             {/* Uttarakhand */}
             <path
-              d="M300,180 L350,160 L380,190 L350,220 L310,210 Z"
+              d="M330,215 L365,200 L395,225 L380,260 L340,255 L325,240 Z"
               fill={getHeatmapColor(stateData["UK"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -154,7 +175,7 @@ function IndiaMap() {
             />
             {/* Haryana */}
             <path
-              d="M220,200 L260,180 L280,200 L270,240 L230,240 Z"
+              d="M210,240 L250,235 L280,260 L275,295 L240,295 L220,270 Z"
               fill={getHeatmapColor(stateData["HR"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -164,17 +185,17 @@ function IndiaMap() {
             />
             {/* Delhi */}
             <path
-              d="M255,225 L275,225 L275,245 L255,245 Z"
+              d="M265,275 L280,272 L282,288 L267,291 Z"
               fill={getHeatmapColor(stateData["DL"].support)}
               stroke="#1f2937"
-              strokeWidth="1"
+              strokeWidth="1.5"
               className="cursor-pointer transition-all hover:opacity-80"
               onMouseMove={(e) => handleMouseMove(e, "DL")}
               onMouseLeave={() => setHoveredState(null)}
             />
             {/* Rajasthan */}
             <path
-              d="M120,200 L220,200 L230,240 L220,320 L140,340 L100,280 Z"
+              d="M115,245 L210,250 L240,295 L240,375 L175,400 L100,370 L85,310 Z"
               fill={getHeatmapColor(stateData["RJ"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -184,7 +205,7 @@ function IndiaMap() {
             />
             {/* Uttar Pradesh */}
             <path
-              d="M270,240 L350,220 L420,250 L420,320 L320,340 L260,300 Z"
+              d="M275,295 L340,255 L395,265 L445,290 L450,355 L395,375 L340,390 L280,365 L270,320 Z"
               fill={getHeatmapColor(stateData["UP"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -194,7 +215,7 @@ function IndiaMap() {
             />
             {/* Bihar */}
             <path
-              d="M420,320 L480,300 L500,340 L470,370 L420,360 Z"
+              d="M450,355 L505,335 L535,370 L520,410 L470,415 L450,385 Z"
               fill={getHeatmapColor(stateData["BR"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -202,9 +223,19 @@ function IndiaMap() {
               onMouseMove={(e) => handleMouseMove(e, "BR")}
               onMouseLeave={() => setHoveredState(null)}
             />
+            {/* Sikkim */}
+            <path
+              d="M510,305 L530,300 L538,318 L520,325 Z"
+              fill={getHeatmapColor(stateData["SK"].support)}
+              stroke="#1f2937"
+              strokeWidth="1"
+              className="cursor-pointer transition-all hover:opacity-80"
+              onMouseMove={(e) => handleMouseMove(e, "SK")}
+              onMouseLeave={() => setHoveredState(null)}
+            />
             {/* West Bengal */}
             <path
-              d="M470,370 L520,350 L540,420 L500,480 L460,440 Z"
+              d="M470,415 L520,410 L555,435 L565,480 L540,525 L505,510 L480,465 Z"
               fill={getHeatmapColor(stateData["WB"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -214,7 +245,7 @@ function IndiaMap() {
             />
             {/* Jharkhand */}
             <path
-              d="M420,360 L470,370 L460,420 L410,410 Z"
+              d="M395,395 L450,385 L470,425 L460,470 L415,465 L390,435 Z"
               fill={getHeatmapColor(stateData["JH"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -224,7 +255,7 @@ function IndiaMap() {
             />
             {/* Odisha */}
             <path
-              d="M380,420 L460,420 L480,500 L400,520 L360,480 Z"
+              d="M415,465 L460,470 L505,510 L510,560 L455,585 L400,565 L375,520 Z"
               fill={getHeatmapColor(stateData["OR"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -234,7 +265,7 @@ function IndiaMap() {
             />
             {/* Chhattisgarh */}
             <path
-              d="M320,380 L380,370 L400,440 L360,480 L300,450 Z"
+              d="M340,430 L390,415 L415,465 L400,530 L360,540 L320,505 Z"
               fill={getHeatmapColor(stateData["CT"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -244,7 +275,7 @@ function IndiaMap() {
             />
             {/* Madhya Pradesh */}
             <path
-              d="M220,320 L320,340 L340,380 L300,450 L200,420 L180,360 Z"
+              d="M240,375 L340,390 L360,430 L340,500 L260,505 L200,480 L175,420 Z"
               fill={getHeatmapColor(stateData["MP"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -254,7 +285,7 @@ function IndiaMap() {
             />
             {/* Gujarat */}
             <path
-              d="M60,320 L140,340 L160,400 L120,460 L40,440 L30,380 Z"
+              d="M50,365 L115,380 L175,400 L180,455 L150,515 L90,530 L40,500 L30,420 Z"
               fill={getHeatmapColor(stateData["GJ"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -262,9 +293,19 @@ function IndiaMap() {
               onMouseMove={(e) => handleMouseMove(e, "GJ")}
               onMouseLeave={() => setHoveredState(null)}
             />
+            {/* Dadra & Nagar Haveli and Daman & Diu (between Gujarat and Maharashtra) */}
+            <path
+              d="M155,480 L168,476 L172,492 L159,496 Z"
+              fill={getHeatmapColor(stateData["DN"].support)}
+              stroke="#1f2937"
+              strokeWidth="1.5"
+              className="cursor-pointer transition-all hover:opacity-80"
+              onMouseMove={(e) => handleMouseMove(e, "DN")}
+              onMouseLeave={() => setHoveredState(null)}
+            />
             {/* Maharashtra */}
             <path
-              d="M120,460 L200,420 L300,450 L320,520 L260,560 L140,540 Z"
+              d="M150,515 L200,480 L260,505 L320,505 L345,555 L330,615 L280,640 L220,630 L170,610 L140,565 Z"
               fill={getHeatmapColor(stateData["MH"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -272,9 +313,19 @@ function IndiaMap() {
               onMouseMove={(e) => handleMouseMove(e, "MH")}
               onMouseLeave={() => setHoveredState(null)}
             />
+            {/* Goa */}
+            <path
+              d="M170,610 L185,605 L192,625 L177,630 Z"
+              fill={getHeatmapColor(stateData["GA"].support)}
+              stroke="#1f2937"
+              strokeWidth="1.5"
+              className="cursor-pointer transition-all hover:opacity-80"
+              onMouseMove={(e) => handleMouseMove(e, "GA")}
+              onMouseLeave={() => setHoveredState(null)}
+            />
             {/* Telangana */}
             <path
-              d="M260,500 L340,480 L380,520 L340,560 L280,550 Z"
+              d="M330,555 L360,540 L400,565 L405,605 L375,635 L335,625 Z"
               fill={getHeatmapColor(stateData["TG"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -284,7 +335,7 @@ function IndiaMap() {
             />
             {/* Andhra Pradesh */}
             <path
-              d="M280,550 L380,520 L420,560 L380,620 L300,600 Z"
+              d="M375,635 L405,605 L455,585 L485,615 L480,675 L445,705 L395,700 L360,670 Z"
               fill={getHeatmapColor(stateData["AP"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -294,7 +345,7 @@ function IndiaMap() {
             />
             {/* Karnataka */}
             <path
-              d="M180,540 L260,560 L280,620 L240,680 L160,660 L140,580 Z"
+              d="M220,630 L280,640 L330,625 L360,670 L355,730 L340,775 L300,780 L255,770 L220,740 L200,690 Z"
               fill={getHeatmapColor(stateData["KA"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -304,7 +355,7 @@ function IndiaMap() {
             />
             {/* Kerala */}
             <path
-              d="M200,660 L240,680 L230,750 L190,760 L180,700 Z"
+              d="M220,740 L255,770 L265,800 L260,820 L245,825 L220,815 L205,795 L200,760 Z"
               fill={getHeatmapColor(stateData["KL"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -314,7 +365,7 @@ function IndiaMap() {
             />
             {/* Tamil Nadu */}
             <path
-              d="M240,680 L300,660 L340,700 L300,760 L230,750 Z"
+              d="M340,775 L395,700 L445,705 L470,745 L465,790 L445,820 L410,830 L375,825 L340,815 L310,805 L285,800 L265,800 Z"
               fill={getHeatmapColor(stateData["TN"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -322,30 +373,30 @@ function IndiaMap() {
               onMouseMove={(e) => handleMouseMove(e, "TN")}
               onMouseLeave={() => setHoveredState(null)}
             />
-            {/* Goa */}
+            {/* Puducherry (near Tamil Nadu coast) */}
             <path
-              d="M140,580 L160,570 L165,595 L145,600 Z"
-              fill={getHeatmapColor(stateData["GA"].support)}
+              d="M420,760 L430,757 L433,770 L423,773 Z"
+              fill={getHeatmapColor(stateData["PY"].support)}
               stroke="#1f2937"
-              strokeWidth="1"
+              strokeWidth="1.5"
               className="cursor-pointer transition-all hover:opacity-80"
-              onMouseMove={(e) => handleMouseMove(e, "GA")}
+              onMouseMove={(e) => handleMouseMove(e, "PY")}
               onMouseLeave={() => setHoveredState(null)}
             />
-            {/* Northeast States (simplified) */}
-            {/* Sikkim */}
+            {/* Lakshadweep (small islands off Kerala coast) */}
             <path
-              d="M480,280 L500,275 L505,295 L485,300 Z"
-              fill={getHeatmapColor(stateData["SK"].support)}
+              d="M140,790 L152,787 L155,800 L143,803 Z"
+              fill={getHeatmapColor(stateData["LD"].support)}
               stroke="#1f2937"
-              strokeWidth="1"
+              strokeWidth="1.5"
               className="cursor-pointer transition-all hover:opacity-80"
-              onMouseMove={(e) => handleMouseMove(e, "SK")}
+              onMouseMove={(e) => handleMouseMove(e, "LD")}
               onMouseLeave={() => setHoveredState(null)}
             />
+            {/* Northeast States */}
             {/* Assam */}
             <path
-              d="M500,280 L580,260 L590,310 L520,330 Z"
+              d="M535,330 L605,315 L620,355 L610,395 L560,410 L540,375 Z"
               fill={getHeatmapColor(stateData["AS"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -355,7 +406,7 @@ function IndiaMap() {
             />
             {/* Arunachal Pradesh */}
             <path
-              d="M540,220 L600,200 L610,250 L560,270 Z"
+              d="M575,260 L625,245 L638,285 L630,320 L605,315 L585,290 Z"
               fill={getHeatmapColor(stateData["AR"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -365,7 +416,7 @@ function IndiaMap() {
             />
             {/* Nagaland */}
             <path
-              d="M580,270 L600,260 L610,290 L590,300 Z"
+              d="M610,320 L628,312 L635,335 L617,343 Z"
               fill={getHeatmapColor(stateData["NL"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -375,7 +426,7 @@ function IndiaMap() {
             />
             {/* Manipur */}
             <path
-              d="M580,300 L600,290 L605,320 L585,330 Z"
+              d="M610,350 L628,342 L635,370 L617,378 Z"
               fill={getHeatmapColor(stateData["MN"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -385,7 +436,7 @@ function IndiaMap() {
             />
             {/* Mizoram */}
             <path
-              d="M570,330 L590,320 L595,360 L575,370 Z"
+              d="M600,385 L618,378 L625,410 L607,417 Z"
               fill={getHeatmapColor(stateData["MZ"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -395,7 +446,7 @@ function IndiaMap() {
             />
             {/* Tripura */}
             <path
-              d="M545,350 L565,340 L570,370 L550,380 Z"
+              d="M575,400 L595,393 L602,420 L582,427 Z"
               fill={getHeatmapColor(stateData["TR"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -405,7 +456,7 @@ function IndiaMap() {
             />
             {/* Meghalaya */}
             <path
-              d="M520,320 L560,310 L565,340 L525,350 Z"
+              d="M555,360 L590,350 L598,380 L563,390 Z"
               fill={getHeatmapColor(stateData["ML"].support)}
               stroke="#1f2937"
               strokeWidth="1"
@@ -413,62 +464,12 @@ function IndiaMap() {
               onMouseMove={(e) => handleMouseMove(e, "ML")}
               onMouseLeave={() => setHoveredState(null)}
             />
-            {/* Ladakh */}
-            <path
-              d="M240,20 L280,10 L310,40 L290,70 L250,60 Z"
-              fill={getHeatmapColor(stateData["LA"].support)}
-              stroke="#1f2937"
-              strokeWidth="1"
-              className="cursor-pointer transition-all hover:opacity-80"
-              onMouseMove={(e) => handleMouseMove(e, "LA")}
-              onMouseLeave={() => setHoveredState(null)}
-            />
-            {/* Chandigarh (small region near Haryana-Punjab) */}
-            <path
-              d="M245,195 L255,195 L255,205 L245,205 Z"
-              fill={getHeatmapColor(stateData["CH"].support)}
-              stroke="#1f2937"
-              strokeWidth="1"
-              className="cursor-pointer transition-all hover:opacity-80"
-              onMouseMove={(e) => handleMouseMove(e, "CH")}
-              onMouseLeave={() => setHoveredState(null)}
-            />
-            {/* Dadra & Nagar Haveli and Daman & Diu (near Gujarat) */}
-            <path
-              d="M85,380 L100,375 L105,395 L90,400 Z"
-              fill={getHeatmapColor(stateData["DN"].support)}
-              stroke="#1f2937"
-              strokeWidth="1"
-              className="cursor-pointer transition-all hover:opacity-80"
-              onMouseMove={(e) => handleMouseMove(e, "DN")}
-              onMouseLeave={() => setHoveredState(null)}
-            />
-            {/* Puducherry (near Tamil Nadu coast) */}
-            <path
-              d="M315,695 L325,690 L330,705 L320,710 Z"
-              fill={getHeatmapColor(stateData["PY"].support)}
-              stroke="#1f2937"
-              strokeWidth="1"
-              className="cursor-pointer transition-all hover:opacity-80"
-              onMouseMove={(e) => handleMouseMove(e, "PY")}
-              onMouseLeave={() => setHoveredState(null)}
-            />
-            {/* Lakshadweep (small islands off Kerala coast) */}
-            <path
-              d="M120,710 L130,708 L132,718 L122,720 Z"
-              fill={getHeatmapColor(stateData["LD"].support)}
-              stroke="#1f2937"
-              strokeWidth="1"
-              className="cursor-pointer transition-all hover:opacity-80"
-              onMouseMove={(e) => handleMouseMove(e, "LD")}
-              onMouseLeave={() => setHoveredState(null)}
-            />
             {/* Andaman & Nicobar (islands in Bay of Bengal) */}
             <path
-              d="M565,480 L575,475 L580,495 L570,500 Z"
+              d="M595,540 L608,535 L615,560 L602,565 Z"
               fill={getHeatmapColor(stateData["AN"].support)}
               stroke="#1f2937"
-              strokeWidth="1"
+              strokeWidth="1.5"
               className="cursor-pointer transition-all hover:opacity-80"
               onMouseMove={(e) => handleMouseMove(e, "AN")}
               onMouseLeave={() => setHoveredState(null)}
