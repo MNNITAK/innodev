@@ -202,7 +202,7 @@ function PdfUploadCard({ onRun, isRunning, onUploadComplete }) {
             >
               {/* Animated gradient background */}
               <div className="absolute inset-0 bg-linear-to-r from-accent via-accent/90 to-accent" />
-              <div className="absolute inset-0 bg-linear-to-r from-transparent via-white/20 to-transparent translate-x-[-100%] group-hover/btn:translate-x-[100%] transition-transform duration-1000" />
+              <div className="absolute inset-0 bg-linear-to-r from-transparent via-white/20 to-transparent translate-x-100% group-hover/btn:translate-x-100% transition-transform duration-1000" />
 
               {/* Pulsing effect for ready state */}
               {!isRunning && (

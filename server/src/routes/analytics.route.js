@@ -2,37 +2,21 @@ import express from "express";
 
 const router = express.Router();
 
-// List of Indian States and Union Territories
 const INDIAN_STATES = [
-  {
-    code: "AN",
-    name: "Andaman and Nicobar Islands",
-    type: "UT",
-    capital: "Port Blair",
-  },
+  { code: "AN", name: "Andaman and Nicobar Islands", type: "UT", capital: "Port Blair" },
   { code: "AP", name: "Andhra Pradesh", type: "State", capital: "Amaravati" },
   { code: "AR", name: "Arunachal Pradesh", type: "State", capital: "Itanagar" },
   { code: "AS", name: "Assam", type: "State", capital: "Dispur" },
   { code: "BR", name: "Bihar", type: "State", capital: "Patna" },
   { code: "CH", name: "Chandigarh", type: "UT", capital: "Chandigarh" },
   { code: "CT", name: "Chhattisgarh", type: "State", capital: "Raipur" },
-  {
-    code: "DN",
-    name: "Dadra and Nagar Haveli and Daman and Diu",
-    type: "UT",
-    capital: "Daman",
-  },
+  { code: "DN", name: "Dadra and Nagar Haveli and Daman and Diu", type: "UT", capital: "Daman" },
   { code: "DL", name: "Delhi", type: "UT", capital: "New Delhi" },
   { code: "GA", name: "Goa", type: "State", capital: "Panaji" },
   { code: "GJ", name: "Gujarat", type: "State", capital: "Gandhinagar" },
   { code: "HR", name: "Haryana", type: "State", capital: "Chandigarh" },
   { code: "HP", name: "Himachal Pradesh", type: "State", capital: "Shimla" },
-  {
-    code: "JK",
-    name: "Jammu and Kashmir",
-    type: "UT",
-    capital: "Srinagar (Summer), Jammu (Winter)",
-  },
+  { code: "JK", name: "Jammu and Kashmir", type: "UT", capital: "Srinagar (Summer), Jammu (Winter)" },
   { code: "JH", name: "Jharkhand", type: "State", capital: "Ranchi" },
   { code: "KA", name: "Karnataka", type: "State", capital: "Bengaluru" },
   { code: "KL", name: "Kerala", type: "State", capital: "Thiruvananthapuram" },
@@ -53,244 +37,94 @@ const INDIAN_STATES = [
   { code: "TG", name: "Telangana", type: "State", capital: "Hyderabad" },
   { code: "TR", name: "Tripura", type: "State", capital: "Agartala" },
   { code: "UP", name: "Uttar Pradesh", type: "State", capital: "Lucknow" },
-  {
-    code: "UT",
-    name: "Uttarakhand",
-    type: "State",
-    capital: "Dehradun (Winter), Gairsain (Summer)",
-  },
+  { code: "UT", name: "Uttarakhand", type: "State", capital: "Dehradun (Winter), Gairsain (Summer)" },
   { code: "WB", name: "West Bengal", type: "State", capital: "Kolkata" },
 ];
 
-// Generate mock analytics data for a state
-const generateStateAnalytics = (stateCode, stateName) => {
-  const seed = stateCode.charCodeAt(0) + stateCode.charCodeAt(1);
-  const random = (min, max) => {
-    const x = Math.sin(seed) * 10000;
+const getSeededRandom = (seedStr) => {
+  let seed = 0;
+  for (let i = 0; i < seedStr.length; i++) seed += seedStr.charCodeAt(i);
+  return (min, max) => {
+    const x = Math.sin(seed++) * 10000;
     return min + (x - Math.floor(x)) * (max - min);
-  };
-
-  const baseIncome = random(80000, 180000);
-  const basePoverty = random(10, 35);
-  const baseHealthcare = random(45, 80);
-  const baseInternet = random(30, 75);
-  const baseAQI = random(80, 200);
-
-  return {
-    state: stateName,
-    stateCode: stateCode,
-    lastUpdated: new Date().toISOString(),
-
-    socioEconomic: {
-      title: "Socio-Economic",
-      metrics: [
-        {
-          id: "income",
-          label: "Avg. Annual Income",
-          type: "continuous",
-          unit: "₹",
-          oldValue: Math.round(baseIncome),
-          newValue: Math.round(baseIncome * random(1.02, 1.12)),
-          max: 250000,
-        },
-        {
-          id: "poverty",
-          label: "Poverty Line Rate",
-          type: "continuous",
-          unit: "%",
-          oldValue: Number(basePoverty.toFixed(1)),
-          newValue: Number((basePoverty * random(0.85, 0.98)).toFixed(1)),
-          max: 100,
-          inverse: true,
-        },
-        {
-          id: "employment",
-          label: "Employment Distribution",
-          type: "categorical",
-          data: [
-            {
-              label: "Formal",
-              old: Math.round(random(15, 25)),
-              new: Math.round(random(20, 30)),
-            },
-            {
-              label: "Informal",
-              old: Math.round(random(40, 50)),
-              new: Math.round(random(38, 46)),
-            },
-            {
-              label: "Agriculture",
-              old: Math.round(random(20, 35)),
-              new: Math.round(random(18, 32)),
-            },
-            {
-              label: "Unemployed",
-              old: Math.round(random(5, 12)),
-              new: Math.round(random(4, 10)),
-            },
-          ],
-        },
-      ],
-    },
-
-    health: {
-      title: "Health & Nutrition",
-      metrics: [
-        {
-          id: "access",
-          label: "Healthcare Access Index",
-          type: "ordinal",
-          unit: "/100",
-          oldValue: Math.round(baseHealthcare),
-          newValue: Math.round(baseHealthcare * random(1.05, 1.15)),
-          max: 100,
-        },
-        {
-          id: "stunting",
-          label: "Child Stunting Rate",
-          type: "continuous",
-          unit: "%",
-          oldValue: Number(random(25, 40).toFixed(1)),
-          newValue: Number(random(23, 38).toFixed(1)),
-          max: 50,
-          inverse: true,
-        },
-        {
-          id: "disease",
-          label: "Disease Risk Score",
-          type: "continuous",
-          unit: "/100",
-          oldValue: Math.round(random(35, 55)),
-          newValue: Math.round(random(30, 50)),
-          max: 100,
-          inverse: true,
-        },
-      ],
-    },
-
-    digital: {
-      title: "Digital Inclusion",
-      metrics: [
-        {
-          id: "internet",
-          label: "Internet Penetration",
-          type: "continuous",
-          unit: "%",
-          oldValue: Math.round(baseInternet),
-          newValue: Math.round(baseInternet * random(1.15, 1.35)),
-          max: 100,
-        },
-        {
-          id: "literacy",
-          label: "Digital Literacy Level",
-          type: "ordinal",
-          unit: "Scale (1-5)",
-          oldValue: Number(random(2.2, 3.5).toFixed(1)),
-          newValue: Number(random(2.8, 4.2).toFixed(1)),
-          max: 5,
-        },
-        {
-          id: "services",
-          label: "Digital Service Access",
-          type: "categorical",
-          data: [
-            {
-              label: "High",
-              old: Math.round(random(10, 20)),
-              new: Math.round(random(18, 30)),
-            },
-            {
-              label: "Medium",
-              old: Math.round(random(25, 35)),
-              new: Math.round(random(30, 40)),
-            },
-            {
-              label: "Low",
-              old: Math.round(random(45, 60)),
-              new: Math.round(random(30, 45)),
-            },
-          ],
-        },
-      ],
-    },
-
-    environment: {
-      title: "Environment",
-      metrics: [
-        {
-          id: "aqi",
-          label: "Avg. AQI Exposure",
-          type: "continuous",
-          unit: "AQI",
-          oldValue: Math.round(baseAQI),
-          newValue: Math.round(baseAQI * random(0.88, 0.98)),
-          max: 300,
-          inverse: true,
-        },
-        {
-          id: "green_space",
-          label: "Green Space Access",
-          type: "continuous",
-          unit: "%",
-          oldValue: Number(random(8, 18).toFixed(1)),
-          newValue: Number(random(9, 20).toFixed(1)),
-          max: 100,
-        },
-      ],
-    },
-
-    mobility: {
-      title: "Mobility",
-      metrics: [
-        {
-          id: "commute",
-          label: "Avg. Commute Time",
-          type: "continuous",
-          unit: "min",
-          oldValue: Math.round(random(30, 60)),
-          newValue: Math.round(random(25, 50)),
-          max: 120,
-          inverse: true,
-        },
-        {
-          id: "public_transport",
-          label: "Public Transport Usage",
-          type: "continuous",
-          unit: "%",
-          oldValue: Math.round(random(25, 45)),
-          newValue: Math.round(random(35, 60)),
-          max: 100,
-        },
-      ],
-    },
   };
 };
 
-// GET /api/analytics/states - Get all states list
-router.get("/states", (req, res) => {
-  console.log("📊 Fetching all states list");
+const generateAnalyticsData = (seedKey, name) => {
+  const random = getSeededRandom(seedKey);
+  
+  const support = Math.floor(random(55, 75)); // India average slightly different range
+  const opposition = Math.floor(random(15, 30));
+  const riskLevels = ["Low", "Medium", "High", "Critical"];
+  const riskIndex = Math.floor(random(0, 2)); // India mostly Low/Medium
+
+  return {
+    state: name,
+    lastUpdated: new Date().toISOString(),
+    
+    summaryMetrics: [
+      { label: "Overall Support", value: support + "%" },
+      { label: "Opposition", value: opposition + "%" },
+      { label: "Population Simulated", value: "1.4B" }, // India specific
+      { label: "Risk Level", value: riskLevels[riskIndex] },
+    ],
+
+    categories: {
+      socioEconomic: {
+        title: "Socio-Economic",
+        metrics: [
+          { id: "2.2", label: "Poverty Below Line", value: 0.18, type: "percent", inverse: true },
+          { id: "2.3", label: "Literacy Rate", value: 0.77, type: "percent" },
+          { id: "2.6", label: "Formal Employment", value: 0.22, type: "percent" },
+          { id: "5.1", label: "Income Stability", value: 0.55, type: "ordinal" },
+          { id: "5.2", label: "Debt Vulnerability", value: 0.35, type: "percent", inverse: true },
+        ]
+      },
+      health: {
+        title: "Health & Nutrition",
+        metrics: [
+          { id: "4.1", label: "Healthcare Access", value: 0.65, type: "ordinal" },
+          { id: "4.3", label: "Child Stunting", value: 0.32, type: "percent", inverse: true },
+          { id: "4.4", label: "Disease Risk", value: 0.45, type: "ordinal", inverse: true },
+          { id: "4.2", label: "Health Literacy", value: 0.58, type: "ordinal" },
+        ]
+      },
+      digital: {
+        title: "Digital & Tech",
+        metrics: [
+          { id: "10.1", label: "Internet Connectivity", value: 0.62, type: "percent" },
+          { id: "10.2", label: "Digital Literacy", value: 0.48, type: "ordinal" },
+          { id: "10.3", label: "Digital Services Access", value: 0.55, type: "ordinal" },
+        ]
+      },
+      environment: {
+        title: "Environment & Housing",
+        metrics: [
+          { id: "11.1", label: "Pollution Exposure", value: 0.72, type: "ordinal", inverse: true },
+          { id: "11.2", label: "Climate Vulnerability", value: 0.60, type: "ordinal", inverse: true },
+          { id: "6.1", label: "Pucca Housing", value: 0.65, type: "percent" },
+          { id: "11.3", label: "Green Space Access", value: 0.25, type: "percent" },
+        ]
+      },
+      governance: {
+        title: "Governance & Social",
+        metrics: [
+          { id: "13.1", label: "Policy Awareness", value: 0.45, type: "ordinal" },
+          { id: "3.3", label: "Institutional Trust", value: 0.62, type: "ordinal" },
+          { id: "9.2", label: "Civic Participation", value: 0.35, type: "ordinal" },
+          { id: "3.4", label: "Change Adaptability", value: 0.55, type: "ordinal" },
+        ]
+      }
+    }
+  };
+};
+
+// GET /api/analytics/national - Get India aggregated analytics
+router.get("/national", (req, res) => {
+  const analytics = generateAnalyticsData("INDIA_NATIONAL_KEY", "India");
   res.json({
     success: true,
-    data: INDIAN_STATES,
-    count: INDIAN_STATES.length,
-  });
-});
-
-// GET /api/analytics/summary - Get summary statistics
-router.get("/summary", (req, res) => {
-  console.log("📊 Fetching analytics summary");
-
-  const states = INDIAN_STATES.filter((s) => s.type === "State");
-  const unionTerritories = INDIAN_STATES.filter((s) => s.type === "UT");
-
-  res.json({
-    success: true,
-    data: {
-      totalRegions: INDIAN_STATES.length,
-      totalStates: states.length,
-      totalUnionTerritories: unionTerritories.length,
-      lastUpdated: new Date().toISOString(),
-    },
+    data: analytics
   });
 });
 
@@ -298,19 +132,13 @@ router.get("/summary", (req, res) => {
 router.get("/states/:stateCode", (req, res) => {
   const { stateCode } = req.params;
   const upperCode = stateCode.toUpperCase();
-
-  console.log(`📊 Fetching analytics for state: ${upperCode}`);
-
   const state = INDIAN_STATES.find((s) => s.code === upperCode);
 
   if (!state) {
-    return res.status(404).json({
-      success: false,
-      message: `State with code ${upperCode} not found`,
-    });
+    return res.status(404).json({ success: false, message: "State not found" });
   }
 
-  const analytics = generateStateAnalytics(state.code, state.name);
+  const analytics = generateAnalyticsData(state.code, state.name);
 
   res.json({
     success: true,
@@ -318,22 +146,6 @@ router.get("/states/:stateCode", (req, res) => {
       stateInfo: state,
       analytics: analytics,
     },
-  });
-});
-
-// GET /api/analytics/all-states - Get analytics for all states (heavy operation)
-router.get("/all-states", (req, res) => {
-  console.log("📊 Generating analytics for all states");
-
-  const allAnalytics = INDIAN_STATES.map((state) => ({
-    stateInfo: state,
-    analytics: generateStateAnalytics(state.code, state.name),
-  }));
-
-  res.json({
-    success: true,
-    data: allAnalytics,
-    count: allAnalytics.length,
   });
 });
 
