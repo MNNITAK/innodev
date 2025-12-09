@@ -1,8 +1,3 @@
-/**
- * Main Population Generator Controller
- * Orchestrates generation for all states and creates national population graph
- */
-
 
 
 import fs from 'fs';

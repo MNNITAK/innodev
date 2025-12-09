@@ -11,36 +11,67 @@ import { MapPin, Search, TrendingUp, Activity } from "lucide-react";
 import { INDIAN_STATES } from "@/data/statesData";
 import { useState, useEffect } from "react";
 import { cn } from "@/lib/utils";
+import { usePdfUploadContext } from "../../components/dashboard/PdfUploadCard.jsx";
 
 export default function AnalyticsPage() {
   const navigate = useNavigate();
   const [searchTerm, setSearchTerm] = useState("");
-  const [statesData, setStatesData] = useState(INDIAN_STATES);
+  const [statesData, setStatesData] = useState([]);
   const [loading, setLoading] = useState(true);
+  
+  // Get orchestration data
+  const { result } = usePdfUploadContext();
+  const dashboardData = result?.orchestrationResult;
 
   useEffect(() => {
-    const fetchStates = async () => {
-      try {
-        const response = await fetch(
-          "http://localhost:8000/api/analytics/states"
-        );
-
-        if (response.ok) {
-          const result = await response.json();
-          if (result.success) {
-            setStatesData(result.data);
-          }
-        }
-      } catch (err) {
-        console.error("Error fetching states:", err);
-        // Use fallback data
-      } finally {
-        setLoading(false);
+    const createStatesData = () => {
+      // If we have orchestration data, use it to enrich state data
+      if (dashboardData && dashboardData.geographicDistribution) {
+        const enrichedStates = INDIAN_STATES.map(state => {
+          // Find matching state in geographic distribution
+          const geoData = dashboardData.geographicDistribution.find(geo => 
+            geo.state.toLowerCase().includes(state.name.toLowerCase().substring(0, 4)) ||
+            geo.state.toLowerCase() === state.code.toLowerCase() ||
+            state.name.toLowerCase().includes(geo.state.toLowerCase())
+          );
+          
+          return {
+            ...state,
+            // Add orchestration data if available
+            supportPercentage: geoData?.supportPercentage || 0,
+            opposePercentage: geoData?.opposePercentage || 0,
+            neutralPercentage: geoData?.neutralPercentage || 0,
+            totalOpinions: geoData?.totalOpinions || 0,
+            averageOpinionScore: geoData?.averageOpinionScore || 0,
+            intensity: geoData?.intensity || 'low',
+            supportCount: geoData?.supportCount || 0,
+            opposeCount: geoData?.opposeCount || 0,
+            neutralCount: geoData?.neutralCount || 0,
+            hasData: !!geoData
+          };
+        });
+        setStatesData(enrichedStates);
+      } else {
+        // Use default data if no orchestration data
+        setStatesData(INDIAN_STATES.map(state => ({
+          ...state,
+          supportPercentage: 0,
+          opposePercentage: 0,
+          neutralPercentage: 0,
+          totalOpinions: 0,
+          averageOpinionScore: 0,
+          intensity: 'low',
+          supportCount: 0,
+          opposeCount: 0,
+          neutralCount: 0,
+          hasData: false
+        })));
       }
+      setLoading(false);
     };
 
-    fetchStates();
-  }, []);
+    createStatesData();
+  }, [dashboardData]);
 
   const filteredStates = statesData.filter(
     (state) =>
@@ -50,6 +81,10 @@ export default function AnalyticsPage() {
 
   const states = filteredStates.filter((s) => s.type === "State");
   const unionTerritories = filteredStates.filter((s) => s.type === "UT");
+  
+  // Get states with data from orchestration
+  const statesWithData = states.filter(s => s.hasData);
+  const totalOpinionsCount = statesWithData.reduce((sum, state) => sum + state.totalOpinions, 0);
 
   if (loading) {
     return (
@@ -110,10 +145,11 @@ export default function AnalyticsPage() {
           <CardContent className="pt-6">
             <div className="flex items-center justify-between">
               <div>
-                <p className="text-sm text-white/60">Total States</p>
+                <p className="text-sm text-white/60">States with Data</p>
                 <p className="text-3xl font-bold text-emerald-400">
-                  {states.length}
+                  {statesWithData.length}
                 </p>
+                <p className="text-xs text-white/40">of {states.length} total states</p>
               </div>
               <TrendingUp className="h-8 w-8 text-emerald-400" />
             </div>
@@ -124,10 +160,11 @@ export default function AnalyticsPage() {
           <CardContent className="pt-6">
             <div className="flex items-center justify-between">
               <div>
-                <p className="text-sm text-white/60">Union Territories</p>
+                <p className="text-sm text-white/60">Total Opinions</p>
                 <p className="text-3xl font-bold text-blue-400">
-                  {unionTerritories.length}
+                  {totalOpinionsCount.toLocaleString()}
                 </p>
+                <p className="text-xs text-white/40">across all states</p>
               </div>
               <MapPin className="h-8 w-8 text-blue-400" />
             </div>
@@ -138,10 +175,13 @@ export default function AnalyticsPage() {
           <CardContent className="pt-6">
             <div className="flex items-center justify-between">
               <div>
-                <p className="text-sm text-white/60">Total Regions</p>
+                <p className="text-sm text-white/60">Avg Support</p>
                 <p className="text-3xl font-bold text-purple-400">
-                  {INDIAN_STATES.length}
+                  {statesWithData.length > 0 
+                    ? Math.round(statesWithData.reduce((sum, state) => sum + state.supportPercentage, 0) / statesWithData.length)
+                    : 0}%
                 </p>
+                <p className="text-xs text-white/40">across analyzed states</p>
               </div>
               <Activity className="h-8 w-8 text-purple-400" />
             </div>
@@ -185,13 +225,43 @@ export default function AnalyticsPage() {
                     </span>
                     <span className="font-mono">{state.code}</span>
                   </div>
+                  
+                  {/* Show orchestration data if available */}
+                  {state.hasData ? (
+                    <div className="mt-3 p-2 bg-white/5 rounded border border-white/10">
+                      <div className="grid grid-cols-3 gap-2 text-xs">
+                        <div className="text-center">
+                          <div className="font-semibold text-green-400">{state.supportPercentage.toFixed(1)}%</div>
+                          <div className="text-white/60">Support</div>
+                        </div>
+                        <div className="text-center">
+                          <div className="font-semibold text-red-400">{state.opposePercentage.toFixed(1)}%</div>
+                          <div className="text-white/60">Oppose</div>
+                        </div>
+                        <div className="text-center">
+                          <div className="font-semibold text-gray-400">{state.neutralPercentage.toFixed(1)}%</div>
+                          <div className="text-white/60">Neutral</div>
+                        </div>
+                      </div>
+                      <div className="mt-2 text-xs text-white/50 text-center">
+                        {state.totalOpinions} opinions • {state.intensity} intensity
+                      </div>
+                    </div>
+                  ) : (
+                    <div className="mt-3 p-2 bg-white/5 rounded border border-white/10">
+                      <div className="text-xs text-white/40 text-center">
+                        No analysis data available
+                      </div>
+                    </div>
+                  )}
                 </div>
                 <Button
                   variant="ghost"
                   size="sm"
                   className="w-full mt-4 text-xs group-hover:bg-accent/10 group-hover:text-accent"
+                  disabled={!state.hasData}
                 >
-                  View Analytics →
+                  {state.hasData ? "View Analytics →" : "No Data Available"}
                 </Button>
               </CardContent>
             </Card>
@@ -235,13 +305,43 @@ export default function AnalyticsPage() {
                     </span>
                     <span className="font-mono">{state.code}</span>
                   </div>
+                  
+                  {/* Show orchestration data if available */}
+                  {state.hasData ? (
+                    <div className="mt-3 p-2 bg-white/5 rounded border border-white/10">
+                      <div className="grid grid-cols-3 gap-2 text-xs">
+                        <div className="text-center">
+                          <div className="font-semibold text-green-400">{state.supportPercentage.toFixed(1)}%</div>
+                          <div className="text-white/60">Support</div>
+                        </div>
+                        <div className="text-center">
+                          <div className="font-semibold text-red-400">{state.opposePercentage.toFixed(1)}%</div>
+                          <div className="text-white/60">Oppose</div>
+                        </div>
+                        <div className="text-center">
+                          <div className="font-semibold text-gray-400">{state.neutralPercentage.toFixed(1)}%</div>
+                          <div className="text-white/60">Neutral</div>
+                        </div>
+                      </div>
+                      <div className="mt-2 text-xs text-white/50 text-center">
+                        {state.totalOpinions} opinions • {state.intensity} intensity
+                      </div>
+                    </div>
+                  ) : (
+                    <div className="mt-3 p-2 bg-white/5 rounded border border-white/10">
+                      <div className="text-xs text-white/40 text-center">
+                        No analysis data available
+                      </div>
+                    </div>
+                  )}
                 </div>
                 <Button
                   variant="ghost"
                   size="sm"
                   className="w-full mt-4 text-xs group-hover:bg-blue-500/10 group-hover:text-blue-400"
+                  disabled={!state.hasData}
                 >
-                  View Analytics →
+                  {state.hasData ? "View Analytics →" : "No Data Available"}
                 </Button>
               </CardContent>
             </Card>
