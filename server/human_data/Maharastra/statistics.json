@@ -1,0 +1,82 @@
+{
+  "stats": {
+    "totalPopulation": 892,
+    "totalConnections": 8748,
+    "avgDegree": 9.807174887892376,
+    "demographics": {
+      "avgAge": 45,
+      "ageRange": {
+        "min": 18,
+        "max": 88
+      },
+      "sexRatio": {
+        "male": 481,
+        "female": 411
+      },
+      "urbanization": {
+        "urban": 145,
+        "semiUrban": 747,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 9099,
+      "incomeRange": {
+        "min": 4460,
+        "max": 12380
+      },
+      "povertyRate": "21.64",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Manufacturing": 130,
+        "Services": 221,
+        "Agriculture": 340,
+        "Unemployed": 49,
+        "Informal": 152
+      }
+    },
+    "network": {
+      "familyConnections": 562,
+      "friendConnections": 8186,
+      "strongConnections": 8570,
+      "weakConnections": 38
+    },
+    "behavioral": {
+      "avgTrust": 57,
+      "avgAdaptability": 77
+    }
+  },
+  "divisionStats": {
+    "Konkan": {
+      "households": 107,
+      "population": 145,
+      "avgFamilySize": "1.36"
+    },
+    "Pune": {
+      "households": 99,
+      "population": 150,
+      "avgFamilySize": "1.52"
+    },
+    "Nashik": {
+      "households": 105,
+      "population": 149,
+      "avgFamilySize": "1.42"
+    },
+    "Chhatrapati Sambhajinagar": {
+      "households": 99,
+      "population": 150,
+      "avgFamilySize": "1.52"
+    },
+    "Amravati": {
+      "households": 105,
+      "population": 148,
+      "avgFamilySize": "1.41"
+    },
+    "Nagpur": {
+      "households": 103,
+      "population": 150,
+      "avgFamilySize": "1.46"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:29.918Z"
+}

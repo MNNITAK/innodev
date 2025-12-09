@@ -1,0 +1,27 @@
+{
+  "opinion": 0.06697092291043143,
+  "confidence": 0.59122825,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.14529188507321467,
+    "socialScore": 0.3841,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.55864125,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.577Z",
+    "humanId": "HUM_Rajasthan_Jodhpur_12"
+  },
+  "humanId": "HUM_Rajasthan_Jodhpur_12",
+  "state": "Rajasthan"
+}

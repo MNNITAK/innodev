@@ -1,0 +1,27 @@
+{
+  "opinion": 0.244622032236,
+  "confidence": 0.6698865,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.20844000000000001,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.5894324999999999,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "India Bus Fare Increase",
+    "domain": "transport",
+    "timestamp": "2025-12-09T05:59:21.849Z",
+    "humanId": "HUM_AndhraPradesh_Rayalaseema Dryland Zone_114"
+  },
+  "humanId": "HUM_AndhraPradesh_Rayalaseema Dryland Zone_114",
+  "state": "AndhraPradesh"
+}

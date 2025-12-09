@@ -1,0 +1,27 @@
+{
+  "opinion": 0.22592650140000003,
+  "confidence": 0.6696300000000001,
+  "reasoning": "I support this because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.19836000000000006,
+    "convenienceScore": 0.1196,
+    "healthEnvScore": 0,
+    "relevance": 0.54315,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:32.863Z",
+    "humanId": "HUM_Assam_North Assam_57"
+  },
+  "humanId": "HUM_Assam_North Assam_57",
+  "state": "Assam"
+}

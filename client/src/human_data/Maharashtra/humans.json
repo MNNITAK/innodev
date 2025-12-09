@@ -1,0 +1,6602 @@
+[
+  {
+    "humanId": "HUM_Maharashtra_Nashik_0",
+    "householdId": "HH_Maharashtra_Nashik_0",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 73,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10967,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 35,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 38
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 43,
+      "savingsRate": 42
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4917,
+      "commuteTime": 55
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_1",
+    "householdId": "HH_Maharashtra_Nashik_0",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 73,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 20749,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Unemployed",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 79,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 18.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 23
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 38,
+      "savingsRate": -3
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3455,
+      "commuteTime": 55
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 4,
+      "communityEngagement": 3,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_2",
+    "householdId": "HH_Maharashtra_Nashik_0",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 19,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6965,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 78,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 53,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 29.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 38
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 17,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 16
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2105,
+      "commuteTime": 17
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_3",
+    "householdId": "HH_Maharashtra_Aurangabad_0",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 45,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4689,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 5,
+      "institutionalTrust": 61,
+      "changeAdaptability": 5,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 55,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 19.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 33
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 50,
+      "savingsRate": 33
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 49
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4976,
+      "commuteTime": 66
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_4",
+    "householdId": "HH_Maharashtra_Aurangabad_0",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 27,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6889,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Government",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 31,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 30.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 23
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 19,
+      "savingsRate": -11
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 46
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1193,
+      "commuteTime": 44
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_5",
+    "householdId": "HH_Maharashtra_Aurangabad_1",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 77,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9565,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Education",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 57,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 57,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 18.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 32,
+      "savingsRate": 3
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 48
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1059,
+      "commuteTime": 29
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_6",
+    "householdId": "HH_Maharashtra_Mumbai_1",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 54,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6007,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 72,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 30.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 36
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 70,
+      "savingsRate": 35
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 60
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2336,
+      "commuteTime": 50
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_7",
+    "householdId": "HH_Maharashtra_Nagpur_1",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 26,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5844,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 32,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 41,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 53,
+      "savingsRate": -9
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4433,
+      "commuteTime": 107
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_8",
+    "householdId": "HH_Maharashtra_Nagpur_1",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 24,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2449,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 76,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 64,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 32.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 67
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 77,
+      "savingsRate": -9
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3403,
+      "commuteTime": 40
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_9",
+    "householdId": "HH_Maharashtra_Pune_1",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 60,
+      "householdSize": 6,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4516,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Government",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 59,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 60,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 29.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 58,
+      "savingsRate": 7
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2075,
+      "commuteTime": 34
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_10",
+    "householdId": "HH_Maharashtra_Nashik_2",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 34,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 23578,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 22,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 63,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 18.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 60,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 21
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2372,
+      "commuteTime": 78
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_11",
+    "householdId": "HH_Maharashtra_Mumbai_2",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10128,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Government",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 59,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 41,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 32.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 26,
+      "savingsRate": -15
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 39
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3599,
+      "commuteTime": 75
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_12",
+    "householdId": "HH_Maharashtra_Pune_2",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 69,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 31256,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 63,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 32.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 43
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 16,
+      "savingsRate": 36
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 21
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1480,
+      "commuteTime": 118
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_13",
+    "householdId": "HH_Maharashtra_Nagpur_2",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 71,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 27915,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 2,
+      "occupation": "Government",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 53,
+      "changeAdaptability": 5,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 74,
+      "savingsRate": 48
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4993,
+      "commuteTime": 97
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_14",
+    "householdId": "HH_Maharashtra_Nagpur_2",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 30,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12488,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 57,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 22.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 74,
+      "savingsRate": -25
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3698,
+      "commuteTime": 61
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_15",
+    "householdId": "HH_Maharashtra_Nashik_3",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 64,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4294,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Business",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 76,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 90,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 19.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 51
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 52,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1327,
+      "commuteTime": 17
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_16",
+    "householdId": "HH_Maharashtra_Mumbai_3",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 35,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 36399,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 40,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 84,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20,
+        "category": "Normal"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 57,
+      "savingsRate": 28
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 23
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4392,
+      "commuteTime": 104
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_17",
+    "householdId": "HH_Maharashtra_Pune_3",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 69,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 14560,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 77,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 70
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 73,
+      "savingsRate": 49
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 54
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2092,
+      "commuteTime": 97
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_18",
+    "householdId": "HH_Maharashtra_Pune_3",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 23,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5047,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Education",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 30,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 29,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 51
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 45,
+      "savingsRate": 31
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4236,
+      "commuteTime": 84
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_19",
+    "householdId": "HH_Maharashtra_Aurangabad_3",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 70,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6364,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Business",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 34,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 77,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 60
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -11
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 37
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1914,
+      "commuteTime": 58
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_20",
+    "householdId": "HH_Maharashtra_Nashik_4",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 20,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10213,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 58,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 58,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2516,
+      "commuteTime": 114
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_21",
+    "householdId": "HH_Maharashtra_Mumbai_4",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 52,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3306,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 77,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 29.4,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 56
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 28,
+      "savingsRate": 0
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1305,
+      "commuteTime": 10
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_22",
+    "householdId": "HH_Maharashtra_Nagpur_4",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 25,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 34949,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 22,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 31.2,
+        "category": "Obese"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 76,
+      "savingsRate": -46
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 15
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2166,
+      "commuteTime": 37
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_23",
+    "householdId": "HH_Maharashtra_Mumbai_4",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 34,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3990,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 80,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 18.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 50,
+      "savingsRate": 37
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 646,
+      "commuteTime": 117
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_24",
+    "householdId": "HH_Maharashtra_Pune_4",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 69,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16487,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 51,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 67
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 73,
+      "savingsRate": 9
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3938,
+      "commuteTime": 105
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_25",
+    "householdId": "HH_Maharashtra_Mumbai_5",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 47,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8375,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Retail",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 32,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 29.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 67
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 17,
+      "savingsRate": 3
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2824,
+      "commuteTime": 81
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_26",
+    "householdId": "HH_Maharashtra_Mumbai_5",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 46,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15439,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 69,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 27.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 35
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 62,
+      "savingsRate": 18
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2274,
+      "commuteTime": 62
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_27",
+    "householdId": "HH_Maharashtra_Pune_5",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 49,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 14255,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Business",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 55,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 49,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 26.4,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 50,
+      "savingsRate": 24
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1696,
+      "commuteTime": 74
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_28",
+    "householdId": "HH_Maharashtra_Nagpur_5",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 36,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 42222,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Government",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 5,
+      "institutionalTrust": 26,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31.8,
+        "category": "Obese"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 60,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3331,
+      "commuteTime": 94
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_29",
+    "householdId": "HH_Maharashtra_Nagpur_5",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 38,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6388,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 51,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 16,
+      "savingsRate": -25
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1959,
+      "commuteTime": 84
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_30",
+    "householdId": "HH_Maharashtra_Mumbai_6",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 40,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9648,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 66,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 28.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 56
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 15,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 57
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3828,
+      "commuteTime": 13
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_31",
+    "householdId": "HH_Maharashtra_Nashik_6",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 71,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13639,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 35,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 47,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 32.8,
+        "category": "Obese"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 63,
+      "savingsRate": -37
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3866,
+      "commuteTime": 78
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_32",
+    "householdId": "HH_Maharashtra_Pune_6",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 54,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15675,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 67,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 33.9,
+        "category": "Obese"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 28,
+      "savingsRate": -35
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 60
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2880,
+      "commuteTime": 25
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_33",
+    "householdId": "HH_Maharashtra_Aurangabad_6",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 20,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11891,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 61,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 34,
+        "category": "Obese"
+      },
+      "diseaseRisk": 70
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 71,
+      "savingsRate": -12
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 39
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4708,
+      "commuteTime": 50
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 3,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_34",
+    "householdId": "HH_Maharashtra_Pune_6",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 53,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7790,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 80,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 27.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 57,
+      "savingsRate": 48
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2223,
+      "commuteTime": 35
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_35",
+    "householdId": "HH_Maharashtra_Pune_7",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 79,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6313,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 28,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 34.2,
+        "category": "Obese"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 37,
+      "savingsRate": 9
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3716,
+      "commuteTime": 120
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_36",
+    "householdId": "HH_Maharashtra_Pune_7",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 73,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17162,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 43,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 64
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 38,
+      "savingsRate": 31
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 46
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1000,
+      "commuteTime": 57
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_37",
+    "householdId": "HH_Maharashtra_Mumbai_7",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 48,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9432,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 1,
+      "institutionalTrust": 29,
+      "changeAdaptability": 5,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 57,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 11,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 892,
+      "commuteTime": 42
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_38",
+    "householdId": "HH_Maharashtra_Nagpur_7",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 19,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7314,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Business",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 44,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 67,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 30.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 53
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 42,
+      "savingsRate": -28
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4424,
+      "commuteTime": 62
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_39",
+    "householdId": "HH_Maharashtra_Nashik_7",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 67,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13884,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Business",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 46,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 46,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 26.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 69
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 38,
+      "savingsRate": 28
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 41
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 718,
+      "commuteTime": 77
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_40",
+    "householdId": "HH_Maharashtra_Nashik_8",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 47,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12009,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 35,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 67,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 64
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 19,
+      "savingsRate": 9
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 41
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3711,
+      "commuteTime": 52
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_41",
+    "householdId": "HH_Maharashtra_Aurangabad_8",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 63,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5126,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Business",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 24,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 26.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 71,
+      "savingsRate": 14
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2485,
+      "commuteTime": 53
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_42",
+    "householdId": "HH_Maharashtra_Aurangabad_8",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 63,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 48244,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 28,
+      "changeAdaptability": 5,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 41,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 27.2,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 61,
+      "savingsRate": 42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 37
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 682,
+      "commuteTime": 100
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_43",
+    "householdId": "HH_Maharashtra_Nashik_8",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 62,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2502,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Business",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 77,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 29.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 27
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 42,
+      "savingsRate": -31
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4324,
+      "commuteTime": 39
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_44",
+    "householdId": "HH_Maharashtra_Nagpur_8",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 48,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4755,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 40,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 67,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 35
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 59,
+      "savingsRate": -45
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2656,
+      "commuteTime": 76
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_45",
+    "householdId": "HH_Maharashtra_Mumbai_9",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 82,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 49951,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 39,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 75,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 23.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 11,
+      "savingsRate": 25
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3706,
+      "commuteTime": 63
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_46",
+    "householdId": "HH_Maharashtra_Mumbai_9",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 58,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6894,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Business",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 47,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 19.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 57
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 53,
+      "savingsRate": 13
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1432,
+      "commuteTime": 42
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_47",
+    "householdId": "HH_Maharashtra_Nagpur_9",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 32,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12960,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Education",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 39,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 43
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 26,
+      "savingsRate": -28
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2657,
+      "commuteTime": 108
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_48",
+    "householdId": "HH_Maharashtra_Mumbai_9",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 67,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17090,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 22.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 69,
+      "savingsRate": 50
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2872,
+      "commuteTime": 66
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_49",
+    "householdId": "HH_Maharashtra_Pune_9",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 77,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16241,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 49,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 66,
+      "savingsRate": 38
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 56
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2540,
+      "commuteTime": 28
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_50",
+    "householdId": "HH_Maharashtra_Pune_10",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 82,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10020,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 21,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 61,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 23.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 68
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 11,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 19
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 968,
+      "commuteTime": 34
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_51",
+    "householdId": "HH_Maharashtra_Pune_10",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 81,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2557,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 32.8,
+        "category": "Obese"
+      },
+      "diseaseRisk": 59
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 43,
+      "savingsRate": 32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 53
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2219,
+      "commuteTime": 20
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_52",
+    "householdId": "HH_Maharashtra_Pune_10",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 48,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8788,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Business",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 72,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 18.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 71,
+      "savingsRate": 23
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4551,
+      "commuteTime": 27
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_53",
+    "householdId": "HH_Maharashtra_Mumbai_10",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 75,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16321,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Education",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 71,
+      "changeAdaptability": 5,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 79,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 22.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 70
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 48,
+      "savingsRate": -29
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 21
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1692,
+      "commuteTime": 20
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_54",
+    "householdId": "HH_Maharashtra_Nashik_10",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 36,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3317,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 45,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 71,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1042,
+      "commuteTime": 50
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_55",
+    "householdId": "HH_Maharashtra_Nagpur_11",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 26,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7487,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 64,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 64,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 20.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 27
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 66,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 53
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2852,
+      "commuteTime": 58
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_56",
+    "householdId": "HH_Maharashtra_Pune_11",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 21,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4499,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 67,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 39,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 28.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 46,
+      "savingsRate": -27
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2188,
+      "commuteTime": 92
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_57",
+    "householdId": "HH_Maharashtra_Nagpur_11",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 30,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 40098,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Government",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 27,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 24.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 21
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 15,
+      "savingsRate": -16
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 58
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1797,
+      "commuteTime": 64
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_58",
+    "householdId": "HH_Maharashtra_Nagpur_11",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 24,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 41879,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 43,
+      "changeAdaptability": 5,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 29.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 55,
+      "savingsRate": 4
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 39
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4558,
+      "commuteTime": 118
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_59",
+    "householdId": "HH_Maharashtra_Mumbai_11",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 56,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5682,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 58,
+      "changeAdaptability": 1,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 90,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 22.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 70
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 26,
+      "savingsRate": -45
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 29
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2712,
+      "commuteTime": 108
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_60",
+    "householdId": "HH_Maharashtra_Nashik_12",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 56,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3475,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Business",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 35,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 79,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 27.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 56
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 76,
+      "savingsRate": -41
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 54
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1040,
+      "commuteTime": 97
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_61",
+    "householdId": "HH_Maharashtra_Pune_12",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 51,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11507,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 77,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 83,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 26.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 11,
+      "savingsRate": 18
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 56
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3760,
+      "commuteTime": 10
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_62",
+    "householdId": "HH_Maharashtra_Mumbai_12",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 31,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11623,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 62,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 80,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 28.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 68
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 64,
+      "savingsRate": -27
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3134,
+      "commuteTime": 51
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_63",
+    "householdId": "HH_Maharashtra_Mumbai_12",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 24,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7281,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 55,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 35,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 21.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 64
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 36,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3635,
+      "commuteTime": 82
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_64",
+    "householdId": "HH_Maharashtra_Nagpur_12",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 71,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 18387,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 39,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 27.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 20,
+      "savingsRate": 18
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 44
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1262,
+      "commuteTime": 68
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_65",
+    "householdId": "HH_Maharashtra_Aurangabad_13",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 20,
+      "householdSize": 6,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2364,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 69,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 66,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 28.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 77,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 47
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2650,
+      "commuteTime": 88
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_66",
+    "householdId": "HH_Maharashtra_Nashik_13",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 35,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9839,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 31,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 27.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 27
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 64,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 49
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2601,
+      "commuteTime": 113
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_67",
+    "householdId": "HH_Maharashtra_Nashik_13",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 72,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 37746,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 39,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 37,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 62,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 52
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1151,
+      "commuteTime": 46
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_68",
+    "householdId": "HH_Maharashtra_Nashik_13",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 51,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3849,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 80,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 90,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 27.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 64
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 43,
+      "savingsRate": 14
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 23
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2826,
+      "commuteTime": 51
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_69",
+    "householdId": "HH_Maharashtra_Nagpur_13",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 72,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16670,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 27,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 30,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 23.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 38,
+      "savingsRate": 14
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2283,
+      "commuteTime": 31
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_70",
+    "householdId": "HH_Maharashtra_Nagpur_14",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 52,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9373,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 5,
+      "institutionalTrust": 44,
+      "changeAdaptability": 5,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 27,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 24
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 54,
+      "savingsRate": -29
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 45
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2867,
+      "commuteTime": 32
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 3,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_71",
+    "householdId": "HH_Maharashtra_Pune_14",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 67,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15513,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 58,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 16,
+      "savingsRate": -4
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1469,
+      "commuteTime": 78
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_72",
+    "householdId": "HH_Maharashtra_Nagpur_14",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 55,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2555,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 46,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 34.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 58,
+      "savingsRate": 31
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4002,
+      "commuteTime": 31
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_73",
+    "householdId": "HH_Maharashtra_Nagpur_14",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 78,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2922,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 48,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 23.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 24,
+      "savingsRate": -8
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4457,
+      "commuteTime": 81
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_74",
+    "householdId": "HH_Maharashtra_Nashik_14",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 77,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11794,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 28,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 18.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 20,
+      "savingsRate": 36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1334,
+      "commuteTime": 77
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_75",
+    "householdId": "HH_Maharashtra_Mumbai_15",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 46,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 18537,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 80,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 84,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 33.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 68
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 38,
+      "savingsRate": -39
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2139,
+      "commuteTime": 113
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_76",
+    "householdId": "HH_Maharashtra_Nagpur_15",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 85,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5148,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 26,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 63,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 43
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 28,
+      "savingsRate": 26
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 49
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2089,
+      "commuteTime": 58
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_77",
+    "householdId": "HH_Maharashtra_Nashik_15",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 37,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7589,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 5,
+      "institutionalTrust": 26,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 47,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 28.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 10,
+      "savingsRate": -23
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2569,
+      "commuteTime": 33
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_78",
+    "householdId": "HH_Maharashtra_Nashik_15",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 52,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3965,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 36,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 43
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 22,
+      "savingsRate": 25
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 820,
+      "commuteTime": 11
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_79",
+    "householdId": "HH_Maharashtra_Mumbai_15",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 48,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2137,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 22,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 20.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 61
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 46,
+      "savingsRate": 15
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 52
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1136,
+      "commuteTime": 95
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_80",
+    "householdId": "HH_Maharashtra_Mumbai_16",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 59,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 18528,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 31.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 76,
+      "savingsRate": 19
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2095,
+      "commuteTime": 109
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_81",
+    "householdId": "HH_Maharashtra_Aurangabad_16",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 69,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6400,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 70,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 25.2,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 47
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 26,
+      "savingsRate": 43
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 15
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1966,
+      "commuteTime": 29
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_82",
+    "householdId": "HH_Maharashtra_Aurangabad_16",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 35,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 43727,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 5,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 33.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 54
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 70,
+      "savingsRate": -11
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 29
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4615,
+      "commuteTime": 54
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_83",
+    "householdId": "HH_Maharashtra_Aurangabad_16",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 44,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3166,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Healthcare",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 47,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 62,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 32.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 29
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 37,
+      "savingsRate": -4
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1448,
+      "commuteTime": 102
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_84",
+    "householdId": "HH_Maharashtra_Aurangabad_16",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 71,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6501,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 52,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 28.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 32,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2530,
+      "commuteTime": 85
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_85",
+    "householdId": "HH_Maharashtra_Nashik_17",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 84,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11967,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 43,
+      "changeAdaptability": 5,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 26.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 56
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 50,
+      "savingsRate": -17
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 856,
+      "commuteTime": 42
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_86",
+    "householdId": "HH_Maharashtra_Nagpur_17",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 56,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 30633,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 63,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 20.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 68
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 51,
+      "savingsRate": -31
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 54
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 708,
+      "commuteTime": 57
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_87",
+    "householdId": "HH_Maharashtra_Nashik_17",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 55,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 32764,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 79,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 81,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 39
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 18,
+      "savingsRate": 50
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 39
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2970,
+      "commuteTime": 25
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_88",
+    "householdId": "HH_Maharashtra_Mumbai_17",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 85,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15812,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 37,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 49,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 65
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 78,
+      "savingsRate": 4
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 29
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4996,
+      "commuteTime": 22
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_89",
+    "householdId": "HH_Maharashtra_Mumbai_17",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 60,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12841,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Government",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 66,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 49,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 32.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 49,
+      "savingsRate": 19
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 16
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2967,
+      "commuteTime": 43
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_90",
+    "householdId": "HH_Maharashtra_Aurangabad_18",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 32,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4718,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Retail",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 23,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 40,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 26.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 19,
+      "savingsRate": 43
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4701,
+      "commuteTime": 18
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_91",
+    "householdId": "HH_Maharashtra_Nagpur_18",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 85,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4040,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 49,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 25.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 65
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 49,
+      "savingsRate": -39
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2304,
+      "commuteTime": 21
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_92",
+    "householdId": "HH_Maharashtra_Pune_18",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 56,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12832,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Healthcare",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 20,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 49,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 34.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 72,
+      "savingsRate": -46
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 54
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2570,
+      "commuteTime": 65
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_93",
+    "householdId": "HH_Maharashtra_Nagpur_18",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 69,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 39728,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 53,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 66,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 37,
+      "savingsRate": 22
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 39
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1459,
+      "commuteTime": 115
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Mumbai_94",
+    "householdId": "HH_Maharashtra_Mumbai_18",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "demographics": {
+      "age": 79,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 18205,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 51,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 37,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 33.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 44,
+      "savingsRate": 22
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 45
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2397,
+      "commuteTime": 74
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Aurangabad_95",
+    "householdId": "HH_Maharashtra_Aurangabad_19",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "demographics": {
+      "age": 81,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13004,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 32,
+      "changeAdaptability": 1,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 18.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 36
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 40,
+      "savingsRate": -27
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 57
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4550,
+      "commuteTime": 65
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nashik_96",
+    "householdId": "HH_Maharashtra_Nashik_19",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "demographics": {
+      "age": 43,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2681,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 59,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 42,
+      "savingsRate": 1
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2801,
+      "commuteTime": 77
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_97",
+    "householdId": "HH_Maharashtra_Nagpur_19",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 59,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12342,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 79,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 34.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 61
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 72,
+      "savingsRate": 36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4705,
+      "commuteTime": 84
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Pune_98",
+    "householdId": "HH_Maharashtra_Pune_19",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "demographics": {
+      "age": 24,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3497,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 43,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 78,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 32.2,
+        "category": "Obese"
+      },
+      "diseaseRisk": 67
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 53,
+      "savingsRate": 50
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2962,
+      "commuteTime": 90
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Maharashtra_Nagpur_99",
+    "householdId": "HH_Maharashtra_Nagpur_19",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "demographics": {
+      "age": 44,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2692,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 65,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 30,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31.8,
+        "category": "Obese"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 33,
+      "savingsRate": 7
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4677,
+      "commuteTime": 57
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  }
+]

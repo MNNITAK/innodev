@@ -1,0 +1,2351 @@
+[
+  {
+    "humanId": "HUM_Manipur_Central Valley_0",
+    "householdId": "HH_Manipur_Central Valley_0",
+    "state": "Manipur",
+    "district": "Central Valley",
+    "demographics": {
+      "age": 35,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 8
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 14
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.5950168052653675,
+      "confidence": 0.3958796694319917,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Central Valley_1",
+    "householdId": "HH_Manipur_Central Valley_0",
+    "state": "Manipur",
+    "district": "Central Valley",
+    "demographics": {
+      "age": 30,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 8
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Informal",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 27
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 24.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.3027948783519401,
+      "confidence": 0.2837201656298344,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Central Valley_2",
+    "householdId": "HH_Manipur_Central Valley_1",
+    "state": "Manipur",
+    "district": "Central Valley",
+    "demographics": {
+      "age": 53,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 8
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 37
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.9012039311002389,
+      "confidence": 0.5668303718134567,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Central Valley_3",
+    "householdId": "HH_Manipur_Central Valley_1",
+    "state": "Manipur",
+    "district": "Central Valley",
+    "demographics": {
+      "age": 55,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 8
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 82
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Multiple",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.8669591361994811,
+      "confidence": 0.6995077615997554,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Central Valley_4",
+    "householdId": "HH_Manipur_Central Valley_2",
+    "state": "Manipur",
+    "district": "Central Valley",
+    "demographics": {
+      "age": 53,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 8
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 99
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Multiple",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.017185717992369565,
+      "confidence": 0.2702204070994585,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Central Valley_5",
+    "householdId": "HH_Manipur_Central Valley_2",
+    "state": "Manipur",
+    "district": "Central Valley",
+    "demographics": {
+      "age": 52,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 8
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Informal",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 74
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.1923063596134318,
+      "confidence": 0.31096480796744563,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Central Valley_6",
+    "householdId": "HH_Manipur_Central Valley_3",
+    "state": "Manipur",
+    "district": "Central Valley",
+    "demographics": {
+      "age": 48,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 8
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 62
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.4883566572140423,
+      "confidence": 0.5774835431339954,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Central Valley_7",
+    "householdId": "HH_Manipur_Central Valley_4",
+    "state": "Manipur",
+    "district": "Central Valley",
+    "demographics": {
+      "age": 31,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 8
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 13
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 26.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.2945816315938785,
+      "confidence": 0.5243418445762639,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_0",
+    "householdId": "HH_Manipur_Southern Hills_0",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 44,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 65
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 26.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Walk",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.6190723136796228,
+      "confidence": 0.6127628143563932,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_1",
+    "householdId": "HH_Manipur_Southern Hills_1",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 52,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 36
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 21.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Train",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.7155665313372297,
+      "confidence": 0.6664438240277053,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_2",
+    "householdId": "HH_Manipur_Southern Hills_1",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 69
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 22.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Train",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.2372073420875611,
+      "confidence": 0.7049030594077221,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_3",
+    "householdId": "HH_Manipur_Southern Hills_2",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 59,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 34
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 29.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Bus",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.05780070890595512,
+      "confidence": 0.4418283503337159,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_4",
+    "householdId": "HH_Manipur_Southern Hills_2",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 56,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 11
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 20.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Bike",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.8289303603052653,
+      "confidence": 0.5580205821989644,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_5",
+    "householdId": "HH_Manipur_Southern Hills_3",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 44,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 10
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 26.9,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Car",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.9851452618208323,
+      "confidence": 0.2516165582227423,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_6",
+    "householdId": "HH_Manipur_Southern Hills_3",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 47,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 33
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 20,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Bus",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.8400665677060006,
+      "confidence": 0.4156138540632951,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_7",
+    "householdId": "HH_Manipur_Southern Hills_4",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 6
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 25,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Train",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.4699742599596717,
+      "confidence": 0.7428020313940643,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Southern Hills_8",
+    "householdId": "HH_Manipur_Southern Hills_4",
+    "state": "Manipur",
+    "district": "Southern Hills",
+    "demographics": {
+      "age": 43,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 70
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16340,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 52,
+      "changeAdaptability": 4,
+      "optimism": 47
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 20.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 38,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Bike",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 38
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.5025843267986283,
+      "confidence": 0.4683825217568388,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.968Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Northern Hills_0",
+    "householdId": "HH_Manipur_Northern Hills_0",
+    "state": "Manipur",
+    "district": "Northern Hills",
+    "demographics": {
+      "age": 62,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 96
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17825,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 24,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 40,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "commuteTime": 99,
+      "transportationMode": "Train",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Social Media"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 300,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 3
+    },
+    "opinion": {
+      "current": 0.9529568198923397,
+      "confidence": 0.6010350526205739,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Northern Hills_1",
+    "householdId": "HH_Manipur_Northern Hills_1",
+    "state": "Manipur",
+    "district": "Northern Hills",
+    "demographics": {
+      "age": 29,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 96
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17825,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 30
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 21.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 40,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "commuteTime": 99,
+      "transportationMode": "Multiple",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Social Media"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 300,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 3
+    },
+    "opinion": {
+      "current": 0.5154272749377489,
+      "confidence": 0.7122304869934282,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Northern Hills_2",
+    "householdId": "HH_Manipur_Northern Hills_2",
+    "state": "Manipur",
+    "district": "Northern Hills",
+    "demographics": {
+      "age": 25,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 96
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17825,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 64
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 25.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 40,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "commuteTime": 99,
+      "transportationMode": "Bus",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Social Media"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 300,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 3
+    },
+    "opinion": {
+      "current": -0.20117818773773122,
+      "confidence": 0.548227712185743,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Northern Hills_3",
+    "householdId": "HH_Manipur_Northern Hills_3",
+    "state": "Manipur",
+    "district": "Northern Hills",
+    "demographics": {
+      "age": 35,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 96
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17825,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 21
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 20.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 40,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "commuteTime": 99,
+      "transportationMode": "Bike",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Social Media"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 300,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 3
+    },
+    "opinion": {
+      "current": 0.12016341817350007,
+      "confidence": 0.4307400542666089,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Northern Hills_4",
+    "householdId": "HH_Manipur_Northern Hills_4",
+    "state": "Manipur",
+    "district": "Northern Hills",
+    "demographics": {
+      "age": 34,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 96
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17825,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 18
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 26.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 40,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "commuteTime": 99,
+      "transportationMode": "Bike",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Social Media"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 300,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 3
+    },
+    "opinion": {
+      "current": -0.854568835254665,
+      "confidence": 0.7358750797802763,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Northern Hills_5",
+    "householdId": "HH_Manipur_Northern Hills_5",
+    "state": "Manipur",
+    "district": "Northern Hills",
+    "demographics": {
+      "age": 23,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 96
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17825,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 37
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 20.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 40,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "commuteTime": 99,
+      "transportationMode": "Car",
+      "geographicMobility": 3
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Social Media"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 300,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 3
+    },
+    "opinion": {
+      "current": 0.3070519218052934,
+      "confidence": 0.2938851055416255,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Eastern Zone_0",
+    "householdId": "HH_Manipur_Eastern Zone_0",
+    "state": "Manipur",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 39,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 94
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15350,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 55,
+      "changeAdaptability": 4,
+      "optimism": 13
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 35,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "commuteTime": 86,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 42
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 55
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.43050091841545424,
+      "confidence": 0.4862009854831709,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Eastern Zone_1",
+    "householdId": "HH_Manipur_Eastern Zone_1",
+    "state": "Manipur",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 59,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 94
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15350,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 55,
+      "changeAdaptability": 4,
+      "optimism": 41
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 35,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "commuteTime": 86,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 42
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 55
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.133524884453871,
+      "confidence": 0.59399227588854,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Eastern Zone_2",
+    "householdId": "HH_Manipur_Eastern Zone_2",
+    "state": "Manipur",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 19,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 94
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15350,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 55,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 35,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "commuteTime": 86,
+      "transportationMode": "Bus",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 42
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 55
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": true
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.7267428109441276,
+      "confidence": 0.40869215427418504,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Manipur_Eastern Zone_3",
+    "householdId": "HH_Manipur_Eastern Zone_3",
+    "state": "Manipur",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 44,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 94
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15350,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Manufacturing",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 55,
+      "changeAdaptability": 4,
+      "optimism": 8
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 18.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 35,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "commuteTime": 86,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 42
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 55
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.6032723114425331,
+      "confidence": 0.5061870955465461,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.969Z",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "opinion": 0.29266495809,
+  "confidence": 0.677805,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.2165066666666667,
+    "convenienceScore": 0.16055,
+    "healthEnvScore": 0,
+    "relevance": 0.524025,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:33.843Z",
+    "humanId": "HUM_Gujarat_Vadodara_24"
+  },
+  "humanId": "HUM_Gujarat_Vadodara_24",
+  "state": "Gujarat"
+}

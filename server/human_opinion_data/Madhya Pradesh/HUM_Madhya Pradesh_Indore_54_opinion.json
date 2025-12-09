@@ -1,0 +1,27 @@
+{
+  "opinion": 0.10025205564219875,
+  "confidence": 0.516384,
+  "reasoning": "I'm neutral because I don't trust the government will implement this properly.",
+  "breakdown": {
+    "economicScore": 0.2740725071568803,
+    "socialScore": 0.04922000000000006,
+    "convenienceScore": 0.1202175,
+    "healthEnvScore": 0,
+    "relevance": 0.55692,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:35.218Z",
+    "humanId": "HUM_Madhya Pradesh_Indore_54"
+  },
+  "humanId": "HUM_Madhya Pradesh_Indore_54",
+  "state": "Madhya Pradesh"
+}

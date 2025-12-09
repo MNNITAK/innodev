@@ -1,0 +1,27 @@
+{
+  "opinion": 0.20786084892,
+  "confidence": 0.562989,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.32760000000000006,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.392445,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "India Bus Fare Increase",
+    "domain": "transport",
+    "timestamp": "2025-12-09T05:59:21.501Z",
+    "humanId": "HUM_AndamanNicobar_South Andaman Region_2"
+  },
+  "humanId": "HUM_AndamanNicobar_South Andaman Region_2",
+  "state": "AndamanNicobar"
+}

@@ -1,0 +1,27 @@
+{
+  "opinion": 0.03265690538196723,
+  "confidence": 0.583495,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.0064515452197734776,
+    "socialScore": 0.42000000000000004,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.317475,
+    "weights": {
+      "economic": 0.4,
+      "social": 0.3,
+      "convenience": 0.15,
+      "healthEnv": 0.15
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "The government announces free electricity subsidy of up to 200 units per month for all households wi",
+    "domain": "tax",
+    "timestamp": "2025-12-07T15:12:00.128Z",
+    "humanId": "HUM_Manipur_Northern Hills_7"
+  },
+  "humanId": "HUM_Manipur_Northern Hills_7",
+  "state": "Manipur"
+}

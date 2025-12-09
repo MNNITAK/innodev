@@ -1,0 +1,27 @@
+{
+  "opinion": 0.09905830568201152,
+  "confidence": 0.5436270000000001,
+  "reasoning": "I'm neutral because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 0.36510615615578934,
+    "socialScore": 0.19089999999999993,
+    "convenienceScore": 0.08839999999999999,
+    "healthEnvScore": 0,
+    "relevance": 0.5806349999999999,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "India Bus Fare Increase",
+    "domain": "transport",
+    "timestamp": "2025-12-09T05:59:26.810Z",
+    "humanId": "HUM_UP_Aligarh_95"
+  },
+  "humanId": "HUM_UP_Aligarh_95",
+  "state": "UP"
+}

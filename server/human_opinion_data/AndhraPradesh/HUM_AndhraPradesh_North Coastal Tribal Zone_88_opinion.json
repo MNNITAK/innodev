@@ -1,0 +1,27 @@
+{
+  "opinion": 0.13080559968000002,
+  "confidence": 0.6297300000000001,
+  "reasoning": "I'm neutral because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.22536000000000006,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.31365000000000004,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:32.432Z",
+    "humanId": "HUM_AndhraPradesh_North Coastal Tribal Zone_88"
+  },
+  "humanId": "HUM_AndhraPradesh_North Coastal Tribal Zone_88",
+  "state": "AndhraPradesh"
+}

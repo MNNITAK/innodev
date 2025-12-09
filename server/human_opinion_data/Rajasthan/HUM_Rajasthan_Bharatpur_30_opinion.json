@@ -1,0 +1,27 @@
+{
+  "opinion": 0.1665298278403735,
+  "confidence": 0.6729799999999999,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.48057566860297357,
+    "socialScore": 0.42480000000000007,
+    "convenienceScore": 0.1495,
+    "healthEnvScore": 0,
+    "relevance": 0.5048999999999999,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.847Z",
+    "humanId": "HUM_Rajasthan_Bharatpur_30"
+  },
+  "humanId": "HUM_Rajasthan_Bharatpur_30",
+  "state": "Rajasthan"
+}

@@ -4,11 +4,14 @@
  * Accepts population & policy, distributes humans, processes through brain, stores opinions
  */
 
+
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import NationalPopulationDistributorController from './NationalPopulationDistributorController.js';
 import { calculateHumanOpinion, parsePolicy } from '../human_brain/cognitiveModel.js';
+
+
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

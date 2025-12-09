@@ -1,0 +1,524 @@
+[
+  {
+    "humanId": "HUM_AndamanNicobar_North Andaman Region_0",
+    "householdId": "HH_AndamanNicobar_North Andaman Region_0",
+    "state": "AndamanNicobar",
+    "district": "North Andaman Region",
+    "demographics": {
+      "age": 41,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 7
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Informal",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 68,
+      "changeAdaptability": 2,
+      "optimism": 56
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 17.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 10,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 12
+    },
+    "mobility": {
+      "commuteTime": 48,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 72
+    },
+    "environmental": {
+      "pollutionExposure": 190,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 86
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5385024478985923,
+      "confidence": 0.5702918815484189,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.639Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_AndamanNicobar_North Andaman Region_1",
+    "householdId": "HH_AndamanNicobar_North Andaman Region_0",
+    "state": "AndamanNicobar",
+    "district": "North Andaman Region",
+    "demographics": {
+      "age": 45,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 7
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 68,
+      "changeAdaptability": 2,
+      "optimism": 46
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 10,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 12
+    },
+    "mobility": {
+      "commuteTime": 48,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 72
+    },
+    "environmental": {
+      "pollutionExposure": 190,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 86
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5395853362305054,
+      "confidence": 0.2502311137252874,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.639Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_AndamanNicobar_Middle Andaman Region_0",
+    "householdId": "HH_AndamanNicobar_Middle Andaman Region_0",
+    "state": "AndamanNicobar",
+    "district": "Middle Andaman Region",
+    "demographics": {
+      "age": 58,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 6
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 64,
+      "changeAdaptability": 2,
+      "optimism": 32
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -34
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 14
+    },
+    "mobility": {
+      "commuteTime": 57,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 26,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 68
+    },
+    "environmental": {
+      "pollutionExposure": 210,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 84
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.4089910745288785,
+      "confidence": 0.7339765291405244,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.639Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_AndamanNicobar_Middle Andaman Region_1",
+    "householdId": "HH_AndamanNicobar_Middle Andaman Region_0",
+    "state": "AndamanNicobar",
+    "district": "Middle Andaman Region",
+    "demographics": {
+      "age": 55,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 6
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Informal",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 64,
+      "changeAdaptability": 2,
+      "optimism": 42
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -34
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 14
+    },
+    "mobility": {
+      "commuteTime": 57,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 26,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 68
+    },
+    "environmental": {
+      "pollutionExposure": 210,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 84
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.6225753564436194,
+      "confidence": 0.31438595927673807,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.639Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_AndamanNicobar_South Andaman Region_0",
+    "householdId": "HH_AndamanNicobar_South Andaman Region_0",
+    "state": "AndamanNicobar",
+    "district": "South Andaman Region",
+    "demographics": {
+      "age": 34,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 5
+    },
+    "socioEconomic": {
+      "incomePerCapita": 599,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 78,
+      "changeAdaptability": 2,
+      "optimism": 82
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 16
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 8,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 10
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 36,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 82
+    },
+    "environmental": {
+      "pollutionExposure": 250,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 76
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.9270957050720701,
+      "confidence": 0.42424311029257966,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.639Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_AndamanNicobar_South Andaman Region_1",
+    "householdId": "HH_AndamanNicobar_South Andaman Region_0",
+    "state": "AndamanNicobar",
+    "district": "South Andaman Region",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 5
+    },
+    "socioEconomic": {
+      "incomePerCapita": 599,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 4,
+      "occupation": "Informal",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 78,
+      "changeAdaptability": 2,
+      "optimism": 42
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 28.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 16
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 8,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 10
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 36,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 82
+    },
+    "environmental": {
+      "pollutionExposure": 250,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 76
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.38747593033335503,
+      "confidence": 0.4623111790400759,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.639Z",
+      "version": 1
+    }
+  }
+]

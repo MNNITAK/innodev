@@ -1,0 +1,27 @@
+{
+  "opinion": 0.044224099696954185,
+  "confidence": 0.5516395000000001,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.16821912818001927,
+    "socialScore": 0.32905333333333336,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.3606975,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:35.728Z",
+    "humanId": "HUM_Maharastra_Chhatrapati Sambhajinagar_89"
+  },
+  "humanId": "HUM_Maharastra_Chhatrapati Sambhajinagar_89",
+  "state": "Maharastra"
+}

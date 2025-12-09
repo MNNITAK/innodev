@@ -1,0 +1,27 @@
+{
+  "opinion": 0.09750682025154589,
+  "confidence": 0.60918,
+  "reasoning": "I'm neutral because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 0.47573710195265256,
+    "socialScore": 0.1812399999999999,
+    "convenienceScore": 0.16055,
+    "healthEnvScore": 0,
+    "relevance": 0.42840000000000006,
+    "weights": {
+      "economic": 0.45,
+      "social": 0.30000000000000004,
+      "convenience": 0.1,
+      "healthEnv": 0.15000000000000002
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.643Z",
+    "humanId": "HUM_Karnataka_Belgaum_22"
+  },
+  "humanId": "HUM_Karnataka_Belgaum_22",
+  "state": "Karnataka"
+}

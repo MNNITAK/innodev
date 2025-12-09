@@ -1,0 +1,27 @@
+{
+  "opinion": 0.2633736124799999,
+  "confidence": 0.56448,
+  "reasoning": "I support this because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.17352000000000006,
+    "convenienceScore": 0.06799999999999999,
+    "healthEnvScore": 0,
+    "relevance": 0.5048999999999999,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.150Z",
+    "humanId": "HUM_Jammu_kashmir_Jammu Division_7"
+  },
+  "humanId": "HUM_Jammu_kashmir_Jammu Division_7",
+  "state": "Jammu_kashmir"
+}

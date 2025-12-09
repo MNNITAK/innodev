@@ -1,0 +1,3894 @@
+[
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_4",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_10",
+    "targetId": "HUM_Himachal_Central Himachal Urban_9",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_9",
+    "targetId": "HUM_Himachal_Central Himachal Urban_10",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "parent",
+    "influenceWeight": 0.6,
+    "bidirectional": false
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "relationType": "child",
+    "influenceWeight": 0.7,
+    "bidirectional": false
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_5",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_5",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8780000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8780000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8273333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8273333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8712133333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8712133333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8873333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8873333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8372157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8372157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8473333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8473333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8560000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8560000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8406666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8406666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8378800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8378800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8560000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8560000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7552133333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7552133333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7778824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_8",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7778824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8378824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8378824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8445490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8445490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7732157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7732157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.7578800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7578800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9113333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9113333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9046666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9046666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9238824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9238824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8493333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8493333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8932157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8932157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9113333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.9113333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8578800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8578800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8752157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8752157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8285490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8285490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8340000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8340000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8340000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8340000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9772157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9772157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 1,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 1,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8465490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8465490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8378824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8378824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8018824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8018824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8873333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8873333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.7998824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7998824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8045490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8045490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8293333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8293333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8265490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8265490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9705490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9705490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8578824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8578824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8778824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8778824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8378800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8378800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8905490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8905490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8085490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8085490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8445466666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8445466666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Central Himachal Urban_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9285490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9285490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8732157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8732157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8705490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8705490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9705490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9705490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8818824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8818824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8438824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8438824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9913333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9913333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8972157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8972157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8740000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8740000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8712157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8712157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8578800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8578800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8465490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8465490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8086666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8086666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8912157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8912157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8993333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8993333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8957624000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8957624000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8712157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8712157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9818824,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9818824,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8890957333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8890957333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8260000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8260000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8778824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8778824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8020000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8020000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7820000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "targetId": "HUM_Himachal_Central Himachal Urban_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7820000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8285490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Central Himachal Urban_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8285490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.7824290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7824290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7226666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_8",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7226666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.736,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.736,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7333333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7333333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7660000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7660000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7978824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7978824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.746,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.746,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8393333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8393333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7492157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7492157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_4",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.7686666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Central Himachal Urban_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7686666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_4",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7993333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7993333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_4",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7690957333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7690957333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_5",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7717624000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "targetId": "HUM_Himachal_Central Himachal Urban_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7717624000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7718824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7718824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_5",
+    "targetId": "HUM_Himachal_Central Himachal Urban_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8346666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8346666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8218824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Central Himachal Urban_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8218824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_6",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9193333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Central Himachal Urban_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9193333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_6",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8060000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8060000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9400000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9400000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9126666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9126666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8660000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8660000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9393333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Central Himachal Urban_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9393333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8932157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "targetId": "HUM_Himachal_Central Himachal Urban_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8932157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7958824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_9",
+    "relationType": "friend",
+    "influenceWeight": 0.7958824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8625490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8625490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8552157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8552157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_10",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8686666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8686666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9332157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Central Himachal Urban_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9332157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_10",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8753333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Central Himachal Urban_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8753333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_10",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9060000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Central Himachal Urban_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9060000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8550957333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8550957333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8284290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8284290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8132157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8132157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9705490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9705490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9093333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9093333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8085490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8085490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8438824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8438824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8526666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8526666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7884290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7884290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7953333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_10",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7953333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8293333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8293333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8198824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8198824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8086666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8086666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7998824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7998824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8685490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8685490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8217624000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8217624000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8860000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8860000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8660000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8660000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8838824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8838824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8526666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8526666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8552157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8552157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9772157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9772157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8560000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8560000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9933333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9933333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7950957333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7950957333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8638824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8638824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7865490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7865490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8426666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8426666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8418824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8418824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8018824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8018824000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8685490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8685490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8093333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8093333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8372157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8372157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8486666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8486666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Central Himachal Urban_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8380000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8380000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8792157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8792157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8792157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8792157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8590957333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8590957333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8465490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8465490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8525490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8525490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Central Himachal Urban_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9526666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9526666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "friend",
+    "influenceWeight": 0.77788,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "relationType": "friend",
+    "influenceWeight": 0.77788,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "targetId": "HUM_Himachal_Central Himachal Urban_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8424290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_2",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8424290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8265466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8265466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8578800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8578800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7445466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7445466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8178800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8178800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8732133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8732133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7518800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7518800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.792,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "relationType": "friend",
+    "influenceWeight": 0.792,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7785466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7785466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8053333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8053333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8257624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8257624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7217624000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7217624000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7424290666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7424290666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7552133333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7552133333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Central Himachal Urban_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7077624000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_5",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7077624000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7418800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7418800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7558800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7558800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7785466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7785466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8518800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8518800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Central Himachal Urban_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7824290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7824290666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8865466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8865466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8865466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8865466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7645466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7645466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.77988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.77988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8133333333333332,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8133333333333332,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8358800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8358800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.85988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.85988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8645466666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8645466666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8624290666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8624290666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8532133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8532133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8665466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8665466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8665466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8665466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.89988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.89988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8385466666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8385466666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7932133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.7932133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.79988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.79988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7490957333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7490957333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7198800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7198800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7465466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7465466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Central Himachal Urban_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7557624000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_1",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7557624000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.6978800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.6978800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7645466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "relationType": "friend",
+    "influenceWeight": 0.7645466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7786666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "relationType": "friend",
+    "influenceWeight": 0.7786666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.77988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "relationType": "friend",
+    "influenceWeight": 0.77988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8606666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8606666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8485490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8485490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8606666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8606666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8685490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8685490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9073333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9073333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8606666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8606666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8425466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8425466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "targetId": "HUM_Himachal_Central Himachal Urban_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8065490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8065490666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8132133333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8132133333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "relationType": "friend",
+    "influenceWeight": 0.7732133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7732133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8986666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8986666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8885490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8885490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8265466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8265466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8653333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8653333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8618824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8618824000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Central Himachal Urban_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8025490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Central Himachal Urban_0",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8025490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8152157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8152157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8065466666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8065466666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "relationType": "friend",
+    "influenceWeight": 0.85988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.85988,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9132133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9132133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8265466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8265466666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8152157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8152157333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8206666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8206666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7885490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7885490666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8552157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8552157333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "relationType": "friend",
+    "influenceWeight": 1,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 1,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "relationType": "friend",
+    "influenceWeight": 0.9780000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9780000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8118800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8118800000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7518800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7518800000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8653333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8653333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8052133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8052133333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7726666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7726666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.3722966627533873,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.3722966627533873,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "targetId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.22874583807115523,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "targetId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "relationType": "friend",
+    "influenceWeight": 0.22874583807115523,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "targetId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "relationType": "friend",
+    "influenceWeight": 0.3318972132043445,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "targetId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "relationType": "friend",
+    "influenceWeight": 0.3318972132043445,
+    "bidirectional": true
+  }
+]

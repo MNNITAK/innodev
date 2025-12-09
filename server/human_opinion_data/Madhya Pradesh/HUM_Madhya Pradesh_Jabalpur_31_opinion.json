@@ -1,0 +1,27 @@
+{
+  "opinion": 0.1632590478,
+  "confidence": 0.5850299999999999,
+  "reasoning": "I support this because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.1971,
+    "convenienceScore": 0.08000000000000002,
+    "healthEnvScore": 0,
+    "relevance": 0.39015,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:35.140Z",
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_31"
+  },
+  "humanId": "HUM_Madhya Pradesh_Jabalpur_31",
+  "state": "Madhya Pradesh"
+}

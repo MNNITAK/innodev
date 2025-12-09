@@ -1,0 +1,27 @@
+{
+  "opinion": 0.12062441353441383,
+  "confidence": 0.5811270000000001,
+  "reasoning": "I'm neutral because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.43812738738694723,
+    "socialScore": 0.2553,
+    "convenienceScore": 0.10400000000000001,
+    "healthEnvScore": 0,
+    "relevance": 0.5806349999999999,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:37.007Z",
+    "humanId": "HUM_UP_Aligarh_36"
+  },
+  "humanId": "HUM_UP_Aligarh_36",
+  "state": "UP"
+}

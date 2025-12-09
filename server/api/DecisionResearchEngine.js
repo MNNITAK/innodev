@@ -505,6 +505,9 @@ class DecisionResearchEngine {
     return Math.sqrt(avgSquareDiff);
   }
 
+
+
+  
   /**
    * Enrich and present existing summary
    */
@@ -512,6 +515,7 @@ class DecisionResearchEngine {
     console.log('📊 Using pre-computed national summary');
     return nationalSummary;
   }
+
 
 
   /**

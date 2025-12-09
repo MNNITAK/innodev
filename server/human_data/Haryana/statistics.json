@@ -1,0 +1,81 @@
+{
+  "stats": {
+    "totalPopulation": 224,
+    "totalConnections": 3058,
+    "avgDegree": 13.651785714285714,
+    "demographics": {
+      "avgAge": 35,
+      "ageRange": {
+        "min": 18,
+        "max": 82
+      },
+      "sexRatio": {
+        "male": 115,
+        "female": 109
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 224,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 25250,
+      "incomeRange": {
+        "min": 25250,
+        "max": 25250
+      },
+      "povertyRate": "32.59",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 111,
+        "Manufacturing": 31,
+        "Informal": 25,
+        "Services": 57
+      }
+    },
+    "network": {
+      "familyConnections": 1098,
+      "friendConnections": 1960,
+      "strongConnections": 2010,
+      "weakConnections": 8
+    },
+    "behavioral": {
+      "avgTrust": 50,
+      "avgAdaptability": 66
+    }
+  },
+  "divisionStats": {
+    "Ambala": {
+      "households": 5,
+      "population": 40,
+      "avgFamilySize": "8.00"
+    },
+    "Faridabad": {
+      "households": 7,
+      "population": 37,
+      "avgFamilySize": "5.29"
+    },
+    "Gurgaon": {
+      "households": 7,
+      "population": 35,
+      "avgFamilySize": "5.00"
+    },
+    "Hisar": {
+      "households": 6,
+      "population": 37,
+      "avgFamilySize": "6.17"
+    },
+    "Karnal": {
+      "households": 7,
+      "population": 36,
+      "avgFamilySize": "5.14"
+    },
+    "Rohtak": {
+      "households": 6,
+      "population": 39,
+      "avgFamilySize": "6.50"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:29.483Z"
+}

@@ -1,0 +1,142 @@
+{
+  "stats": {
+    "totalPopulation": 1678,
+    "totalConnections": 23044,
+    "avgDegree": 13.733015494636472,
+    "demographics": {
+      "avgAge": 38,
+      "ageRange": {
+        "min": 18,
+        "max": 87
+      },
+      "sexRatio": {
+        "male": 868,
+        "female": 810
+      },
+      "urbanization": {
+        "urban": 375,
+        "semiUrban": 1303,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 10795,
+      "incomeRange": {
+        "min": 4460,
+        "max": 15350
+      },
+      "povertyRate": "28.19",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 913,
+        "Manufacturing": 262,
+        "Services": 354,
+        "Informal": 101,
+        "Unemployed": 48
+      }
+    },
+    "network": {
+      "familyConnections": 7764,
+      "friendConnections": 15280,
+      "strongConnections": 15650,
+      "weakConnections": 96
+    },
+    "behavioral": {
+      "avgTrust": 51,
+      "avgAdaptability": 59
+    }
+  },
+  "divisionStats": {
+    "Agra": {
+      "households": 18,
+      "population": 94,
+      "avgFamilySize": "5.22"
+    },
+    "Aligarh": {
+      "households": 17,
+      "population": 95,
+      "avgFamilySize": "5.59"
+    },
+    "Ayodhya": {
+      "households": 15,
+      "population": 94,
+      "avgFamilySize": "6.27"
+    },
+    "Azamgarh": {
+      "households": 17,
+      "population": 99,
+      "avgFamilySize": "5.82"
+    },
+    "Bareilly": {
+      "households": 17,
+      "population": 94,
+      "avgFamilySize": "5.53"
+    },
+    "Basti": {
+      "households": 17,
+      "population": 94,
+      "avgFamilySize": "5.53"
+    },
+    "Chitrakoot": {
+      "households": 15,
+      "population": 94,
+      "avgFamilySize": "6.27"
+    },
+    "Devipatan": {
+      "households": 17,
+      "population": 88,
+      "avgFamilySize": "5.18"
+    },
+    "Gorakhpur": {
+      "households": 16,
+      "population": 100,
+      "avgFamilySize": "6.25"
+    },
+    "Jhansi": {
+      "households": 18,
+      "population": 87,
+      "avgFamilySize": "4.83"
+    },
+    "Kanpur": {
+      "households": 17,
+      "population": 95,
+      "avgFamilySize": "5.59"
+    },
+    "Lucknow": {
+      "households": 20,
+      "population": 90,
+      "avgFamilySize": "4.50"
+    },
+    "Meerut": {
+      "households": 20,
+      "population": 97,
+      "avgFamilySize": "4.85"
+    },
+    "Mirzapur": {
+      "households": 17,
+      "population": 95,
+      "avgFamilySize": "5.59"
+    },
+    "Moradabad": {
+      "households": 18,
+      "population": 90,
+      "avgFamilySize": "5.00"
+    },
+    "Prayagraj": {
+      "households": 17,
+      "population": 92,
+      "avgFamilySize": "5.41"
+    },
+    "Saharanpur": {
+      "households": 18,
+      "population": 93,
+      "avgFamilySize": "5.17"
+    },
+    "Varanasi": {
+      "households": 15,
+      "population": 87,
+      "avgFamilySize": "5.80"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:31.204Z"
+}

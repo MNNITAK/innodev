@@ -1,0 +1,77 @@
+{
+  "stats": {
+    "totalPopulation": 716,
+    "totalConnections": 6898,
+    "avgDegree": 9.634078212290502,
+    "demographics": {
+      "avgAge": 44,
+      "ageRange": {
+        "min": 18,
+        "max": 87
+      },
+      "sexRatio": {
+        "male": 412,
+        "female": 304
+      },
+      "urbanization": {
+        "urban": 140,
+        "semiUrban": 576,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 11505,
+      "incomeRange": {
+        "min": 7925,
+        "max": 14360
+      },
+      "povertyRate": "25.84",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 314,
+        "Services": 171,
+        "Manufacturing": 118,
+        "Informal": 100,
+        "Unemployed": 13
+      }
+    },
+    "network": {
+      "familyConnections": 440,
+      "friendConnections": 6458,
+      "strongConnections": 6764,
+      "weakConnections": 38
+    },
+    "behavioral": {
+      "avgTrust": 51,
+      "avgAdaptability": 72
+    }
+  },
+  "divisionStats": {
+    "Presidency": {
+      "households": 104,
+      "population": 140,
+      "avgFamilySize": "1.35"
+    },
+    "Burdwan": {
+      "households": 101,
+      "population": 144,
+      "avgFamilySize": "1.43"
+    },
+    "Medinipur": {
+      "households": 100,
+      "population": 146,
+      "avgFamilySize": "1.46"
+    },
+    "Malda": {
+      "households": 97,
+      "population": 147,
+      "avgFamilySize": "1.52"
+    },
+    "Jalpaiguri": {
+      "households": 97,
+      "population": 139,
+      "avgFamilySize": "1.43"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:31.482Z"
+}

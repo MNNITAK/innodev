@@ -1,0 +1,27 @@
+{
+  "opinion": 0.14542991011881026,
+  "confidence": 0.658227,
+  "reasoning": "I'm neutral because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.9181429019141242,
+    "socialScore": 0.4560899999999999,
+    "convenienceScore": 0.0758,
+    "healthEnvScore": 0,
+    "relevance": 0.35113500000000003,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.879Z",
+    "humanId": "HUM_Tamil Nadu_Coimbatore_8"
+  },
+  "humanId": "HUM_Tamil Nadu_Coimbatore_8",
+  "state": "Tamil Nadu"
+}

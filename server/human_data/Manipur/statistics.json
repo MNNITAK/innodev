@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "totalPopulation": 27,
+    "totalConnections": 244,
+    "avgDegree": 9.037037037037036,
+    "demographics": {
+      "avgAge": 42,
+      "ageRange": {
+        "min": 18,
+        "max": 62
+      },
+      "sexRatio": {
+        "male": 12,
+        "female": 15
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 27,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 14177,
+      "incomeRange": {
+        "min": 8420,
+        "max": 17825
+      },
+      "povertyRate": "37.04",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 12,
+        "Informal": 2,
+        "Manufacturing": 4,
+        "Services": 9
+      }
+    },
+    "network": {
+      "familyConnections": 14,
+      "friendConnections": 230,
+      "strongConnections": 226,
+      "weakConnections": 4
+    },
+    "behavioral": {
+      "avgTrust": 54,
+      "avgAdaptability": 80
+    }
+  },
+  "divisionStats": {
+    "Central Valley": {
+      "households": 5,
+      "population": 8,
+      "avgFamilySize": "1.60"
+    },
+    "Southern Hills": {
+      "households": 5,
+      "population": 9,
+      "avgFamilySize": "1.80"
+    },
+    "Northern Hills": {
+      "households": 6,
+      "population": 6,
+      "avgFamilySize": "1.00"
+    },
+    "Eastern Zone": {
+      "households": 4,
+      "population": 4,
+      "avgFamilySize": "1.00"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:29.971Z"
+}

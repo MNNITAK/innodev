@@ -1,0 +1,27 @@
+{
+  "opinion": 0.02562687681426863,
+  "confidence": 0.5970600000000001,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.004153645303968605,
+    "socialScore": 0.22800000000000006,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.39780000000000004,
+    "weights": {
+      "economic": 0.2,
+      "social": 0.4,
+      "convenience": 0.15,
+      "healthEnv": 0.25
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:33.979Z",
+    "humanId": "HUM_haryana_Karnal_10"
+  },
+  "humanId": "HUM_haryana_Karnal_10",
+  "state": "Haryana"
+}

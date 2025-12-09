@@ -1,0 +1,412 @@
+{
+  "nodes": [
+    {
+      "id": "HUM_AndamanNicobar_North Andaman Region_0",
+      "label": "HUM_AndamanNicobar_North Andaman Region_0",
+      "age": 41,
+      "householdId": "HH_AndamanNicobar_North Andaman Region_0",
+      "state": "AndamanNicobar",
+      "district": "North Andaman Region",
+      "education": 4,
+      "income": 649
+    },
+    {
+      "id": "HUM_AndamanNicobar_North Andaman Region_1",
+      "label": "HUM_AndamanNicobar_North Andaman Region_1",
+      "age": 45,
+      "householdId": "HH_AndamanNicobar_North Andaman Region_0",
+      "state": "AndamanNicobar",
+      "district": "North Andaman Region",
+      "education": 3,
+      "income": 649
+    },
+    {
+      "id": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "label": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "age": 58,
+      "householdId": "HH_AndamanNicobar_Middle Andaman Region_0",
+      "state": "AndamanNicobar",
+      "district": "Middle Andaman Region",
+      "education": 4,
+      "income": 649
+    },
+    {
+      "id": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "label": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "age": 55,
+      "householdId": "HH_AndamanNicobar_Middle Andaman Region_0",
+      "state": "AndamanNicobar",
+      "district": "Middle Andaman Region",
+      "education": 4,
+      "income": 649
+    },
+    {
+      "id": "HUM_AndamanNicobar_South Andaman Region_0",
+      "label": "HUM_AndamanNicobar_South Andaman Region_0",
+      "age": 34,
+      "householdId": "HH_AndamanNicobar_South Andaman Region_0",
+      "state": "AndamanNicobar",
+      "district": "South Andaman Region",
+      "education": 4,
+      "income": 599
+    },
+    {
+      "id": "HUM_AndamanNicobar_South Andaman Region_1",
+      "label": "HUM_AndamanNicobar_South Andaman Region_1",
+      "age": 18,
+      "householdId": "HH_AndamanNicobar_South Andaman Region_0",
+      "state": "AndamanNicobar",
+      "district": "South Andaman Region",
+      "education": 4,
+      "income": 599
+    }
+  ],
+  "edges": [
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_1",
+      "target": "HUM_AndamanNicobar_North Andaman Region_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_0",
+      "target": "HUM_AndamanNicobar_North Andaman Region_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_1",
+      "target": "HUM_AndamanNicobar_South Andaman Region_0",
+      "type": "sibling",
+      "weight": 0.5
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_0",
+      "target": "HUM_AndamanNicobar_South Andaman Region_1",
+      "type": "sibling",
+      "weight": 0.5
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_0",
+      "target": "HUM_AndamanNicobar_South Andaman Region_1",
+      "type": "friend",
+      "weight": 0.7425466666666667
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_1",
+      "target": "HUM_AndamanNicobar_North Andaman Region_0",
+      "type": "friend",
+      "weight": 0.7425466666666667
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_0",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "type": "friend",
+      "weight": 0.7666666666666668
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "target": "HUM_AndamanNicobar_North Andaman Region_0",
+      "type": "friend",
+      "weight": 0.7666666666666668
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_0",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "type": "friend",
+      "weight": 0.7746666666666668
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "target": "HUM_AndamanNicobar_North Andaman Region_0",
+      "type": "friend",
+      "weight": 0.7746666666666668
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_0",
+      "target": "HUM_AndamanNicobar_South Andaman Region_0",
+      "type": "friend",
+      "weight": 0.8292133333333335
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_0",
+      "target": "HUM_AndamanNicobar_North Andaman Region_0",
+      "type": "friend",
+      "weight": 0.8292133333333335
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_1",
+      "target": "HUM_AndamanNicobar_South Andaman Region_1",
+      "type": "friend",
+      "weight": 0.6998800000000001
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_1",
+      "target": "HUM_AndamanNicobar_North Andaman Region_1",
+      "type": "friend",
+      "weight": 0.6998800000000001
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "target": "HUM_AndamanNicobar_North Andaman Region_1",
+      "type": "friend",
+      "weight": 0.7213333333333334
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_1",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "type": "friend",
+      "weight": 0.7213333333333334
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "target": "HUM_AndamanNicobar_South Andaman Region_0",
+      "type": "friend",
+      "weight": 0.7278800000000001
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_0",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "type": "friend",
+      "weight": 0.7278800000000001
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "target": "HUM_AndamanNicobar_South Andaman Region_1",
+      "type": "friend",
+      "weight": 0.66788
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_1",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+      "type": "friend",
+      "weight": 0.66788
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "target": "HUM_AndamanNicobar_North Andaman Region_1",
+      "type": "friend",
+      "weight": 0.6933333333333334
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_1",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "type": "friend",
+      "weight": 0.6933333333333334
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "target": "HUM_AndamanNicobar_South Andaman Region_1",
+      "type": "friend",
+      "weight": 0.63988
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_1",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "type": "friend",
+      "weight": 0.63988
+    },
+    {
+      "source": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "target": "HUM_AndamanNicobar_South Andaman Region_0",
+      "type": "friend",
+      "weight": 0.67988
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_0",
+      "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+      "type": "friend",
+      "weight": 0.67988
+    },
+    {
+      "source": "HUM_AndamanNicobar_South Andaman Region_0",
+      "target": "HUM_AndamanNicobar_North Andaman Region_1",
+      "type": "friend",
+      "weight": 0.8065466666666666
+    },
+    {
+      "source": "HUM_AndamanNicobar_North Andaman Region_1",
+      "target": "HUM_AndamanNicobar_South Andaman Region_0",
+      "type": "friend",
+      "weight": 0.8065466666666666
+    }
+  ],
+  "adjacency": {
+    "HUM_AndamanNicobar_North Andaman Region_0": [
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_1",
+        "type": "friend",
+        "weight": 0.7425466666666667
+      },
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+        "type": "friend",
+        "weight": 0.7666666666666668
+      },
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+        "type": "friend",
+        "weight": 0.7746666666666668
+      },
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_0",
+        "type": "friend",
+        "weight": 0.8292133333333335
+      }
+    ],
+    "HUM_AndamanNicobar_North Andaman Region_1": [
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_1",
+        "type": "friend",
+        "weight": 0.6998800000000001
+      },
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+        "type": "friend",
+        "weight": 0.7213333333333334
+      },
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+        "type": "friend",
+        "weight": 0.6933333333333334
+      },
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_0",
+        "type": "friend",
+        "weight": 0.8065466666666666
+      }
+    ],
+    "HUM_AndamanNicobar_Middle Andaman Region_0": [
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_0",
+        "type": "friend",
+        "weight": 0.7746666666666668
+      },
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_1",
+        "type": "friend",
+        "weight": 0.7213333333333334
+      },
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_0",
+        "type": "friend",
+        "weight": 0.7278800000000001
+      },
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_1",
+        "type": "friend",
+        "weight": 0.66788
+      }
+    ],
+    "HUM_AndamanNicobar_Middle Andaman Region_1": [
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_0",
+        "type": "friend",
+        "weight": 0.7666666666666668
+      },
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_1",
+        "type": "friend",
+        "weight": 0.6933333333333334
+      },
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_1",
+        "type": "friend",
+        "weight": 0.63988
+      },
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_0",
+        "type": "friend",
+        "weight": 0.67988
+      }
+    ],
+    "HUM_AndamanNicobar_South Andaman Region_0": [
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_1",
+        "type": "sibling",
+        "weight": 0.5
+      },
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_0",
+        "type": "friend",
+        "weight": 0.8292133333333335
+      },
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+        "type": "friend",
+        "weight": 0.7278800000000001
+      },
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+        "type": "friend",
+        "weight": 0.67988
+      },
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_1",
+        "type": "friend",
+        "weight": 0.8065466666666666
+      }
+    ],
+    "HUM_AndamanNicobar_South Andaman Region_1": [
+      {
+        "target": "HUM_AndamanNicobar_South Andaman Region_0",
+        "type": "sibling",
+        "weight": 0.5
+      },
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_0",
+        "type": "friend",
+        "weight": 0.7425466666666667
+      },
+      {
+        "target": "HUM_AndamanNicobar_North Andaman Region_1",
+        "type": "friend",
+        "weight": 0.6998800000000001
+      },
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_0",
+        "type": "friend",
+        "weight": 0.66788
+      },
+      {
+        "target": "HUM_AndamanNicobar_Middle Andaman Region_1",
+        "type": "friend",
+        "weight": 0.63988
+      }
+    ]
+  },
+  "nodeCount": 6,
+  "edgeCount": 30
+}

@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "totalPopulation": 426,
+    "totalConnections": 4188,
+    "avgDegree": 9.830985915492958,
+    "demographics": {
+      "avgAge": 44,
+      "ageRange": {
+        "min": 18,
+        "max": 81
+      },
+      "sexRatio": {
+        "male": 229,
+        "female": 197
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 426,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 12684,
+      "incomeRange": {
+        "min": 9410,
+        "max": 16340
+      },
+      "povertyRate": "33.80",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Services": 125,
+        "Agriculture": 220,
+        "Manufacturing": 47,
+        "Informal": 34
+      }
+    },
+    "network": {
+      "familyConnections": 262,
+      "friendConnections": 3926,
+      "strongConnections": 4108,
+      "weakConnections": 18
+    },
+    "behavioral": {
+      "avgTrust": 52,
+      "avgAdaptability": 73
+    }
+  },
+  "divisionStats": {
+    "Northern Division": {
+      "households": 100,
+      "population": 143,
+      "avgFamilySize": "1.43"
+    },
+    "Central Division": {
+      "households": 101,
+      "population": 143,
+      "avgFamilySize": "1.42"
+    },
+    "Southern Division": {
+      "households": 99,
+      "population": 140,
+      "avgFamilySize": "1.41"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:30.061Z"
+}

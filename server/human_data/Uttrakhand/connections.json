@@ -1,0 +1,6736 @@
+[
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_2",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_2",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Garhwal_8",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_24",
+    "targetId": "HUM_Uttrakhand_Garhwal_23",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_23",
+    "targetId": "HUM_Uttrakhand_Garhwal_24",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_25",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_25",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_29",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Garhwal_41",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_41",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_3",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_3",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_9",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_13",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_17",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_21",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_21",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_35",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_34",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_49",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_49",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_0",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_0",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8919146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8919146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.869248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.869248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8425813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8425813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.8159146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8159146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_2",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Garhwal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_2",
+    "targetId": "HUM_Uttrakhand_Garhwal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8853333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8853333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_6",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Garhwal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8359146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Garhwal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8359146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_4",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8160000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8160000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.8359146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8359146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_35",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8425813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8425813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9025813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9025813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_6",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9866666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9866666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.8919146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Garhwal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8919146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9026666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9026666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.8720000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8720000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8426666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_41",
+    "targetId": "HUM_Uttrakhand_Garhwal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8426666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8920000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8920000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.845248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.845248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_39",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_39",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.9053333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9053333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_11",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Garhwal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9053333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.9053333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_13",
+    "relationType": "friend",
+    "influenceWeight": 0.9212480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_13",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.9212480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8879146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.8879146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Garhwal_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.8266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8745813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.8745813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8520000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.8520000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8159146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.8159146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_0",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Garhwal_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Garhwal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_0",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_41",
+    "relationType": "friend",
+    "influenceWeight": 0.9120000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_41",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9120000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8693333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8693333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.8693333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8693333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_18",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_18",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_18",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9093333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9093333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_34",
+    "relationType": "friend",
+    "influenceWeight": 0.869248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_34",
+    "targetId": "HUM_Uttrakhand_Garhwal_18",
+    "relationType": "friend",
+    "influenceWeight": 0.869248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_19",
+    "targetId": "HUM_Uttrakhand_Kumaon_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8572480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8572480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_21",
+    "relationType": "friend",
+    "influenceWeight": 0.9120000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_21",
+    "targetId": "HUM_Uttrakhand_Garhwal_19",
+    "relationType": "friend",
+    "influenceWeight": 0.9120000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_44",
+    "targetId": "HUM_Uttrakhand_Garhwal_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_39",
+    "relationType": "friend",
+    "influenceWeight": 0.812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_39",
+    "targetId": "HUM_Uttrakhand_Garhwal_19",
+    "relationType": "friend",
+    "influenceWeight": 0.812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_41",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8185813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8185813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_21",
+    "targetId": "HUM_Uttrakhand_Garhwal_46",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_21",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.789248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_22",
+    "relationType": "friend",
+    "influenceWeight": 0.789248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_32",
+    "relationType": "friend",
+    "influenceWeight": 0.805248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_22",
+    "relationType": "friend",
+    "influenceWeight": 0.805248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_44",
+    "targetId": "HUM_Uttrakhand_Garhwal_22",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8025813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_22",
+    "relationType": "friend",
+    "influenceWeight": 0.8025813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8345813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Garhwal_22",
+    "relationType": "friend",
+    "influenceWeight": 0.8345813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_23",
+    "targetId": "HUM_Uttrakhand_Garhwal_22",
+    "relationType": "friend",
+    "influenceWeight": 0.8,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_22",
+    "targetId": "HUM_Uttrakhand_Garhwal_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_23",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Garhwal_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_23",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8133333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Garhwal_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8133333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7585813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_24",
+    "relationType": "friend",
+    "influenceWeight": 0.7585813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.7585813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Garhwal_24",
+    "relationType": "friend",
+    "influenceWeight": 0.7585813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_49",
+    "relationType": "friend",
+    "influenceWeight": 0.7985813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_49",
+    "targetId": "HUM_Uttrakhand_Garhwal_24",
+    "relationType": "friend",
+    "influenceWeight": 0.7985813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_24",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Garhwal_24",
+    "relationType": "friend",
+    "influenceWeight": 0.8,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.7519146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Garhwal_24",
+    "relationType": "friend",
+    "influenceWeight": 0.7519146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.7652480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Garhwal_24",
+    "relationType": "friend",
+    "influenceWeight": 0.7652480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Garhwal_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_25",
+    "targetId": "HUM_Uttrakhand_Garhwal_28",
+    "relationType": "friend",
+    "influenceWeight": 0.8426666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_28",
+    "targetId": "HUM_Uttrakhand_Garhwal_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8426666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_25",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7945813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_25",
+    "relationType": "friend",
+    "influenceWeight": 0.7945813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9026666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9026666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_39",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_39",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8253333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8253333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_41",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_41",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8986666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8986666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.841248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.841248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9079146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.9079146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_35",
+    "relationType": "friend",
+    "influenceWeight": 0.8745813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8745813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8345813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Garhwal_28",
+    "relationType": "friend",
+    "influenceWeight": 0.8345813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8279146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_28",
+    "relationType": "friend",
+    "influenceWeight": 0.8279146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8279146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_28",
+    "relationType": "friend",
+    "influenceWeight": 0.8279146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_44",
+    "targetId": "HUM_Uttrakhand_Garhwal_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Garhwal_29",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.8025813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8025813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8093333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_6",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8093333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8400000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8400000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8293333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8293333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8026666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8026666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_19",
+    "relationType": "friend",
+    "influenceWeight": 0.7986666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.7986666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8546666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8546666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.8346666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8346666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8280000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8280000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_32",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8172480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8172480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Garhwal_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8346666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8346666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8345813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_9",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8345813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.881248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.881248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.8105813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8105813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8586666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8586666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8386666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8386666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_39",
+    "relationType": "friend",
+    "influenceWeight": 0.9692480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_39",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9692480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8745813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8745813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8585813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8585813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8585813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8585813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_43",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9025813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9025813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9400000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9400000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8853333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.8853333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Garhwal_39",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Garhwal_39",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.9359146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.9359146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Garhwal_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8505813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8505813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8945813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Garhwal_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8945813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_5",
+    "relationType": "friend",
+    "influenceWeight": 0.845248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_41",
+    "relationType": "friend",
+    "influenceWeight": 0.845248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.841248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_41",
+    "relationType": "friend",
+    "influenceWeight": 0.841248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_42",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.8945813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Garhwal_42",
+    "relationType": "friend",
+    "influenceWeight": 0.8945813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_42",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.9145813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_42",
+    "relationType": "friend",
+    "influenceWeight": 0.9145813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_44",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_44",
+    "targetId": "HUM_Uttrakhand_Garhwal_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_44",
+    "targetId": "HUM_Uttrakhand_Kumaon_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_2",
+    "targetId": "HUM_Uttrakhand_Garhwal_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.9692480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9692480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9159146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_11",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9159146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_46",
+    "targetId": "HUM_Uttrakhand_Kumaon_32",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_46",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_19",
+    "relationType": "friend",
+    "influenceWeight": 0.9320000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_46",
+    "relationType": "friend",
+    "influenceWeight": 0.9320000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_27",
+    "relationType": "friend",
+    "influenceWeight": 0.9145813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9145813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8360000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8360000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_2",
+    "targetId": "HUM_Uttrakhand_Garhwal_22",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_2",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_2",
+    "targetId": "HUM_Uttrakhand_Garhwal_21",
+    "relationType": "friend",
+    "influenceWeight": 0.7852480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_21",
+    "targetId": "HUM_Uttrakhand_Kumaon_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7852480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_2",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7826666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7826666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_2",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_2",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.796,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Kumaon_2",
+    "relationType": "friend",
+    "influenceWeight": 0.796,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_2",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "friend",
+    "influenceWeight": 0.8,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Kumaon_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_3",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8012480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8012480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8012480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8012480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_42",
+    "relationType": "friend",
+    "influenceWeight": 0.9159146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_42",
+    "targetId": "HUM_Uttrakhand_Kumaon_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9159146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_3",
+    "targetId": "HUM_Uttrakhand_Garhwal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7879146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_2",
+    "targetId": "HUM_Uttrakhand_Kumaon_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7879146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.8093333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8093333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8426666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8426666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8119146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8119146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_17",
+    "relationType": "friend",
+    "influenceWeight": 0.8333333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8333333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_5",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8879146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8879146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_39",
+    "relationType": "friend",
+    "influenceWeight": 0.8653333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8653333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8493333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8493333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.8386666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Kumaon_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8386666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.9120000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9120000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_21",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_21",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.901248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "friend",
+    "influenceWeight": 0.901248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.9120000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9120000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_39",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 1,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 1,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Garhwal_39",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_9",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.9825813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9825813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9026666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_9",
+    "relationType": "friend",
+    "influenceWeight": 0.9026666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8920000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8920000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.805248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.805248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7785813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7785813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.7893333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7893333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.7893333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.7893333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.9333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9933333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9933333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_21",
+    "relationType": "friend",
+    "influenceWeight": 0.9186666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_21",
+    "targetId": "HUM_Uttrakhand_Kumaon_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9186666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8160000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8160000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.7733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.8386666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8386666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8119146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8119146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_13",
+    "targetId": "HUM_Uttrakhand_Garhwal_31",
+    "relationType": "friend",
+    "influenceWeight": 0.881248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_31",
+    "targetId": "HUM_Uttrakhand_Kumaon_13",
+    "relationType": "friend",
+    "influenceWeight": 0.881248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_13",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_13",
+    "relationType": "friend",
+    "influenceWeight": 0.889248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_13",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8213333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_13",
+    "relationType": "friend",
+    "influenceWeight": 0.8213333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Garhwal_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_14",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Garhwal_14",
+    "relationType": "friend",
+    "influenceWeight": 0.865248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_14",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.865248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.865248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.865248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Garhwal_0",
+    "relationType": "friend",
+    "influenceWeight": 0.865248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.865248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_17",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_39",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9253333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9253333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9400000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9400000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_39",
+    "relationType": "friend",
+    "influenceWeight": 0.9359146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9359146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.8985813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8586666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8586666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8693333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8693333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_19",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_19",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_21",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.9520000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_21",
+    "relationType": "friend",
+    "influenceWeight": 0.9520000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_21",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.9053333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Kumaon_21",
+    "relationType": "friend",
+    "influenceWeight": 0.9053333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.8933333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Kumaon_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_0",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.9692480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.9692480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_22",
+    "targetId": "HUM_Uttrakhand_Garhwal_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_2",
+    "targetId": "HUM_Uttrakhand_Kumaon_22",
+    "relationType": "friend",
+    "influenceWeight": 0.8959146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8479146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8479146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8225813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Kumaon_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_32",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_23",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_23",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.9093333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.9093333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9025813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.9025813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.9866666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.9866666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Garhwal_34",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8719146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Garhwal_39",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_28",
+    "relationType": "friend",
+    "influenceWeight": 0.9212480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.9212480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_4",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_17",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8293333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8293333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Garhwal_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8919146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8919146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8160000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8160000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_40",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8185813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8185813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_24",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_24",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.9000000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.9625813333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_31",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_31",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8425813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8425813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_32",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.8025813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8025813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_32",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Kumaon_32",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8826666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.849248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_34",
+    "targetId": "HUM_Uttrakhand_Kumaon_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_34",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_35",
+    "targetId": "HUM_Uttrakhand_Garhwal_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9159146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9159146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_35",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_35",
+    "relationType": "friend",
+    "influenceWeight": 0.9666666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8185813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8185813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Garhwal_28",
+    "relationType": "friend",
+    "influenceWeight": 0.8145813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.8145813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_28",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_28",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9733333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.8785813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_25",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_38",
+    "targetId": "HUM_Uttrakhand_Kumaon_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_1",
+    "targetId": "HUM_Uttrakhand_Kumaon_38",
+    "relationType": "friend",
+    "influenceWeight": 0.9133333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9026666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_39",
+    "relationType": "friend",
+    "influenceWeight": 0.9026666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_39",
+    "relationType": "friend",
+    "influenceWeight": 0.98,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9145813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.9145813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8733333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8345813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8345813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8413333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_41",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_29",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_29",
+    "targetId": "HUM_Uttrakhand_Kumaon_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_41",
+    "targetId": "HUM_Uttrakhand_Garhwal_25",
+    "relationType": "friend",
+    "influenceWeight": 0.8172480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8172480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_41",
+    "targetId": "HUM_Uttrakhand_Garhwal_13",
+    "relationType": "friend",
+    "influenceWeight": 0.8585813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_13",
+    "targetId": "HUM_Uttrakhand_Kumaon_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8585813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_41",
+    "targetId": "HUM_Uttrakhand_Kumaon_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_41",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.8533333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.8559146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Garhwal_12",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_12",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_42",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_42",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_21",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_21",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8200000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Garhwal_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9145813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_3",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.9145813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Garhwal_33",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8759146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8186666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_43",
+    "relationType": "friend",
+    "influenceWeight": 0.8186666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_44",
+    "targetId": "HUM_Uttrakhand_Kumaon_15",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_44",
+    "targetId": "HUM_Uttrakhand_Kumaon_20",
+    "relationType": "friend",
+    "influenceWeight": 0.8400000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8400000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_44",
+    "targetId": "HUM_Uttrakhand_Kumaon_27",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_27",
+    "targetId": "HUM_Uttrakhand_Kumaon_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_44",
+    "targetId": "HUM_Uttrakhand_Kumaon_39",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_39",
+    "targetId": "HUM_Uttrakhand_Kumaon_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_44",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.8585813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_44",
+    "relationType": "friend",
+    "influenceWeight": 0.8585813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_7",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_45",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_15",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_15",
+    "targetId": "HUM_Uttrakhand_Kumaon_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9225813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_45",
+    "targetId": "HUM_Uttrakhand_Garhwal_37",
+    "relationType": "friend",
+    "influenceWeight": 0.9692480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9692480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_17",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Kumaon_9",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_20",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_20",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.885248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.8400000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8400000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Garhwal_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_6",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8625813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Kumaon_10",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8760000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Kumaon_49",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_49",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_46",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_46",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.9292480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Kumaon_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_47",
+    "targetId": "HUM_Uttrakhand_Garhwal_45",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_47",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Kumaon_45",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_45",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.8960000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Garhwal_17",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_17",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.9492480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.9559146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_49",
+    "targetId": "HUM_Uttrakhand_Kumaon_33",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_33",
+    "targetId": "HUM_Uttrakhand_Kumaon_49",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_49",
+    "targetId": "HUM_Uttrakhand_Garhwal_11",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_11",
+    "targetId": "HUM_Uttrakhand_Kumaon_49",
+    "relationType": "friend",
+    "influenceWeight": 0.8825813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_49",
+    "targetId": "HUM_Uttrakhand_Kumaon_37",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_37",
+    "targetId": "HUM_Uttrakhand_Kumaon_49",
+    "relationType": "friend",
+    "influenceWeight": 0.8666666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Garhwal_10",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_10",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.905248,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Kumaon_44",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_44",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_50",
+    "targetId": "HUM_Uttrakhand_Garhwal_36",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_36",
+    "targetId": "HUM_Uttrakhand_Kumaon_50",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Garhwal_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_5",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "friend",
+    "influenceWeight": 0.9425813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Kumaon_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_7",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "friend",
+    "influenceWeight": 0.9266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_51",
+    "targetId": "HUM_Uttrakhand_Garhwal_26",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_26",
+    "targetId": "HUM_Uttrakhand_Kumaon_51",
+    "relationType": "friend",
+    "influenceWeight": 0.9092480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_43",
+    "targetId": "HUM_Uttrakhand_Kumaon_12",
+    "relationType": "friend",
+    "influenceWeight": 0.3121870630884115,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_12",
+    "targetId": "HUM_Uttrakhand_Garhwal_43",
+    "relationType": "friend",
+    "influenceWeight": 0.3121870630884115,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_18",
+    "targetId": "HUM_Uttrakhand_Garhwal_30",
+    "relationType": "friend",
+    "influenceWeight": 0.38889341562566293,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_30",
+    "targetId": "HUM_Uttrakhand_Kumaon_18",
+    "relationType": "friend",
+    "influenceWeight": 0.38889341562566293,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_8",
+    "targetId": "HUM_Uttrakhand_Kumaon_40",
+    "relationType": "friend",
+    "influenceWeight": 0.2672805123368991,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_40",
+    "targetId": "HUM_Uttrakhand_Kumaon_8",
+    "relationType": "friend",
+    "influenceWeight": 0.2672805123368991,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_25",
+    "targetId": "HUM_Uttrakhand_Kumaon_16",
+    "relationType": "friend",
+    "influenceWeight": 0.2863486182377767,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_16",
+    "targetId": "HUM_Uttrakhand_Garhwal_25",
+    "relationType": "friend",
+    "influenceWeight": 0.2863486182377767,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Kumaon_48",
+    "targetId": "HUM_Uttrakhand_Garhwal_9",
+    "relationType": "friend",
+    "influenceWeight": 0.33661394846722825,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Uttrakhand_Garhwal_9",
+    "targetId": "HUM_Uttrakhand_Kumaon_48",
+    "relationType": "friend",
+    "influenceWeight": 0.33661394846722825,
+    "bidirectional": true
+  }
+]

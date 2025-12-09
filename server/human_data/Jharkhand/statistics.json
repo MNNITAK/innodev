@@ -1,0 +1,76 @@
+{
+  "stats": {
+    "totalPopulation": 319,
+    "totalConnections": 4342,
+    "avgDegree": 13.61128526645768,
+    "demographics": {
+      "avgAge": 37,
+      "ageRange": {
+        "min": 18,
+        "max": 85
+      },
+      "sexRatio": {
+        "male": 165,
+        "female": 154
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 319,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 25250,
+      "incomeRange": {
+        "min": 25250,
+        "max": 25250
+      },
+      "povertyRate": "31.35",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 152,
+        "Manufacturing": 46,
+        "Services": 90,
+        "Informal": 31
+      }
+    },
+    "network": {
+      "familyConnections": 1458,
+      "friendConnections": 2884,
+      "strongConnections": 2956,
+      "weakConnections": 22
+    },
+    "behavioral": {
+      "avgTrust": 50,
+      "avgAdaptability": 53
+    }
+  },
+  "divisionStats": {
+    "Kolhan": {
+      "households": 11,
+      "population": 69,
+      "avgFamilySize": "6.27"
+    },
+    "North Chotanagpur": {
+      "households": 12,
+      "population": 70,
+      "avgFamilySize": "5.83"
+    },
+    "Palamu": {
+      "households": 12,
+      "population": 63,
+      "avgFamilySize": "5.25"
+    },
+    "Santhal Pargana": {
+      "households": 11,
+      "population": 53,
+      "avgFamilySize": "4.82"
+    },
+    "South Chotanagpur": {
+      "households": 11,
+      "population": 64,
+      "avgFamilySize": "5.82"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:29.562Z"
+}

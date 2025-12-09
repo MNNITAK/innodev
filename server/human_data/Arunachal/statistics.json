@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "totalPopulation": 19,
+    "totalConnections": 186,
+    "avgDegree": 9.789473684210526,
+    "demographics": {
+      "avgAge": 40,
+      "ageRange": {
+        "min": 18,
+        "max": 66
+      },
+      "sexRatio": {
+        "male": 9,
+        "female": 10
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 19,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 675,
+      "incomeRange": {
+        "min": 649,
+        "max": 698
+      },
+      "povertyRate": "26.32",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 13,
+        "Services": 4,
+        "Informal": 1,
+        "Manufacturing": 1
+      }
+    },
+    "network": {
+      "familyConnections": 14,
+      "friendConnections": 172,
+      "strongConnections": 166,
+      "weakConnections": 0
+    },
+    "behavioral": {
+      "avgTrust": 53,
+      "avgAdaptability": 40
+    }
+  },
+  "divisionStats": {
+    "Western Himalayan Buddhist": {
+      "households": 3,
+      "population": 5,
+      "avgFamilySize": "1.67"
+    },
+    "Central Tribal Highlands": {
+      "households": 3,
+      "population": 4,
+      "avgFamilySize": "1.33"
+    },
+    "Siang River Basin": {
+      "households": 3,
+      "population": 5,
+      "avgFamilySize": "1.67"
+    },
+    "Mishmi Dibang High Mountain": {
+      "households": 3,
+      "population": 5,
+      "avgFamilySize": "1.67"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:28.911Z"
+}

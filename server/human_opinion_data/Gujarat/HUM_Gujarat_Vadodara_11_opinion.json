@@ -1,0 +1,27 @@
+{
+  "opinion": 0.09329669270865143,
+  "confidence": 0.556227,
+  "reasoning": "I'm neutral because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.34414632630229475,
+    "socialScore": 0.3114,
+    "convenienceScore": 0.092475,
+    "healthEnvScore": 0,
+    "relevance": 0.35113500000000003,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:33.834Z",
+    "humanId": "HUM_Gujarat_Vadodara_11"
+  },
+  "humanId": "HUM_Gujarat_Vadodara_11",
+  "state": "Gujarat"
+}

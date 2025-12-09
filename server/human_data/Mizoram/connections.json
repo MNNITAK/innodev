@@ -1,0 +1,758 @@
+[
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_3",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Southern Zone_3",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8635386666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8635386666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7154533333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7154533333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7021200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_3",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7021200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7571626666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7571626666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7771626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7771626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6954533333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6954533333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7835386666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7835386666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.71012,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.71012,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.78212,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.78212,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7687866666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_3",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7687866666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8504960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8504960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_2",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7754533333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7754533333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_2",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.6887866666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Northern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.6887866666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_2",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6687866666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.6687866666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_2",
+    "targetId": "HUM_Mizoram_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.6704960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_2",
+    "targetId": "HUM_Mizoram_Northern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.6704960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_2",
+    "targetId": "HUM_Mizoram_Southern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7021200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_3",
+    "targetId": "HUM_Mizoram_Northern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7021200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_2",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.590496,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.590496,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_2",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7302053333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7302053333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_2",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.590496,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.590496,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8236240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8236240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7839146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7839146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9186666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_3",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9186666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8236240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8236240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8320000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8169573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_2",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8169573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.723624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.723624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7436240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7436240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.5821200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.5821200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6639146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6639146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9320000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9320000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.871624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.871624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8516240000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8516240000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_3",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8253333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8253333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_3",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8385813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Southern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8385813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9600000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8304960000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8304960000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8269573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8269573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8469573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8469573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_2",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7371626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7371626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_2",
+    "targetId": "HUM_Mizoram_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8266666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_2",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9669573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9669573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_2",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8869573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8869573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7702053333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7702053333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8269573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Eastern Zone_0",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8269573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_2",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8519146666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6639146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_1",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6639146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_0",
+    "targetId": "HUM_Mizoram_Southern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7839146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Southern Zone_0",
+    "targetId": "HUM_Mizoram_Western Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7839146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7702053333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7702053333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Northern Zone_1",
+    "targetId": "HUM_Mizoram_Western Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.3839720546198042,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Mizoram_Western Zone_1",
+    "targetId": "HUM_Mizoram_Northern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.3839720546198042,
+    "bidirectional": true
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "stats": {
+    "totalPopulation": 23,
+    "totalConnections": 220,
+    "avgDegree": 9.565217391304348,
+    "demographics": {
+      "avgAge": 34,
+      "ageRange": {
+        "min": 18,
+        "max": 55
+      },
+      "sexRatio": {
+        "male": 13,
+        "female": 10
+      },
+      "urbanization": {
+        "urban": 4,
+        "semiUrban": 19,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 6332,
+      "incomeRange": {
+        "min": 3470,
+        "max": 10400
+      },
+      "povertyRate": "8.70",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 9,
+        "Unemployed": 6,
+        "Informal": 2,
+        "Services": 6
+      }
+    },
+    "network": {
+      "familyConnections": 10,
+      "friendConnections": 210,
+      "strongConnections": 194,
+      "weakConnections": 4
+    },
+    "behavioral": {
+      "avgTrust": 65,
+      "avgAdaptability": 83
+    }
+  },
+  "divisionStats": {
+    "Tiswadi": {
+      "households": 1,
+      "population": 2,
+      "avgFamilySize": "2.00"
+    },
+    "Bardez": {
+      "households": 1,
+      "population": 2,
+      "avgFamilySize": "2.00"
+    },
+    "Pernem": {
+      "households": 2,
+      "population": 2,
+      "avgFamilySize": "1.00"
+    },
+    "Bicholim": {
+      "households": 2,
+      "population": 3,
+      "avgFamilySize": "1.50"
+    },
+    "Sattari": {
+      "households": 2,
+      "population": 2,
+      "avgFamilySize": "1.00"
+    },
+    "Sanguem": {
+      "households": 1,
+      "population": 2,
+      "avgFamilySize": "2.00"
+    },
+    "Mormugao": {
+      "households": 2,
+      "population": 2,
+      "avgFamilySize": "1.00"
+    },
+    "Salcete": {
+      "households": 2,
+      "population": 2,
+      "avgFamilySize": "1.00"
+    },
+    "Quepem": {
+      "households": 1,
+      "population": 2,
+      "avgFamilySize": "2.00"
+    },
+    "Canacona": {
+      "households": 2,
+      "population": 2,
+      "avgFamilySize": "1.00"
+    },
+    "Vascocda": {
+      "households": 2,
+      "population": 2,
+      "avgFamilySize": "1.00"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:29.458Z"
+}

@@ -1,0 +1,3018 @@
+{
+  "nodes": [
+    {
+      "id": "HUM_Manipur_Central Valley_0",
+      "label": "HUM_Manipur_Central Valley_0",
+      "age": 35,
+      "householdId": "HH_Manipur_Central Valley_0",
+      "state": "Manipur",
+      "district": "Central Valley",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_Manipur_Central Valley_1",
+      "label": "HUM_Manipur_Central Valley_1",
+      "age": 30,
+      "householdId": "HH_Manipur_Central Valley_0",
+      "state": "Manipur",
+      "district": "Central Valley",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_Manipur_Central Valley_2",
+      "label": "HUM_Manipur_Central Valley_2",
+      "age": 53,
+      "householdId": "HH_Manipur_Central Valley_1",
+      "state": "Manipur",
+      "district": "Central Valley",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_Manipur_Central Valley_3",
+      "label": "HUM_Manipur_Central Valley_3",
+      "age": 55,
+      "householdId": "HH_Manipur_Central Valley_1",
+      "state": "Manipur",
+      "district": "Central Valley",
+      "education": 1,
+      "income": 8420
+    },
+    {
+      "id": "HUM_Manipur_Central Valley_4",
+      "label": "HUM_Manipur_Central Valley_4",
+      "age": 53,
+      "householdId": "HH_Manipur_Central Valley_2",
+      "state": "Manipur",
+      "district": "Central Valley",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_Manipur_Central Valley_5",
+      "label": "HUM_Manipur_Central Valley_5",
+      "age": 52,
+      "householdId": "HH_Manipur_Central Valley_2",
+      "state": "Manipur",
+      "district": "Central Valley",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_Manipur_Central Valley_6",
+      "label": "HUM_Manipur_Central Valley_6",
+      "age": 48,
+      "householdId": "HH_Manipur_Central Valley_3",
+      "state": "Manipur",
+      "district": "Central Valley",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_Manipur_Central Valley_7",
+      "label": "HUM_Manipur_Central Valley_7",
+      "age": 31,
+      "householdId": "HH_Manipur_Central Valley_4",
+      "state": "Manipur",
+      "district": "Central Valley",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_0",
+      "label": "HUM_Manipur_Southern Hills_0",
+      "age": 44,
+      "householdId": "HH_Manipur_Southern Hills_0",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 2,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_1",
+      "label": "HUM_Manipur_Southern Hills_1",
+      "age": 52,
+      "householdId": "HH_Manipur_Southern Hills_1",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 2,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_2",
+      "label": "HUM_Manipur_Southern Hills_2",
+      "age": 18,
+      "householdId": "HH_Manipur_Southern Hills_1",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 2,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_3",
+      "label": "HUM_Manipur_Southern Hills_3",
+      "age": 59,
+      "householdId": "HH_Manipur_Southern Hills_2",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 1,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_4",
+      "label": "HUM_Manipur_Southern Hills_4",
+      "age": 56,
+      "householdId": "HH_Manipur_Southern Hills_2",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 2,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_5",
+      "label": "HUM_Manipur_Southern Hills_5",
+      "age": 44,
+      "householdId": "HH_Manipur_Southern Hills_3",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 0,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_6",
+      "label": "HUM_Manipur_Southern Hills_6",
+      "age": 47,
+      "householdId": "HH_Manipur_Southern Hills_3",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 1,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_7",
+      "label": "HUM_Manipur_Southern Hills_7",
+      "age": 46,
+      "householdId": "HH_Manipur_Southern Hills_4",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 0,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Southern Hills_8",
+      "label": "HUM_Manipur_Southern Hills_8",
+      "age": 43,
+      "householdId": "HH_Manipur_Southern Hills_4",
+      "state": "Manipur",
+      "district": "Southern Hills",
+      "education": 1,
+      "income": 16340
+    },
+    {
+      "id": "HUM_Manipur_Northern Hills_0",
+      "label": "HUM_Manipur_Northern Hills_0",
+      "age": 62,
+      "householdId": "HH_Manipur_Northern Hills_0",
+      "state": "Manipur",
+      "district": "Northern Hills",
+      "education": 0,
+      "income": 17825
+    },
+    {
+      "id": "HUM_Manipur_Northern Hills_1",
+      "label": "HUM_Manipur_Northern Hills_1",
+      "age": 29,
+      "householdId": "HH_Manipur_Northern Hills_1",
+      "state": "Manipur",
+      "district": "Northern Hills",
+      "education": 2,
+      "income": 17825
+    },
+    {
+      "id": "HUM_Manipur_Northern Hills_2",
+      "label": "HUM_Manipur_Northern Hills_2",
+      "age": 25,
+      "householdId": "HH_Manipur_Northern Hills_2",
+      "state": "Manipur",
+      "district": "Northern Hills",
+      "education": 2,
+      "income": 17825
+    },
+    {
+      "id": "HUM_Manipur_Northern Hills_3",
+      "label": "HUM_Manipur_Northern Hills_3",
+      "age": 35,
+      "householdId": "HH_Manipur_Northern Hills_3",
+      "state": "Manipur",
+      "district": "Northern Hills",
+      "education": 0,
+      "income": 17825
+    },
+    {
+      "id": "HUM_Manipur_Northern Hills_4",
+      "label": "HUM_Manipur_Northern Hills_4",
+      "age": 34,
+      "householdId": "HH_Manipur_Northern Hills_4",
+      "state": "Manipur",
+      "district": "Northern Hills",
+      "education": 2,
+      "income": 17825
+    },
+    {
+      "id": "HUM_Manipur_Northern Hills_5",
+      "label": "HUM_Manipur_Northern Hills_5",
+      "age": 23,
+      "householdId": "HH_Manipur_Northern Hills_5",
+      "state": "Manipur",
+      "district": "Northern Hills",
+      "education": 2,
+      "income": 17825
+    },
+    {
+      "id": "HUM_Manipur_Eastern Zone_0",
+      "label": "HUM_Manipur_Eastern Zone_0",
+      "age": 39,
+      "householdId": "HH_Manipur_Eastern Zone_0",
+      "state": "Manipur",
+      "district": "Eastern Zone",
+      "education": 2,
+      "income": 15350
+    },
+    {
+      "id": "HUM_Manipur_Eastern Zone_1",
+      "label": "HUM_Manipur_Eastern Zone_1",
+      "age": 59,
+      "householdId": "HH_Manipur_Eastern Zone_1",
+      "state": "Manipur",
+      "district": "Eastern Zone",
+      "education": 0,
+      "income": 15350
+    },
+    {
+      "id": "HUM_Manipur_Eastern Zone_2",
+      "label": "HUM_Manipur_Eastern Zone_2",
+      "age": 19,
+      "householdId": "HH_Manipur_Eastern Zone_2",
+      "state": "Manipur",
+      "district": "Eastern Zone",
+      "education": 2,
+      "income": 15350
+    },
+    {
+      "id": "HUM_Manipur_Eastern Zone_3",
+      "label": "HUM_Manipur_Eastern Zone_3",
+      "age": 44,
+      "householdId": "HH_Manipur_Eastern Zone_3",
+      "state": "Manipur",
+      "district": "Eastern Zone",
+      "education": 0,
+      "income": 15350
+    }
+  ],
+  "edges": [
+    {
+      "source": "HUM_Manipur_Central Valley_0",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Central Valley_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_3",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Central Valley_3",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_4",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Central Valley_4",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Southern Hills_2",
+      "type": "parent",
+      "weight": 0.6
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_2",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "child",
+      "weight": 0.7
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Southern Hills_5",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_5",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Southern Hills_8",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_8",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_0",
+      "target": "HUM_Manipur_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.7627013333333332
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_2",
+      "target": "HUM_Manipur_Central Valley_0",
+      "type": "friend",
+      "weight": 0.7627013333333332
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_0",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.7254280000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Central Valley_0",
+      "type": "friend",
+      "weight": 0.7254280000000002
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_0",
+      "target": "HUM_Manipur_Central Valley_4",
+      "type": "friend",
+      "weight": 0.8600000000000001
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_4",
+      "target": "HUM_Manipur_Central Valley_0",
+      "type": "friend",
+      "weight": 0.8600000000000001
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_0",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.7987613333333335
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Central Valley_0",
+      "type": "friend",
+      "weight": 0.7987613333333335
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_0",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.7854280000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Central Valley_0",
+      "type": "friend",
+      "weight": 0.7854280000000002
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.6480346666666666
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.6480346666666666
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Central Valley_4",
+      "type": "friend",
+      "weight": 0.6946666666666667
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_4",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.6946666666666667
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.9253333333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.9253333333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Southern Hills_2",
+      "type": "friend",
+      "weight": 0.7329920000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_2",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.7329920000000001
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.7196586666666669
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.7196586666666669
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.7587613333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.7587613333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.9186666666666667
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.9186666666666667
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.9253333333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.9253333333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "friend",
+      "weight": 0.9383253333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.9383253333333335
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_3",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.7693333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Central Valley_3",
+      "type": "friend",
+      "weight": 0.7693333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_3",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "friend",
+      "weight": 0.8343253333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Central Valley_3",
+      "type": "friend",
+      "weight": 0.8343253333333335
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_3",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.7263253333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Central Valley_3",
+      "type": "friend",
+      "weight": 0.7263253333333335
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_4",
+      "target": "HUM_Manipur_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.721368
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_1",
+      "target": "HUM_Manipur_Central Valley_4",
+      "type": "friend",
+      "weight": 0.721368
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_4",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.729368
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Central Valley_4",
+      "type": "friend",
+      "weight": 0.729368
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_4",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.7493333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Central Valley_4",
+      "type": "friend",
+      "weight": 0.7493333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_4",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.7343253333333334
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Central Valley_4",
+      "type": "friend",
+      "weight": 0.7343253333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.7213333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.7213333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.9533333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.9533333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "friend",
+      "weight": 0.8969920000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.8969920000000001
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "friend",
+      "weight": 0.8183253333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.8183253333333335
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.6947013333333334
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_1",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.6947013333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.7694280000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.7694280000000002
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.8916586666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.8916586666666667
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.7360946666666668
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.7360946666666668
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8933680000000002
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.8933680000000002
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.8120946666666669
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.8120946666666669
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.7520946666666668
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.7520946666666668
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Central Valley_0",
+      "type": "friend",
+      "weight": 0.8893333333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_0",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.8893333333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.6663253333333334
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.6663253333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.7213333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.7213333333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8160346666666667
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.8160346666666667
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Northern Hills_3",
+      "type": "friend",
+      "weight": 0.7467613333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_3",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.7467613333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.7009920000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.7009920000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.891624
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.891624
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.8866666666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.8866666666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.9183253333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.9183253333333334
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "friend",
+      "weight": 0.8986666666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.8986666666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.8520000000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.8520000000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "friend",
+      "weight": 0.8800000000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.8800000000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Southern Hills_5",
+      "type": "friend",
+      "weight": 0.7986666666666669
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_5",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "friend",
+      "weight": 0.7986666666666669
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.8703253333333335
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "friend",
+      "weight": 0.8703253333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.7902906666666667
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "friend",
+      "weight": 0.7902906666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_2",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.9191026666666666
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Southern Hills_2",
+      "type": "friend",
+      "weight": 0.9191026666666666
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_2",
+      "target": "HUM_Manipur_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.9169573333333334
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_2",
+      "target": "HUM_Manipur_Southern Hills_2",
+      "type": "friend",
+      "weight": 0.9169573333333334
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_2",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.7463253333333335
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Southern Hills_2",
+      "type": "friend",
+      "weight": 0.7463253333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.7969920000000003
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "friend",
+      "weight": 0.7969920000000003
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.8333333333333333
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "friend",
+      "weight": 0.8333333333333333
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.8116586666666668
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "friend",
+      "weight": 0.8116586666666668
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.8257693333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.8257693333333334
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Northern Hills_0",
+      "type": "friend",
+      "weight": 0.8244360000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_0",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.8244360000000002
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_5",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.8257693333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Southern Hills_5",
+      "type": "friend",
+      "weight": 0.8257693333333334
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_5",
+      "target": "HUM_Manipur_Southern Hills_8",
+      "type": "friend",
+      "weight": 0.8453333333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_8",
+      "target": "HUM_Manipur_Southern Hills_5",
+      "type": "friend",
+      "weight": 0.8453333333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_5",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.8400000000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Southern Hills_5",
+      "type": "friend",
+      "weight": 0.8400000000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_5",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.9386666666666668
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Southern Hills_5",
+      "type": "friend",
+      "weight": 0.9386666666666668
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Northern Hills_0",
+      "type": "friend",
+      "weight": 0.7644360000000001
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_0",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "friend",
+      "weight": 0.7644360000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.7969920000000003
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "friend",
+      "weight": 0.7969920000000003
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "friend",
+      "weight": 0.9200000000000002
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "friend",
+      "weight": 0.9200000000000002
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.812
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "friend",
+      "weight": 0.812
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "friend",
+      "weight": 0.8186666666666669
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "friend",
+      "weight": 0.8186666666666669
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8449573333333333
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.8449573333333333
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.7511026666666667
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.7511026666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Central Valley_0",
+      "type": "friend",
+      "weight": 0.7276586666666668
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_0",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.7276586666666668
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.7903253333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.7903253333333334
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_8",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.7836586666666668
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Southern Hills_8",
+      "type": "friend",
+      "weight": 0.7836586666666668
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_8",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "friend",
+      "weight": 0.8253333333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Southern Hills_8",
+      "type": "friend",
+      "weight": 0.8253333333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_8",
+      "target": "HUM_Manipur_Northern Hills_2",
+      "type": "friend",
+      "weight": 0.7444360000000001
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_2",
+      "target": "HUM_Manipur_Southern Hills_8",
+      "type": "friend",
+      "weight": 0.7444360000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_8",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "friend",
+      "weight": 0.9053333333333333
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Southern Hills_8",
+      "type": "friend",
+      "weight": 0.9053333333333333
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_8",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8169573333333333
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Southern Hills_8",
+      "type": "friend",
+      "weight": 0.8169573333333333
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_8",
+      "target": "HUM_Manipur_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.7209573333333334
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_1",
+      "target": "HUM_Manipur_Southern Hills_8",
+      "type": "friend",
+      "weight": 0.7209573333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_0",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.7694280000000002
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Northern Hills_0",
+      "type": "friend",
+      "weight": 0.7694280000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_0",
+      "target": "HUM_Manipur_Southern Hills_5",
+      "type": "friend",
+      "weight": 0.8244360000000002
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_5",
+      "target": "HUM_Manipur_Northern Hills_0",
+      "type": "friend",
+      "weight": 0.8244360000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.9466666666666668
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.9466666666666668
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.9400000000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.9400000000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Southern Hills_1",
+      "type": "friend",
+      "weight": 0.7711026666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_1",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.7711026666666667
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.8124360000000002
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.8124360000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_2",
+      "target": "HUM_Manipur_Southern Hills_6",
+      "type": "friend",
+      "weight": 0.6977693333333335
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_6",
+      "target": "HUM_Manipur_Northern Hills_2",
+      "type": "friend",
+      "weight": 0.6977693333333335
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_2",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.7720946666666668
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Northern Hills_2",
+      "type": "friend",
+      "weight": 0.7720946666666668
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_2",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.8177693333333333
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Northern Hills_2",
+      "type": "friend",
+      "weight": 0.8177693333333333
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_2",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.7360946666666668
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Northern Hills_2",
+      "type": "friend",
+      "weight": 0.7360946666666668
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_2",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8227266666666668
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Northern Hills_2",
+      "type": "friend",
+      "weight": 0.8227266666666668
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_2",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.7027613333333335
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Northern Hills_2",
+      "type": "friend",
+      "weight": 0.7027613333333335
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_3",
+      "target": "HUM_Manipur_Southern Hills_0",
+      "type": "friend",
+      "weight": 0.8524360000000002
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_0",
+      "target": "HUM_Manipur_Northern Hills_3",
+      "type": "friend",
+      "weight": 0.8524360000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_3",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.812
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Northern Hills_3",
+      "type": "friend",
+      "weight": 0.812
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_3",
+      "target": "HUM_Manipur_Southern Hills_7",
+      "type": "friend",
+      "weight": 0.8991026666666666
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_7",
+      "target": "HUM_Manipur_Northern Hills_3",
+      "type": "friend",
+      "weight": 0.8991026666666666
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Southern Hills_2",
+      "type": "friend",
+      "weight": 0.8657693333333334
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_2",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.8657693333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Northern Hills_3",
+      "type": "friend",
+      "weight": 0.8453333333333335
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_3",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.8453333333333335
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Central Valley_1",
+      "type": "friend",
+      "weight": 0.7787613333333334
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_1",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.7787613333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.7960946666666668
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.7960946666666668
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.9066666666666667
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.9066666666666667
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Northern Hills_2",
+      "type": "friend",
+      "weight": 0.9200000000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_2",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.9200000000000002
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Central Valley_3",
+      "type": "friend",
+      "weight": 0.6054280000000001
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_3",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.6054280000000001
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Southern Hills_2",
+      "type": "friend",
+      "weight": 0.9391026666666666
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_2",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.9391026666666666
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Northern Hills_3",
+      "type": "friend",
+      "weight": 0.792
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_3",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.792
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8093933333333334
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.8093933333333334
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.8466666666666667
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_2",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8466666666666667
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Central Valley_5",
+      "type": "friend",
+      "weight": 0.8667013333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_5",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8667013333333333
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Southern Hills_4",
+      "type": "friend",
+      "weight": 0.8102906666666667
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_4",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8102906666666667
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.8493933333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8493933333333334
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_1",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.748
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.748
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_1",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.749368
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.749368
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_1",
+      "target": "HUM_Manipur_Southern Hills_3",
+      "type": "friend",
+      "weight": 0.7596240000000001
+    },
+    {
+      "source": "HUM_Manipur_Southern Hills_3",
+      "target": "HUM_Manipur_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.7596240000000001
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_2",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.7600346666666666
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.7600346666666666
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_2",
+      "target": "HUM_Manipur_Central Valley_7",
+      "type": "friend",
+      "weight": 0.7893680000000001
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_7",
+      "target": "HUM_Manipur_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.7893680000000001
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_2",
+      "target": "HUM_Manipur_Northern Hills_1",
+      "type": "friend",
+      "weight": 0.8493933333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_1",
+      "target": "HUM_Manipur_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.8493933333333334
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Central Valley_2",
+      "type": "friend",
+      "weight": 0.765368
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_2",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.765368
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8866666666666667
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_0",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.8866666666666667
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Northern Hills_4",
+      "type": "friend",
+      "weight": 0.7893933333333334
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_4",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.7893933333333334
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_3",
+      "target": "HUM_Manipur_Central Valley_6",
+      "type": "friend",
+      "weight": 0.8467013333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_6",
+      "target": "HUM_Manipur_Eastern Zone_3",
+      "type": "friend",
+      "weight": 0.8467013333333333
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_4",
+      "target": "HUM_Manipur_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.22982323136040989
+    },
+    {
+      "source": "HUM_Manipur_Eastern Zone_2",
+      "target": "HUM_Manipur_Central Valley_4",
+      "type": "friend",
+      "weight": 0.22982323136040989
+    },
+    {
+      "source": "HUM_Manipur_Northern Hills_5",
+      "target": "HUM_Manipur_Central Valley_3",
+      "type": "friend",
+      "weight": 0.20834815435371953
+    },
+    {
+      "source": "HUM_Manipur_Central Valley_3",
+      "target": "HUM_Manipur_Northern Hills_5",
+      "type": "friend",
+      "weight": 0.20834815435371953
+    }
+  ],
+  "adjacency": {
+    "HUM_Manipur_Central Valley_0": [
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.7627013333333332
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.7254280000000002
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_4",
+        "type": "friend",
+        "weight": 0.8600000000000001
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.7987613333333335
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.7854280000000002
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.8893333333333333
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.7276586666666668
+      }
+    ],
+    "HUM_Manipur_Central Valley_1": [
+      {
+        "target": "HUM_Manipur_Central Valley_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.6480346666666666
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_4",
+        "type": "friend",
+        "weight": 0.6946666666666667
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.9253333333333333
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_2",
+        "type": "friend",
+        "weight": 0.7329920000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.7196586666666669
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.7587613333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.7213333333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_2",
+        "type": "friend",
+        "weight": 0.7720946666666668
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.7787613333333334
+      }
+    ],
+    "HUM_Manipur_Central Valley_2": [
+      {
+        "target": "HUM_Manipur_Central Valley_3",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.9186666666666667
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.9253333333333333
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "friend",
+        "weight": 0.9383253333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.7213333333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "friend",
+        "weight": 0.7969920000000003
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "friend",
+        "weight": 0.7969920000000003
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.7903253333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_0",
+        "type": "friend",
+        "weight": 0.7694280000000002
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_2",
+        "type": "friend",
+        "weight": 0.7027613333333335
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.749368
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.765368
+      }
+    ],
+    "HUM_Manipur_Central Valley_3": [
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.7693333333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "friend",
+        "weight": 0.8343253333333335
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.7263253333333335
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.6054280000000001
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.20834815435371953
+      }
+    ],
+    "HUM_Manipur_Central Valley_4": [
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_0",
+        "type": "friend",
+        "weight": 0.8600000000000001
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.6946666666666667
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.721368
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.729368
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.7493333333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.7343253333333334
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.22982323136040989
+      }
+    ],
+    "HUM_Manipur_Central Valley_5": [
+      {
+        "target": "HUM_Manipur_Central Valley_4",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.9253333333333333
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.7213333333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.9533333333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "friend",
+        "weight": 0.8969920000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "friend",
+        "weight": 0.8183253333333335
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.6947013333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.7694280000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.8916586666666667
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.7360946666666668
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8667013333333333
+      }
+    ],
+    "HUM_Manipur_Central Valley_6": [
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.9186666666666667
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_3",
+        "type": "friend",
+        "weight": 0.7693333333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.9533333333333334
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8933680000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.9183253333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "friend",
+        "weight": 0.8703253333333335
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "friend",
+        "weight": 0.8116586666666668
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_8",
+        "type": "friend",
+        "weight": 0.7836586666666668
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_2",
+        "type": "friend",
+        "weight": 0.7360946666666668
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.7960946666666668
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.7600346666666666
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.8467013333333333
+      }
+    ],
+    "HUM_Manipur_Central Valley_7": [
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.9253333333333333
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_4",
+        "type": "friend",
+        "weight": 0.7493333333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.8120946666666669
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.7520946666666668
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_0",
+        "type": "friend",
+        "weight": 0.8893333333333333
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.6663253333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.7213333333333334
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8160346666666667
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_3",
+        "type": "friend",
+        "weight": 0.7467613333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.7009920000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_2",
+        "type": "friend",
+        "weight": 0.7463253333333335
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.7893680000000001
+      }
+    ],
+    "HUM_Manipur_Southern Hills_0": [
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.7196586666666669
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.8916586666666667
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.891624
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.8866666666666667
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.9183253333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "friend",
+        "weight": 0.8986666666666667
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.8520000000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "friend",
+        "weight": 0.8800000000000001
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_2",
+        "type": "friend",
+        "weight": 0.8177693333333333
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_3",
+        "type": "friend",
+        "weight": 0.8524360000000002
+      }
+    ],
+    "HUM_Manipur_Southern Hills_1": [
+      {
+        "target": "HUM_Manipur_Southern Hills_2",
+        "type": "parent",
+        "weight": 0.6
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.9383253333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.8969920000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.8986666666666667
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_5",
+        "type": "friend",
+        "weight": 0.7986666666666669
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.8703253333333335
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.7902906666666667
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "friend",
+        "weight": 0.8186666666666669
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.7711026666666667
+      }
+    ],
+    "HUM_Manipur_Southern Hills_2": [
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "child",
+        "weight": 0.7
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.7329920000000001
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.9191026666666666
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.9169573333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.7463253333333335
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.8657693333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.9391026666666666
+      }
+    ],
+    "HUM_Manipur_Southern Hills_3": [
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_3",
+        "type": "friend",
+        "weight": 0.8343253333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.8183253333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.7969920000000003
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.8333333333333333
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.8116586666666668
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "friend",
+        "weight": 0.9200000000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_8",
+        "type": "friend",
+        "weight": 0.8253333333333335
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.7596240000000001
+      }
+    ],
+    "HUM_Manipur_Southern Hills_4": [
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_3",
+        "type": "friend",
+        "weight": 0.7263253333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.6663253333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.8520000000000001
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.8257693333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_0",
+        "type": "friend",
+        "weight": 0.8244360000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_5",
+        "type": "friend",
+        "weight": 0.8400000000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "friend",
+        "weight": 0.812
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.8124360000000002
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8102906666666667
+      }
+    ],
+    "HUM_Manipur_Southern Hills_5": [
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "friend",
+        "weight": 0.7986666666666669
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.8257693333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_8",
+        "type": "friend",
+        "weight": 0.8453333333333335
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.8400000000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.9386666666666668
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_0",
+        "type": "friend",
+        "weight": 0.8244360000000002
+      }
+    ],
+    "HUM_Manipur_Southern Hills_6": [
+      {
+        "target": "HUM_Manipur_Southern Hills_5",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.8800000000000001
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_0",
+        "type": "friend",
+        "weight": 0.7644360000000001
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.7969920000000003
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "friend",
+        "weight": 0.9200000000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.812
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "friend",
+        "weight": 0.8186666666666669
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_8",
+        "type": "friend",
+        "weight": 0.9053333333333333
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_2",
+        "type": "friend",
+        "weight": 0.6977693333333335
+      }
+    ],
+    "HUM_Manipur_Southern Hills_7": [
+      {
+        "target": "HUM_Manipur_Southern Hills_8",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_4",
+        "type": "friend",
+        "weight": 0.7343253333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.7009920000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.8866666666666667
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "friend",
+        "weight": 0.8333333333333333
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_5",
+        "type": "friend",
+        "weight": 0.9386666666666668
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8449573333333333
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.7511026666666667
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_0",
+        "type": "friend",
+        "weight": 0.7276586666666668
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.7903253333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_3",
+        "type": "friend",
+        "weight": 0.8991026666666666
+      }
+    ],
+    "HUM_Manipur_Southern Hills_8": [
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_5",
+        "type": "friend",
+        "weight": 0.8453333333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.7836586666666668
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "friend",
+        "weight": 0.8253333333333335
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_2",
+        "type": "friend",
+        "weight": 0.7444360000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "friend",
+        "weight": 0.9053333333333333
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8169573333333333
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.7209573333333334
+      }
+    ],
+    "HUM_Manipur_Northern Hills_0": [
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.8244360000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "friend",
+        "weight": 0.7644360000000001
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.7694280000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_5",
+        "type": "friend",
+        "weight": 0.8244360000000002
+      }
+    ],
+    "HUM_Manipur_Northern Hills_1": [
+      {
+        "target": "HUM_Manipur_Central Valley_0",
+        "type": "friend",
+        "weight": 0.7854280000000002
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.7360946666666668
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.8120946666666669
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_2",
+        "type": "friend",
+        "weight": 0.9191026666666666
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.7511026666666667
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.9466666666666668
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.9400000000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "friend",
+        "weight": 0.7711026666666667
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.8124360000000002
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_3",
+        "type": "friend",
+        "weight": 0.812
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8493933333333334
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.8493933333333334
+      }
+    ],
+    "HUM_Manipur_Northern Hills_2": [
+      {
+        "target": "HUM_Manipur_Southern Hills_8",
+        "type": "friend",
+        "weight": 0.7444360000000001
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_6",
+        "type": "friend",
+        "weight": 0.6977693333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.7720946666666668
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.8177693333333333
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.7360946666666668
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8227266666666668
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.7027613333333335
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.9200000000000002
+      }
+    ],
+    "HUM_Manipur_Northern Hills_3": [
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.7467613333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.8524360000000002
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.812
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.8991026666666666
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.8453333333333335
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.792
+      }
+    ],
+    "HUM_Manipur_Northern Hills_4": [
+      {
+        "target": "HUM_Manipur_Central Valley_0",
+        "type": "friend",
+        "weight": 0.7987613333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.7694280000000002
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.8257693333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_5",
+        "type": "friend",
+        "weight": 0.8257693333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.9466666666666668
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_2",
+        "type": "friend",
+        "weight": 0.8657693333333334
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_3",
+        "type": "friend",
+        "weight": 0.8453333333333335
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.7787613333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.7960946666666668
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.9066666666666667
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_2",
+        "type": "friend",
+        "weight": 0.9200000000000002
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_3",
+        "type": "friend",
+        "weight": 0.6054280000000001
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.7893933333333334
+      }
+    ],
+    "HUM_Manipur_Northern Hills_5": [
+      {
+        "target": "HUM_Manipur_Central Valley_0",
+        "type": "friend",
+        "weight": 0.7254280000000002
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.7587613333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.7520946666666668
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.9400000000000002
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.9066666666666667
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_2",
+        "type": "friend",
+        "weight": 0.9391026666666666
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_3",
+        "type": "friend",
+        "weight": 0.792
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8093933333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_3",
+        "type": "friend",
+        "weight": 0.20834815435371953
+      }
+    ],
+    "HUM_Manipur_Eastern Zone_0": [
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.8933680000000002
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.8160346666666667
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_7",
+        "type": "friend",
+        "weight": 0.8449573333333333
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_8",
+        "type": "friend",
+        "weight": 0.8169573333333333
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_2",
+        "type": "friend",
+        "weight": 0.8227266666666668
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_5",
+        "type": "friend",
+        "weight": 0.8093933333333334
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.8466666666666667
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.8667013333333333
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_4",
+        "type": "friend",
+        "weight": 0.8102906666666667
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.8493933333333334
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.8866666666666667
+      }
+    ],
+    "HUM_Manipur_Eastern Zone_1": [
+      {
+        "target": "HUM_Manipur_Central Valley_4",
+        "type": "friend",
+        "weight": 0.721368
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_5",
+        "type": "friend",
+        "weight": 0.6947013333333334
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_8",
+        "type": "friend",
+        "weight": 0.7209573333333334
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_3",
+        "type": "friend",
+        "weight": 0.748
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.749368
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_3",
+        "type": "friend",
+        "weight": 0.7596240000000001
+      }
+    ],
+    "HUM_Manipur_Eastern Zone_2": [
+      {
+        "target": "HUM_Manipur_Central Valley_0",
+        "type": "friend",
+        "weight": 0.7627013333333332
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_2",
+        "type": "friend",
+        "weight": 0.9169573333333334
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8466666666666667
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.7600346666666666
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_7",
+        "type": "friend",
+        "weight": 0.7893680000000001
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_1",
+        "type": "friend",
+        "weight": 0.8493933333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_4",
+        "type": "friend",
+        "weight": 0.22982323136040989
+      }
+    ],
+    "HUM_Manipur_Eastern Zone_3": [
+      {
+        "target": "HUM_Manipur_Central Valley_1",
+        "type": "friend",
+        "weight": 0.6480346666666666
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_4",
+        "type": "friend",
+        "weight": 0.729368
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_0",
+        "type": "friend",
+        "weight": 0.891624
+      },
+      {
+        "target": "HUM_Manipur_Southern Hills_1",
+        "type": "friend",
+        "weight": 0.7902906666666667
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.748
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_2",
+        "type": "friend",
+        "weight": 0.765368
+      },
+      {
+        "target": "HUM_Manipur_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8866666666666667
+      },
+      {
+        "target": "HUM_Manipur_Northern Hills_4",
+        "type": "friend",
+        "weight": 0.7893933333333334
+      },
+      {
+        "target": "HUM_Manipur_Central Valley_6",
+        "type": "friend",
+        "weight": 0.8467013333333333
+      }
+    ]
+  },
+  "nodeCount": 27,
+  "edgeCount": 244
+}

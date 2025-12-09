@@ -1,0 +1,27 @@
+{
+  "opinion": 0.007436783334211906,
+  "confidence": 0.5765750000000001,
+  "reasoning": "I'm neutral because I am unsure about the effects.",
+  "breakdown": {
+    "economicScore": 0.03413486296642357,
+    "socialScore": 0.11000000000000001,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.21037499999999998,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "The government announces free electricity subsidy of up to 200 units per month for all households wi",
+    "domain": "tax",
+    "timestamp": "2025-12-07T15:11:56.608Z",
+    "humanId": "HUM_GOA_Sattari_2"
+  },
+  "humanId": "HUM_GOA_Sattari_2",
+  "state": "Goa"
+}

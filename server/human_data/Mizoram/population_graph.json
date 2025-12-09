@@ -1,0 +1,1342 @@
+{
+  "nodes": [
+    {
+      "id": "HUM_Mizoram_Northern Zone_0",
+      "label": "HUM_Mizoram_Northern Zone_0",
+      "age": 31,
+      "householdId": "HH_Mizoram_Northern Zone_0",
+      "state": "Mizoram",
+      "district": "Northern Zone",
+      "education": 0,
+      "income": 2480
+    },
+    {
+      "id": "HUM_Mizoram_Northern Zone_1",
+      "label": "HUM_Mizoram_Northern Zone_1",
+      "age": 32,
+      "householdId": "HH_Mizoram_Northern Zone_0",
+      "state": "Mizoram",
+      "district": "Northern Zone",
+      "education": 2,
+      "income": 2480
+    },
+    {
+      "id": "HUM_Mizoram_Northern Zone_2",
+      "label": "HUM_Mizoram_Northern Zone_2",
+      "age": 61,
+      "householdId": "HH_Mizoram_Northern Zone_1",
+      "state": "Mizoram",
+      "district": "Northern Zone",
+      "education": 1,
+      "income": 2480
+    },
+    {
+      "id": "HUM_Mizoram_Southern Zone_0",
+      "label": "HUM_Mizoram_Southern Zone_0",
+      "age": 44,
+      "householdId": "HH_Mizoram_Southern Zone_0",
+      "state": "Mizoram",
+      "district": "Southern Zone",
+      "education": 2,
+      "income": 7430
+    },
+    {
+      "id": "HUM_Mizoram_Southern Zone_1",
+      "label": "HUM_Mizoram_Southern Zone_1",
+      "age": 62,
+      "householdId": "HH_Mizoram_Southern Zone_1",
+      "state": "Mizoram",
+      "district": "Southern Zone",
+      "education": 2,
+      "income": 7430
+    },
+    {
+      "id": "HUM_Mizoram_Southern Zone_2",
+      "label": "HUM_Mizoram_Southern Zone_2",
+      "age": 44,
+      "householdId": "HH_Mizoram_Southern Zone_2",
+      "state": "Mizoram",
+      "district": "Southern Zone",
+      "education": 2,
+      "income": 7430
+    },
+    {
+      "id": "HUM_Mizoram_Southern Zone_3",
+      "label": "HUM_Mizoram_Southern Zone_3",
+      "age": 46,
+      "householdId": "HH_Mizoram_Southern Zone_2",
+      "state": "Mizoram",
+      "district": "Southern Zone",
+      "education": 2,
+      "income": 7430
+    },
+    {
+      "id": "HUM_Mizoram_Eastern Zone_0",
+      "label": "HUM_Mizoram_Eastern Zone_0",
+      "age": 26,
+      "householdId": "HH_Mizoram_Eastern Zone_0",
+      "state": "Mizoram",
+      "district": "Eastern Zone",
+      "education": 2,
+      "income": 6440
+    },
+    {
+      "id": "HUM_Mizoram_Eastern Zone_1",
+      "label": "HUM_Mizoram_Eastern Zone_1",
+      "age": 29,
+      "householdId": "HH_Mizoram_Eastern Zone_1",
+      "state": "Mizoram",
+      "district": "Eastern Zone",
+      "education": 2,
+      "income": 6440
+    },
+    {
+      "id": "HUM_Mizoram_Eastern Zone_2",
+      "label": "HUM_Mizoram_Eastern Zone_2",
+      "age": 40,
+      "householdId": "HH_Mizoram_Eastern Zone_2",
+      "state": "Mizoram",
+      "district": "Eastern Zone",
+      "education": 0,
+      "income": 6440
+    },
+    {
+      "id": "HUM_Mizoram_Western Zone_0",
+      "label": "HUM_Mizoram_Western Zone_0",
+      "age": 36,
+      "householdId": "HH_Mizoram_Western Zone_0",
+      "state": "Mizoram",
+      "district": "Western Zone",
+      "education": 1,
+      "income": 5450
+    },
+    {
+      "id": "HUM_Mizoram_Western Zone_1",
+      "label": "HUM_Mizoram_Western Zone_1",
+      "age": 36,
+      "householdId": "HH_Mizoram_Western Zone_0",
+      "state": "Mizoram",
+      "district": "Western Zone",
+      "education": 0,
+      "income": 5450
+    }
+  ],
+  "edges": [
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_3",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Southern Zone_3",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.8635386666666668
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.8635386666666668
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.7154533333333335
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7154533333333335
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_3",
+      "type": "friend",
+      "weight": 0.7021200000000001
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_3",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7021200000000001
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.7571626666666668
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7571626666666668
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.7771626666666669
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7771626666666669
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.6954533333333335
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.6954533333333335
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.7835386666666667
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7835386666666667
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.71012
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.71012
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.78212
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.78212
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_3",
+      "type": "friend",
+      "weight": 0.7687866666666667
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_3",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.7687866666666667
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.8504960000000001
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.8504960000000001
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_2",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.7754533333333334
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.7754533333333334
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_2",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.6887866666666668
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.6887866666666668
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_2",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.6687866666666668
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.6687866666666668
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_2",
+      "target": "HUM_Mizoram_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.6704960000000001
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_2",
+      "target": "HUM_Mizoram_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.6704960000000001
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_2",
+      "target": "HUM_Mizoram_Southern Zone_3",
+      "type": "friend",
+      "weight": 0.7021200000000001
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_3",
+      "target": "HUM_Mizoram_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.7021200000000001
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_2",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.590496
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.590496
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_2",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.7302053333333334
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.7302053333333334
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_2",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.590496
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.590496
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8236240000000001
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.8236240000000001
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.7839146666666668
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.7839146666666668
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_3",
+      "type": "friend",
+      "weight": 0.9186666666666667
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_3",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.9186666666666667
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.8236240000000001
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.8236240000000001
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.8320000000000001
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.8320000000000001
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.8169573333333333
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_2",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.8169573333333333
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.723624
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.723624
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.7436240000000001
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.7436240000000001
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.5821200000000001
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.5821200000000001
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.6639146666666667
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.6639146666666667
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.9320000000000002
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.9320000000000002
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.8519146666666666
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.8519146666666666
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.871624
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.871624
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8516240000000002
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.8516240000000002
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.812
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.812
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_3",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.8253333333333335
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_3",
+      "type": "friend",
+      "weight": 0.8253333333333335
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_3",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.8385813333333334
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Southern Zone_3",
+      "type": "friend",
+      "weight": 0.8385813333333334
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.9600000000000002
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.9600000000000002
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.8304960000000002
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8304960000000002
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.8269573333333333
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8269573333333333
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.8469573333333333
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.8469573333333333
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_2",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.7371626666666669
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.7371626666666669
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_2",
+      "target": "HUM_Mizoram_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.8266666666666667
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.8266666666666667
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_2",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.9669573333333334
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.9669573333333334
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_2",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.8869573333333334
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.8869573333333334
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.7702053333333334
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.7702053333333334
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8269573333333333
+    },
+    {
+      "source": "HUM_Mizoram_Eastern Zone_0",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.8269573333333333
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_2",
+      "type": "friend",
+      "weight": 0.8519146666666666
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_2",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.8519146666666666
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.6639146666666667
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_1",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.6639146666666667
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_0",
+      "target": "HUM_Mizoram_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.7839146666666668
+    },
+    {
+      "source": "HUM_Mizoram_Southern Zone_0",
+      "target": "HUM_Mizoram_Western Zone_0",
+      "type": "friend",
+      "weight": 0.7839146666666668
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.7702053333333334
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.7702053333333334
+    },
+    {
+      "source": "HUM_Mizoram_Northern Zone_1",
+      "target": "HUM_Mizoram_Western Zone_1",
+      "type": "friend",
+      "weight": 0.3839720546198042
+    },
+    {
+      "source": "HUM_Mizoram_Western Zone_1",
+      "target": "HUM_Mizoram_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.3839720546198042
+    }
+  ],
+  "adjacency": {
+    "HUM_Mizoram_Northern Zone_0": [
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.8635386666666668
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.7154533333333335
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_3",
+        "type": "friend",
+        "weight": 0.7021200000000001
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.7571626666666668
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.7771626666666669
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.6954533333333335
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.7835386666666667
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.5821200000000001
+      }
+    ],
+    "HUM_Mizoram_Northern Zone_1": [
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.71012
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.78212
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_3",
+        "type": "friend",
+        "weight": 0.7687866666666667
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.8504960000000001
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8304960000000002
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.7371626666666669
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.7702053333333334
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.7702053333333334
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.3839720546198042
+      }
+    ],
+    "HUM_Mizoram_Northern Zone_2": [
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.7754533333333334
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.6887866666666668
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.6687866666666668
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.6704960000000001
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_3",
+        "type": "friend",
+        "weight": 0.7021200000000001
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.590496
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.7302053333333334
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.590496
+      }
+    ],
+    "HUM_Mizoram_Southern Zone_0": [
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.6954533333333335
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.6687866666666668
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8236240000000001
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.7839146666666668
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_3",
+        "type": "friend",
+        "weight": 0.9186666666666667
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.8236240000000001
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.8320000000000001
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.8169573333333333
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.9320000000000002
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.7839146666666668
+      }
+    ],
+    "HUM_Mizoram_Southern Zone_1": [
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.71012
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.7754533333333334
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.8320000000000001
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.723624
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.7436240000000001
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.5821200000000001
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.6639146666666667
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.812
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_3",
+        "type": "friend",
+        "weight": 0.8253333333333335
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.6639146666666667
+      }
+    ],
+    "HUM_Mizoram_Southern Zone_2": [
+      {
+        "target": "HUM_Mizoram_Southern Zone_3",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7154533333333335
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.78212
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.6887866666666668
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.9320000000000002
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.8519146666666666
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.871624
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8516240000000002
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.812
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.8519146666666666
+      }
+    ],
+    "HUM_Mizoram_Southern Zone_3": [
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7021200000000001
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.7687866666666667
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.7021200000000001
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.9186666666666667
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.8253333333333335
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.8385813333333334
+      }
+    ],
+    "HUM_Mizoram_Eastern Zone_0": [
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7571626666666668
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.590496
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.8236240000000001
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.7436240000000001
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.8516240000000002
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.9600000000000002
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.8304960000000002
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.8269573333333333
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.8269573333333333
+      }
+    ],
+    "HUM_Mizoram_Eastern Zone_1": [
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7771626666666669
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.8504960000000001
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.590496
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.8236240000000001
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.723624
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.871624
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.9600000000000002
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.8469573333333333
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.8266666666666667
+      }
+    ],
+    "HUM_Mizoram_Eastern Zone_2": [
+      {
+        "target": "HUM_Mizoram_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.6704960000000001
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.8169573333333333
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.7371626666666669
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.8266666666666667
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "friend",
+        "weight": 0.9669573333333334
+      },
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "friend",
+        "weight": 0.8869573333333334
+      }
+    ],
+    "HUM_Mizoram_Western Zone_0": [
+      {
+        "target": "HUM_Mizoram_Western Zone_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7835386666666667
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.7302053333333334
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.8469573333333333
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.8869573333333334
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.7702053333333334
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8269573333333333
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.8519146666666666
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.6639146666666667
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.7839146666666668
+      }
+    ],
+    "HUM_Mizoram_Western Zone_1": [
+      {
+        "target": "HUM_Mizoram_Western Zone_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.8635386666666668
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.7839146666666668
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.6639146666666667
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_2",
+        "type": "friend",
+        "weight": 0.8519146666666666
+      },
+      {
+        "target": "HUM_Mizoram_Southern Zone_3",
+        "type": "friend",
+        "weight": 0.8385813333333334
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8269573333333333
+      },
+      {
+        "target": "HUM_Mizoram_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.9669573333333334
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.7702053333333334
+      },
+      {
+        "target": "HUM_Mizoram_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.3839720546198042
+      }
+    ]
+  },
+  "nodeCount": 12,
+  "edgeCount": 108
+}

@@ -1,0 +1,1166 @@
+{
+  "nodes": [
+    {
+      "id": "HUM_Nagaland_Central Zone_0",
+      "label": "HUM_Nagaland_Central Zone_0",
+      "age": 43,
+      "householdId": "HH_Nagaland_Central Zone_0",
+      "state": "Nagaland",
+      "district": "Central Zone",
+      "education": 2,
+      "income": 6440
+    },
+    {
+      "id": "HUM_Nagaland_Central Zone_1",
+      "label": "HUM_Nagaland_Central Zone_1",
+      "age": 46,
+      "householdId": "HH_Nagaland_Central Zone_0",
+      "state": "Nagaland",
+      "district": "Central Zone",
+      "education": 2,
+      "income": 6440
+    },
+    {
+      "id": "HUM_Nagaland_Central Zone_2",
+      "label": "HUM_Nagaland_Central Zone_2",
+      "age": 32,
+      "householdId": "HH_Nagaland_Central Zone_1",
+      "state": "Nagaland",
+      "district": "Central Zone",
+      "education": 2,
+      "income": 6440
+    },
+    {
+      "id": "HUM_Nagaland_Central Zone_3",
+      "label": "HUM_Nagaland_Central Zone_3",
+      "age": 34,
+      "householdId": "HH_Nagaland_Central Zone_1",
+      "state": "Nagaland",
+      "district": "Central Zone",
+      "education": 2,
+      "income": 6440
+    },
+    {
+      "id": "HUM_Nagaland_Northern Zone_0",
+      "label": "HUM_Nagaland_Northern Zone_0",
+      "age": 30,
+      "householdId": "HH_Nagaland_Northern Zone_0",
+      "state": "Nagaland",
+      "district": "Northern Zone",
+      "education": 1,
+      "income": 9410
+    },
+    {
+      "id": "HUM_Nagaland_Northern Zone_1",
+      "label": "HUM_Nagaland_Northern Zone_1",
+      "age": 66,
+      "householdId": "HH_Nagaland_Northern Zone_1",
+      "state": "Nagaland",
+      "district": "Northern Zone",
+      "education": 0,
+      "income": 9410
+    },
+    {
+      "id": "HUM_Nagaland_Northern Zone_2",
+      "label": "HUM_Nagaland_Northern Zone_2",
+      "age": 41,
+      "householdId": "HH_Nagaland_Northern Zone_2",
+      "state": "Nagaland",
+      "district": "Northern Zone",
+      "education": 2,
+      "income": 9410
+    },
+    {
+      "id": "HUM_Nagaland_Eastern Zone_0",
+      "label": "HUM_Nagaland_Eastern Zone_0",
+      "age": 57,
+      "householdId": "HH_Nagaland_Eastern Zone_0",
+      "state": "Nagaland",
+      "district": "Eastern Zone",
+      "education": 1,
+      "income": 13370
+    },
+    {
+      "id": "HUM_Nagaland_Eastern Zone_1",
+      "label": "HUM_Nagaland_Eastern Zone_1",
+      "age": 53,
+      "householdId": "HH_Nagaland_Eastern Zone_0",
+      "state": "Nagaland",
+      "district": "Eastern Zone",
+      "education": 2,
+      "income": 13370
+    },
+    {
+      "id": "HUM_Nagaland_Eastern Zone_2",
+      "label": "HUM_Nagaland_Eastern Zone_2",
+      "age": 49,
+      "householdId": "HH_Nagaland_Eastern Zone_1",
+      "state": "Nagaland",
+      "district": "Eastern Zone",
+      "education": 2,
+      "income": 13370
+    },
+    {
+      "id": "HUM_Nagaland_Southern Zone_0",
+      "label": "HUM_Nagaland_Southern Zone_0",
+      "age": 38,
+      "householdId": "HH_Nagaland_Southern Zone_0",
+      "state": "Nagaland",
+      "district": "Southern Zone",
+      "education": 2,
+      "income": 10400
+    },
+    {
+      "id": "HUM_Nagaland_Southern Zone_1",
+      "label": "HUM_Nagaland_Southern Zone_1",
+      "age": 46,
+      "householdId": "HH_Nagaland_Southern Zone_1",
+      "state": "Nagaland",
+      "district": "Southern Zone",
+      "education": 2,
+      "income": 10400
+    }
+  ],
+  "edges": [
+    {
+      "source": "HUM_Nagaland_Central Zone_1",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Central Zone_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_0",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Eastern Zone_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.8553680000000001
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_2",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "friend",
+      "weight": 0.8553680000000001
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.8287013333333334
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "friend",
+      "weight": 0.8287013333333334
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.8884960000000002
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_1",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "friend",
+      "weight": 0.8884960000000002
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.9035386666666667
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_2",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "friend",
+      "weight": 0.9035386666666667
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.7220346666666668
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "friend",
+      "weight": 0.7220346666666668
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "friend",
+      "weight": 0.8920000000000001
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "friend",
+      "weight": 0.8920000000000001
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7702053333333334
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "friend",
+      "weight": 0.7702053333333334
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_1",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "friend",
+      "weight": 0.8866666666666667
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Central Zone_1",
+      "type": "friend",
+      "weight": 0.8866666666666667
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_1",
+      "target": "HUM_Nagaland_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.9433680000000002
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_2",
+      "target": "HUM_Nagaland_Central Zone_1",
+      "type": "friend",
+      "weight": 0.9433680000000002
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.8300346666666667
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_2",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "friend",
+      "weight": 0.8300346666666667
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Central Zone_0",
+      "type": "friend",
+      "weight": 0.8586666666666667
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_0",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "friend",
+      "weight": 0.8586666666666667
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.7953680000000002
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_2",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "friend",
+      "weight": 0.7953680000000002
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.8702053333333335
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_2",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "friend",
+      "weight": 0.8702053333333335
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.8302053333333335
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "friend",
+      "weight": 0.8302053333333335
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.7978293333333335
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "friend",
+      "weight": 0.7978293333333335
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.876496
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_1",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "friend",
+      "weight": 0.876496
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Central Zone_1",
+      "type": "friend",
+      "weight": 0.8520000000000001
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_1",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "friend",
+      "weight": 0.8520000000000001
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_3",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.7687013333333335
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Central Zone_3",
+      "type": "friend",
+      "weight": 0.7687013333333335
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "friend",
+      "weight": 0.8715386666666667
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.8715386666666667
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.8266666666666667
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_2",
+      "target": "HUM_Nagaland_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.8266666666666667
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.7
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_1",
+      "target": "HUM_Nagaland_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_1",
+      "type": "friend",
+      "weight": 0.7782053333333334
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_1",
+      "target": "HUM_Nagaland_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7782053333333334
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_0",
+      "target": "HUM_Nagaland_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.7784960000000001
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7784960000000001
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_1",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.7638293333333335
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.7638293333333335
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_1",
+      "target": "HUM_Nagaland_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8384960000000001
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.8384960000000001
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_2",
+      "target": "HUM_Nagaland_Central Zone_1",
+      "type": "friend",
+      "weight": 0.9315386666666667
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_1",
+      "target": "HUM_Nagaland_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.9315386666666667
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.7718293333333335
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_2",
+      "target": "HUM_Nagaland_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.7718293333333335
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "friend",
+      "weight": 0.7167013333333334
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.7167013333333334
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_0",
+      "target": "HUM_Nagaland_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.8466666666666667
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_2",
+      "target": "HUM_Nagaland_Eastern Zone_0",
+      "type": "friend",
+      "weight": 0.8466666666666667
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.7548720000000002
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_0",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.7548720000000002
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.8304960000000001
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_2",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.8304960000000001
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.9053333333333333
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_2",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.9053333333333333
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "friend",
+      "weight": 0.7753680000000001
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.7753680000000001
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_1",
+      "target": "HUM_Nagaland_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.8722053333333335
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_1",
+      "target": "HUM_Nagaland_Eastern Zone_1",
+      "type": "friend",
+      "weight": 0.8722053333333335
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_0",
+      "target": "HUM_Nagaland_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.7946666666666669
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_1",
+      "target": "HUM_Nagaland_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.7946666666666669
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_1",
+      "type": "friend",
+      "weight": 0.5929573333333333
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_1",
+      "target": "HUM_Nagaland_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.5929573333333333
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "friend",
+      "weight": 0.8044960000000002
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.8044960000000002
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_0",
+      "target": "HUM_Nagaland_Eastern Zone_2",
+      "type": "friend",
+      "weight": 0.7615386666666668
+    },
+    {
+      "source": "HUM_Nagaland_Eastern Zone_2",
+      "target": "HUM_Nagaland_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.7615386666666668
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_0",
+      "target": "HUM_Nagaland_Central Zone_1",
+      "type": "friend",
+      "weight": 0.7711626666666668
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_1",
+      "target": "HUM_Nagaland_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.7711626666666668
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_1",
+      "target": "HUM_Nagaland_Central Zone_2",
+      "type": "friend",
+      "weight": 0.8151626666666668
+    },
+    {
+      "source": "HUM_Nagaland_Central Zone_2",
+      "target": "HUM_Nagaland_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.8151626666666668
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_1",
+      "target": "HUM_Nagaland_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.8902906666666668
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_2",
+      "target": "HUM_Nagaland_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.8902906666666668
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_1",
+      "target": "HUM_Nagaland_Northern Zone_0",
+      "type": "friend",
+      "weight": 0.7369573333333335
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_0",
+      "target": "HUM_Nagaland_Southern Zone_1",
+      "type": "friend",
+      "weight": 0.7369573333333335
+    },
+    {
+      "source": "HUM_Nagaland_Northern Zone_2",
+      "target": "HUM_Nagaland_Southern Zone_0",
+      "type": "friend",
+      "weight": 0.2945650593741938
+    },
+    {
+      "source": "HUM_Nagaland_Southern Zone_0",
+      "target": "HUM_Nagaland_Northern Zone_2",
+      "type": "friend",
+      "weight": 0.2945650593741938
+    }
+  ],
+  "adjacency": {
+    "HUM_Nagaland_Central Zone_0": [
+      {
+        "target": "HUM_Nagaland_Central Zone_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.8553680000000001
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.8287013333333334
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.8884960000000002
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.9035386666666667
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.7220346666666668
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "friend",
+        "weight": 0.8920000000000001
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7702053333333334
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "friend",
+        "weight": 0.8586666666666667
+      }
+    ],
+    "HUM_Nagaland_Central Zone_1": [
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "friend",
+        "weight": 0.8866666666666667
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.9433680000000002
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "friend",
+        "weight": 0.8520000000000001
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7782053333333334
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.9315386666666667
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.7711626666666668
+      }
+    ],
+    "HUM_Nagaland_Central Zone_2": [
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_1",
+        "type": "friend",
+        "weight": 0.8866666666666667
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.8300346666666667
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "friend",
+        "weight": 0.8586666666666667
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.8715386666666667
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.7167013333333334
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.7753680000000001
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.8044960000000002
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.8151626666666668
+      }
+    ],
+    "HUM_Nagaland_Central Zone_3": [
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "friend",
+        "weight": 0.8920000000000001
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.7953680000000002
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.8702053333333335
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.8302053333333335
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.7978293333333335
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.876496
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_1",
+        "type": "friend",
+        "weight": 0.8520000000000001
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.7687013333333335
+      }
+    ],
+    "HUM_Nagaland_Northern Zone_0": [
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "friend",
+        "weight": 0.7702053333333334
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "friend",
+        "weight": 0.8302053333333335
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "friend",
+        "weight": 0.8715386666666667
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.8266666666666667
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.7
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_1",
+        "type": "friend",
+        "weight": 0.7782053333333334
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.7784960000000001
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.7369573333333335
+      }
+    ],
+    "HUM_Nagaland_Northern Zone_1": [
+      {
+        "target": "HUM_Nagaland_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.7638293333333335
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8384960000000001
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.5929573333333333
+      }
+    ],
+    "HUM_Nagaland_Northern Zone_2": [
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "friend",
+        "weight": 0.9035386666666667
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "friend",
+        "weight": 0.8702053333333335
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.8266666666666667
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_1",
+        "type": "friend",
+        "weight": 0.9315386666666667
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.7718293333333335
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.8304960000000001
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.8902906666666668
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.2945650593741938
+      }
+    ],
+    "HUM_Nagaland_Eastern Zone_0": [
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "friend",
+        "weight": 0.7220346666666668
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7784960000000001
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.8384960000000001
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.7718293333333335
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "friend",
+        "weight": 0.7167013333333334
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.8466666666666667
+      }
+    ],
+    "HUM_Nagaland_Eastern Zone_1": [
+      {
+        "target": "HUM_Nagaland_Eastern Zone_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "friend",
+        "weight": 0.8287013333333334
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "friend",
+        "weight": 0.7687013333333335
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.7638293333333335
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.7548720000000002
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.8304960000000001
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.9053333333333333
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "friend",
+        "weight": 0.7753680000000001
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.8722053333333335
+      }
+    ],
+    "HUM_Nagaland_Eastern Zone_2": [
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "friend",
+        "weight": 0.8553680000000001
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_1",
+        "type": "friend",
+        "weight": 0.9433680000000002
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "friend",
+        "weight": 0.8300346666666667
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "friend",
+        "weight": 0.7953680000000002
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_0",
+        "type": "friend",
+        "weight": 0.8466666666666667
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.9053333333333333
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.7615386666666668
+      }
+    ],
+    "HUM_Nagaland_Southern Zone_0": [
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "friend",
+        "weight": 0.7978293333333335
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.7548720000000002
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_1",
+        "type": "friend",
+        "weight": 0.7946666666666669
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_1",
+        "type": "friend",
+        "weight": 0.5929573333333333
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "friend",
+        "weight": 0.8044960000000002
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_2",
+        "type": "friend",
+        "weight": 0.7615386666666668
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_1",
+        "type": "friend",
+        "weight": 0.7711626666666668
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.2945650593741938
+      }
+    ],
+    "HUM_Nagaland_Southern Zone_1": [
+      {
+        "target": "HUM_Nagaland_Central Zone_0",
+        "type": "friend",
+        "weight": 0.8884960000000002
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_3",
+        "type": "friend",
+        "weight": 0.876496
+      },
+      {
+        "target": "HUM_Nagaland_Eastern Zone_1",
+        "type": "friend",
+        "weight": 0.8722053333333335
+      },
+      {
+        "target": "HUM_Nagaland_Southern Zone_0",
+        "type": "friend",
+        "weight": 0.7946666666666669
+      },
+      {
+        "target": "HUM_Nagaland_Central Zone_2",
+        "type": "friend",
+        "weight": 0.8151626666666668
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_2",
+        "type": "friend",
+        "weight": 0.8902906666666668
+      },
+      {
+        "target": "HUM_Nagaland_Northern Zone_0",
+        "type": "friend",
+        "weight": 0.7369573333333335
+      }
+    ]
+  },
+  "nodeCount": 12,
+  "edgeCount": 92
+}

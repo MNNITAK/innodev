@@ -1,0 +1,77 @@
+{
+  "stats": {
+    "totalPopulation": 57,
+    "totalConnections": 556,
+    "avgDegree": 9.75438596491228,
+    "demographics": {
+      "avgAge": 47,
+      "ageRange": {
+        "min": 20,
+        "max": 75
+      },
+      "sexRatio": {
+        "male": 28,
+        "female": 29
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 57,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 690,
+      "incomeRange": {
+        "min": 649,
+        "max": 748
+      },
+      "povertyRate": "8.77",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 36,
+        "Informal": 3,
+        "Services": 11,
+        "Manufacturing": 6,
+        "Unemployed": 1
+      }
+    },
+    "network": {
+      "familyConnections": 38,
+      "friendConnections": 518,
+      "strongConnections": 546,
+      "weakConnections": 2
+    },
+    "behavioral": {
+      "avgTrust": 60,
+      "avgAdaptability": 40
+    }
+  },
+  "divisionStats": {
+    "Outer Shivalik Plains": {
+      "households": 7,
+      "population": 12,
+      "avgFamilySize": "1.71"
+    },
+    "Central Himachal Urban": {
+      "households": 8,
+      "population": 11,
+      "avgFamilySize": "1.38"
+    },
+    "Upper Shimla Apple Belt": {
+      "households": 7,
+      "population": 11,
+      "avgFamilySize": "1.57"
+    },
+    "Tribal Buddhist TransHimalayan": {
+      "households": 8,
+      "population": 12,
+      "avgFamilySize": "1.50"
+    },
+    "Western Himalayan HinduTribal": {
+      "households": 8,
+      "population": 11,
+      "avgFamilySize": "1.38"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:29.504Z"
+}

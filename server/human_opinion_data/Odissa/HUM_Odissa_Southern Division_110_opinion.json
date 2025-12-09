@@ -1,0 +1,27 @@
+{
+  "opinion": 0.03393004919641354,
+  "confidence": 0.613342,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.051314739225463986,
+    "socialScore": 0.35696000000000006,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.31671,
+    "weights": {
+      "economic": 0.2,
+      "social": 0.4,
+      "convenience": 0.15,
+      "healthEnv": 0.25
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.314Z",
+    "humanId": "HUM_Odissa_Southern Division_110"
+  },
+  "humanId": "HUM_Odissa_Southern Division_110",
+  "state": "Odissa"
+}

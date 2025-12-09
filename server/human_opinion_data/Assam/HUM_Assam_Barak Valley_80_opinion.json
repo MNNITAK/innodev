@@ -1,0 +1,27 @@
+{
+  "opinion": 0.060713510945842694,
+  "confidence": 0.6039000000000001,
+  "reasoning": "I'm neutral because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.5952484324433573,
+    "socialScore": 0.2700000000000001,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.22949999999999998,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "The government announces free electricity subsidy of up to 200 units per month for all households wi",
+    "domain": "tax",
+    "timestamp": "2025-12-07T15:11:54.400Z",
+    "humanId": "HUM_Assam_Barak Valley_80"
+  },
+  "humanId": "HUM_Assam_Barak Valley_80",
+  "state": "Assam"
+}

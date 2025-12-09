@@ -1,0 +1,3302 @@
+[
+  {
+    "humanId": "HUM_Gujarat_Vadodara_0",
+    "householdId": "HH_Gujarat_Vadodara_0",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 70,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12643,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 71,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 57,
+      "savingsRate": 26
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 43
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3965,
+      "commuteTime": 44
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_1",
+    "householdId": "HH_Gujarat_Vadodara_0",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 52,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11266,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 62,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 31,
+        "category": "Obese"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 34,
+      "savingsRate": 0
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1577,
+      "commuteTime": 89
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_2",
+    "householdId": "HH_Gujarat_Surat_0",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 48,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2759,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 76,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 22.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 47,
+      "savingsRate": -41
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2747,
+      "commuteTime": 46
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_3",
+    "householdId": "HH_Gujarat_Rajkot_0",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 71,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 30015,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 43,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 27.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 53
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 79,
+      "savingsRate": -4
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3179,
+      "commuteTime": 66
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_4",
+    "householdId": "HH_Gujarat_Surat_0",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 42,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 19644,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 69,
+      "changeAdaptability": 5,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 44,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 31.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 36,
+      "savingsRate": 40
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 31
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1551,
+      "commuteTime": 56
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_5",
+    "householdId": "HH_Gujarat_Vadodara_1",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 44,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3164,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 55,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 72,
+      "savingsRate": 34
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 691,
+      "commuteTime": 59
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "BJP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Ahmedabad_6",
+    "householdId": "HH_Gujarat_Ahmedabad_1",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "demographics": {
+      "age": 37,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2749,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 67,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 84,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 34.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 65
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 16,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3036,
+      "commuteTime": 73
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Ahmedabad_7",
+    "householdId": "HH_Gujarat_Ahmedabad_1",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "demographics": {
+      "age": 48,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 23976,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Healthcare",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 33,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 59
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 65,
+      "savingsRate": 49
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2394,
+      "commuteTime": 13
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_8",
+    "householdId": "HH_Gujarat_Vadodara_1",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 43,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 27951,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 63,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 76,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 38
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 43,
+      "savingsRate": 45
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 41
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3103,
+      "commuteTime": 18
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_9",
+    "householdId": "HH_Gujarat_Surat_1",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 43,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16642,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 53,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 23.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 17,
+      "savingsRate": 23
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 58
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2501,
+      "commuteTime": 78
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_10",
+    "householdId": "HH_Gujarat_Vadodara_2",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 72,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16765,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 1,
+      "institutionalTrust": 31,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 28.4,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 27
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 80,
+      "savingsRate": -29
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2626,
+      "commuteTime": 57
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_11",
+    "householdId": "HH_Gujarat_Vadodara_2",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 62,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5170,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 79,
+      "changeAdaptability": 5,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 27.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 77,
+      "savingsRate": -43
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 827,
+      "commuteTime": 34
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_12",
+    "householdId": "HH_Gujarat_Vadodara_2",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 36,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4943,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Unemployed",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 46,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 61,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 24.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 47
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 60,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4491,
+      "commuteTime": 74
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_13",
+    "householdId": "HH_Gujarat_Rajkot_2",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 25,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 42690,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 59,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 34.3,
+        "category": "Obese"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 47,
+      "savingsRate": 36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 19
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2091,
+      "commuteTime": 25
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Ahmedabad_14",
+    "householdId": "HH_Gujarat_Ahmedabad_2",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "demographics": {
+      "age": 46,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4930,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 76,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 64,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 26.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 45,
+      "savingsRate": -41
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 41
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3755,
+      "commuteTime": 43
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_15",
+    "householdId": "HH_Gujarat_Surat_3",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 31,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6262,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 77,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 30,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 19.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 61
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 44,
+      "savingsRate": -50
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4040,
+      "commuteTime": 71
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_16",
+    "householdId": "HH_Gujarat_Surat_3",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 53,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3618,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 22,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 18.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 43
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 67,
+      "savingsRate": 30
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 53
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4827,
+      "commuteTime": 34
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Ahmedabad_17",
+    "householdId": "HH_Gujarat_Ahmedabad_3",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "demographics": {
+      "age": 58,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2724,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 53,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 32.8,
+        "category": "Obese"
+      },
+      "diseaseRisk": 39
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 37,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1754,
+      "commuteTime": 80
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_18",
+    "householdId": "HH_Gujarat_Surat_3",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 47,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 14000,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 40,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 69,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 69
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 31,
+      "savingsRate": 39
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4214,
+      "commuteTime": 115
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_19",
+    "householdId": "HH_Gujarat_Vadodara_3",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 85,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3946,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Business",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 43,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 89,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 30.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 29
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 56,
+      "savingsRate": 10
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 46
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4204,
+      "commuteTime": 11
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_20",
+    "householdId": "HH_Gujarat_Vadodara_4",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 46,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4880,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 72,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 49
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 61,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2767,
+      "commuteTime": 61
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_21",
+    "householdId": "HH_Gujarat_Surat_4",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 20,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 34017,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 20,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 27.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 65
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 69,
+      "savingsRate": -21
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1178,
+      "commuteTime": 91
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_22",
+    "householdId": "HH_Gujarat_Rajkot_4",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 56,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 32948,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 2,
+      "occupation": "Business",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 71,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 39,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 31.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 61
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 20,
+      "savingsRate": -41
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2716,
+      "commuteTime": 80
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_23",
+    "householdId": "HH_Gujarat_Vadodara_4",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 32,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8209,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 58,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 66,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 19.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 64
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 72,
+      "savingsRate": 18
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2293,
+      "commuteTime": 74
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_24",
+    "householdId": "HH_Gujarat_Vadodara_4",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 36,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2049,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Business",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 62,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 55,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 28.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 51
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 62,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 54
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1129,
+      "commuteTime": 97
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_25",
+    "householdId": "HH_Gujarat_Surat_5",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 38,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 18685,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 72,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 32.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 70
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 13,
+      "savingsRate": -20
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3756,
+      "commuteTime": 118
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_26",
+    "householdId": "HH_Gujarat_Rajkot_5",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 68,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 18411,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 64,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 33,
+        "category": "Obese"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 37,
+      "savingsRate": -9
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2987,
+      "commuteTime": 92
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_27",
+    "householdId": "HH_Gujarat_Rajkot_5",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 18,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 19167,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 43,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 27.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 58,
+      "savingsRate": 4
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 19
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1508,
+      "commuteTime": 112
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Ahmedabad_28",
+    "householdId": "HH_Gujarat_Ahmedabad_5",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "demographics": {
+      "age": 68,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3097,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 40,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 33,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 34,
+        "category": "Obese"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 77,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 23
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1087,
+      "commuteTime": 53
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_29",
+    "householdId": "HH_Gujarat_Rajkot_5",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 29,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4641,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 79,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 26.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 42,
+      "savingsRate": -10
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2864,
+      "commuteTime": 102
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_30",
+    "householdId": "HH_Gujarat_Surat_6",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 85,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9122,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Business",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 48,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 51,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 33.3,
+        "category": "Obese"
+      },
+      "diseaseRisk": 54
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 45,
+      "savingsRate": 41
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 15
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1494,
+      "commuteTime": 80
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_31",
+    "householdId": "HH_Gujarat_Vadodara_6",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 44,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2119,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 35,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 31.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 42
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 21,
+      "savingsRate": -11
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2967,
+      "commuteTime": 36
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_32",
+    "householdId": "HH_Gujarat_Rajkot_6",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 67,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11069,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Business",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 84,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 21.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 43
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 34,
+      "savingsRate": -5
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 45
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 717,
+      "commuteTime": 103
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_33",
+    "householdId": "HH_Gujarat_Surat_6",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 21,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2466,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 33,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 78,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 19.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 73,
+      "savingsRate": 33
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 23
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2891,
+      "commuteTime": 89
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_34",
+    "householdId": "HH_Gujarat_Vadodara_6",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 56,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2395,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 24,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 62,
+      "savingsRate": 47
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 52
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1637,
+      "commuteTime": 68
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_35",
+    "householdId": "HH_Gujarat_Vadodara_7",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 51,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 14423,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 67,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 30.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 43,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4089,
+      "commuteTime": 108
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_36",
+    "householdId": "HH_Gujarat_Vadodara_7",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 44,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4469,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 78,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 79,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31.9,
+        "category": "Obese"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 75,
+      "savingsRate": -46
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2626,
+      "commuteTime": 103
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_37",
+    "householdId": "HH_Gujarat_Rajkot_7",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 23,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3652,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Unemployed",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 77,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 64
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 11,
+      "savingsRate": 47
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 16
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3362,
+      "commuteTime": 48
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Ahmedabad_38",
+    "householdId": "HH_Gujarat_Ahmedabad_7",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "demographics": {
+      "age": 74,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 45903,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 1,
+      "institutionalTrust": 47,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 43,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 24.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 65
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 39,
+      "savingsRate": -47
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 57
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2457,
+      "commuteTime": 54
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_39",
+    "householdId": "HH_Gujarat_Surat_7",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 41,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16347,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 48,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 31.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 47,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1527,
+      "commuteTime": 99
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_40",
+    "householdId": "HH_Gujarat_Vadodara_8",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 34,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3941,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Government",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 46,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 79,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 31
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 48,
+      "savingsRate": -46
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4115,
+      "commuteTime": 41
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_41",
+    "householdId": "HH_Gujarat_Rajkot_8",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 57,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3446,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Healthcare",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 21,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 81,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 26.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 38
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 70,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 37
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3943,
+      "commuteTime": 84
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_42",
+    "householdId": "HH_Gujarat_Vadodara_8",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 20,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 27623,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 35,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 30.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 61
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 37,
+      "savingsRate": 19
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1504,
+      "commuteTime": 87
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_43",
+    "householdId": "HH_Gujarat_Rajkot_8",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 73,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5288,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Education",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 25,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 79,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 32.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 38
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 63,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 19
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1247,
+      "commuteTime": 60
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_44",
+    "householdId": "HH_Gujarat_Vadodara_8",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 27,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6442,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 23,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 19.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 21
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 13,
+      "savingsRate": -45
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3197,
+      "commuteTime": 87
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Vadodara_45",
+    "householdId": "HH_Gujarat_Vadodara_9",
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "demographics": {
+      "age": 52,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2323,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 30.9,
+        "category": "Obese"
+      },
+      "diseaseRisk": 51
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 37,
+      "savingsRate": -47
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 777,
+      "commuteTime": 37
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_46",
+    "householdId": "HH_Gujarat_Rajkot_9",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 36,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 40585,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 25.4,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 65
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 80,
+      "savingsRate": -47
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 58
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 679,
+      "commuteTime": 57
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_47",
+    "householdId": "HH_Gujarat_Rajkot_9",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 27,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15478,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 38,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 83,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 27.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 71,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3326,
+      "commuteTime": 40
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Rajkot_48",
+    "householdId": "HH_Gujarat_Rajkot_9",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "demographics": {
+      "age": 56,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16776,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 38,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 60,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 20.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 21
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 32,
+      "savingsRate": -39
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2246,
+      "commuteTime": 83
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Gujarat_Surat_49",
+    "householdId": "HH_Gujarat_Surat_9",
+    "state": "Gujarat",
+    "district": "Surat",
+    "demographics": {
+      "age": 69,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 31882,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 30,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 80,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 19.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 48,
+      "savingsRate": -31
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 41
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2893,
+      "commuteTime": 112
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  }
+]

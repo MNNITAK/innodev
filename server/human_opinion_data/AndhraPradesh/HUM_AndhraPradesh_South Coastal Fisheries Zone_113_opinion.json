@@ -1,0 +1,27 @@
+{
+  "opinion": 0.16254948887999998,
+  "confidence": 0.5232300000000001,
+  "reasoning": "I support this because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.13752000000000003,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.31365000000000004,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:32.632Z",
+    "humanId": "HUM_AndhraPradesh_South Coastal Fisheries Zone_113"
+  },
+  "humanId": "HUM_AndhraPradesh_South Coastal Fisheries Zone_113",
+  "state": "AndhraPradesh"
+}

@@ -1,0 +1,1710 @@
+[
+  {
+    "sourceId": "HUM_Manipur_Central Valley_0",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Central Valley_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_3",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Central Valley_3",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_4",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Central Valley_4",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Southern Hills_2",
+    "relationType": "parent",
+    "influenceWeight": 0.6,
+    "bidirectional": false
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_2",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "child",
+    "influenceWeight": 0.7,
+    "bidirectional": false
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Southern Hills_5",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_5",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Southern Hills_8",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_8",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_0",
+    "targetId": "HUM_Manipur_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7627013333333332,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_2",
+    "targetId": "HUM_Manipur_Central Valley_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7627013333333332,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_0",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7254280000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Central Valley_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7254280000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_0",
+    "targetId": "HUM_Manipur_Central Valley_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_4",
+    "targetId": "HUM_Manipur_Central Valley_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8600000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_0",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7987613333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Central Valley_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7987613333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_0",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7854280000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Central Valley_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7854280000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.6480346666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6480346666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Central Valley_4",
+    "relationType": "friend",
+    "influenceWeight": 0.6946666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_4",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6946666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9253333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9253333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Southern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7329920000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_2",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7329920000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7196586666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7196586666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7587613333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7587613333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9186666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9186666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9253333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9253333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9383253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9383253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_3",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7693333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Central Valley_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7693333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_3",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8343253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Central Valley_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8343253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_3",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7263253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Central Valley_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7263253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_4",
+    "targetId": "HUM_Manipur_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.721368,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_1",
+    "targetId": "HUM_Manipur_Central Valley_4",
+    "relationType": "friend",
+    "influenceWeight": 0.721368,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_4",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.729368,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Central Valley_4",
+    "relationType": "friend",
+    "influenceWeight": 0.729368,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_4",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7493333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Central Valley_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7493333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_4",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7343253333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Central Valley_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7343253333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7213333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7213333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9533333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8969920000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8969920000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8183253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8183253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6947013333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_1",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.6947013333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7694280000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7694280000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8916586666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8916586666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7360946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7360946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8933680000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8933680000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8120946666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8120946666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7520946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7520946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Central Valley_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_0",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8893333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.6663253333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.6663253333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7213333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7213333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8160346666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8160346666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Northern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7467613333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_3",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7467613333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7009920000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7009920000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.891624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.891624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9183253333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9183253333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8986666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8986666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8520000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8520000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8800000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Southern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.7986666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_5",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7986666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8703253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8703253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7902906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7902906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_2",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9191026666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Southern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9191026666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_2",
+    "targetId": "HUM_Manipur_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9169573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_2",
+    "targetId": "HUM_Manipur_Southern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9169573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_2",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7463253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Southern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7463253333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7969920000000003,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7969920000000003,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8333333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8116586666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8116586666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8257693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8257693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Northern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8244360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_0",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8244360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_5",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8257693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Southern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8257693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_5",
+    "targetId": "HUM_Manipur_Southern Hills_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_8",
+    "targetId": "HUM_Manipur_Southern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_5",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8400000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Southern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8400000000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_5",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.9386666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Southern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9386666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Northern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7644360000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_0",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7644360000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7969920000000003,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7969920000000003,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "friend",
+    "influenceWeight": 0.812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8186666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8186666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8449573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8449573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7511026666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7511026666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Central Valley_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7276586666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_0",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7276586666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7903253333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7903253333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_8",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7836586666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Southern Hills_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7836586666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_8",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8253333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Southern Hills_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8253333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_8",
+    "targetId": "HUM_Manipur_Northern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7444360000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_2",
+    "targetId": "HUM_Manipur_Southern Hills_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7444360000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_8",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "friend",
+    "influenceWeight": 0.9053333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Southern Hills_8",
+    "relationType": "friend",
+    "influenceWeight": 0.9053333333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_8",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8169573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Southern Hills_8",
+    "relationType": "friend",
+    "influenceWeight": 0.8169573333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_8",
+    "targetId": "HUM_Manipur_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7209573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_1",
+    "targetId": "HUM_Manipur_Southern Hills_8",
+    "relationType": "friend",
+    "influenceWeight": 0.7209573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_0",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7694280000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Northern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7694280000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_0",
+    "targetId": "HUM_Manipur_Southern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8244360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_5",
+    "targetId": "HUM_Manipur_Northern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8244360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9466666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9400000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9400000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Southern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7711026666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_1",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7711026666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8124360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8124360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_2",
+    "targetId": "HUM_Manipur_Southern Hills_6",
+    "relationType": "friend",
+    "influenceWeight": 0.6977693333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_6",
+    "targetId": "HUM_Manipur_Northern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.6977693333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_2",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7720946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Northern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7720946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_2",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8177693333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Northern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8177693333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_2",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7360946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Northern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7360946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_2",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8227266666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Northern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8227266666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_2",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7027613333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Northern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7027613333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_3",
+    "targetId": "HUM_Manipur_Southern Hills_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8524360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_0",
+    "targetId": "HUM_Manipur_Northern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8524360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_3",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Northern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_3",
+    "targetId": "HUM_Manipur_Southern Hills_7",
+    "relationType": "friend",
+    "influenceWeight": 0.8991026666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_7",
+    "targetId": "HUM_Manipur_Northern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8991026666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Southern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8657693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_2",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8657693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Northern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_3",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8453333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Central Valley_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7787613333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_1",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7787613333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7960946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7960946666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.9066666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Northern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_2",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.9200000000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Central Valley_3",
+    "relationType": "friend",
+    "influenceWeight": 0.6054280000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_3",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.6054280000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Southern Hills_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9391026666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_2",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.9391026666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Northern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.792,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_3",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.792,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8093933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8093933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_2",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8466666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Central Valley_5",
+    "relationType": "friend",
+    "influenceWeight": 0.8667013333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_5",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8667013333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Southern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.8102906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_4",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8102906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8493933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8493933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_1",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.748,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.748,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_1",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.749368,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.749368,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_1",
+    "targetId": "HUM_Manipur_Southern Hills_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7596240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Southern Hills_3",
+    "targetId": "HUM_Manipur_Eastern Zone_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7596240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_2",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.7600346666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7600346666666666,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_2",
+    "targetId": "HUM_Manipur_Central Valley_7",
+    "relationType": "friend",
+    "influenceWeight": 0.7893680000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_7",
+    "targetId": "HUM_Manipur_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7893680000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_2",
+    "targetId": "HUM_Manipur_Northern Hills_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8493933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_1",
+    "targetId": "HUM_Manipur_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8493933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Central Valley_2",
+    "relationType": "friend",
+    "influenceWeight": 0.765368,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_2",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.765368,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Eastern Zone_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_0",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8866666666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Northern Hills_4",
+    "relationType": "friend",
+    "influenceWeight": 0.7893933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_4",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.7893933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_3",
+    "targetId": "HUM_Manipur_Central Valley_6",
+    "relationType": "friend",
+    "influenceWeight": 0.8467013333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_6",
+    "targetId": "HUM_Manipur_Eastern Zone_3",
+    "relationType": "friend",
+    "influenceWeight": 0.8467013333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_4",
+    "targetId": "HUM_Manipur_Eastern Zone_2",
+    "relationType": "friend",
+    "influenceWeight": 0.22982323136040989,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Eastern Zone_2",
+    "targetId": "HUM_Manipur_Central Valley_4",
+    "relationType": "friend",
+    "influenceWeight": 0.22982323136040989,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Northern Hills_5",
+    "targetId": "HUM_Manipur_Central Valley_3",
+    "relationType": "friend",
+    "influenceWeight": 0.20834815435371953,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_Manipur_Central Valley_3",
+    "targetId": "HUM_Manipur_Northern Hills_5",
+    "relationType": "friend",
+    "influenceWeight": 0.20834815435371953,
+    "bidirectional": true
+  }
+]

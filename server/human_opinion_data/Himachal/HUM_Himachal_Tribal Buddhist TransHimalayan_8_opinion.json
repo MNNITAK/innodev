@@ -1,0 +1,27 @@
+{
+  "opinion": 0.19553520074399997,
+  "confidence": 0.6847590000000001,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.28236,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.46129499999999996,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.094Z",
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8"
+  },
+  "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+  "state": "Himachal"
+}

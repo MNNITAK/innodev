@@ -1,0 +1,27 @@
+{
+  "opinion": 0.10287470000516773,
+  "confidence": 0.66686,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.2962499132534087,
+    "socialScore": 0.39280000000000004,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.4743,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "India Bus Fare Increase",
+    "domain": "transport",
+    "timestamp": "2025-12-09T05:59:26.626Z",
+    "humanId": "HUM_Rajasthan_Bharatpur_77"
+  },
+  "humanId": "HUM_Rajasthan_Bharatpur_77",
+  "state": "Rajasthan"
+}

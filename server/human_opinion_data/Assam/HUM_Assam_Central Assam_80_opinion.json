@@ -1,0 +1,27 @@
+{
+  "opinion": 0.14817455809199997,
+  "confidence": 0.531957,
+  "reasoning": "I'm neutral because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.24852000000000002,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.282285,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "India Bus Fare Increase",
+    "domain": "transport",
+    "timestamp": "2025-12-09T05:59:22.076Z",
+    "humanId": "HUM_Assam_Central Assam_80"
+  },
+  "humanId": "HUM_Assam_Central Assam_80",
+  "state": "Assam"
+}

@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "totalPopulation": 12,
+    "totalConnections": 108,
+    "avgDegree": 9,
+    "demographics": {
+      "avgAge": 41,
+      "ageRange": {
+        "min": 26,
+        "max": 62
+      },
+      "sexRatio": {
+        "male": 7,
+        "female": 5
+      },
+      "urbanization": {
+        "urban": 3,
+        "semiUrban": 9,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 5615,
+      "incomeRange": {
+        "min": 2480,
+        "max": 7430
+      },
+      "povertyRate": "16.67",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 7,
+        "Informal": 1,
+        "Services": 3,
+        "Manufacturing": 1
+      }
+    },
+    "network": {
+      "familyConnections": 6,
+      "friendConnections": 102,
+      "strongConnections": 88,
+      "weakConnections": 0
+    },
+    "behavioral": {
+      "avgTrust": 70,
+      "avgAdaptability": 88
+    }
+  },
+  "divisionStats": {
+    "Northern Zone": {
+      "households": 2,
+      "population": 3,
+      "avgFamilySize": "1.50"
+    },
+    "Southern Zone": {
+      "households": 3,
+      "population": 4,
+      "avgFamilySize": "1.33"
+    },
+    "Eastern Zone": {
+      "households": 3,
+      "population": 3,
+      "avgFamilySize": "1.00"
+    },
+    "Western Zone": {
+      "households": 1,
+      "population": 2,
+      "avgFamilySize": "2.00"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:29.980Z"
+}

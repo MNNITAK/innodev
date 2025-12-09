@@ -1,0 +1,27 @@
+{
+  "opinion": 0.3240845694,
+  "confidence": 0.66113,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.41000000000000003,
+    "convenienceScore": 0.13845,
+    "healthEnvScore": 0,
+    "relevance": 0.54315,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.862Z",
+    "humanId": "HUM_Kerala_High Range (Central-East Kerala)_36"
+  },
+  "humanId": "HUM_Kerala_High Range (Central-East Kerala)_36",
+  "state": "Kerala"
+}

@@ -1,0 +1,27 @@
+{
+  "opinion": 0.18313270128,
+  "confidence": 0.5158800000000001,
+  "reasoning": "I support this because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.17352000000000006,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.35190000000000005,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:32.983Z",
+    "humanId": "HUM_Assam_Barak Valley_55"
+  },
+  "humanId": "HUM_Assam_Barak Valley_55",
+  "state": "Assam"
+}

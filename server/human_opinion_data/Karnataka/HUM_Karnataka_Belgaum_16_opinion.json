@@ -1,0 +1,27 @@
+{
+  "opinion": 0.4677114654225,
+  "confidence": 0.571329,
+  "reasoning": "I support this because I would benefit financially from this policy and I don't trust the government will implement this properly.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.02159999999999997,
+    "convenienceScore": 0.1495,
+    "healthEnvScore": 0,
+    "relevance": 0.606645,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.639Z",
+    "humanId": "HUM_Karnataka_Belgaum_16"
+  },
+  "humanId": "HUM_Karnataka_Belgaum_16",
+  "state": "Karnataka"
+}

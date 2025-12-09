@@ -1,0 +1,27 @@
+{
+  "opinion": 0.054551098887308684,
+  "confidence": 0.6703800000000001,
+  "reasoning": "I'm neutral because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.36072574876394464,
+    "socialScore": 0.29486000000000007,
+    "convenienceScore": 0.0758,
+    "healthEnvScore": 0,
+    "relevance": 0.35190000000000005,
+    "weights": {
+      "economic": 0.45,
+      "social": 0.30000000000000004,
+      "convenience": 0.1,
+      "healthEnv": 0.15000000000000002
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:35.244Z",
+    "humanId": "HUM_Madhya Pradesh_Indore_58"
+  },
+  "humanId": "HUM_Madhya Pradesh_Indore_58",
+  "state": "Madhya Pradesh"
+}

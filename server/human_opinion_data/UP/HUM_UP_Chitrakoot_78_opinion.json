@@ -1,0 +1,27 @@
+{
+  "opinion": 0.021596156508967995,
+  "confidence": 0.5613565,
+  "reasoning": "I'm neutral because I don't trust the government will implement this properly.",
+  "breakdown": {
+    "economicScore": 0.0546194605871323,
+    "socialScore": 0.13340000000000005,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.5817825,
+    "weights": {
+      "economic": 0.4,
+      "social": 0.3,
+      "convenience": 0.15,
+      "healthEnv": 0.15
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:37.332Z",
+    "humanId": "HUM_UP_Chitrakoot_78"
+  },
+  "humanId": "HUM_UP_Chitrakoot_78",
+  "state": "UP"
+}

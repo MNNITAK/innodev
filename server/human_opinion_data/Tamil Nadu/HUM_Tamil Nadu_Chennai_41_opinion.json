@@ -1,0 +1,27 @@
+{
+  "opinion": 0.049689444205024066,
+  "confidence": 0.6855225,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.0948150221370045,
+    "socialScore": 0.36036,
+    "convenienceScore": 0.170495,
+    "healthEnvScore": 0,
+    "relevance": 0.2926125,
+    "weights": {
+      "economic": 0.2,
+      "social": 0.4,
+      "convenience": 0.15,
+      "healthEnv": 0.25
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.898Z",
+    "humanId": "HUM_Tamil Nadu_Chennai_41"
+  },
+  "humanId": "HUM_Tamil Nadu_Chennai_41",
+  "state": "Tamil Nadu"
+}

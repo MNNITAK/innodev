@@ -1,0 +1,27 @@
+{
+  "opinion": 0.024439637316140385,
+  "confidence": 0.6425719999999999,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.040697283486183095,
+    "socialScore": 0.48400000000000004,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.24786000000000002,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.038Z",
+    "humanId": "HUM_Nagaland_Central Zone_3"
+  },
+  "humanId": "HUM_Nagaland_Central Zone_3",
+  "state": "Nagaland"
+}

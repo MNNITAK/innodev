@@ -1,0 +1,96 @@
+{
+  "stats": {
+    "totalPopulation": 1044,
+    "totalConnections": 14352,
+    "avgDegree": 13.74712643678161,
+    "demographics": {
+      "avgAge": 37,
+      "ageRange": {
+        "min": 18,
+        "max": 85
+      },
+      "sexRatio": {
+        "male": 531,
+        "female": 513
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 1044,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 25250,
+      "incomeRange": {
+        "min": 25250,
+        "max": 25250
+      },
+      "povertyRate": "29.79",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 497,
+        "Services": 282,
+        "Manufacturing": 162,
+        "Informal": 103
+      }
+    },
+    "network": {
+      "familyConnections": 4982,
+      "friendConnections": 9370,
+      "strongConnections": 9604,
+      "weakConnections": 40
+    },
+    "behavioral": {
+      "avgTrust": 50,
+      "avgAdaptability": 53
+    }
+  },
+  "divisionStats": {
+    "Bhagalpur": {
+      "households": 21,
+      "population": 120,
+      "avgFamilySize": "5.71"
+    },
+    "Darbhanga": {
+      "households": 21,
+      "population": 113,
+      "avgFamilySize": "5.38"
+    },
+    "Kosi": {
+      "households": 21,
+      "population": 117,
+      "avgFamilySize": "5.57"
+    },
+    "Magadh": {
+      "households": 21,
+      "population": 107,
+      "avgFamilySize": "5.10"
+    },
+    "Munger": {
+      "households": 20,
+      "population": 116,
+      "avgFamilySize": "5.80"
+    },
+    "Patna": {
+      "households": 21,
+      "population": 117,
+      "avgFamilySize": "5.57"
+    },
+    "Purnia": {
+      "households": 19,
+      "population": 120,
+      "avgFamilySize": "6.32"
+    },
+    "Saran": {
+      "households": 19,
+      "population": 120,
+      "avgFamilySize": "6.32"
+    },
+    "Tirhut": {
+      "households": 19,
+      "population": 114,
+      "avgFamilySize": "6.00"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:29.349Z"
+}

@@ -1,0 +1,3962 @@
+[
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_0",
+    "householdId": "HH_Madhya Pradesh_Indore_0",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 19,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2337,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 35,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 32,
+        "category": "Obese"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 58,
+      "savingsRate": -29
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4638,
+      "commuteTime": 120
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Gwalior_1",
+    "householdId": "HH_Madhya Pradesh_Gwalior_0",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "demographics": {
+      "age": 37,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5001,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 20,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 18.4,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 71,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3811,
+      "commuteTime": 110
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_2",
+    "householdId": "HH_Madhya Pradesh_Indore_0",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 55,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16521,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 61,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 75,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 21.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 24
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 49,
+      "savingsRate": 6
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4888,
+      "commuteTime": 43
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_3",
+    "householdId": "HH_Madhya Pradesh_Indore_0",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 57,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2267,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 2,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 49,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 67,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 26,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 53
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 77,
+      "savingsRate": 23
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3528,
+      "commuteTime": 101
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_4",
+    "householdId": "HH_Madhya Pradesh_Indore_0",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 62,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4279,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 71,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 18.4,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 42
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 23,
+      "savingsRate": 44
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1550,
+      "commuteTime": 14
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "BJP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_5",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_1",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 24,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 36266,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 32.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 39
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 50,
+      "savingsRate": 41
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 23
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4114,
+      "commuteTime": 106
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_6",
+    "householdId": "HH_Madhya Pradesh_Bhopal_1",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 35,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15964,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 75,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 20.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 60
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 29,
+      "savingsRate": 10
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4683,
+      "commuteTime": 119
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_7",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_1",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 43,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2160,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 5,
+      "institutionalTrust": 46,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 83,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 23.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 46
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 59,
+      "savingsRate": 46
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 545,
+      "commuteTime": 13
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_8",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_1",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 63,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4142,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Government",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 28,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 63,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 27.4,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 70,
+      "savingsRate": -33
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1388,
+      "commuteTime": 70
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_9",
+    "householdId": "HH_Madhya Pradesh_Bhopal_1",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 83,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5060,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 50,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 24.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 69,
+      "savingsRate": 41
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4658,
+      "commuteTime": 34
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Gwalior_10",
+    "householdId": "HH_Madhya Pradesh_Gwalior_2",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "demographics": {
+      "age": 19,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2407,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 41,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 54
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 16,
+      "savingsRate": -16
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 49
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 890,
+      "commuteTime": 74
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_11",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_2",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 46,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 31174,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Business",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 55,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 36,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 22.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 57
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 38,
+      "savingsRate": 33
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 16
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 587,
+      "commuteTime": 112
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_12",
+    "householdId": "HH_Madhya Pradesh_Bhopal_2",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 83,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15020,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 54,
+      "changeAdaptability": 1,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 53,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 33.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 56
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 65,
+      "savingsRate": 47
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 19
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2483,
+      "commuteTime": 64
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_13",
+    "householdId": "HH_Madhya Pradesh_Indore_2",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 42,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11531,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Government",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 59,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 50,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 29.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 55,
+      "savingsRate": 39
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 47
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 895,
+      "commuteTime": 83
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_14",
+    "householdId": "HH_Madhya Pradesh_Indore_2",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 26,
+      "householdSize": 6,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 42973,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 64,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 51,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24,
+        "category": "Normal"
+      },
+      "diseaseRisk": 21
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 67,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4933,
+      "commuteTime": 74
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_15",
+    "householdId": "HH_Madhya Pradesh_Bhopal_3",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 26,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4885,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 77,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 33.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 36,
+      "savingsRate": -10
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4806,
+      "commuteTime": 68
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Gwalior_16",
+    "householdId": "HH_Madhya Pradesh_Gwalior_3",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "demographics": {
+      "age": 50,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5806,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 28,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 63,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 25.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 42
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 24,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3497,
+      "commuteTime": 61
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Gwalior_17",
+    "householdId": "HH_Madhya Pradesh_Gwalior_3",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "demographics": {
+      "age": 69,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2854,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 5,
+      "institutionalTrust": 48,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 39,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 33.9,
+        "category": "Obese"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 56,
+      "savingsRate": -46
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 60
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4794,
+      "commuteTime": 16
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_18",
+    "householdId": "HH_Madhya Pradesh_Bhopal_3",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 40,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2271,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 46,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 31.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 49,
+      "savingsRate": 11
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 23
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3559,
+      "commuteTime": 49
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Gwalior_19",
+    "householdId": "HH_Madhya Pradesh_Gwalior_3",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "demographics": {
+      "age": 68,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6948,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 50,
+      "changeAdaptability": 1,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 32.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 51,
+      "savingsRate": -48
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3374,
+      "commuteTime": 88
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_20",
+    "householdId": "HH_Madhya Pradesh_Indore_4",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 63,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11953,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Healthcare",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 80,
+      "changeAdaptability": 5,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 18,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 61
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 54,
+      "savingsRate": -50
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 44
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3900,
+      "commuteTime": 92
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_21",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_4",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 57,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3496,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 5,
+      "institutionalTrust": 76,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 49,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 26.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 63
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 13,
+      "savingsRate": 10
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1404,
+      "commuteTime": 111
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_22",
+    "householdId": "HH_Madhya Pradesh_Bhopal_4",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 48,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7229,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 61,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 77,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 31.8,
+        "category": "Obese"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 48,
+      "savingsRate": 6
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3929,
+      "commuteTime": 86
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_23",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_4",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 69,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4156,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 61,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 66,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 18.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 33
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 76,
+      "savingsRate": -46
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2763,
+      "commuteTime": 21
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_24",
+    "householdId": "HH_Madhya Pradesh_Indore_4",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 78,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2396,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 71,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 25.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 64
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 58,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 33
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3247,
+      "commuteTime": 12
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_25",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_5",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 78,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3262,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Business",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 67,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 66,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 25.9,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 79,
+      "savingsRate": 14
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2422,
+      "commuteTime": 18
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_26",
+    "householdId": "HH_Madhya Pradesh_Bhopal_5",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 59,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5027,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 1,
+      "institutionalTrust": 75,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 43,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 28.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 60,
+      "savingsRate": 0
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3870,
+      "commuteTime": 14
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_27",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_5",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 37,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 46732,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Healthcare",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 46,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 88,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 31.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 10,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 599,
+      "commuteTime": 84
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_28",
+    "householdId": "HH_Madhya Pradesh_Bhopal_5",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 29,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2651,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Government",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 53,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 31.2,
+        "category": "Obese"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 68,
+      "savingsRate": 10
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 57
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3328,
+      "commuteTime": 42
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_29",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_5",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 83,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6205,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 78,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 40,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 20,
+        "category": "Normal"
+      },
+      "diseaseRisk": 39
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 76,
+      "savingsRate": 48
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4098,
+      "commuteTime": 39
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_30",
+    "householdId": "HH_Madhya Pradesh_Bhopal_6",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 28,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12056,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 62,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 55,
+      "savingsRate": 6
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 41
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2752,
+      "commuteTime": 80
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_31",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_6",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 59,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3068,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Education",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 68,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 33,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 32.2,
+        "category": "Obese"
+      },
+      "diseaseRisk": 33
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 48,
+      "savingsRate": -4
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 48
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2108,
+      "commuteTime": 24
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_32",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_6",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 75,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 32963,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 55,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22,
+        "category": "Normal"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 46,
+      "savingsRate": 5
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 46
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 841,
+      "commuteTime": 103
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Gwalior_33",
+    "householdId": "HH_Madhya Pradesh_Gwalior_6",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "demographics": {
+      "age": 79,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5418,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 25,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 25.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 57
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 43,
+      "savingsRate": 23
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 15
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3010,
+      "commuteTime": 102
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Gwalior_34",
+    "householdId": "HH_Madhya Pradesh_Gwalior_6",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "demographics": {
+      "age": 74,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 24532,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 51,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 80,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 24.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 49,
+      "savingsRate": 7
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 52
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3765,
+      "commuteTime": 62
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_35",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_7",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 61,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10636,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 58,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 23.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 64,
+      "savingsRate": 27
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4158,
+      "commuteTime": 62
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_36",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_7",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 50,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 19136,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 5,
+      "institutionalTrust": 50,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 44,
+      "savingsRate": 7
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4016,
+      "commuteTime": 106
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_37",
+    "householdId": "HH_Madhya Pradesh_Indore_7",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 77,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3708,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 54,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 39,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 27.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 48,
+      "savingsRate": 19
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 33
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3192,
+      "commuteTime": 32
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_38",
+    "householdId": "HH_Madhya Pradesh_Indore_7",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 52,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 20832,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 35,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 18.1,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 49
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 32,
+      "savingsRate": 15
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 34
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4239,
+      "commuteTime": 26
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_39",
+    "householdId": "HH_Madhya Pradesh_Bhopal_7",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 41,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2393,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 42,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 30.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 26,
+      "savingsRate": 24
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 906,
+      "commuteTime": 89
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_40",
+    "householdId": "HH_Madhya Pradesh_Indore_8",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 76,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 14556,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 39,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 84,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 31.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 67,
+      "savingsRate": -14
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 53
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2820,
+      "commuteTime": 75
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_41",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_8",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 51,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6000,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 29,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 30,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 33.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 42
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 14,
+      "savingsRate": -5
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 41
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1755,
+      "commuteTime": 42
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_42",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_8",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 31,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9828,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 72,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 36,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 28.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 23
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 16,
+      "savingsRate": 39
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2579,
+      "commuteTime": 117
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_43",
+    "householdId": "HH_Madhya Pradesh_Bhopal_8",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 70,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2473,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 78,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 38
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 51,
+      "savingsRate": -46
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 15
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1653,
+      "commuteTime": 37
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_44",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_8",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 77,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2959,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 53,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 33,
+        "category": "Obese"
+      },
+      "diseaseRisk": 67
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 61,
+      "savingsRate": 37
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1459,
+      "commuteTime": 57
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_45",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_9",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 67,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13717,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 1,
+      "institutionalTrust": 46,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 77,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 18.4,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": 37
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2358,
+      "commuteTime": 71
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_46",
+    "householdId": "HH_Madhya Pradesh_Bhopal_9",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 33,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 14269,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 38,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 84,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 29.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 49
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 21,
+      "savingsRate": -1
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 48
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4478,
+      "commuteTime": 84
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_47",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_9",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 50,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2947,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 74,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 61,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 56
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 63,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4688,
+      "commuteTime": 78
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_48",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_9",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 73,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 14134,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 77,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 36,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 23.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 78,
+      "savingsRate": 6
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 45
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 786,
+      "commuteTime": 33
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_49",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_9",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 64,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5040,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 2,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 30,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 41,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 27.2,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 27,
+      "savingsRate": 11
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 57
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1500,
+      "commuteTime": 110
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_50",
+    "householdId": "HH_Madhya Pradesh_Bhopal_10",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 59,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 24310,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 47,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 44,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 25.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 15,
+      "savingsRate": 13
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1001,
+      "commuteTime": 32
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_51",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_10",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 26,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3046,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 77,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 31.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 37,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 44
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1606,
+      "commuteTime": 16
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 1,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_52",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_10",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 85,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4482,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 47,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 27.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 51,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4151,
+      "commuteTime": 110
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_53",
+    "householdId": "HH_Madhya Pradesh_Indore_10",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 35,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2916,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 25,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 59,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22,
+        "category": "Normal"
+      },
+      "diseaseRisk": 63
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 31,
+      "savingsRate": -13
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 47
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1394,
+      "commuteTime": 21
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_54",
+    "householdId": "HH_Madhya Pradesh_Indore_10",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 67,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13136,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 25,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 83,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 25,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 21,
+      "savingsRate": 41
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 887,
+      "commuteTime": 69
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Gwalior_55",
+    "householdId": "HH_Madhya Pradesh_Gwalior_11",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "demographics": {
+      "age": 48,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5234,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Business",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 23,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 29.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 69
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 11,
+      "savingsRate": 9
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1032,
+      "commuteTime": 85
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Bhopal_56",
+    "householdId": "HH_Madhya Pradesh_Bhopal_11",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "demographics": {
+      "age": 41,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17379,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 45,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 64,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 31.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 31
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 54,
+      "savingsRate": 34
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 60
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2273,
+      "commuteTime": 21
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Jabalpur_57",
+    "householdId": "HH_Madhya Pradesh_Jabalpur_11",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "demographics": {
+      "age": 53,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10162,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Government",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 46,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 63,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 27.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 21
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 72,
+      "savingsRate": 15
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3541,
+      "commuteTime": 104
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "BJP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_58",
+    "householdId": "HH_Madhya Pradesh_Indore_11",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 61,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12780,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 59,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 24.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 37,
+      "savingsRate": 6
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2968,
+      "commuteTime": 27
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Madhya Pradesh_Indore_59",
+    "householdId": "HH_Madhya Pradesh_Indore_11",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "demographics": {
+      "age": 35,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17595,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 44,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 18.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 39
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 18,
+      "savingsRate": -43
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 60
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4870,
+      "commuteTime": 17
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  }
+]

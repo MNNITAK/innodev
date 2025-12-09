@@ -1,0 +1,27 @@
+{
+  "opinion": 0.29033699372999994,
+  "confidence": 0.581955,
+  "reasoning": "I support this because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.10601999999999999,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.562275,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:32.554Z",
+    "humanId": "HUM_AndhraPradesh_Krishna Guntur Urban Corridor_88"
+  },
+  "humanId": "HUM_AndhraPradesh_Krishna Guntur Urban Corridor_88",
+  "state": "AndhraPradesh"
+}

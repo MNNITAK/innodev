@@ -1,0 +1,27 @@
+{
+  "opinion": 0.046399951433465356,
+  "confidence": 0.5373600000000001,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.17511865709501914,
+    "socialScore": 0.24610000000000004,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.4743,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:37.939Z",
+    "humanId": "HUM_UP_Varanasi_48"
+  },
+  "humanId": "HUM_UP_Varanasi_48",
+  "state": "UP"
+}

@@ -1,0 +1,27 @@
+{
+  "opinion": 0.14489801386536832,
+  "confidence": 0.517437,
+  "reasoning": "I'm neutral because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 0.6322987656371305,
+    "socialScore": 0.1296,
+    "convenienceScore": 0.1065,
+    "healthEnvScore": 0,
+    "relevance": 0.40468499999999996,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.876Z",
+    "humanId": "HUM_Tamil Nadu_Chennai_1"
+  },
+  "humanId": "HUM_Tamil Nadu_Chennai_1",
+  "state": "Tamil Nadu"
+}

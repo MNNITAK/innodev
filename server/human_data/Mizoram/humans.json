@@ -1,0 +1,1046 @@
+[
+  {
+    "humanId": "HUM_Mizoram_Northern Zone_0",
+    "householdId": "HH_Mizoram_Northern Zone_0",
+    "state": "Mizoram",
+    "district": "Northern Zone",
+    "demographics": {
+      "age": 31,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 98
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2480,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 78,
+      "changeAdaptability": 5,
+      "optimism": 91
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 20.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 8,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "commuteTime": 50,
+      "transportationMode": "Walk",
+      "geographicMobility": 5
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 26,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 75
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 55
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": 0.6062717465980878,
+      "confidence": 0.5603334135687614,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Northern Zone_1",
+    "householdId": "HH_Mizoram_Northern Zone_0",
+    "state": "Mizoram",
+    "district": "Northern Zone",
+    "demographics": {
+      "age": 32,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 98
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2480,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 2,
+      "occupation": "Informal",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 78,
+      "changeAdaptability": 5,
+      "optimism": 98
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 8,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "commuteTime": 50,
+      "transportationMode": "Walk",
+      "geographicMobility": 5
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 26,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 75
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 55
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": 0.30466661231164727,
+      "confidence": 0.5438062375355301,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Northern Zone_2",
+    "householdId": "HH_Mizoram_Northern Zone_1",
+    "state": "Mizoram",
+    "district": "Northern Zone",
+    "demographics": {
+      "age": 61,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 98
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2480,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 78,
+      "changeAdaptability": 5,
+      "optimism": 23
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 24.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 8,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "commuteTime": 50,
+      "transportationMode": "Car",
+      "geographicMobility": 5
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 26,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 75
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 55
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": -0.05617046615453214,
+      "confidence": 0.7225225512308695,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Southern Zone_0",
+    "householdId": "HH_Mizoram_Southern Zone_0",
+    "state": "Mizoram",
+    "district": "Southern Zone",
+    "demographics": {
+      "age": 44,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 91
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7430,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 65,
+      "changeAdaptability": 4,
+      "optimism": 26
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 22,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 20,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 58
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 65
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.2787074151787037,
+      "confidence": 0.27969543041510603,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Southern Zone_1",
+    "householdId": "HH_Mizoram_Southern Zone_1",
+    "state": "Mizoram",
+    "district": "Southern Zone",
+    "demographics": {
+      "age": 62,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 91
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7430,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 65,
+      "changeAdaptability": 4,
+      "optimism": 16
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 22,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 20,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 58
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 65
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.7573338987937204,
+      "confidence": 0.2859308375186298,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Southern Zone_2",
+    "householdId": "HH_Mizoram_Southern Zone_2",
+    "state": "Mizoram",
+    "district": "Southern Zone",
+    "demographics": {
+      "age": 44,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 91
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7430,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 65,
+      "changeAdaptability": 4,
+      "optimism": 15
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 19.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 22,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 20,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 58
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 65
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": true
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.9298424524345976,
+      "confidence": 0.27700245221289577,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Southern Zone_3",
+    "householdId": "HH_Mizoram_Southern Zone_2",
+    "state": "Mizoram",
+    "district": "Southern Zone",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 91
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7430,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 65,
+      "changeAdaptability": 4,
+      "optimism": 95
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 19.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 22,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 20,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 58
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 65
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.9727869524829797,
+      "confidence": 0.5431308673576993,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Eastern Zone_0",
+    "householdId": "HH_Mizoram_Eastern Zone_0",
+    "state": "Mizoram",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 26,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 93
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 4,
+      "optimism": 28
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -28
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 72,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 22,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 62
+    },
+    "environmental": {
+      "pollutionExposure": 340,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 62
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.0020189217027173356,
+      "confidence": 0.5411343534827092,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Eastern Zone_1",
+    "householdId": "HH_Mizoram_Eastern Zone_1",
+    "state": "Mizoram",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 29,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 93
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 4,
+      "optimism": 53
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -28
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 72,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 22,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 62
+    },
+    "environmental": {
+      "pollutionExposure": 340,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 62
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.28524808917988675,
+      "confidence": 0.30604880622227826,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Eastern Zone_2",
+    "householdId": "HH_Mizoram_Eastern Zone_2",
+    "state": "Mizoram",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 40,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 93
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 4,
+      "optimism": 31
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 28.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -28
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 72,
+      "transportationMode": "Car",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 22,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 62
+    },
+    "environmental": {
+      "pollutionExposure": 340,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 62
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.24331016692596963,
+      "confidence": 0.42126241884948945,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Western Zone_0",
+    "householdId": "HH_Mizoram_Western Zone_0",
+    "state": "Mizoram",
+    "district": "Western Zone",
+    "demographics": {
+      "age": 36,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 97
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5450,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 70,
+      "changeAdaptability": 5,
+      "optimism": 35
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 14,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Bus",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 24,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.5867864161003422,
+      "confidence": 0.5026585041272938,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Mizoram_Western Zone_1",
+    "householdId": "HH_Mizoram_Western Zone_0",
+    "state": "Mizoram",
+    "district": "Western Zone",
+    "demographics": {
+      "age": 36,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 97
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5450,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 70,
+      "changeAdaptability": 5,
+      "optimism": 15
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 24.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 14,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 24,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": true
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.6043441416775353,
+      "confidence": 0.389692751028461,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.979Z",
+      "version": 1
+    }
+  }
+]

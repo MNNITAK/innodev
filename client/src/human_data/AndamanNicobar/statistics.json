@@ -1,0 +1,65 @@
+{
+  "stats": {
+    "totalPopulation": 6,
+    "totalConnections": 30,
+    "avgDegree": 5,
+    "demographics": {
+      "avgAge": 42,
+      "ageRange": {
+        "min": 18,
+        "max": 58
+      },
+      "sexRatio": {
+        "male": 3,
+        "female": 3
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 6,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 632,
+      "incomeRange": {
+        "min": 599,
+        "max": 649
+      },
+      "povertyRate": "0.00",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Informal": 3,
+        "Manufacturing": 1,
+        "Agriculture": 2
+      }
+    },
+    "network": {
+      "familyConnections": 6,
+      "friendConnections": 24,
+      "strongConnections": 18,
+      "weakConnections": 0
+    },
+    "behavioral": {
+      "avgTrust": 70,
+      "avgAdaptability": 40
+    }
+  },
+  "divisionStats": {
+    "North Andaman Region": {
+      "households": 1,
+      "population": 2,
+      "avgFamilySize": "2.00"
+    },
+    "Middle Andaman Region": {
+      "households": 1,
+      "population": 2,
+      "avgFamilySize": "2.00"
+    },
+    "South Andaman Region": {
+      "households": 1,
+      "population": 2,
+      "avgFamilySize": "2.00"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:28.640Z"
+}

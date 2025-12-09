@@ -1,0 +1,27 @@
+{
+  "opinion": 0.04049393464790265,
+  "confidence": 0.63453,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.07687451548676606,
+    "socialScore": 0.28520000000000006,
+    "convenienceScore": 0.12545,
+    "healthEnvScore": 0,
+    "relevance": 0.39015,
+    "weights": {
+      "economic": 0.2,
+      "social": 0.4,
+      "convenience": 0.15,
+      "healthEnv": 0.25
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:35.143Z",
+    "humanId": "HUM_Madhya Pradesh_Gwalior_34"
+  },
+  "humanId": "HUM_Madhya Pradesh_Gwalior_34",
+  "state": "Madhya Pradesh"
+}

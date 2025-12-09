@@ -1,0 +1,27 @@
+{
+  "opinion": -0.0027620472011257616,
+  "confidence": 0.50769,
+  "reasoning": "I'm neutral because I am unsure about the effects.",
+  "breakdown": {
+    "economicScore": 0.025801031965923822,
+    "socialScore": -0.11499999999999999,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.17594999999999997,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "The government announces free electricity subsidy of up to 200 units per month for all households wi",
+    "domain": "tax",
+    "timestamp": "2025-12-07T15:12:02.985Z",
+    "humanId": "HUM_UP_Basti_95"
+  },
+  "humanId": "HUM_UP_Basti_95",
+  "state": "UP"
+}

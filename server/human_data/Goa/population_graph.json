@@ -1,0 +1,2706 @@
+{
+  "nodes": [
+    {
+      "id": "HUM_GOA_Tiswadi_0",
+      "label": "HUM_GOA_Tiswadi_0",
+      "age": 42,
+      "householdId": "HH_GOA_Tiswadi_0",
+      "state": "GOA",
+      "district": "Tiswadi",
+      "education": 2,
+      "income": 3470
+    },
+    {
+      "id": "HUM_GOA_Tiswadi_1",
+      "label": "HUM_GOA_Tiswadi_1",
+      "age": 42,
+      "householdId": "HH_GOA_Tiswadi_0",
+      "state": "GOA",
+      "district": "Tiswadi",
+      "education": 2,
+      "income": 3470
+    },
+    {
+      "id": "HUM_GOA_Bardez_0",
+      "label": "HUM_GOA_Bardez_0",
+      "age": 27,
+      "householdId": "HH_GOA_Bardez_0",
+      "state": "GOA",
+      "district": "Bardez",
+      "education": 2,
+      "income": 5450
+    },
+    {
+      "id": "HUM_GOA_Bardez_1",
+      "label": "HUM_GOA_Bardez_1",
+      "age": 28,
+      "householdId": "HH_GOA_Bardez_0",
+      "state": "GOA",
+      "district": "Bardez",
+      "education": 2,
+      "income": 5450
+    },
+    {
+      "id": "HUM_GOA_Pernem_0",
+      "label": "HUM_GOA_Pernem_0",
+      "age": 24,
+      "householdId": "HH_GOA_Pernem_0",
+      "state": "GOA",
+      "district": "Pernem",
+      "education": 2,
+      "income": 6440
+    },
+    {
+      "id": "HUM_GOA_Pernem_1",
+      "label": "HUM_GOA_Pernem_1",
+      "age": 18,
+      "householdId": "HH_GOA_Pernem_1",
+      "state": "GOA",
+      "district": "Pernem",
+      "education": 2,
+      "income": 6440
+    },
+    {
+      "id": "HUM_GOA_Bicholim_0",
+      "label": "HUM_GOA_Bicholim_0",
+      "age": 23,
+      "householdId": "HH_GOA_Bicholim_0",
+      "state": "GOA",
+      "district": "Bicholim",
+      "education": 2,
+      "income": 5945
+    },
+    {
+      "id": "HUM_GOA_Bicholim_1",
+      "label": "HUM_GOA_Bicholim_1",
+      "age": 39,
+      "householdId": "HH_GOA_Bicholim_1",
+      "state": "GOA",
+      "district": "Bicholim",
+      "education": 2,
+      "income": 5945
+    },
+    {
+      "id": "HUM_GOA_Bicholim_2",
+      "label": "HUM_GOA_Bicholim_2",
+      "age": 39,
+      "householdId": "HH_GOA_Bicholim_1",
+      "state": "GOA",
+      "district": "Bicholim",
+      "education": 2,
+      "income": 5945
+    },
+    {
+      "id": "HUM_GOA_Sattari_0",
+      "label": "HUM_GOA_Sattari_0",
+      "age": 32,
+      "householdId": "HH_GOA_Sattari_0",
+      "state": "GOA",
+      "district": "Sattari",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_GOA_Sattari_1",
+      "label": "HUM_GOA_Sattari_1",
+      "age": 39,
+      "householdId": "HH_GOA_Sattari_1",
+      "state": "GOA",
+      "district": "Sattari",
+      "education": 2,
+      "income": 8420
+    },
+    {
+      "id": "HUM_GOA_Sanguem_0",
+      "label": "HUM_GOA_Sanguem_0",
+      "age": 40,
+      "householdId": "HH_GOA_Sanguem_0",
+      "state": "GOA",
+      "district": "Sanguem",
+      "education": 1,
+      "income": 9410
+    },
+    {
+      "id": "HUM_GOA_Sanguem_1",
+      "label": "HUM_GOA_Sanguem_1",
+      "age": 43,
+      "householdId": "HH_GOA_Sanguem_0",
+      "state": "GOA",
+      "district": "Sanguem",
+      "education": 0,
+      "income": 9410
+    },
+    {
+      "id": "HUM_GOA_Mormugao_0",
+      "label": "HUM_GOA_Mormugao_0",
+      "age": 18,
+      "householdId": "HH_GOA_Mormugao_0",
+      "state": "GOA",
+      "district": "Mormugao",
+      "education": 2,
+      "income": 3965
+    },
+    {
+      "id": "HUM_GOA_Mormugao_1",
+      "label": "HUM_GOA_Mormugao_1",
+      "age": 32,
+      "householdId": "HH_GOA_Mormugao_1",
+      "state": "GOA",
+      "district": "Mormugao",
+      "education": 2,
+      "income": 3965
+    },
+    {
+      "id": "HUM_GOA_Salcete_0",
+      "label": "HUM_GOA_Salcete_0",
+      "age": 39,
+      "householdId": "HH_GOA_Salcete_0",
+      "state": "GOA",
+      "district": "Salcete",
+      "education": 2,
+      "income": 4460
+    },
+    {
+      "id": "HUM_GOA_Salcete_1",
+      "label": "HUM_GOA_Salcete_1",
+      "age": 46,
+      "householdId": "HH_GOA_Salcete_1",
+      "state": "GOA",
+      "district": "Salcete",
+      "education": 1,
+      "income": 4460
+    },
+    {
+      "id": "HUM_GOA_Quepem_0",
+      "label": "HUM_GOA_Quepem_0",
+      "age": 47,
+      "householdId": "HH_GOA_Quepem_0",
+      "state": "GOA",
+      "district": "Quepem",
+      "education": 2,
+      "income": 7430
+    },
+    {
+      "id": "HUM_GOA_Quepem_1",
+      "label": "HUM_GOA_Quepem_1",
+      "age": 18,
+      "householdId": "HH_GOA_Quepem_0",
+      "state": "GOA",
+      "district": "Quepem",
+      "education": 2,
+      "income": 7430
+    },
+    {
+      "id": "HUM_GOA_Canacona_0",
+      "label": "HUM_GOA_Canacona_0",
+      "age": 29,
+      "householdId": "HH_GOA_Canacona_0",
+      "state": "GOA",
+      "district": "Canacona",
+      "education": 0,
+      "income": 10400
+    },
+    {
+      "id": "HUM_GOA_Canacona_1",
+      "label": "HUM_GOA_Canacona_1",
+      "age": 55,
+      "householdId": "HH_GOA_Canacona_1",
+      "state": "GOA",
+      "district": "Canacona",
+      "education": 2,
+      "income": 10400
+    },
+    {
+      "id": "HUM_GOA_Vascocda_0",
+      "label": "HUM_GOA_Vascocda_0",
+      "age": 22,
+      "householdId": "HH_GOA_Vascocda_0",
+      "state": "GOA",
+      "district": "Vascocda",
+      "education": 2,
+      "income": 4460
+    },
+    {
+      "id": "HUM_GOA_Vascocda_1",
+      "label": "HUM_GOA_Vascocda_1",
+      "age": 44,
+      "householdId": "HH_GOA_Vascocda_1",
+      "state": "GOA",
+      "district": "Vascocda",
+      "education": 2,
+      "income": 4460
+    }
+  ],
+  "edges": [
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Tiswadi_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_0",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_GOA_Sanguem_1",
+      "target": "HUM_GOA_Sanguem_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_GOA_Sanguem_0",
+      "target": "HUM_GOA_Sanguem_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "parent",
+      "weight": 0.6
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "child",
+      "weight": 0.7
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_0",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "friend",
+      "weight": 0.8691626666666669
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Tiswadi_0",
+      "type": "friend",
+      "weight": 0.8691626666666669
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.8100600000000002
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.8100600000000002
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.7922906666666667
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.7922906666666667
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.8361200000000001
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.8361200000000001
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.9001453333333334
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.9001453333333334
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Sanguem_0",
+      "type": "friend",
+      "weight": 0.7118293333333334
+    },
+    {
+      "source": "HUM_GOA_Sanguem_0",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.7118293333333334
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "friend",
+      "weight": 0.7819146666666668
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.7819146666666668
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.8962906666666667
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.8962906666666667
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.8392480000000002
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.8392480000000002
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Sattari_0",
+      "type": "friend",
+      "weight": 0.8555386666666668
+    },
+    {
+      "source": "HUM_GOA_Sattari_0",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.8555386666666668
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.929624
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.929624
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.8259146666666668
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.8259146666666668
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.8965813333333335
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.8965813333333335
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.9029573333333334
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.9029573333333334
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Tiswadi_0",
+      "type": "friend",
+      "weight": 0.8259146666666668
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_0",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.8259146666666668
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.9014786666666668
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.9014786666666668
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.9057693333333334
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.9057693333333334
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.8934786666666668
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.8934786666666668
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.8176240000000001
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.8176240000000001
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Canacona_0",
+      "type": "friend",
+      "weight": 0.7811626666666668
+    },
+    {
+      "source": "HUM_GOA_Canacona_0",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.7811626666666668
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Sattari_0",
+      "type": "friend",
+      "weight": 0.8619146666666668
+    },
+    {
+      "source": "HUM_GOA_Sattari_0",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.8619146666666668
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.808
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.808
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.742812
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.742812
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.8934786666666668
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.8934786666666668
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.7752480000000002
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.7752480000000002
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.9936240000000001
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.9936240000000001
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.8253333333333335
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.8253333333333335
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.7393933333333335
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.7393933333333335
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.7873933333333334
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.7873933333333334
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Sanguem_1",
+      "type": "friend",
+      "weight": 0.6503506666666667
+    },
+    {
+      "source": "HUM_GOA_Sanguem_1",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.6503506666666667
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.8871026666666668
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.8871026666666668
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.7577693333333333
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.7577693333333333
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.920436
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.920436
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.8111026666666669
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.8111026666666669
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Sanguem_0",
+      "type": "friend",
+      "weight": 0.7970173333333335
+    },
+    {
+      "source": "HUM_GOA_Sanguem_0",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.7970173333333335
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.8484360000000002
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.8484360000000002
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Mormugao_0",
+      "type": "friend",
+      "weight": 0.7872480000000002
+    },
+    {
+      "source": "HUM_GOA_Mormugao_0",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.7872480000000002
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.8374786666666667
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.8374786666666667
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.8564360000000002
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.8564360000000002
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Tiswadi_0",
+      "type": "friend",
+      "weight": 0.8100600000000002
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_0",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.8100600000000002
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.9100600000000002
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.9100600000000002
+    },
+    {
+      "source": "HUM_GOA_Sattari_0",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.8213080000000001
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Sattari_0",
+      "type": "friend",
+      "weight": 0.8213080000000001
+    },
+    {
+      "source": "HUM_GOA_Sattari_0",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.8259146666666667
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Sattari_0",
+      "type": "friend",
+      "weight": 0.8259146666666667
+    },
+    {
+      "source": "HUM_GOA_Sattari_0",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.8059146666666668
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Sattari_0",
+      "type": "friend",
+      "weight": 0.8059146666666668
+    },
+    {
+      "source": "HUM_GOA_Sattari_0",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.8273933333333335
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Sattari_0",
+      "type": "friend",
+      "weight": 0.8273933333333335
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Tiswadi_0",
+      "type": "friend",
+      "weight": 0.7881200000000002
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_0",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.7881200000000002
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Sattari_0",
+      "type": "friend",
+      "weight": 0.8013333333333335
+    },
+    {
+      "source": "HUM_GOA_Sattari_0",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.8013333333333335
+    },
+    {
+      "source": "HUM_GOA_Sanguem_0",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.8961200000000001
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Sanguem_0",
+      "type": "friend",
+      "weight": 0.8961200000000001
+    },
+    {
+      "source": "HUM_GOA_Sanguem_0",
+      "target": "HUM_GOA_Canacona_0",
+      "type": "friend",
+      "weight": 0.8162906666666667
+    },
+    {
+      "source": "HUM_GOA_Canacona_0",
+      "target": "HUM_GOA_Sanguem_0",
+      "type": "friend",
+      "weight": 0.8162906666666667
+    },
+    {
+      "source": "HUM_GOA_Sanguem_0",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.8096240000000001
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Sanguem_0",
+      "type": "friend",
+      "weight": 0.8096240000000001
+    },
+    {
+      "source": "HUM_GOA_Sanguem_1",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.7574533333333334
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Sanguem_1",
+      "type": "friend",
+      "weight": 0.7574533333333334
+    },
+    {
+      "source": "HUM_GOA_Sanguem_1",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.7454533333333334
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Sanguem_1",
+      "type": "friend",
+      "weight": 0.7454533333333334
+    },
+    {
+      "source": "HUM_GOA_Sanguem_1",
+      "target": "HUM_GOA_Canacona_0",
+      "type": "friend",
+      "weight": 0.8482906666666667
+    },
+    {
+      "source": "HUM_GOA_Canacona_0",
+      "target": "HUM_GOA_Sanguem_1",
+      "type": "friend",
+      "weight": 0.8482906666666667
+    },
+    {
+      "source": "HUM_GOA_Mormugao_0",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.915684
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Mormugao_0",
+      "type": "friend",
+      "weight": 0.915684
+    },
+    {
+      "source": "HUM_GOA_Mormugao_0",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.8657693333333334
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Mormugao_0",
+      "type": "friend",
+      "weight": 0.8657693333333334
+    },
+    {
+      "source": "HUM_GOA_Mormugao_0",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.9681453333333334
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Mormugao_0",
+      "type": "friend",
+      "weight": 0.9681453333333334
+    },
+    {
+      "source": "HUM_GOA_Mormugao_0",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.7500600000000002
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Mormugao_0",
+      "type": "friend",
+      "weight": 0.7500600000000002
+    },
+    {
+      "source": "HUM_GOA_Mormugao_0",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.734812
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Mormugao_0",
+      "type": "friend",
+      "weight": 0.734812
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.8441453333333335
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.8441453333333335
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.762812
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.762812
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.7965813333333335
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.7965813333333335
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.7266413333333335
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.7266413333333335
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.9281453333333334
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.9281453333333334
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Bicholim_1",
+      "type": "friend",
+      "weight": 0.8805813333333335
+    },
+    {
+      "source": "HUM_GOA_Bicholim_1",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.8805813333333335
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Bicholim_0",
+      "type": "friend",
+      "weight": 0.8617693333333334
+    },
+    {
+      "source": "HUM_GOA_Bicholim_0",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.8617693333333334
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.8456240000000002
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.8456240000000002
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "friend",
+      "weight": 0.9035386666666668
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.9035386666666668
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.8144960000000001
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.8144960000000001
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Canacona_0",
+      "type": "friend",
+      "weight": 0.7324106666666668
+    },
+    {
+      "source": "HUM_GOA_Canacona_0",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.7324106666666668
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.8146666666666669
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.8146666666666669
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.6829573333333334
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.6829573333333334
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.6125813333333334
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.6125813333333334
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.7349573333333335
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.7349573333333335
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.7413333333333334
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.7413333333333334
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.7085813333333335
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.7085813333333335
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.7831026666666667
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "friend",
+      "weight": 0.7831026666666667
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.7182053333333334
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "friend",
+      "weight": 0.7182053333333334
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.7608720000000001
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "friend",
+      "weight": 0.7608720000000001
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.8691626666666669
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "friend",
+      "weight": 0.8691626666666669
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Tiswadi_0",
+      "type": "friend",
+      "weight": 0.7624960000000002
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_0",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.7624960000000002
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.8016240000000001
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.8016240000000001
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.7624960000000002
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.7624960000000002
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Mormugao_1",
+      "type": "friend",
+      "weight": 0.8223506666666668
+    },
+    {
+      "source": "HUM_GOA_Mormugao_1",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.8223506666666668
+    },
+    {
+      "source": "HUM_GOA_Canacona_0",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.7547866666666667
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Canacona_0",
+      "type": "friend",
+      "weight": 0.7547866666666667
+    },
+    {
+      "source": "HUM_GOA_Canacona_0",
+      "target": "HUM_GOA_Sattari_0",
+      "type": "friend",
+      "weight": 0.8592480000000001
+    },
+    {
+      "source": "HUM_GOA_Sattari_0",
+      "target": "HUM_GOA_Canacona_0",
+      "type": "friend",
+      "weight": 0.8592480000000001
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Bardez_0",
+      "type": "friend",
+      "weight": 0.6814533333333335
+    },
+    {
+      "source": "HUM_GOA_Bardez_0",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.6814533333333335
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Canacona_0",
+      "type": "friend",
+      "weight": 0.7266666666666668
+    },
+    {
+      "source": "HUM_GOA_Canacona_0",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.7266666666666668
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.597744
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.597744
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Pernem_0",
+      "type": "friend",
+      "weight": 0.6944960000000001
+    },
+    {
+      "source": "HUM_GOA_Pernem_0",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.6944960000000001
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.7466413333333334
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.7466413333333334
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.6784960000000001
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.6784960000000001
+    },
+    {
+      "source": "HUM_GOA_Canacona_1",
+      "target": "HUM_GOA_Salcete_1",
+      "type": "friend",
+      "weight": 0.7857440000000001
+    },
+    {
+      "source": "HUM_GOA_Salcete_1",
+      "target": "HUM_GOA_Canacona_1",
+      "type": "friend",
+      "weight": 0.7857440000000001
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Salcete_0",
+      "type": "friend",
+      "weight": 0.7746666666666668
+    },
+    {
+      "source": "HUM_GOA_Salcete_0",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.7746666666666668
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.8925813333333334
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.8925813333333334
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.7013333333333334
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.7013333333333334
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.7562906666666669
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.7562906666666669
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Bardez_1",
+      "type": "friend",
+      "weight": 0.8896240000000001
+    },
+    {
+      "source": "HUM_GOA_Bardez_1",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.8896240000000001
+    },
+    {
+      "source": "HUM_GOA_Vascocda_0",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.6571626666666668
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Vascocda_0",
+      "type": "friend",
+      "weight": 0.6571626666666668
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Sattari_1",
+      "type": "friend",
+      "weight": 0.7371626666666669
+    },
+    {
+      "source": "HUM_GOA_Sattari_1",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.7371626666666669
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Sanguem_0",
+      "type": "friend",
+      "weight": 0.7374533333333335
+    },
+    {
+      "source": "HUM_GOA_Sanguem_0",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.7374533333333335
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Pernem_1",
+      "type": "friend",
+      "weight": 0.6139146666666667
+    },
+    {
+      "source": "HUM_GOA_Pernem_1",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.6139146666666667
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Bicholim_2",
+      "type": "friend",
+      "weight": 0.7791026666666669
+    },
+    {
+      "source": "HUM_GOA_Bicholim_2",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.7791026666666669
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Quepem_1",
+      "type": "friend",
+      "weight": 0.6075386666666668
+    },
+    {
+      "source": "HUM_GOA_Quepem_1",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.6075386666666668
+    },
+    {
+      "source": "HUM_GOA_Quepem_0",
+      "target": "HUM_GOA_Vascocda_1",
+      "type": "friend",
+      "weight": 0.24040398718323047
+    },
+    {
+      "source": "HUM_GOA_Vascocda_1",
+      "target": "HUM_GOA_Quepem_0",
+      "type": "friend",
+      "weight": 0.24040398718323047
+    },
+    {
+      "source": "HUM_GOA_Tiswadi_1",
+      "target": "HUM_GOA_Canacona_0",
+      "type": "friend",
+      "weight": 0.2355190036973542
+    },
+    {
+      "source": "HUM_GOA_Canacona_0",
+      "target": "HUM_GOA_Tiswadi_1",
+      "type": "friend",
+      "weight": 0.2355190036973542
+    }
+  ],
+  "adjacency": {
+    "HUM_GOA_Tiswadi_0": [
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "friend",
+        "weight": 0.8691626666666669
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.8259146666666668
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.8100600000000002
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.7881200000000002
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.7624960000000002
+      }
+    ],
+    "HUM_GOA_Tiswadi_1": [
+      {
+        "target": "HUM_GOA_Tiswadi_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.8100600000000002
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.7922906666666667
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.8361200000000001
+      },
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.8392480000000002
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.8259146666666668
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.7873933333333334
+      },
+      {
+        "target": "HUM_GOA_Mormugao_0",
+        "type": "friend",
+        "weight": 0.734812
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.7349573333333335
+      },
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "friend",
+        "weight": 0.8691626666666669
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.7624960000000002
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.7562906666666669
+      },
+      {
+        "target": "HUM_GOA_Canacona_0",
+        "type": "friend",
+        "weight": 0.2355190036973542
+      }
+    ],
+    "HUM_GOA_Bardez_0": [
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.9001453333333334
+      },
+      {
+        "target": "HUM_GOA_Sanguem_0",
+        "type": "friend",
+        "weight": 0.7118293333333334
+      },
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "friend",
+        "weight": 0.7819146666666668
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.8962906666666667
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.8392480000000002
+      },
+      {
+        "target": "HUM_GOA_Sattari_0",
+        "type": "friend",
+        "weight": 0.8555386666666668
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.929624
+      },
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.8176240000000001
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.8456240000000002
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.6829573333333334
+      },
+      {
+        "target": "HUM_GOA_Canacona_0",
+        "type": "friend",
+        "weight": 0.7547866666666667
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.6814533333333335
+      }
+    ],
+    "HUM_GOA_Bardez_1": [
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.8259146666666668
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.8965813333333335
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.9029573333333334
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_0",
+        "type": "friend",
+        "weight": 0.8259146666666668
+      },
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.9014786666666668
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.9057693333333334
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.8934786666666668
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.8374786666666667
+      },
+      {
+        "target": "HUM_GOA_Mormugao_0",
+        "type": "friend",
+        "weight": 0.8657693333333334
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.8896240000000001
+      }
+    ],
+    "HUM_GOA_Pernem_0": [
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.8176240000000001
+      },
+      {
+        "target": "HUM_GOA_Canacona_0",
+        "type": "friend",
+        "weight": 0.7811626666666668
+      },
+      {
+        "target": "HUM_GOA_Sattari_0",
+        "type": "friend",
+        "weight": 0.8619146666666668
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.808
+      },
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.742812
+      },
+      {
+        "target": "HUM_GOA_Mormugao_0",
+        "type": "friend",
+        "weight": 0.7500600000000002
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.7085813333333335
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.8016240000000001
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.6944960000000001
+      }
+    ],
+    "HUM_GOA_Pernem_1": [
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.929624
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.9029573333333334
+      },
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.808
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.8934786666666668
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.7752480000000002
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.9936240000000001
+      },
+      {
+        "target": "HUM_GOA_Sattari_0",
+        "type": "friend",
+        "weight": 0.8059146666666668
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.6125813333333334
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.6784960000000001
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.8925813333333334
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.6139146666666667
+      }
+    ],
+    "HUM_GOA_Bicholim_0": [
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.9001453333333334
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.8934786666666668
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.8934786666666668
+      },
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.8253333333333335
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.7393933333333335
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.7873933333333334
+      },
+      {
+        "target": "HUM_GOA_Sanguem_1",
+        "type": "friend",
+        "weight": 0.6503506666666667
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.8871026666666668
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.8617693333333334
+      }
+    ],
+    "HUM_GOA_Bicholim_1": [
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.9014786666666668
+      },
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.742812
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.8253333333333335
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.7577693333333333
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.920436
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.8111026666666669
+      },
+      {
+        "target": "HUM_GOA_Sanguem_0",
+        "type": "friend",
+        "weight": 0.7970173333333335
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.8484360000000002
+      },
+      {
+        "target": "HUM_GOA_Mormugao_0",
+        "type": "friend",
+        "weight": 0.7872480000000002
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.8805813333333335
+      }
+    ],
+    "HUM_GOA_Bicholim_2": [
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.8100600000000002
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.8374786666666667
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.8564360000000002
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_0",
+        "type": "friend",
+        "weight": 0.8100600000000002
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.9100600000000002
+      },
+      {
+        "target": "HUM_GOA_Sattari_0",
+        "type": "friend",
+        "weight": 0.8273933333333335
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.7965813333333335
+      },
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "friend",
+        "weight": 0.7831026666666667
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.7466413333333334
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.7791026666666669
+      }
+    ],
+    "HUM_GOA_Sattari_0": [
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.8555386666666668
+      },
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.8619146666666668
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.8213080000000001
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.8259146666666667
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.8059146666666668
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.8273933333333335
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.8013333333333335
+      },
+      {
+        "target": "HUM_GOA_Canacona_0",
+        "type": "friend",
+        "weight": 0.8592480000000001
+      }
+    ],
+    "HUM_GOA_Sattari_1": [
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.8361200000000001
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.7393933333333335
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.9100600000000002
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_0",
+        "type": "friend",
+        "weight": 0.7881200000000002
+      },
+      {
+        "target": "HUM_GOA_Sattari_0",
+        "type": "friend",
+        "weight": 0.8013333333333335
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.7266413333333335
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.8144960000000001
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.6571626666666668
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.7371626666666669
+      }
+    ],
+    "HUM_GOA_Sanguem_0": [
+      {
+        "target": "HUM_GOA_Sanguem_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.7118293333333334
+      },
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.7970173333333335
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.8961200000000001
+      },
+      {
+        "target": "HUM_GOA_Canacona_0",
+        "type": "friend",
+        "weight": 0.8162906666666667
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.8096240000000001
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.7374533333333335
+      }
+    ],
+    "HUM_GOA_Sanguem_1": [
+      {
+        "target": "HUM_GOA_Sanguem_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.6503506666666667
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.7574533333333334
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.7454533333333334
+      },
+      {
+        "target": "HUM_GOA_Canacona_0",
+        "type": "friend",
+        "weight": 0.8482906666666667
+      }
+    ],
+    "HUM_GOA_Mormugao_0": [
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.7872480000000002
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.915684
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.8657693333333334
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.9681453333333334
+      },
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.7500600000000002
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.734812
+      }
+    ],
+    "HUM_GOA_Mormugao_1": [
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.9057693333333334
+      },
+      {
+        "target": "HUM_GOA_Sattari_0",
+        "type": "friend",
+        "weight": 0.8213080000000001
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.8441453333333335
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.762812
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.7965813333333335
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.7266413333333335
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.9281453333333334
+      },
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.8805813333333335
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.8223506666666668
+      }
+    ],
+    "HUM_GOA_Salcete_0": [
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.7752480000000002
+      },
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.920436
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.8564360000000002
+      },
+      {
+        "target": "HUM_GOA_Sanguem_1",
+        "type": "friend",
+        "weight": 0.7454533333333334
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.8441453333333335
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.8617693333333334
+      },
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.8456240000000002
+      },
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "friend",
+        "weight": 0.9035386666666668
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.8144960000000001
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.7413333333333334
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.7746666666666668
+      }
+    ],
+    "HUM_GOA_Salcete_1": [
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.7577693333333333
+      },
+      {
+        "target": "HUM_GOA_Sanguem_0",
+        "type": "friend",
+        "weight": 0.8961200000000001
+      },
+      {
+        "target": "HUM_GOA_Canacona_0",
+        "type": "friend",
+        "weight": 0.7324106666666668
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.8146666666666669
+      },
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.6829573333333334
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.6125813333333334
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.7349573333333335
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.7413333333333334
+      },
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.7085813333333335
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.7857440000000001
+      }
+    ],
+    "HUM_GOA_Quepem_0": [
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "parent",
+        "weight": 0.6
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_0",
+        "type": "friend",
+        "weight": 0.8691626666666669
+      },
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.7819146666666668
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.9035386666666668
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.7831026666666667
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.7182053333333334
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.7608720000000001
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.8691626666666669
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.24040398718323047
+      }
+    ],
+    "HUM_GOA_Quepem_1": [
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "child",
+        "weight": 0.7
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.8965813333333335
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.9936240000000001
+      },
+      {
+        "target": "HUM_GOA_Bicholim_0",
+        "type": "friend",
+        "weight": 0.8871026666666668
+      },
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.8484360000000002
+      },
+      {
+        "target": "HUM_GOA_Mormugao_0",
+        "type": "friend",
+        "weight": 0.915684
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_0",
+        "type": "friend",
+        "weight": 0.7624960000000002
+      },
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.8016240000000001
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.7624960000000002
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.8223506666666668
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.6075386666666668
+      }
+    ],
+    "HUM_GOA_Canacona_0": [
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.7811626666666668
+      },
+      {
+        "target": "HUM_GOA_Sanguem_0",
+        "type": "friend",
+        "weight": 0.8162906666666667
+      },
+      {
+        "target": "HUM_GOA_Sanguem_1",
+        "type": "friend",
+        "weight": 0.8482906666666667
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.7324106666666668
+      },
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.7547866666666667
+      },
+      {
+        "target": "HUM_GOA_Sattari_0",
+        "type": "friend",
+        "weight": 0.8592480000000001
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.7266666666666668
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.2355190036973542
+      }
+    ],
+    "HUM_GOA_Canacona_1": [
+      {
+        "target": "HUM_GOA_Sattari_0",
+        "type": "friend",
+        "weight": 0.8259146666666667
+      },
+      {
+        "target": "HUM_GOA_Sanguem_0",
+        "type": "friend",
+        "weight": 0.8096240000000001
+      },
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.6814533333333335
+      },
+      {
+        "target": "HUM_GOA_Canacona_0",
+        "type": "friend",
+        "weight": 0.7266666666666668
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.597744
+      },
+      {
+        "target": "HUM_GOA_Pernem_0",
+        "type": "friend",
+        "weight": 0.6944960000000001
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.7466413333333334
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.6784960000000001
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.7857440000000001
+      }
+    ],
+    "HUM_GOA_Vascocda_0": [
+      {
+        "target": "HUM_GOA_Bardez_0",
+        "type": "friend",
+        "weight": 0.8962906666666667
+      },
+      {
+        "target": "HUM_GOA_Bicholim_1",
+        "type": "friend",
+        "weight": 0.8111026666666669
+      },
+      {
+        "target": "HUM_GOA_Mormugao_0",
+        "type": "friend",
+        "weight": 0.9681453333333334
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.9281453333333334
+      },
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "friend",
+        "weight": 0.7182053333333334
+      },
+      {
+        "target": "HUM_GOA_Canacona_1",
+        "type": "friend",
+        "weight": 0.597744
+      },
+      {
+        "target": "HUM_GOA_Salcete_0",
+        "type": "friend",
+        "weight": 0.7746666666666668
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.8925813333333334
+      },
+      {
+        "target": "HUM_GOA_Vascocda_1",
+        "type": "friend",
+        "weight": 0.7013333333333334
+      },
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.7562906666666669
+      },
+      {
+        "target": "HUM_GOA_Bardez_1",
+        "type": "friend",
+        "weight": 0.8896240000000001
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.6571626666666668
+      }
+    ],
+    "HUM_GOA_Vascocda_1": [
+      {
+        "target": "HUM_GOA_Tiswadi_1",
+        "type": "friend",
+        "weight": 0.7922906666666667
+      },
+      {
+        "target": "HUM_GOA_Sanguem_1",
+        "type": "friend",
+        "weight": 0.7574533333333334
+      },
+      {
+        "target": "HUM_GOA_Mormugao_1",
+        "type": "friend",
+        "weight": 0.762812
+      },
+      {
+        "target": "HUM_GOA_Salcete_1",
+        "type": "friend",
+        "weight": 0.8146666666666669
+      },
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "friend",
+        "weight": 0.7608720000000001
+      },
+      {
+        "target": "HUM_GOA_Vascocda_0",
+        "type": "friend",
+        "weight": 0.7013333333333334
+      },
+      {
+        "target": "HUM_GOA_Sattari_1",
+        "type": "friend",
+        "weight": 0.7371626666666669
+      },
+      {
+        "target": "HUM_GOA_Sanguem_0",
+        "type": "friend",
+        "weight": 0.7374533333333335
+      },
+      {
+        "target": "HUM_GOA_Pernem_1",
+        "type": "friend",
+        "weight": 0.6139146666666667
+      },
+      {
+        "target": "HUM_GOA_Bicholim_2",
+        "type": "friend",
+        "weight": 0.7791026666666669
+      },
+      {
+        "target": "HUM_GOA_Quepem_1",
+        "type": "friend",
+        "weight": 0.6075386666666668
+      },
+      {
+        "target": "HUM_GOA_Quepem_0",
+        "type": "friend",
+        "weight": 0.24040398718323047
+      }
+    ]
+  },
+  "nodeCount": 23,
+  "edgeCount": 220
+}

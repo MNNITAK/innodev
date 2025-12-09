@@ -1,0 +1,27 @@
+{
+  "opinion": 0.059898994782991655,
+  "confidence": 0.652505,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.11526570291458337,
+    "socialScore": 0.404,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.447525,
+    "weights": {
+      "economic": 0.4,
+      "social": 0.3,
+      "convenience": 0.15,
+      "healthEnv": 0.15
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.007Z",
+    "humanId": "HUM_Manipur_Southern Hills_1"
+  },
+  "humanId": "HUM_Manipur_Southern Hills_1",
+  "state": "Manipur"
+}

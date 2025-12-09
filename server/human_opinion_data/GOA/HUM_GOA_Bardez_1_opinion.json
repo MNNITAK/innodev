@@ -1,0 +1,27 @@
+{
+  "opinion": 0.02375343265172514,
+  "confidence": 0.64208,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.04808204466039002,
+    "socialScore": 0.38280000000000003,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.27540000000000003,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:33.806Z",
+    "humanId": "HUM_GOA_Bardez_1"
+  },
+  "humanId": "HUM_GOA_Bardez_1",
+  "state": "Goa"
+}

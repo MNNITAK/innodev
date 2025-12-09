@@ -1,0 +1,1542 @@
+[
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Tiswadi_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_0",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_1",
+    "targetId": "HUM_GOA_Sanguem_0",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_0",
+    "targetId": "HUM_GOA_Sanguem_1",
+    "relationType": "spouse",
+    "influenceWeight": 0.9,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "parent",
+    "influenceWeight": 0.6,
+    "bidirectional": false
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "child",
+    "influenceWeight": 0.7,
+    "bidirectional": false
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_0",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8691626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Tiswadi_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8691626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8100600000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8100600000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7922906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7922906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8361200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8361200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9001453333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9001453333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Sanguem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7118293333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_0",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7118293333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7819146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7819146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8962906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8962906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8392480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8392480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Sattari_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8555386666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_0",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8555386666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.929624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.929624,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8259146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8259146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8965813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8965813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9029573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9029573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Tiswadi_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8259146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_0",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8259146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9014786666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9014786666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9057693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9057693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8934786666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8934786666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8176240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8176240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Canacona_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7811626666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_0",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7811626666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Sattari_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8619146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_0",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8619146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.808,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.808,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.742812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.742812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8934786666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8934786666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7752480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7752480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9936240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9936240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8253333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8253333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7393933333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7393933333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7873933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7873933333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Sanguem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6503506666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_1",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6503506666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8871026666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8871026666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7577693333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7577693333333333,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.920436,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.920436,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8111026666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8111026666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Sanguem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7970173333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_0",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7970173333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8484360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8484360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Mormugao_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7872480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_0",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7872480000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8374786666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8374786666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8564360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8564360000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Tiswadi_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8100600000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_0",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8100600000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9100600000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.9100600000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_0",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8213080000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Sattari_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8213080000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_0",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8259146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Sattari_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8259146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_0",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8059146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Sattari_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8059146666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_0",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.8273933333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Sattari_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8273933333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Tiswadi_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7881200000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_0",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7881200000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Sattari_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8013333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_0",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8013333333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_0",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8961200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Sanguem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8961200000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_0",
+    "targetId": "HUM_GOA_Canacona_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8162906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_0",
+    "targetId": "HUM_GOA_Sanguem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8162906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_0",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8096240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Sanguem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8096240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_1",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7574533333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Sanguem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7574533333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_1",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7454533333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Sanguem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7454533333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_1",
+    "targetId": "HUM_GOA_Canacona_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8482906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_0",
+    "targetId": "HUM_GOA_Sanguem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8482906666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_0",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.915684,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Mormugao_0",
+    "relationType": "friend",
+    "influenceWeight": 0.915684,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_0",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8657693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Mormugao_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8657693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_0",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9681453333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Mormugao_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9681453333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_0",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7500600000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Mormugao_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7500600000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_0",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.734812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Mormugao_0",
+    "relationType": "friend",
+    "influenceWeight": 0.734812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8441453333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8441453333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.762812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.762812,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7965813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7965813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7266413333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7266413333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9281453333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.9281453333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Bicholim_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8805813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_1",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8805813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Bicholim_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8617693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_0",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8617693333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8456240000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8456240000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9035386666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.9035386666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8144960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8144960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Canacona_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7324106666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_0",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7324106666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8146666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8146666666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6829573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6829573333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6125813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6125813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7349573333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7349573333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7413333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7413333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7085813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7085813333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7831026666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7831026666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7182053333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7182053333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7608720000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7608720000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8691626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8691626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Tiswadi_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7624960000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_0",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7624960000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8016240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8016240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7624960000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7624960000000002,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Mormugao_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8223506666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Mormugao_1",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8223506666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_0",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7547866666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Canacona_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7547866666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_0",
+    "targetId": "HUM_GOA_Sattari_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8592480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_0",
+    "targetId": "HUM_GOA_Canacona_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8592480000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Bardez_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6814533333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_0",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6814533333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Canacona_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7266666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_0",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7266666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.597744,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.597744,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Pernem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6944960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_0",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6944960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7466413333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7466413333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6784960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6784960000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_1",
+    "targetId": "HUM_GOA_Salcete_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7857440000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_1",
+    "targetId": "HUM_GOA_Canacona_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7857440000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Salcete_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7746666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Salcete_0",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7746666666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8925813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8925813333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7013333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7013333333333334,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7562906666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7562906666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Bardez_1",
+    "relationType": "friend",
+    "influenceWeight": 0.8896240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bardez_1",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.8896240000000001,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_0",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6571626666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Vascocda_0",
+    "relationType": "friend",
+    "influenceWeight": 0.6571626666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Sattari_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7371626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sattari_1",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7371626666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Sanguem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.7374533333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Sanguem_0",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7374533333333335,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Pernem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6139146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Pernem_1",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6139146666666667,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Bicholim_2",
+    "relationType": "friend",
+    "influenceWeight": 0.7791026666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Bicholim_2",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.7791026666666669,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Quepem_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6075386666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_1",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.6075386666666668,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Quepem_0",
+    "targetId": "HUM_GOA_Vascocda_1",
+    "relationType": "friend",
+    "influenceWeight": 0.24040398718323047,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Vascocda_1",
+    "targetId": "HUM_GOA_Quepem_0",
+    "relationType": "friend",
+    "influenceWeight": 0.24040398718323047,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Tiswadi_1",
+    "targetId": "HUM_GOA_Canacona_0",
+    "relationType": "friend",
+    "influenceWeight": 0.2355190036973542,
+    "bidirectional": true
+  },
+  {
+    "sourceId": "HUM_GOA_Canacona_0",
+    "targetId": "HUM_GOA_Tiswadi_1",
+    "relationType": "friend",
+    "influenceWeight": 0.2355190036973542,
+    "bidirectional": true
+  }
+]

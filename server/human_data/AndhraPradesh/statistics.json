@@ -1,0 +1,81 @@
+{
+  "stats": {
+    "totalPopulation": 684,
+    "totalConnections": 6656,
+    "avgDegree": 9.730994152046783,
+    "demographics": {
+      "avgAge": 44,
+      "ageRange": {
+        "min": 18,
+        "max": 77
+      },
+      "sexRatio": {
+        "male": 369,
+        "female": 315
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 684,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 689,
+      "incomeRange": {
+        "min": 649,
+        "max": 748
+      },
+      "povertyRate": "8.77",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Manufacturing": 113,
+        "Services": 173,
+        "Agriculture": 373,
+        "Informal": 25
+      }
+    },
+    "network": {
+      "familyConnections": 434,
+      "friendConnections": 6222,
+      "strongConnections": 6524,
+      "weakConnections": 40
+    },
+    "behavioral": {
+      "avgTrust": 60,
+      "avgAdaptability": 40
+    }
+  },
+  "divisionStats": {
+    "North Coastal Tribal Zone": {
+      "households": 83,
+      "population": 113,
+      "avgFamilySize": "1.36"
+    },
+    "Godavari Delta Agro Zone": {
+      "households": 82,
+      "population": 117,
+      "avgFamilySize": "1.43"
+    },
+    "Krishna Guntur Urban Corridor": {
+      "households": 79,
+      "population": 116,
+      "avgFamilySize": "1.47"
+    },
+    "South Coastal Fisheries Zone": {
+      "households": 74,
+      "population": 117,
+      "avgFamilySize": "1.58"
+    },
+    "Rayalaseema Dryland Zone": {
+      "households": 80,
+      "population": 110,
+      "avgFamilySize": "1.38"
+    },
+    "Rayalaseema Temple Hill Zone": {
+      "households": 76,
+      "population": 111,
+      "avgFamilySize": "1.46"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:28.865Z"
+}

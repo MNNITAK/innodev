@@ -1,0 +1,27 @@
+{
+  "opinion": 0.08669283156049382,
+  "confidence": 0.6734799999999999,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.24687492771117395,
+    "socialScore": 0.29159999999999997,
+    "convenienceScore": 0.16055,
+    "healthEnvScore": 0,
+    "relevance": 0.5048999999999999,
+    "weights": {
+      "economic": 0.45,
+      "social": 0.30000000000000004,
+      "convenience": 0.1,
+      "healthEnv": 0.15000000000000002
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:37.758Z",
+    "humanId": "HUM_UP_Moradabad_15"
+  },
+  "humanId": "HUM_UP_Moradabad_15",
+  "state": "UP"
+}

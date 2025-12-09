@@ -1,0 +1,27 @@
+{
+  "opinion": 0.018344323645449447,
+  "confidence": 0.5993550000000001,
+  "reasoning": "I'm neutral because I am unsure about the effects.",
+  "breakdown": {
+    "economicScore": 0.004153645303968605,
+    "socialScore": 0.158,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.40927500000000006,
+    "weights": {
+      "economic": 0.2,
+      "social": 0.4,
+      "convenience": 0.15,
+      "healthEnv": 0.25
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:33.363Z",
+    "humanId": "HUM_Bihar_Patna_1"
+  },
+  "humanId": "HUM_Bihar_Patna_1",
+  "state": "Bihar"
+}

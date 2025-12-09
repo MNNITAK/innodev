@@ -1,0 +1,27 @@
+{
+  "opinion": 0.01945440655741379,
+  "confidence": 0.60493,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.004153645303968605,
+    "socialScore": 0.25428000000000006,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.23715,
+    "weights": {
+      "economic": 0.2,
+      "social": 0.4,
+      "convenience": 0.15,
+      "healthEnv": 0.25
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "India Bus Fare Increase",
+    "domain": "transport",
+    "timestamp": "2025-12-09T05:59:23.527Z",
+    "humanId": "HUM_haryana_Gurgaon_37"
+  },
+  "humanId": "HUM_haryana_Gurgaon_37",
+  "state": "Haryana"
+}

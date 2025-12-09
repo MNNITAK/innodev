@@ -1,0 +1,27 @@
+{
+  "opinion": 0.2996136693963,
+  "confidence": 0.6863295,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.21384000000000006,
+    "convenienceScore": 0.170495,
+    "healthEnvScore": 0,
+    "relevance": 0.5366474999999999,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:35.072Z",
+    "humanId": "HUM_Madhya Pradesh_Gwalior_10"
+  },
+  "humanId": "HUM_Madhya Pradesh_Gwalior_10",
+  "state": "Madhya Pradesh"
+}

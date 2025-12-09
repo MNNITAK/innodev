@@ -1,0 +1,27 @@
+{
+  "opinion": 0.1777270160888867,
+  "confidence": 0.64913,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.48057566860297357,
+    "socialScore": 0.41400000000000003,
+    "convenienceScore": 0.13845,
+    "healthEnvScore": 0,
+    "relevance": 0.54315,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:33.682Z",
+    "humanId": "HUM_Delhi_Central Delhi_6"
+  },
+  "humanId": "HUM_Delhi_Central Delhi_6",
+  "state": "Delhi"
+}

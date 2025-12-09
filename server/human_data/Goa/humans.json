@@ -1,0 +1,2003 @@
+[
+  {
+    "humanId": "HUM_GOA_Tiswadi_0",
+    "householdId": "HH_GOA_Tiswadi_0",
+    "state": "GOA",
+    "district": "Tiswadi",
+    "demographics": {
+      "age": 42,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3470,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 72,
+      "changeAdaptability": 4,
+      "optimism": 99
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 24.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 42
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 10,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 50,
+      "transportationMode": "Bus",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 24,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 74
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 46
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": -0.25913280096688807,
+      "confidence": 0.6001466731660094,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Tiswadi_1",
+    "householdId": "HH_GOA_Tiswadi_0",
+    "state": "GOA",
+    "district": "Tiswadi",
+    "demographics": {
+      "age": 42,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3470,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 72,
+      "changeAdaptability": 4,
+      "optimism": 23
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 24,
+        "category": "Normal"
+      },
+      "diseaseRisk": 42
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 10,
+      "savingsRate": -18
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 50,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 24,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 74
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 46
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": -0.3853897260600565,
+      "confidence": 0.4778498351965842,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Bardez_0",
+    "householdId": "HH_GOA_Bardez_0",
+    "state": "GOA",
+    "district": "Bardez",
+    "demographics": {
+      "age": 27,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5450,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 4,
+      "optimism": 82
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 24.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 14,
+      "savingsRate": -22
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Car",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 20,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 183,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.04871863521706121,
+      "confidence": 0.5762452149623579,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Bardez_1",
+    "householdId": "HH_GOA_Bardez_0",
+    "state": "GOA",
+    "district": "Bardez",
+    "demographics": {
+      "age": 28,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5450,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 4,
+      "optimism": 43
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 22,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 14,
+      "savingsRate": -22
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 20,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 183,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.6961495040131211,
+      "confidence": 0.2887200377020931,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Pernem_0",
+    "householdId": "HH_GOA_Pernem_0",
+    "state": "GOA",
+    "district": "Pernem",
+    "demographics": {
+      "age": 24,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 64,
+      "changeAdaptability": 4,
+      "optimism": 89
+    },
+    "health": {
+      "healthcareAccess": 78,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 25.9,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 16,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 44
+    },
+    "mobility": {
+      "commuteTime": 65,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 66
+    },
+    "environmental": {
+      "pollutionExposure": 208,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.31852768203775916,
+      "confidence": 0.5616209648685911,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Pernem_1",
+    "householdId": "HH_GOA_Pernem_1",
+    "state": "GOA",
+    "district": "Pernem",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 64,
+      "changeAdaptability": 4,
+      "optimism": 41
+    },
+    "health": {
+      "healthcareAccess": 78,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 16,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 44
+    },
+    "mobility": {
+      "commuteTime": 65,
+      "transportationMode": "Multiple",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 66
+    },
+    "environmental": {
+      "pollutionExposure": 208,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.4691874189691623,
+      "confidence": 0.6669832376247409,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Bicholim_0",
+    "householdId": "HH_GOA_Bicholim_0",
+    "state": "GOA",
+    "district": "Bicholim",
+    "demographics": {
+      "age": 23,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5945,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Informal",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 66,
+      "changeAdaptability": 4,
+      "optimism": 63
+    },
+    "health": {
+      "healthcareAccess": 80,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 23.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 15,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "commuteTime": 61,
+      "transportationMode": "Car",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 19,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 68
+    },
+    "environmental": {
+      "pollutionExposure": 192,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 40
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.30814348809821146,
+      "confidence": 0.6254980166382069,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Bicholim_1",
+    "householdId": "HH_GOA_Bicholim_1",
+    "state": "GOA",
+    "district": "Bicholim",
+    "demographics": {
+      "age": 39,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5945,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 66,
+      "changeAdaptability": 4,
+      "optimism": 78
+    },
+    "health": {
+      "healthcareAccess": 80,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 25.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 15,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "commuteTime": 61,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 19,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 68
+    },
+    "environmental": {
+      "pollutionExposure": 192,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 40
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.29351458127639374,
+      "confidence": 0.4840849113278446,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Bicholim_2",
+    "householdId": "HH_GOA_Bicholim_1",
+    "state": "GOA",
+    "district": "Bicholim",
+    "demographics": {
+      "age": 39,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5945,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 66,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 80,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 26.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 15,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "commuteTime": 61,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 19,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 68
+    },
+    "environmental": {
+      "pollutionExposure": 192,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 40
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.40516470806378857,
+      "confidence": 0.26780659503321347,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.455Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Sattari_0",
+    "householdId": "HH_GOA_Sattari_0",
+    "state": "GOA",
+    "district": "Sattari",
+    "demographics": {
+      "age": 32,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 58,
+      "changeAdaptability": 4,
+      "optimism": 54
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 20,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 48
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Car",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 225,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 52
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.11659058826117663,
+      "confidence": 0.6346745649786402,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Sattari_1",
+    "householdId": "HH_GOA_Sattari_1",
+    "state": "GOA",
+    "district": "Sattari",
+    "demographics": {
+      "age": 39,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8420,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Informal",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 58,
+      "changeAdaptability": 4,
+      "optimism": 72
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 20,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 48
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 60
+    },
+    "environmental": {
+      "pollutionExposure": 225,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 52
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.16510284238345418,
+      "confidence": 0.4379976092238568,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Sanguem_0",
+    "householdId": "HH_GOA_Sanguem_0",
+    "state": "GOA",
+    "district": "Sanguem",
+    "demographics": {
+      "age": 40,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9410,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 54,
+      "changeAdaptability": 4,
+      "optimism": 79
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 23,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "commuteTime": 79,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 12,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 56
+    },
+    "environmental": {
+      "pollutionExposure": 242,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.38978837444493575,
+      "confidence": 0.6931089775526558,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Sanguem_1",
+    "householdId": "HH_GOA_Sanguem_0",
+    "state": "GOA",
+    "district": "Sanguem",
+    "demographics": {
+      "age": 43,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9410,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 54,
+      "changeAdaptability": 4,
+      "optimism": 22
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 23.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 23,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "commuteTime": 79,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 12,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 56
+    },
+    "environmental": {
+      "pollutionExposure": 242,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.9005506166699697,
+      "confidence": 0.3392479477050212,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Mormugao_0",
+    "householdId": "HH_GOA_Mormugao_0",
+    "state": "GOA",
+    "district": "Mormugao",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3965,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 74,
+      "changeAdaptability": 5,
+      "optimism": 21
+    },
+    "health": {
+      "healthcareAccess": 88,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 18.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 12,
+      "savingsRate": -16
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 43,
+      "transportationMode": "Train",
+      "geographicMobility": 5
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 26,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 5,
+      "digitalServicesAccess": 84
+    },
+    "environmental": {
+      "pollutionExposure": 208,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 28
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": 0.3869710601214118,
+      "confidence": 0.28218689675966135,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Mormugao_1",
+    "householdId": "HH_GOA_Mormugao_1",
+    "state": "GOA",
+    "district": "Mormugao",
+    "demographics": {
+      "age": 32,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3965,
+      "povertyStatus": 0,
+      "literacy": 3,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 74,
+      "changeAdaptability": 5,
+      "optimism": 73
+    },
+    "health": {
+      "healthcareAccess": 88,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 20.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 12,
+      "savingsRate": -16
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 43,
+      "transportationMode": "Bike",
+      "geographicMobility": 5
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 26,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 5,
+      "digitalServicesAccess": 84
+    },
+    "environmental": {
+      "pollutionExposure": 208,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 28
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": -0.7072844504919753,
+      "confidence": 0.6305806394386061,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Salcete_0",
+    "householdId": "HH_GOA_Salcete_0",
+    "state": "GOA",
+    "district": "Salcete",
+    "demographics": {
+      "age": 39,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4460,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 70,
+      "changeAdaptability": 4,
+      "optimism": 46
+    },
+    "health": {
+      "healthcareAccess": 84,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 20.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 46
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 13,
+      "savingsRate": -20
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 54,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 22,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 5,
+      "digitalServicesAccess": 78
+    },
+    "environmental": {
+      "pollutionExposure": 175,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 44
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.14501116045199947,
+      "confidence": 0.681152579580607,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Salcete_1",
+    "householdId": "HH_GOA_Salcete_1",
+    "state": "GOA",
+    "district": "Salcete",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4460,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Unemployed",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 70,
+      "changeAdaptability": 4,
+      "optimism": 42
+    },
+    "health": {
+      "healthcareAccess": 84,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 27.2,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 46
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 13,
+      "savingsRate": -20
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 54,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 22,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 5,
+      "digitalServicesAccess": 78
+    },
+    "environmental": {
+      "pollutionExposure": 175,
+      "climateVulnerability": 3,
+      "greenSpaceAccess": 44
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.3883216312434068,
+      "confidence": 0.562892410378697,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Quepem_0",
+    "householdId": "HH_GOA_Quepem_0",
+    "state": "GOA",
+    "district": "Quepem",
+    "demographics": {
+      "age": 47,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7430,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 62,
+      "changeAdaptability": 4,
+      "optimism": 42
+    },
+    "health": {
+      "healthcareAccess": 76,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 23.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 54
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -28
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 46
+    },
+    "mobility": {
+      "commuteTime": 72,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 64
+    },
+    "environmental": {
+      "pollutionExposure": 217,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 36
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.4857446096021798,
+      "confidence": 0.6250398143159301,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Quepem_1",
+    "householdId": "HH_GOA_Quepem_0",
+    "state": "GOA",
+    "district": "Quepem",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7430,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 62,
+      "changeAdaptability": 4,
+      "optimism": 60
+    },
+    "health": {
+      "healthcareAccess": 76,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 19.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 54
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -28
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 46
+    },
+    "mobility": {
+      "commuteTime": 72,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 64
+    },
+    "environmental": {
+      "pollutionExposure": 217,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 36
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.40030690967013793,
+      "confidence": 0.44190896239788025,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.456Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Canacona_0",
+    "householdId": "HH_GOA_Canacona_0",
+    "state": "GOA",
+    "district": "Canacona",
+    "demographics": {
+      "age": 29,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10400,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 16
+    },
+    "health": {
+      "healthcareAccess": 64,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21,
+        "category": "Normal"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 26,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 52
+    },
+    "mobility": {
+      "commuteTime": 86,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 10,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 192,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.361378143900553,
+      "confidence": 0.26972759128759405,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.457Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Canacona_1",
+    "householdId": "HH_GOA_Canacona_1",
+    "state": "GOA",
+    "district": "Canacona",
+    "demographics": {
+      "age": 55,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10400,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 80
+    },
+    "health": {
+      "healthcareAccess": 64,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 19.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 26,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 52
+    },
+    "mobility": {
+      "commuteTime": 86,
+      "transportationMode": "Bus",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 10,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 192,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.9337832703957938,
+      "confidence": 0.28197292455846346,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.457Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Vascocda_0",
+    "householdId": "HH_GOA_Vascocda_0",
+    "state": "GOA",
+    "district": "Vascocda",
+    "demographics": {
+      "age": 22,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4460,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 76,
+      "changeAdaptability": 5,
+      "optimism": 75
+    },
+    "health": {
+      "healthcareAccess": 90,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 12,
+      "savingsRate": -14
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 40,
+      "transportationMode": "Bus",
+      "geographicMobility": 5
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 28,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 5,
+      "digitalServicesAccess": 88
+    },
+    "environmental": {
+      "pollutionExposure": 200,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 24
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": 0.6758494601568907,
+      "confidence": 0.6995053571344166,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.457Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_GOA_Vascocda_1",
+    "householdId": "HH_GOA_Vascocda_1",
+    "state": "GOA",
+    "district": "Vascocda",
+    "demographics": {
+      "age": 44,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4460,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 76,
+      "changeAdaptability": 5,
+      "optimism": 16
+    },
+    "health": {
+      "healthcareAccess": 90,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 40
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 12,
+      "savingsRate": -14
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 40,
+      "transportationMode": "Bus",
+      "geographicMobility": 5
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 28,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Broadband",
+      "digitalLiteracy": 5,
+      "digitalServicesAccess": 88
+    },
+    "environmental": {
+      "pollutionExposure": 200,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 24
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 5
+    },
+    "opinion": {
+      "current": 0.8433349682438482,
+      "confidence": 0.432187851149341,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.457Z",
+      "version": 1
+    }
+  }
+]

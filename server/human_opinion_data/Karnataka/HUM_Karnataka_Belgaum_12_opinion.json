@@ -1,0 +1,27 @@
+{
+  "opinion": 0.006428371519751281,
+  "confidence": 0.536994,
+  "reasoning": "I'm neutral because I don't trust the government will implement this properly.",
+  "breakdown": {
+    "economicScore": 0.048270033660691214,
+    "socialScore": -0.02268000000000005,
+    "convenienceScore": 0.10400000000000001,
+    "healthEnvScore": 0,
+    "relevance": 0.45747000000000004,
+    "weights": {
+      "economic": 0.4,
+      "social": 0.3,
+      "convenience": 0.15,
+      "healthEnv": 0.15
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.636Z",
+    "humanId": "HUM_Karnataka_Belgaum_12"
+  },
+  "humanId": "HUM_Karnataka_Belgaum_12",
+  "state": "Karnataka"
+}

@@ -1,0 +1,27 @@
+{
+  "opinion": 0.055593805201354554,
+  "confidence": 0.620155,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.0954360274905727,
+    "socialScore": 0.3496,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.485775,
+    "weights": {
+      "economic": 0.4,
+      "social": 0.3,
+      "convenience": 0.15,
+      "healthEnv": 0.15
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:33.792Z",
+    "humanId": "HUM_Delhi_Shahdara_7"
+  },
+  "humanId": "HUM_Delhi_Shahdara_7",
+  "state": "Delhi"
+}

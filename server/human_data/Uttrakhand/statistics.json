@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "totalPopulation": 99,
+    "totalConnections": 962,
+    "avgDegree": 9.717171717171718,
+    "demographics": {
+      "avgAge": 47,
+      "ageRange": {
+        "min": 18,
+        "max": 77
+      },
+      "sexRatio": {
+        "male": 50,
+        "female": 49
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 99,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 10450,
+      "incomeRange": {
+        "min": 9410,
+        "max": 11390
+      },
+      "povertyRate": "23.23",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Manufacturing": 26,
+        "Agriculture": 38,
+        "Informal": 13,
+        "Services": 22
+      }
+    },
+    "network": {
+      "familyConnections": 54,
+      "friendConnections": 908,
+      "strongConnections": 952,
+      "weakConnections": 4
+    },
+    "behavioral": {
+      "avgTrust": 53,
+      "avgAdaptability": 80
+    }
+  },
+  "divisionStats": {
+    "Garhwal": {
+      "households": 36,
+      "population": 47,
+      "avgFamilySize": "1.31"
+    },
+    "Kumaon": {
+      "households": 36,
+      "population": 52,
+      "avgFamilySize": "1.44"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:31.314Z"
+}

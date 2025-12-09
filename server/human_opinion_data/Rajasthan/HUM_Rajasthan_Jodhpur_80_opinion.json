@@ -1,0 +1,27 @@
+{
+  "opinion": 0.004327170099413085,
+  "confidence": 0.5586775,
+  "reasoning": "I'm neutral because I am unsure about the effects.",
+  "breakdown": {
+    "economicScore": 0.02402264268195898,
+    "socialScore": 0,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.39588749999999995,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "The government announces free electricity subsidy of up to 200 units per month for all households wi",
+    "domain": "tax",
+    "timestamp": "2025-12-07T15:12:01.298Z",
+    "humanId": "HUM_Rajasthan_Jodhpur_80"
+  },
+  "humanId": "HUM_Rajasthan_Jodhpur_80",
+  "state": "Rajasthan"
+}

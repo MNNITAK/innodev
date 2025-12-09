@@ -1,0 +1,3302 @@
+[
+  {
+    "humanId": "HUM_Karnataka_Bangalore_0",
+    "householdId": "HH_Karnataka_Bangalore_0",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 54,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4340,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 54,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 72,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 26.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 31,
+      "savingsRate": -39
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2425,
+      "commuteTime": 29
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_1",
+    "householdId": "HH_Karnataka_Mangalore_0",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 80,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13809,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 39,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 19.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 49,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4229,
+      "commuteTime": 48
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_2",
+    "householdId": "HH_Karnataka_Bangalore_0",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 19,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6330,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Retail",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 58,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 81,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 34.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 30,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 57
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3328,
+      "commuteTime": 11
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_3",
+    "householdId": "HH_Karnataka_Belgaum_0",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 81,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12590,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 5,
+      "institutionalTrust": 53,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 24.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 68
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 56,
+      "savingsRate": -14
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 29
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4632,
+      "commuteTime": 30
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_4",
+    "householdId": "HH_Karnataka_Belgaum_0",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 20,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6204,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 62,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 62,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 19.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 31,
+      "savingsRate": 20
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 60
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1204,
+      "commuteTime": 49
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_5",
+    "householdId": "HH_Karnataka_Bangalore_1",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 64,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4830,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 60,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25.9,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 53
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 80,
+      "savingsRate": -35
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 48
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4518,
+      "commuteTime": 11
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_6",
+    "householdId": "HH_Karnataka_Belgaum_1",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 22,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6288,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Government",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 63,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 53,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 26,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": 15
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 579,
+      "commuteTime": 49
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_7",
+    "householdId": "HH_Karnataka_Bangalore_1",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 39,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 34843,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 5,
+      "institutionalTrust": 59,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 23,
+        "category": "Normal"
+      },
+      "diseaseRisk": 60
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 29,
+      "savingsRate": -6
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 47
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 927,
+      "commuteTime": 86
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_8",
+    "householdId": "HH_Karnataka_Mysore_1",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 37,
+      "householdSize": 6,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 29477,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Government",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 36,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 27
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 20,
+      "savingsRate": 35
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1163,
+      "commuteTime": 96
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_9",
+    "householdId": "HH_Karnataka_Bangalore_1",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 23,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6984,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 70,
+      "changeAdaptability": 1,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 28.7,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 35
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 39,
+      "savingsRate": 1
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 15
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4601,
+      "commuteTime": 37
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_10",
+    "householdId": "HH_Karnataka_Belgaum_2",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 50,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 29600,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 79,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 27.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 49
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 31,
+      "savingsRate": 5
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2614,
+      "commuteTime": 103
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_11",
+    "householdId": "HH_Karnataka_Mangalore_2",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 60,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2589,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Business",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 71,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 75,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 31.9,
+        "category": "Obese"
+      },
+      "diseaseRisk": 35
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 64,
+      "savingsRate": -14
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 52
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1494,
+      "commuteTime": 109
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_12",
+    "householdId": "HH_Karnataka_Belgaum_2",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 31,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17372,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 27,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 55,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 63
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 67,
+      "savingsRate": 1
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 53
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1012,
+      "commuteTime": 115
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_13",
+    "householdId": "HH_Karnataka_Mysore_2",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 69,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2985,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 49,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 18.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 35,
+      "savingsRate": -3
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2723,
+      "commuteTime": 27
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_14",
+    "householdId": "HH_Karnataka_Bangalore_2",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 38,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 28573,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Government",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 48,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 75,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 32.3,
+        "category": "Obese"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 70,
+      "savingsRate": -33
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 48
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4830,
+      "commuteTime": 49
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_15",
+    "householdId": "HH_Karnataka_Bangalore_3",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 55,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6472,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Retail",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 63,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 75,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 33.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 39
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 41,
+      "savingsRate": 45
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 47
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1243,
+      "commuteTime": 69
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_16",
+    "householdId": "HH_Karnataka_Belgaum_3",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 44,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2306,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 30,
+      "changeAdaptability": 5,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 23.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 53
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 21,
+      "savingsRate": 42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 43
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3048,
+      "commuteTime": 70
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_17",
+    "householdId": "HH_Karnataka_Mangalore_3",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 42,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5306,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 29,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 62,
+      "savingsRate": 8
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 37
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3923,
+      "commuteTime": 111
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_18",
+    "householdId": "HH_Karnataka_Mysore_3",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 61,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4884,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 78,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 49,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 21.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 12,
+      "savingsRate": -17
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 966,
+      "commuteTime": 66
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_19",
+    "householdId": "HH_Karnataka_Belgaum_3",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 47,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 29035,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Business",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 34,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 34.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 36,
+      "savingsRate": 43
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 44
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3980,
+      "commuteTime": 15
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_20",
+    "householdId": "HH_Karnataka_Bangalore_4",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 42,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 19270,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 24,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 57,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 25.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 63,
+      "savingsRate": 32
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4235,
+      "commuteTime": 90
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 3,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_21",
+    "householdId": "HH_Karnataka_Mangalore_4",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 24,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 29023,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Business",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 49,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 69,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 23.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 42
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 79,
+      "savingsRate": -15
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 21
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1571,
+      "commuteTime": 70
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_22",
+    "householdId": "HH_Karnataka_Belgaum_4",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 51,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4974,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 2,
+      "institutionalTrust": 54,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 67,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 32.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 24
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 22,
+      "savingsRate": 40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 43
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1218,
+      "commuteTime": 61
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_23",
+    "householdId": "HH_Karnataka_Bangalore_4",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 72,
+      "householdSize": 6,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3662,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 2,
+      "occupation": "Government",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 70,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 67,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 43,
+      "savingsRate": -15
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 21
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2189,
+      "commuteTime": 27
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_24",
+    "householdId": "HH_Karnataka_Mysore_4",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 65,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6997,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Manufacturing",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 31,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 79,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 19.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 60
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 59,
+      "savingsRate": -25
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 29
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3103,
+      "commuteTime": 45
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_25",
+    "householdId": "HH_Karnataka_Mysore_5",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 24,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8678,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Business",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 33,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 57,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 58,
+      "savingsRate": 24
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4849,
+      "commuteTime": 89
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_26",
+    "householdId": "HH_Karnataka_Bangalore_5",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 44,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5634,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 39,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 34.9,
+        "category": "Obese"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 55,
+      "savingsRate": 35
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1436,
+      "commuteTime": 86
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_27",
+    "householdId": "HH_Karnataka_Bangalore_5",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 81,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6333,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Healthcare",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 27,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 25.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 57
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 48,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 60
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3684,
+      "commuteTime": 76
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_28",
+    "householdId": "HH_Karnataka_Belgaum_5",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 31,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2509,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Business",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 55,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 51,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25.4,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 23
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 65,
+      "savingsRate": 48
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 56
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2591,
+      "commuteTime": 89
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_29",
+    "householdId": "HH_Karnataka_Bangalore_5",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 70,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7078,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 5,
+      "institutionalTrust": 74,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 39,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 32.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 70
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 14,
+      "savingsRate": 10
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4745,
+      "commuteTime": 114
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_30",
+    "householdId": "HH_Karnataka_Bangalore_6",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 41,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8551,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 21,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 88,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 35
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 63,
+      "savingsRate": -4
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 45
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4465,
+      "commuteTime": 45
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_31",
+    "householdId": "HH_Karnataka_Bangalore_6",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 80,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3121,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Retail",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 46,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 39,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 32,
+        "category": "Obese"
+      },
+      "diseaseRisk": 49
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 80,
+      "savingsRate": 23
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 56
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4958,
+      "commuteTime": 57
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_32",
+    "householdId": "HH_Karnataka_Bangalore_6",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 21,
+      "householdSize": 8,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3344,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Healthcare",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 44,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 79,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 22.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 61
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 73,
+      "savingsRate": 46
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 50
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1414,
+      "commuteTime": 49
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 4,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_33",
+    "householdId": "HH_Karnataka_Mysore_6",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 61,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13482,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 52,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 61,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 29.9,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 30,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1852,
+      "commuteTime": 64
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_34",
+    "householdId": "HH_Karnataka_Mangalore_6",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 48,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15123,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 21,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 35
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 77,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2821,
+      "commuteTime": 66
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_35",
+    "householdId": "HH_Karnataka_Belgaum_7",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 85,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 35865,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 68,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 52,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 29.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 51
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 48,
+      "savingsRate": -40
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 901,
+      "commuteTime": 83
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_36",
+    "householdId": "HH_Karnataka_Mysore_7",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 81,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2466,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 71,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 62,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 33.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 31
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 12,
+      "savingsRate": -25
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 16
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3866,
+      "commuteTime": 63
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_37",
+    "householdId": "HH_Karnataka_Mysore_7",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 39,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 48302,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Education",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 50,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 61,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 29
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 34,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2701,
+      "commuteTime": 22
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_38",
+    "householdId": "HH_Karnataka_Belgaum_7",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 28,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17725,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 41,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 53
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 37,
+      "savingsRate": 18
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4656,
+      "commuteTime": 78
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_39",
+    "householdId": "HH_Karnataka_Belgaum_7",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 81,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2037,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 2,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 28,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 55
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 24,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4574,
+      "commuteTime": 20
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_40",
+    "householdId": "HH_Karnataka_Belgaum_8",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 33,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 24382,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 49,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 32.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 69
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 40,
+      "savingsRate": 26
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2016,
+      "commuteTime": 50
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Bangalore_41",
+    "householdId": "HH_Karnataka_Bangalore_8",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "demographics": {
+      "age": 39,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4276,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 32,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 90,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 33.3,
+        "category": "Obese"
+      },
+      "diseaseRisk": 41
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 79,
+      "savingsRate": 13
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3471,
+      "commuteTime": 97
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_42",
+    "householdId": "HH_Karnataka_Mangalore_8",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 21,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7203,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Business",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 60,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 30.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 60
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 78,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 47
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2471,
+      "commuteTime": 19
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_43",
+    "householdId": "HH_Karnataka_Mysore_8",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 63,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2022,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 18.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 27,
+      "savingsRate": -23
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 39
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 772,
+      "commuteTime": 50
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Belgaum_44",
+    "householdId": "HH_Karnataka_Belgaum_8",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "demographics": {
+      "age": 42,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5100,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 51,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 83,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 18.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 67
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 38,
+      "savingsRate": 15
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4282,
+      "commuteTime": 63
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mysore_45",
+    "householdId": "HH_Karnataka_Mysore_9",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "demographics": {
+      "age": 33,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2355,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Retail",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 78,
+      "changeAdaptability": 1,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 73,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 28.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 68
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 15,
+      "savingsRate": 39
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3141,
+      "commuteTime": 19
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_46",
+    "householdId": "HH_Karnataka_Mangalore_9",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 79,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5721,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 22.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 31,
+      "savingsRate": -20
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4184,
+      "commuteTime": 39
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_47",
+    "householdId": "HH_Karnataka_Mangalore_9",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 57,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11985,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 54,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 46,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 34.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 63
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 66,
+      "savingsRate": -13
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2297,
+      "commuteTime": 80
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_48",
+    "householdId": "HH_Karnataka_Mangalore_9",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 60,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3311,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 51,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 25.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 50
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 64,
+      "savingsRate": 20
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 39
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 696,
+      "commuteTime": 114
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Karnataka_Mangalore_49",
+    "householdId": "HH_Karnataka_Mangalore_9",
+    "state": "Karnataka",
+    "district": "Mangalore",
+    "demographics": {
+      "age": 69,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 5580,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 2,
+      "institutionalTrust": 47,
+      "changeAdaptability": 1,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 90,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 19.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 53,
+      "savingsRate": -21
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 18
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1962,
+      "commuteTime": 105
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  }
+]

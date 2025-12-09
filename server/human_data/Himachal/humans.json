@@ -1,0 +1,4961 @@
+[
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_0",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_0",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 55,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 86
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Car",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.9395494025791069,
+      "confidence": 0.3270779683758944,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.500Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_1",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_0",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 57,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 56
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.1471253758597677,
+      "confidence": 0.6669913061329624,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.500Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_2",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_1",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 51,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Informal",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 11
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 27.2,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5203268008887649,
+      "confidence": 0.43670290880779583,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_3",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_1",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 47,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 74
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 17.3,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.8723556448099856,
+      "confidence": 0.25575915133672666,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_4",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_2",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 51,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 34
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 26,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5706600069526035,
+      "confidence": 0.4826650909838349,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_5",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_2",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 76
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Car",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.6180133852852783,
+      "confidence": 0.5226648057555842,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_6",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_3",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 41,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 95
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Multiple",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.05703233998151491,
+      "confidence": 0.6747810324776194,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_7",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_4",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 40,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 48
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.2234957810063225,
+      "confidence": 0.3620933573299162,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_8",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_4",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 43,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 57
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 17.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.6481502862106034,
+      "confidence": 0.4717479160539457,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_9",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_5",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 89
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Car",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.8080042063195978,
+      "confidence": 0.3312703649095333,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_10",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_6",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 60,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 95
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Car",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.3770564789341049,
+      "confidence": 0.5357352483485822,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Outer Shivalik Plains_11",
+    "householdId": "HH_Himachal_Outer Shivalik Plains_6",
+    "state": "Himachal",
+    "district": "Outer Shivalik Plains",
+    "demographics": {
+      "age": 56,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 67
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 18.1,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 18,
+      "savingsRate": -36
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "commuteTime": 37,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 24,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 500,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 25
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.938341780093928,
+      "confidence": 0.2822284664007739,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_0",
+    "householdId": "HH_Himachal_Central Himachal Urban_0",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 56,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 79
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 17.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.1531691637794239,
+      "confidence": 0.3869248401816384,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_1",
+    "householdId": "HH_Himachal_Central Himachal Urban_0",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 57,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 72
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.07575964551819947,
+      "confidence": 0.5341226566278762,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_2",
+    "householdId": "HH_Himachal_Central Himachal Urban_1",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 35,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 7
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.522951798179212,
+      "confidence": 0.448119378738848,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_3",
+    "householdId": "HH_Himachal_Central Himachal Urban_2",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 31,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 24
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.8784163140786374,
+      "confidence": 0.4147231163309537,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_4",
+    "householdId": "HH_Himachal_Central Himachal Urban_2",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 27,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 52
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.3805605164942505,
+      "confidence": 0.40131905033635895,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_5",
+    "householdId": "HH_Himachal_Central Himachal Urban_3",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 29,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 43
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.12082352629658644,
+      "confidence": 0.6621891922741315,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_6",
+    "householdId": "HH_Himachal_Central Himachal Urban_4",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 34,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 99
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 17.3,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.18502554090468903,
+      "confidence": 0.5910306921777336,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_7",
+    "householdId": "HH_Himachal_Central Himachal Urban_5",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 43,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 24
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.24143029879186084,
+      "confidence": 0.3319080197627189,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_8",
+    "householdId": "HH_Himachal_Central Himachal Urban_6",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 48,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 96
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.7119993973460601,
+      "confidence": 0.26910517644537224,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_9",
+    "householdId": "HH_Himachal_Central Himachal Urban_7",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 47,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 17
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 28.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.9244936050033679,
+      "confidence": 0.6416049562057436,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Central Himachal Urban_10",
+    "householdId": "HH_Himachal_Central Himachal Urban_7",
+    "state": "Himachal",
+    "district": "Central Himachal Urban",
+    "demographics": {
+      "age": 47,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 65,
+      "changeAdaptability": 2,
+      "optimism": 48
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 18
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 12,
+      "savingsRate": -30
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 22
+    },
+    "mobility": {
+      "commuteTime": 27,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 28,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 70
+    },
+    "environmental": {
+      "pollutionExposure": 475,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 32
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.5299053027374621,
+      "confidence": 0.3819014094438443,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_0",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_0",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 37,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 52
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.6108462642272512,
+      "confidence": 0.5233289066454362,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_1",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_1",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 48,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 78
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.9422896021671399,
+      "confidence": 0.6147493380940187,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_2",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_1",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 26
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.8551654599891161,
+      "confidence": 0.7300086133307496,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_3",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_2",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 48,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 83
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 16.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.5234850235319786,
+      "confidence": 0.2871964498969978,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_4",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_2",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 46
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.4548077140898421,
+      "confidence": 0.2621272829347959,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_5",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_3",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 47,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 19
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.11433907340925797,
+      "confidence": 0.6041030659158764,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_6",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_4",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 47,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 56
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5631347786528731,
+      "confidence": 0.2704553552673614,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_7",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_4",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 49,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 59
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.9726319093980251,
+      "confidence": 0.2948720054629994,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_8",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_5",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 38,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 34
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 27,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.07150877293625602,
+      "confidence": 0.671174023746788,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_9",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_6",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 41,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 100
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 18.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.728439287549806,
+      "confidence": 0.32007082459105896,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Upper Shimla Apple Belt_10",
+    "householdId": "HH_Himachal_Upper Shimla Apple Belt_6",
+    "state": "Himachal",
+    "district": "Upper Shimla Apple Belt",
+    "demographics": {
+      "age": 41,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 3
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 48,
+      "changeAdaptability": 2,
+      "optimism": 36
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 22
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 22,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 68,
+      "transportationMode": "Car",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 22,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 38
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.9578620731808378,
+      "confidence": 0.6787779772699674,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_0",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_0",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 40,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 3,
+      "occupation": "Manufacturing",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 28
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 17.6,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Multiple",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.14390191156804022,
+      "confidence": 0.4544832572136138,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_1",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_1",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 38,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 78
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.6245917223635069,
+      "confidence": 0.7021480327791794,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_2",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_2",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 32,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 21
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Car",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.30834052090933906,
+      "confidence": 0.5833724488208665,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_3",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_3",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 63,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 79
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.3800959894910627,
+      "confidence": 0.414140985145365,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_4",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_3",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 23,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Unemployed",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 50
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": true
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.9517403092155767,
+      "confidence": 0.33221905389733397,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_5",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_4",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 62,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 69
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 17.5,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.1407855728995342,
+      "confidence": 0.704436110923643,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_6",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_4",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 62,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Informal",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 30
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Multiple",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.5897860821469112,
+      "confidence": 0.4821623318260908,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_7",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_5",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 54,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 93
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.49765605165570825,
+      "confidence": 0.5031270331983935,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_8",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_5",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 56,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 41
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.18252446565214964,
+      "confidence": 0.5535130011086551,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_9",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_6",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 45,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 3,
+      "occupation": "Informal",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 79
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.01622891884871258,
+      "confidence": 0.3439506728937768,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_10",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_7",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 75,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 81
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.9667193421011957,
+      "confidence": 0.3590062911210581,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Tribal Buddhist TransHimalayan_11",
+    "householdId": "HH_Himachal_Tribal Buddhist TransHimalayan_7",
+    "state": "Himachal",
+    "district": "Tribal Buddhist TransHimalayan",
+    "demographics": {
+      "age": 74,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 81
+    },
+    "socioEconomic": {
+      "incomePerCapita": 748,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 4,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 75,
+      "changeAdaptability": 2,
+      "optimism": 100
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "commuteTime": 135,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 32
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 42
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.25781249560419894,
+      "confidence": 0.641639839990713,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_0",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_0",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 60
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 26,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.7884831851590892,
+      "confidence": 0.6720941462340523,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_1",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_1",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 55,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 47
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 13.4,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5407096860198086,
+      "confidence": 0.2914869537700384,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_2",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_2",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 61,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 82
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.20984753796487565,
+      "confidence": 0.6678493979747472,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_3",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_2",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 61,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.07148777528191896,
+      "confidence": 0.6652255912202248,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_4",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_3",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 50,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 54
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.22978473889924533,
+      "confidence": 0.5906436181504636,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_5",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_3",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 54,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 26
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.8425226937402108,
+      "confidence": 0.5999120073821412,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_6",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_4",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 45,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 90
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Multiple",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.19242811434868967,
+      "confidence": 0.6728383819668449,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_7",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_5",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 20,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 17.3,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.5920768942355066,
+      "confidence": 0.4113896094322165,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_8",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_6",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 54,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 45
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.25764369821156263,
+      "confidence": 0.5555127351433824,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.501Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_9",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_7",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 48,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 50
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Car",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.7782642933066204,
+      "confidence": 0.5875282462081246,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.502Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Himachal_Western Himalayan HinduTribal_10",
+    "householdId": "HH_Himachal_Western Himalayan HinduTribal_7",
+    "state": "Himachal",
+    "district": "Western Himalayan HinduTribal",
+    "demographics": {
+      "age": 53,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 26
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 55,
+      "changeAdaptability": 2,
+      "optimism": 25
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 46
+    },
+    "environmental": {
+      "pollutionExposure": 425,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 35
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.3517940123008394,
+      "confidence": 0.38166259388893,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.502Z",
+      "version": 1
+    }
+  }
+]

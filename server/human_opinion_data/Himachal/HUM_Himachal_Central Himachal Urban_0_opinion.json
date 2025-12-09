@@ -1,0 +1,27 @@
+{
+  "opinion": 0.11161763712,
+  "confidence": 0.63258,
+  "reasoning": "I'm neutral because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.12744,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.27540000000000003,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.040Z",
+    "humanId": "HUM_Himachal_Central Himachal Urban_0"
+  },
+  "humanId": "HUM_Himachal_Central Himachal Urban_0",
+  "state": "Himachal"
+}

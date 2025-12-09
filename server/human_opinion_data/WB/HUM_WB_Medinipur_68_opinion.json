@@ -1,0 +1,27 @@
+{
+  "opinion": 0.07898879671740833,
+  "confidence": 0.62872825,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.19964943675728647,
+    "socialScore": 0.36110000000000003,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.55864125,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:38.253Z",
+    "humanId": "HUM_WB_Medinipur_68"
+  },
+  "humanId": "HUM_WB_Medinipur_68",
+  "state": "WB"
+}

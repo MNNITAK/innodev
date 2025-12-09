@@ -1,0 +1,3302 @@
+[
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_0",
+    "householdId": "HH_Tamil Nadu_Coimbatore_0",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 55,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3037,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 25,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 32,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 26.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 79,
+      "savingsRate": 43
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3981,
+      "commuteTime": 78
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_1",
+    "householdId": "HH_Tamil Nadu_Chennai_0",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 54,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3541,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Education",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 46,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 18.3,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 56
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 75,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1631,
+      "commuteTime": 21
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 1,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_2",
+    "householdId": "HH_Tamil Nadu_Chennai_0",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 83,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2875,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 23,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 50,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 25.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 39,
+      "savingsRate": -31
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 58
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4928,
+      "commuteTime": 41
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_3",
+    "householdId": "HH_Tamil Nadu_Madurai_0",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 52,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3313,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Government",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 24,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 51,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 26.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 38
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 66,
+      "savingsRate": -49
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 44
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4195,
+      "commuteTime": 64
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_4",
+    "householdId": "HH_Tamil Nadu_Chennai_0",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 65,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8573,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Education",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 28,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 45,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 32.7,
+        "category": "Obese"
+      },
+      "diseaseRisk": 49
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 72,
+      "savingsRate": -2
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 19
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1162,
+      "commuteTime": 82
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_5",
+    "householdId": "HH_Tamil Nadu_Coimbatore_1",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 24,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7457,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Unemployed",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 80,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 77,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 22.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 31,
+      "savingsRate": -25
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 573,
+      "commuteTime": 71
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_6",
+    "householdId": "HH_Tamil Nadu_Madurai_1",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 53,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4414,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 53,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 28
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 80,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 29
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2912,
+      "commuteTime": 120
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_7",
+    "householdId": "HH_Tamil Nadu_Chennai_1",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 66,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10961,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 28,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 70,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 25.4,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 53
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 46,
+      "savingsRate": 4
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2248,
+      "commuteTime": 99
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_8",
+    "householdId": "HH_Tamil Nadu_Coimbatore_1",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 83,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2834,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Manufacturing",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 3,
+      "institutionalTrust": 72,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 40,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21,
+        "category": "Normal"
+      },
+      "diseaseRisk": 59
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 79,
+      "savingsRate": -14
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 16
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4711,
+      "commuteTime": 55
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_9",
+    "householdId": "HH_Tamil Nadu_Coimbatore_1",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 21,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9651,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 31,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 77,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 27.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 49
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 64,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3055,
+      "commuteTime": 74
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_10",
+    "householdId": "HH_Tamil Nadu_Coimbatore_2",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 85,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 19877,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 63,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 44,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 29.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 80,
+      "savingsRate": -19
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 49
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3079,
+      "commuteTime": 54
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_11",
+    "householdId": "HH_Tamil Nadu_Madurai_2",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 26,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3421,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Business",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 66,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 39,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 39
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1346,
+      "commuteTime": 49
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "DMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_12",
+    "householdId": "HH_Tamil Nadu_Coimbatore_2",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 75,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3657,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 59,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 37,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 34.3,
+        "category": "Obese"
+      },
+      "diseaseRisk": 47
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 69,
+      "savingsRate": 42
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4529,
+      "commuteTime": 13
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_13",
+    "householdId": "HH_Tamil Nadu_Madurai_2",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 41,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3803,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 34,
+      "changeAdaptability": 4,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 80,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 34.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 70
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 30,
+      "savingsRate": -31
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1179,
+      "commuteTime": 82
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_14",
+    "householdId": "HH_Tamil Nadu_Madurai_2",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 69,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16825,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 37,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 38,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 42,
+      "savingsRate": -12
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 652,
+      "commuteTime": 11
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_15",
+    "householdId": "HH_Tamil Nadu_Madurai_3",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 45,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "OBC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4140,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 28,
+      "changeAdaptability": 3,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 83,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 18.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 25,
+      "savingsRate": 0
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 46
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2023,
+      "commuteTime": 101
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_16",
+    "householdId": "HH_Tamil Nadu_Coimbatore_3",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 33,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 39050,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Unemployed",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 29,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 48,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 33.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 54
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 19,
+      "savingsRate": 16
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 19
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 931,
+      "commuteTime": 99
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "TMC",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_17",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_3",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 59,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4748,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 3,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 25,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 62,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 28,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 36,
+      "savingsRate": 17
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1366,
+      "commuteTime": 68
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 5,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_18",
+    "householdId": "HH_Tamil Nadu_Chennai_3",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 57,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7679,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Education",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 59,
+      "changeAdaptability": 2,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31,
+        "category": "Obese"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 49,
+      "savingsRate": -28
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 534,
+      "commuteTime": 71
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_19",
+    "householdId": "HH_Tamil Nadu_Coimbatore_3",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 24,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4263,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Retail",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 41,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 87,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 20
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 58,
+      "savingsRate": 29
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3887,
+      "commuteTime": 18
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_20",
+    "householdId": "HH_Tamil Nadu_Coimbatore_4",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 65,
+      "householdSize": 7,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17436,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 1,
+      "institutionalTrust": 33,
+      "changeAdaptability": 5,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 31.9,
+        "category": "Obese"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 31,
+      "savingsRate": 33
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 49
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4261,
+      "commuteTime": 16
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_21",
+    "householdId": "HH_Tamil Nadu_Coimbatore_4",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 78,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Buddhist",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4290,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Business",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 1,
+      "institutionalTrust": 21,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 24.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 44
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 41,
+      "savingsRate": 24
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3609,
+      "commuteTime": 79
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "AAP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_22",
+    "householdId": "HH_Tamil Nadu_Coimbatore_4",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 42,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 34878,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 75,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 86,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 33.6,
+        "category": "Obese"
+      },
+      "diseaseRisk": 66
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 78,
+      "savingsRate": 35
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2480,
+      "commuteTime": 87
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_23",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_4",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 36,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 19023,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 35,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 69,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 31.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 43,
+      "savingsRate": -15
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 838,
+      "commuteTime": 49
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 2,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_24",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_4",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 43,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3578,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Government",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 59,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 63
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 65,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4634,
+      "commuteTime": 52
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_25",
+    "householdId": "HH_Tamil Nadu_Coimbatore_5",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 71,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4823,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 5,
+      "occupation": "Unemployed",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 5,
+      "institutionalTrust": 42,
+      "changeAdaptability": 2,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 85,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 47,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 25
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 737,
+      "commuteTime": 33
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 1,
+      "partyAffinity": "Congress",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_26",
+    "householdId": "HH_Tamil Nadu_Madurai_5",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 75,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6328,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Unemployed",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 76,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 75,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 26.9,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 23
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": 22
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4166,
+      "commuteTime": 27
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 0,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_27",
+    "householdId": "HH_Tamil Nadu_Chennai_5",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 57,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2639,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 63,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 35,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 21.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 46,
+      "savingsRate": 28
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 33
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 681,
+      "commuteTime": 36
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_28",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_5",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 20,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2058,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Retail",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 70,
+      "changeAdaptability": 5,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 79,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 25.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 29
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 12,
+      "savingsRate": -33
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 27
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4287,
+      "commuteTime": 11
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_29",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_5",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 48,
+      "householdSize": 3,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 14194,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 4,
+      "occupation": "Healthcare",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 4,
+      "institutionalTrust": 36,
+      "changeAdaptability": 1,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 32.5,
+        "category": "Obese"
+      },
+      "diseaseRisk": 26
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 28,
+      "savingsRate": 34
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 52
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 4901,
+      "commuteTime": 109
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 3,
+      "communityEngagement": 3,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_30",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_6",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 34,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9421,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 4,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 78,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 22.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 25
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 37,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 30
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1795,
+      "commuteTime": 43
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_31",
+    "householdId": "HH_Tamil Nadu_Madurai_6",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 42,
+      "householdSize": 3,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9539,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Unemployed",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 1,
+      "institutionalTrust": 20,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 76,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 26.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 45
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 74,
+      "savingsRate": 11
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2085,
+      "commuteTime": 70
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 0,
+      "partyAffinity": "Neutral",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_32",
+    "householdId": "HH_Tamil Nadu_Madurai_6",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 29,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17965,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Unemployed",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 3,
+      "institutionalTrust": 80,
+      "changeAdaptability": 3,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 47,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 33.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 37
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 25,
+      "savingsRate": 34
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 54
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 3219,
+      "commuteTime": 51
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 1,
+      "communityEngagement": 5,
+      "onlinePresence": 4
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_33",
+    "householdId": "HH_Tamil Nadu_Chennai_6",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 24,
+      "householdSize": 5,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 43367,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Education",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 56,
+      "changeAdaptability": 3,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 44,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 28.4,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 60
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 61,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 37
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 983,
+      "commuteTime": 92
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_34",
+    "householdId": "HH_Tamil Nadu_Chennai_6",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Buddhist",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12738,
+      "povertyStatus": 0,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Business",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 42,
+      "changeAdaptability": 5,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 33,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 26.1,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 29
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 43,
+      "savingsRate": -24
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 42
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 633,
+      "commuteTime": 30
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 3,
+      "communityEngagement": 4,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_35",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_7",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 50,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 11420,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Business",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 3,
+      "institutionalTrust": 39,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 34.4,
+        "category": "Obese"
+      },
+      "diseaseRisk": 54
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 53,
+      "savingsRate": -19
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 45
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2218,
+      "commuteTime": 47
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "DMK",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_36",
+    "householdId": "HH_Tamil Nadu_Chennai_7",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 31,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "SC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 18100,
+      "povertyStatus": 1,
+      "literacy": 0,
+      "educationLevel": 1,
+      "occupation": "Business",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 53,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 66,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 21.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 43,
+      "savingsRate": -34
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 35
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3002,
+      "commuteTime": 21
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_37",
+    "householdId": "HH_Tamil Nadu_Chennai_7",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 35,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "ST",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10246,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 2,
+      "institutionalTrust": 31,
+      "changeAdaptability": 2,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 65,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 31.1,
+        "category": "Obese"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 5,
+      "debtVulnerability": 23,
+      "savingsRate": -21
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 46
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 717,
+      "commuteTime": 30
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 1,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_38",
+    "householdId": "HH_Tamil Nadu_Chennai_7",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 43,
+      "householdSize": 4,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 4952,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Manufacturing",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 4,
+      "riskTolerance": 1,
+      "institutionalTrust": 74,
+      "changeAdaptability": 4,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 76,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 32.3,
+        "category": "Obese"
+      },
+      "diseaseRisk": 35
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 13,
+      "savingsRate": 30
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 15
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 510,
+      "commuteTime": 105
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 2,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_39",
+    "householdId": "HH_Tamil Nadu_Madurai_7",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 49,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "General",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6099,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 4,
+      "institutionalTrust": 49,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 31,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 65
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 41,
+      "savingsRate": 13
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1228,
+      "commuteTime": 53
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_40",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_8",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 77,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Rural",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 16953,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Education",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 1,
+      "institutionalTrust": 75,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 27
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 12,
+      "savingsRate": -20
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 20
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2478,
+      "commuteTime": 73
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 2
+    },
+    "socialContext": {
+      "familyInfluence": 2,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 5
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_41",
+    "householdId": "HH_Tamil Nadu_Chennai_8",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 29,
+      "householdSize": 5,
+      "sex": "Male",
+      "urbanization": "Rural",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 15451,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 5,
+      "institutionalTrust": 73,
+      "changeAdaptability": 5,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 71,
+      "healthLiteracy": 3,
+      "nutritionalStatus": {
+        "bmi": 22.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 11,
+      "savingsRate": 13
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2601,
+      "commuteTime": 107
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "None",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_42",
+    "householdId": "HH_Tamil Nadu_Chennai_8",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 76,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Jain",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 12624,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 4,
+      "institutionalTrust": 23,
+      "changeAdaptability": 2,
+      "optimism": 2
+    },
+    "health": {
+      "healthcareAccess": 64,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 24.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 59
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 37,
+      "savingsRate": 21
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 51
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 1049,
+      "commuteTime": 44
+    },
+    "politicalProfile": {
+      "politicalEngagement": 5,
+      "voteHistory": 0,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 2
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_43",
+    "householdId": "HH_Tamil Nadu_Chennai_8",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 64,
+      "householdSize": 8,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7868,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Business",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 5,
+      "institutionalTrust": 26,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 26.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 61
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 34,
+      "savingsRate": 1
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 59
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 1889,
+      "commuteTime": 112
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "TMC",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Tiruchirappalli_44",
+    "householdId": "HH_Tamil Nadu_Tiruchirappalli_8",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "demographics": {
+      "age": 77,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 2627,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Healthcare",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 3,
+      "institutionalTrust": 51,
+      "changeAdaptability": 4,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 49,
+      "healthLiteracy": 1,
+      "nutritionalStatus": {
+        "bmi": 25.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 56
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 25,
+      "savingsRate": 2
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 21
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 2404,
+      "commuteTime": 43
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 3
+    },
+    "socialContext": {
+      "familyInfluence": 3,
+      "peerInfluence": 2,
+      "communityEngagement": 3,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_45",
+    "householdId": "HH_Tamil Nadu_Coimbatore_9",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 19,
+      "householdSize": 6,
+      "sex": "Female",
+      "urbanization": "Urban",
+      "religion": "Buddhist",
+      "caste": "General",
+      "tribalConcentration": 0
+    },
+    "socioEconomic": {
+      "incomePerCapita": 8736,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Healthcare",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 1,
+      "riskTolerance": 1,
+      "institutionalTrust": 57,
+      "changeAdaptability": 3,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 42,
+      "healthLiteracy": 5,
+      "nutritionalStatus": {
+        "bmi": 28.3,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 33
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 32,
+      "savingsRate": -49
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 17
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 3480,
+      "commuteTime": 23
+    },
+    "politicalProfile": {
+      "politicalEngagement": 2,
+      "voteHistory": 1,
+      "partyAffinity": "AIADMK",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 3,
+      "communityEngagement": 5,
+      "onlinePresence": 0
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Chennai_46",
+    "householdId": "HH_Tamil Nadu_Chennai_9",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "demographics": {
+      "age": 70,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 3092,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 1,
+      "institutionalTrust": 47,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 83,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 36
+    },
+    "economicStability": {
+      "incomeStability": 1,
+      "debtVulnerability": 76,
+      "savingsRate": -25
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 526,
+      "commuteTime": 33
+    },
+    "politicalProfile": {
+      "politicalEngagement": 1,
+      "voteHistory": 0,
+      "partyAffinity": "Congress",
+      "policyInterest": 1
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 5,
+      "communityEngagement": 1,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_47",
+    "householdId": "HH_Tamil Nadu_Madurai_9",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 76,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "OBC",
+      "tribalConcentration": 1
+    },
+    "socioEconomic": {
+      "incomePerCapita": 7300,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Education",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 4,
+      "institutionalTrust": 50,
+      "changeAdaptability": 1,
+      "optimism": 4
+    },
+    "health": {
+      "healthcareAccess": 82,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 27
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 78,
+      "savingsRate": 17
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 55
+    },
+    "mobility": {
+      "hasVehicle": 0,
+      "transportationCost": 4895,
+      "commuteTime": 72
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "Neutral",
+      "policyInterest": 5
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 4,
+      "communityEngagement": 4,
+      "onlinePresence": 1
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Coimbatore_48",
+    "householdId": "HH_Tamil Nadu_Coimbatore_9",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "demographics": {
+      "age": 41,
+      "householdSize": 4,
+      "sex": "Male",
+      "urbanization": "Urban",
+      "religion": "Hindu",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 17853,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 5,
+      "occupation": "Education",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 5,
+      "riskTolerance": 5,
+      "institutionalTrust": 43,
+      "changeAdaptability": 1,
+      "optimism": 5
+    },
+    "health": {
+      "healthcareAccess": 46,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 19.6,
+        "category": "Normal"
+      },
+      "diseaseRisk": 59
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 23,
+      "savingsRate": -7
+    },
+    "housing": {
+      "housingType": "Joint family",
+      "housingCostBurden": 33
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 2455,
+      "commuteTime": 11
+    },
+    "politicalProfile": {
+      "politicalEngagement": 3,
+      "voteHistory": 1,
+      "partyAffinity": "BJP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 4,
+      "peerInfluence": 1,
+      "communityEngagement": 3,
+      "onlinePresence": 3
+    }
+  },
+  {
+    "humanId": "HUM_Tamil Nadu_Madurai_49",
+    "householdId": "HH_Tamil Nadu_Madurai_9",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "demographics": {
+      "age": 24,
+      "householdSize": 7,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "General",
+      "tribalConcentration": 2
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6217,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Business",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 3,
+      "institutionalTrust": 73,
+      "changeAdaptability": 3,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 34,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 29.2,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 47
+    },
+    "economicStability": {
+      "incomeStability": 3,
+      "debtVulnerability": 48,
+      "savingsRate": 15
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 58
+    },
+    "mobility": {
+      "hasVehicle": 1,
+      "transportationCost": 771,
+      "commuteTime": 84
+    },
+    "politicalProfile": {
+      "politicalEngagement": 4,
+      "voteHistory": 1,
+      "partyAffinity": "AAP",
+      "policyInterest": 4
+    },
+    "socialContext": {
+      "familyInfluence": 5,
+      "peerInfluence": 2,
+      "communityEngagement": 5,
+      "onlinePresence": 5
+    }
+  }
+]

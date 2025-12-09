@@ -1,0 +1,77 @@
+{
+  "stats": {
+    "totalPopulation": 396,
+    "totalConnections": 3834,
+    "avgDegree": 9.681818181818182,
+    "demographics": {
+      "avgAge": 41,
+      "ageRange": {
+        "min": 18,
+        "max": 75
+      },
+      "sexRatio": {
+        "male": 218,
+        "female": 178
+      },
+      "urbanization": {
+        "urban": 0,
+        "semiUrban": 396,
+        "rural": 0
+      }
+    },
+    "socioEconomic": {
+      "avgIncome": 659,
+      "incomeRange": {
+        "min": 649,
+        "max": 698
+      },
+      "povertyRate": "23.23",
+      "literacyRate": "100.00",
+      "occupations": {
+        "Agriculture": 202,
+        "Services": 100,
+        "Informal": 31,
+        "Manufacturing": 46,
+        "Unemployed": 17
+      }
+    },
+    "network": {
+      "familyConnections": 268,
+      "friendConnections": 3566,
+      "strongConnections": 3756,
+      "weakConnections": 8
+    },
+    "behavioral": {
+      "avgTrust": 59,
+      "avgAdaptability": 40
+    }
+  },
+  "divisionStats": {
+    "Lower Assam": {
+      "households": 52,
+      "population": 80,
+      "avgFamilySize": "1.54"
+    },
+    "North Assam": {
+      "households": 50,
+      "population": 81,
+      "avgFamilySize": "1.62"
+    },
+    "Central Assam": {
+      "households": 56,
+      "population": 77,
+      "avgFamilySize": "1.38"
+    },
+    "Upper Assam": {
+      "households": 54,
+      "population": 78,
+      "avgFamilySize": "1.44"
+    },
+    "Barak Valley": {
+      "households": 54,
+      "population": 80,
+      "avgFamilySize": "1.48"
+    }
+  },
+  "generatedAt": "2025-12-09T06:18:28.988Z"
+}

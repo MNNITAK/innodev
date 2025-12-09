@@ -1,0 +1,2284 @@
+{
+  "nodes": [
+    {
+      "id": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "label": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "age": 44,
+      "householdId": "HH_Arunachal_Western Himalayan Buddhist_0",
+      "state": "Arunachal",
+      "district": "Western Himalayan Buddhist",
+      "education": 0,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "label": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "age": 18,
+      "householdId": "HH_Arunachal_Western Himalayan Buddhist_0",
+      "state": "Arunachal",
+      "district": "Western Himalayan Buddhist",
+      "education": 4,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "label": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "age": 66,
+      "householdId": "HH_Arunachal_Western Himalayan Buddhist_1",
+      "state": "Arunachal",
+      "district": "Western Himalayan Buddhist",
+      "education": 4,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "label": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "age": 45,
+      "householdId": "HH_Arunachal_Western Himalayan Buddhist_2",
+      "state": "Arunachal",
+      "district": "Western Himalayan Buddhist",
+      "education": 1,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "label": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "age": 50,
+      "householdId": "HH_Arunachal_Western Himalayan Buddhist_2",
+      "state": "Arunachal",
+      "district": "Western Himalayan Buddhist",
+      "education": 1,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Central Tribal Highlands_0",
+      "label": "HUM_Arunachal_Central Tribal Highlands_0",
+      "age": 46,
+      "householdId": "HH_Arunachal_Central Tribal Highlands_0",
+      "state": "Arunachal",
+      "district": "Central Tribal Highlands",
+      "education": 4,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Central Tribal Highlands_1",
+      "label": "HUM_Arunachal_Central Tribal Highlands_1",
+      "age": 66,
+      "householdId": "HH_Arunachal_Central Tribal Highlands_1",
+      "state": "Arunachal",
+      "district": "Central Tribal Highlands",
+      "education": 0,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Central Tribal Highlands_2",
+      "label": "HUM_Arunachal_Central Tribal Highlands_2",
+      "age": 26,
+      "householdId": "HH_Arunachal_Central Tribal Highlands_1",
+      "state": "Arunachal",
+      "district": "Central Tribal Highlands",
+      "education": 4,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Central Tribal Highlands_3",
+      "label": "HUM_Arunachal_Central Tribal Highlands_3",
+      "age": 37,
+      "householdId": "HH_Arunachal_Central Tribal Highlands_2",
+      "state": "Arunachal",
+      "district": "Central Tribal Highlands",
+      "education": 4,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Siang River Basin_0",
+      "label": "HUM_Arunachal_Siang River Basin_0",
+      "age": 37,
+      "householdId": "HH_Arunachal_Siang River Basin_0",
+      "state": "Arunachal",
+      "district": "Siang River Basin",
+      "education": 1,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Siang River Basin_1",
+      "label": "HUM_Arunachal_Siang River Basin_1",
+      "age": 22,
+      "householdId": "HH_Arunachal_Siang River Basin_1",
+      "state": "Arunachal",
+      "district": "Siang River Basin",
+      "education": 1,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Siang River Basin_2",
+      "label": "HUM_Arunachal_Siang River Basin_2",
+      "age": 18,
+      "householdId": "HH_Arunachal_Siang River Basin_1",
+      "state": "Arunachal",
+      "district": "Siang River Basin",
+      "education": 1,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Siang River Basin_3",
+      "label": "HUM_Arunachal_Siang River Basin_3",
+      "age": 37,
+      "householdId": "HH_Arunachal_Siang River Basin_2",
+      "state": "Arunachal",
+      "district": "Siang River Basin",
+      "education": 0,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Siang River Basin_4",
+      "label": "HUM_Arunachal_Siang River Basin_4",
+      "age": 34,
+      "householdId": "HH_Arunachal_Siang River Basin_2",
+      "state": "Arunachal",
+      "district": "Siang River Basin",
+      "education": 3,
+      "income": 649
+    },
+    {
+      "id": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "label": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "age": 51,
+      "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_0",
+      "state": "Arunachal",
+      "district": "Mishmi Dibang High Mountain",
+      "education": 1,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "label": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "age": 46,
+      "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_0",
+      "state": "Arunachal",
+      "district": "Mishmi Dibang High Mountain",
+      "education": 1,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "label": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "age": 53,
+      "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_1",
+      "state": "Arunachal",
+      "district": "Mishmi Dibang High Mountain",
+      "education": 4,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "label": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "age": 28,
+      "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_2",
+      "state": "Arunachal",
+      "district": "Mishmi Dibang High Mountain",
+      "education": 3,
+      "income": 698
+    },
+    {
+      "id": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "label": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "age": 30,
+      "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_2",
+      "state": "Arunachal",
+      "district": "Mishmi Dibang High Mountain",
+      "education": 4,
+      "income": 698
+    }
+  ],
+  "edges": [
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "parent",
+      "weight": 0.6
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "child",
+      "weight": 0.7
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Central Tribal Highlands_2",
+      "type": "parent",
+      "weight": 0.6
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_2",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "child",
+      "weight": 0.7
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Siang River Basin_2",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_2",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "type": "spouse",
+      "weight": 0.9
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.9133333333333333
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.9133333333333333
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.8812157333333335
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.8812157333333335
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.8452157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.8452157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.812
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.812
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.9026666666666667
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.9026666666666667
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.7253333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.7253333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.7
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "friend",
+      "weight": 0.7
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.8
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "friend",
+      "weight": 0.8
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Siang River Basin_2",
+      "type": "friend",
+      "weight": 0.8478824
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "friend",
+      "weight": 0.8478824
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.7612157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "friend",
+      "weight": 0.7612157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "type": "friend",
+      "weight": 0.8480000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "friend",
+      "weight": 0.8480000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Central Tribal Highlands_2",
+      "type": "friend",
+      "weight": 0.9385490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "friend",
+      "weight": 0.9385490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Central Tribal Highlands_0",
+      "type": "friend",
+      "weight": 0.7265490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.7265490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Central Tribal Highlands_2",
+      "type": "friend",
+      "weight": 0.7918824
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.7918824
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.7933333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.7933333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.7346666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.7346666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.732
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.732
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.6678824000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.6678824000000001
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.8638824
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.8638824
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.716
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.716
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.9413333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.9413333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.9013333333333333
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.9013333333333333
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "type": "friend",
+      "weight": 0.8280000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.8280000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.8238824
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Central Tribal Highlands_0",
+      "type": "friend",
+      "weight": 0.8238824
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_0",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.752
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Central Tribal Highlands_0",
+      "type": "friend",
+      "weight": 0.752
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.8212157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_0",
+      "type": "friend",
+      "weight": 0.8212157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_0",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.788
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_0",
+      "type": "friend",
+      "weight": 0.788
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.7346666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.7346666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.6598824000000001
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.6598824000000001
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.7718824
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.7718824
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.7372157333333333
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.7372157333333333
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.7745490666666668
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.7745490666666668
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Siang River Basin_0",
+      "type": "friend",
+      "weight": 0.7226666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_0",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.7226666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.6586666666666667
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.6586666666666667
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.716
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.716
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_2",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.8945490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_2",
+      "type": "friend",
+      "weight": 0.8945490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_2",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.8146666666666669
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Central Tribal Highlands_2",
+      "type": "friend",
+      "weight": 0.8146666666666669
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "type": "friend",
+      "weight": 0.8732157333333335
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.8732157333333335
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.8280000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.8280000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Siang River Basin_2",
+      "type": "friend",
+      "weight": 0.7213333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_2",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.7213333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "type": "friend",
+      "weight": 0.8132157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.8132157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "friend",
+      "weight": 0.8452157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.8452157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.8278824
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.8278824
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_0",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.8480000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Siang River Basin_0",
+      "type": "friend",
+      "weight": 0.8480000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_0",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.8520000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Siang River Basin_0",
+      "type": "friend",
+      "weight": 0.8520000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.9425490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Siang River Basin_0",
+      "type": "friend",
+      "weight": 0.9425490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_0",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.9000000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Siang River Basin_0",
+      "type": "friend",
+      "weight": 0.9000000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Siang River Basin_0",
+      "type": "friend",
+      "weight": 0.9000000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_0",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.9000000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.8400000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.8400000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.7412157333333333
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.7412157333333333
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.8238824000000002
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.8238824000000002
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Central Tribal Highlands_1",
+      "type": "friend",
+      "weight": 0.716
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_1",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.716
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "type": "friend",
+      "weight": 0.6638824000000001
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.6638824000000001
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.7958824
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Siang River Basin_2",
+      "type": "friend",
+      "weight": 0.7958824
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_2",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.7772157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Siang River Basin_2",
+      "type": "friend",
+      "weight": 0.7772157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.7838824000000002
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.7838824000000002
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "type": "friend",
+      "weight": 0.7372157333333333
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.7372157333333333
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "type": "friend",
+      "weight": 0.7212157333333333
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_1",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.7212157333333333
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.7838824000000002
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.7838824000000002
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_2",
+      "type": "friend",
+      "weight": 0.7746666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_2",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.7746666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.7705490666666668
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.7705490666666668
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Central Tribal Highlands_0",
+      "type": "friend",
+      "weight": 0.704
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_0",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.704
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.7945490666666668
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.7945490666666668
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.8425490666666666
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.8425490666666666
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Siang River Basin_2",
+      "type": "friend",
+      "weight": 0.7933333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_2",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.7933333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "type": "friend",
+      "weight": 0.8652157333333335
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.8652157333333335
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.8492157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.8492157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.8318824
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.8318824
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.6678824000000001
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.6678824000000001
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Central Tribal Highlands_0",
+      "type": "friend",
+      "weight": 0.7225490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.7225490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.8013333333333335
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.8013333333333335
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.7305490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.7305490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "type": "friend",
+      "weight": 0.748
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_2",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.748
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.8880000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.8880000000000001
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Siang River Basin_4",
+      "type": "friend",
+      "weight": 0.7305490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_4",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.7305490666666667
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.9893333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.9893333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Siang River Basin_1",
+      "type": "friend",
+      "weight": 0.8318824
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.8318824
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "type": "friend",
+      "weight": 0.8253333333333335
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+      "type": "friend",
+      "weight": 0.8253333333333335
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "target": "HUM_Arunachal_Central Tribal Highlands_0",
+      "type": "friend",
+      "weight": 0.8092157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "type": "friend",
+      "weight": 0.8092157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.808
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+      "type": "friend",
+      "weight": 0.808
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "type": "friend",
+      "weight": 0.7546666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.7546666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "type": "friend",
+      "weight": 0.6986666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.6986666666666668
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "type": "friend",
+      "weight": 0.7493333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_4",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+      "type": "friend",
+      "weight": 0.7493333333333334
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "type": "friend",
+      "weight": 0.8026666666666666
+    },
+    {
+      "source": "HUM_Arunachal_Western Himalayan Buddhist_0",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "type": "friend",
+      "weight": 0.8026666666666666
+    },
+    {
+      "source": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "target": "HUM_Arunachal_Siang River Basin_3",
+      "type": "friend",
+      "weight": 0.8172157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_3",
+      "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+      "type": "friend",
+      "weight": 0.8172157333333334
+    },
+    {
+      "source": "HUM_Arunachal_Siang River Basin_2",
+      "target": "HUM_Arunachal_Central Tribal Highlands_3",
+      "type": "friend",
+      "weight": 0.3661440669621535
+    },
+    {
+      "source": "HUM_Arunachal_Central Tribal Highlands_3",
+      "target": "HUM_Arunachal_Siang River Basin_2",
+      "type": "friend",
+      "weight": 0.3661440669621535
+    }
+  ],
+  "adjacency": {
+    "HUM_Arunachal_Western Himalayan Buddhist_0": [
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "parent",
+        "weight": 0.6
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.9133333333333333
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.8812157333333335
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.8452157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.812
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.9026666666666667
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.7253333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.8492157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.8013333333333335
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+        "type": "friend",
+        "weight": 0.808
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+        "type": "friend",
+        "weight": 0.8026666666666666
+      }
+    ],
+    "HUM_Arunachal_Western Himalayan Buddhist_1": [
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "child",
+        "weight": 0.7
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.7
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.8
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_2",
+        "type": "friend",
+        "weight": 0.8478824
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.7612157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+        "type": "friend",
+        "weight": 0.8480000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_2",
+        "type": "friend",
+        "weight": 0.9385490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.8452157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.7212157333333333
+      }
+    ],
+    "HUM_Arunachal_Western Himalayan Buddhist_2": [
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.7253333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "friend",
+        "weight": 0.8
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_0",
+        "type": "friend",
+        "weight": 0.7265490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_2",
+        "type": "friend",
+        "weight": 0.7918824
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.7933333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.7346666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.732
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.6678824000000001
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.8638824
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.716
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.6678824000000001
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.748
+      }
+    ],
+    "HUM_Arunachal_Western Himalayan Buddhist_3": [
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.9133333333333333
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.732
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_0",
+        "type": "friend",
+        "weight": 0.8212157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.7718824
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_0",
+        "type": "friend",
+        "weight": 0.9425490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_2",
+        "type": "friend",
+        "weight": 0.7958824
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.7945490666666668
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.8425490666666666
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.8880000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.9893333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.7546666666666668
+      }
+    ],
+    "HUM_Arunachal_Western Himalayan Buddhist_4": [
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.812
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "friend",
+        "weight": 0.7
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.7933333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.9413333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.9013333333333333
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+        "type": "friend",
+        "weight": 0.8280000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.7372157333333333
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.7412157333333333
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.7493333333333334
+      }
+    ],
+    "HUM_Arunachal_Central Tribal Highlands_0": [
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.7265490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.8238824
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.752
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.8212157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.788
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.704
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.7225490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+        "type": "friend",
+        "weight": 0.8092157333333334
+      }
+    ],
+    "HUM_Arunachal_Central Tribal Highlands_1": [
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_2",
+        "type": "parent",
+        "weight": 0.6
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.8452157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.8638824
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.7346666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.6598824000000001
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.7718824
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.7372157333333333
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.7745490666666668
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_0",
+        "type": "friend",
+        "weight": 0.7226666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.6586666666666667
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.716
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.716
+      }
+    ],
+    "HUM_Arunachal_Central Tribal Highlands_2": [
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "child",
+        "weight": 0.7
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "friend",
+        "weight": 0.9385490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.7918824
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.8945490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.8146666666666669
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.7746666666666668
+      }
+    ],
+    "HUM_Arunachal_Central Tribal Highlands_3": [
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_0",
+        "type": "friend",
+        "weight": 0.788
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.6586666666666667
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+        "type": "friend",
+        "weight": 0.8732157333333335
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.8280000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_2",
+        "type": "friend",
+        "weight": 0.7213333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+        "type": "friend",
+        "weight": 0.8132157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "friend",
+        "weight": 0.8452157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.8278824
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_0",
+        "type": "friend",
+        "weight": 0.8480000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_2",
+        "type": "friend",
+        "weight": 0.3661440669621535
+      }
+    ],
+    "HUM_Arunachal_Siang River Basin_0": [
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.7226666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.8480000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.8520000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.9425490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.9000000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.9000000000000001
+      }
+    ],
+    "HUM_Arunachal_Siang River Basin_1": [
+      {
+        "target": "HUM_Arunachal_Siang River Basin_2",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.6678824000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_0",
+        "type": "friend",
+        "weight": 0.9000000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.8400000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.7412157333333333
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.8238824000000002
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.716
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+        "type": "friend",
+        "weight": 0.6638824000000001
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.7305490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.8318824
+      }
+    ],
+    "HUM_Arunachal_Siang River Basin_2": [
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "friend",
+        "weight": 0.8478824
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.7213333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.7958824
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.7772157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.7933333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.3661440669621535
+      }
+    ],
+    "HUM_Arunachal_Siang River Basin_3": [
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.8812157333333335
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.7346666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_0",
+        "type": "friend",
+        "weight": 0.8520000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.7838824000000002
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+        "type": "friend",
+        "weight": 0.7372157333333333
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "friend",
+        "weight": 0.7212157333333333
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.7838824000000002
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_2",
+        "type": "friend",
+        "weight": 0.7746666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.7705490666666668
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_0",
+        "type": "friend",
+        "weight": 0.704
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.7945490666666668
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+        "type": "friend",
+        "weight": 0.8172157333333334
+      }
+    ],
+    "HUM_Arunachal_Siang River Basin_4": [
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "friend",
+        "weight": 0.7612157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_0",
+        "type": "friend",
+        "weight": 0.752
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.716
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_2",
+        "type": "friend",
+        "weight": 0.8146666666666669
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.8280000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_0",
+        "type": "friend",
+        "weight": 0.9000000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.8400000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.8425490666666666
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_2",
+        "type": "friend",
+        "weight": 0.7933333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+        "type": "friend",
+        "weight": 0.8652157333333335
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.8492157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.8318824
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.6678824000000001
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.7305490666666667
+      }
+    ],
+    "HUM_Arunachal_Mishmi Dibang High Mountain_0": [
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.9413333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.7705490666666668
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_0",
+        "type": "friend",
+        "weight": 0.7225490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.8013333333333335
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.7305490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.748
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.8880000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.7305490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "friend",
+        "weight": 0.6986666666666668
+      }
+    ],
+    "HUM_Arunachal_Mishmi Dibang High Mountain_1": [
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.9026666666666667
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.7346666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.9013333333333333
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_0",
+        "type": "friend",
+        "weight": 0.8238824
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.7745490666666668
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.7838824000000002
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.8318824
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.9893333333333334
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.8318824
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+        "type": "friend",
+        "weight": 0.8253333333333335
+      }
+    ],
+    "HUM_Arunachal_Mishmi Dibang High Mountain_2": [
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.8280000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.8132157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.6638824000000001
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.7372157333333333
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+        "type": "friend",
+        "weight": 0.8253333333333335
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_0",
+        "type": "friend",
+        "weight": 0.8092157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.808
+      }
+    ],
+    "HUM_Arunachal_Mishmi Dibang High Mountain_3": [
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_2",
+        "type": "friend",
+        "weight": 0.716
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_1",
+        "type": "friend",
+        "weight": 0.6598824000000001
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_2",
+        "type": "friend",
+        "weight": 0.8945490666666667
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.8278824
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_1",
+        "type": "friend",
+        "weight": 0.8238824000000002
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_2",
+        "type": "friend",
+        "weight": 0.7772157333333334
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.7838824000000002
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_3",
+        "type": "friend",
+        "weight": 0.7546666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+        "type": "friend",
+        "weight": 0.6986666666666668
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_4",
+        "type": "friend",
+        "weight": 0.7493333333333334
+      }
+    ],
+    "HUM_Arunachal_Mishmi Dibang High Mountain_4": [
+      {
+        "target": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+        "type": "spouse",
+        "weight": 0.9
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_1",
+        "type": "friend",
+        "weight": 0.8480000000000001
+      },
+      {
+        "target": "HUM_Arunachal_Central Tribal Highlands_3",
+        "type": "friend",
+        "weight": 0.8732157333333335
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_4",
+        "type": "friend",
+        "weight": 0.8652157333333335
+      },
+      {
+        "target": "HUM_Arunachal_Western Himalayan Buddhist_0",
+        "type": "friend",
+        "weight": 0.8026666666666666
+      },
+      {
+        "target": "HUM_Arunachal_Siang River Basin_3",
+        "type": "friend",
+        "weight": 0.8172157333333334
+      }
+    ]
+  },
+  "nodeCount": 19,
+  "edgeCount": 186
+}

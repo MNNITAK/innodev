@@ -1,0 +1,27 @@
+{
+  "opinion": 0.015584674567450014,
+  "confidence": 0.5649300000000002,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.04484376999036215,
+    "socialScore": 0.21228000000000002,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.23715,
+    "weights": {
+      "economic": 0.2,
+      "social": 0.4,
+      "convenience": 0.15,
+      "healthEnv": 0.25
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.601Z",
+    "humanId": "HUM_Jharkhand_South Chotanagpur_30"
+  },
+  "humanId": "HUM_Jharkhand_South Chotanagpur_30",
+  "state": "Jharkhand"
+}

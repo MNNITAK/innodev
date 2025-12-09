@@ -1,0 +1,25 @@
+{
+  "opinion": 0.07698028140920297,
+  "confidence": 0.4755,
+  "reasoning": "I'm neutral because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 0.7636422858080264,
+    "socialScore": 0.17400000000000002,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.16499999999999998,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "GST Increase",
+    "domain": "tax",
+    "timestamp": "2025-12-07T14:56:00.886Z"
+  },
+  "state": "AndamanNicobar"
+}

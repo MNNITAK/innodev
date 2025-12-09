@@ -1,0 +1,27 @@
+{
+  "opinion": 0.04380010379564365,
+  "confidence": 0.687305,
+  "reasoning": "I'm neutral because I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.04808204466039002,
+    "socialScore": 0.3661333333333333,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.5240249999999999,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:36.384Z",
+    "humanId": "HUM_Punjab_Rupnagar_16"
+  },
+  "humanId": "HUM_Punjab_Rupnagar_16",
+  "state": "Punjab"
+}

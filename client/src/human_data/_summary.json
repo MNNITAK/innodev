@@ -1,0 +1,121 @@
+{
+  "totalPopulation": 950,
+  "stateBreakdown": [
+    {
+      "state": "UP",
+      "count": 160
+    },
+    {
+      "state": "Maharashtra",
+      "count": 100
+    },
+    {
+      "state": "Bihar",
+      "count": 80
+    },
+    {
+      "state": "WB",
+      "count": 70
+    },
+    {
+      "state": "Rajasthan",
+      "count": 60
+    },
+    {
+      "state": "Madhya Pradesh",
+      "count": 60
+    },
+    {
+      "state": "Delhi",
+      "count": 20
+    },
+    {
+      "state": "Karnataka",
+      "count": 50
+    },
+    {
+      "state": "Gujarat",
+      "count": 50
+    },
+    {
+      "state": "Tamil Nadu",
+      "count": 50
+    },
+    {
+      "state": "Assam",
+      "count": 30
+    },
+    {
+      "state": "Punjab",
+      "count": 20
+    },
+    {
+      "state": "Kerala",
+      "count": 30
+    },
+    {
+      "state": "Odissa",
+      "count": 30
+    },
+    {
+      "state": "Haryana",
+      "count": 20
+    },
+    {
+      "state": "Jharkhand",
+      "count": 30
+    },
+    {
+      "state": "Himachal",
+      "count": 10
+    },
+    {
+      "state": "Uttrakhand",
+      "count": 10
+    },
+    {
+      "state": "Goa",
+      "count": 10
+    },
+    {
+      "state": "Manipur",
+      "count": 10
+    },
+    {
+      "state": "Mizoram",
+      "count": 10
+    },
+    {
+      "state": "Nagaland",
+      "count": 10
+    },
+    {
+      "state": "Arunachal",
+      "count": 10
+    },
+    {
+      "state": "Jammu_kashmir",
+      "count": 10
+    },
+    {
+      "state": "AndamanNicobar",
+      "count": 10
+    }
+  ],
+  "demographicsSummary": {
+    "ageRange": {
+      "min": 18,
+      "max": 85
+    },
+    "genderRatio": {
+      "male": 469,
+      "female": 481
+    },
+    "urbanization": {
+      "urban": 322,
+      "semiUrban": 325,
+      "rural": 303
+    }
+  },
+  "generatedAt": "2025-12-05T19:31:21.450Z"
+}

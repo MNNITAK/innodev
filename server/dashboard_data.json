@@ -1,0 +1,1501 @@
+{
+  "metadata": {
+    "generatedAt": "2025-12-09T06:18:40.032Z",
+    "policyTitle": "\n\n\n\n\n\n",
+    "totalPopulation": 8310,
+    "dataVersion": "1.0.0"
+  },
+  "overallMetrics": {
+    "support": {
+      "percentage": 38.4,
+      "count": 3195,
+      "trend": "+2.3%"
+    },
+    "opposition": {
+      "percentage": 0,
+      "count": 0,
+      "trend": "-1.2%"
+    },
+    "neutral": {
+      "percentage": 61.6,
+      "count": 5115,
+      "trend": "-1.1%"
+    },
+    "populationSimulated": 8310,
+    "riskLevel": "Low",
+    "riskTrend": "Decreasing"
+  },
+  "geographicDistribution": [
+    {
+      "state": "AndhraPradesh",
+      "supportPercentage": 99.1,
+      "opposePercentage": 0,
+      "neutralPercentage": 0.9,
+      "totalOpinions": 700,
+      "averageOpinionScore": 0.209,
+      "intensity": "very-high",
+      "supportCount": 694,
+      "opposeCount": 0,
+      "neutralCount": 6
+    },
+    {
+      "state": "Assam",
+      "supportPercentage": 98.5,
+      "opposePercentage": 0,
+      "neutralPercentage": 1.5,
+      "totalOpinions": 409,
+      "averageOpinionScore": 0.207,
+      "intensity": "very-high",
+      "supportCount": 403,
+      "opposeCount": 0,
+      "neutralCount": 6
+    },
+    {
+      "state": "Kerala",
+      "supportPercentage": 98.3,
+      "opposePercentage": 0,
+      "neutralPercentage": 1.7,
+      "totalOpinions": 290,
+      "averageOpinionScore": 0.281,
+      "intensity": "very-high",
+      "supportCount": 285,
+      "opposeCount": 0,
+      "neutralCount": 5
+    },
+    {
+      "state": "Jammu_kashmir",
+      "supportPercentage": 96.2,
+      "opposePercentage": 0,
+      "neutralPercentage": 3.8,
+      "totalOpinions": 131,
+      "averageOpinionScore": 0.201,
+      "intensity": "very-high",
+      "supportCount": 126,
+      "opposeCount": 0,
+      "neutralCount": 5
+    },
+    {
+      "state": "Himachal",
+      "supportPercentage": 92.2,
+      "opposePercentage": 0,
+      "neutralPercentage": 7.8,
+      "totalOpinions": 64,
+      "averageOpinionScore": 0.203,
+      "intensity": "very-high",
+      "supportCount": 59,
+      "opposeCount": 0,
+      "neutralCount": 5
+    },
+    {
+      "state": "Arunachal",
+      "supportPercentage": 79.2,
+      "opposePercentage": 0,
+      "neutralPercentage": 20.8,
+      "totalOpinions": 24,
+      "averageOpinionScore": 0.188,
+      "intensity": "high",
+      "supportCount": 19,
+      "opposeCount": 0,
+      "neutralCount": 5
+    },
+    {
+      "state": "Delhi",
+      "supportPercentage": 64.1,
+      "opposePercentage": 0,
+      "neutralPercentage": 35.9,
+      "totalOpinions": 181,
+      "averageOpinionScore": 0.15,
+      "intensity": "high",
+      "supportCount": 116,
+      "opposeCount": 0,
+      "neutralCount": 65
+    },
+    {
+      "state": "AndamanNicobar",
+      "supportPercentage": 58.3,
+      "opposePercentage": 0,
+      "neutralPercentage": 41.7,
+      "totalOpinions": 12,
+      "averageOpinionScore": 0.133,
+      "intensity": "medium",
+      "supportCount": 7,
+      "opposeCount": 0,
+      "neutralCount": 5
+    },
+    {
+      "state": "Madhya Pradesh",
+      "supportPercentage": 43.5,
+      "opposePercentage": 0,
+      "neutralPercentage": 56.5,
+      "totalOpinions": 62,
+      "averageOpinionScore": 0.105,
+      "intensity": "medium",
+      "supportCount": 27,
+      "opposeCount": 0,
+      "neutralCount": 35
+    },
+    {
+      "state": "Maharastra",
+      "supportPercentage": 41.5,
+      "opposePercentage": 0,
+      "neutralPercentage": 58.5,
+      "totalOpinions": 910,
+      "averageOpinionScore": 0.108,
+      "intensity": "medium",
+      "supportCount": 378,
+      "opposeCount": 0,
+      "neutralCount": 532
+    },
+    {
+      "state": "Tamil Nadu",
+      "supportPercentage": 40.4,
+      "opposePercentage": 0,
+      "neutralPercentage": 59.6,
+      "totalOpinions": 52,
+      "averageOpinionScore": 0.102,
+      "intensity": "medium",
+      "supportCount": 21,
+      "opposeCount": 0,
+      "neutralCount": 31
+    },
+    {
+      "state": "Uttrakhand",
+      "supportPercentage": 36.7,
+      "opposePercentage": 0,
+      "neutralPercentage": 63.3,
+      "totalOpinions": 109,
+      "averageOpinionScore": 0.081,
+      "intensity": "low",
+      "supportCount": 40,
+      "opposeCount": 0,
+      "neutralCount": 69
+    },
+    {
+      "state": "WB",
+      "supportPercentage": 34.3,
+      "opposePercentage": 0,
+      "neutralPercentage": 65.7,
+      "totalOpinions": 734,
+      "averageOpinionScore": 0.085,
+      "intensity": "low",
+      "supportCount": 252,
+      "opposeCount": 0,
+      "neutralCount": 482
+    },
+    {
+      "state": "Mizoram",
+      "supportPercentage": 33.3,
+      "opposePercentage": 0,
+      "neutralPercentage": 66.7,
+      "totalOpinions": 18,
+      "averageOpinionScore": 0.111,
+      "intensity": "low",
+      "supportCount": 6,
+      "opposeCount": 0,
+      "neutralCount": 12
+    },
+    {
+      "state": "Gujarat",
+      "supportPercentage": 32.7,
+      "opposePercentage": 0,
+      "neutralPercentage": 67.3,
+      "totalOpinions": 52,
+      "averageOpinionScore": 0.1,
+      "intensity": "low",
+      "supportCount": 17,
+      "opposeCount": 0,
+      "neutralCount": 35
+    },
+    {
+      "state": "Karnataka",
+      "supportPercentage": 32.7,
+      "opposePercentage": 0,
+      "neutralPercentage": 67.3,
+      "totalOpinions": 52,
+      "averageOpinionScore": 0.097,
+      "intensity": "low",
+      "supportCount": 17,
+      "opposeCount": 0,
+      "neutralCount": 35
+    },
+    {
+      "state": "GOA",
+      "supportPercentage": 32.4,
+      "opposePercentage": 0,
+      "neutralPercentage": 67.6,
+      "totalOpinions": 34,
+      "averageOpinionScore": 0.102,
+      "intensity": "low",
+      "supportCount": 11,
+      "opposeCount": 0,
+      "neutralCount": 23
+    },
+    {
+      "state": "Maharashtra",
+      "supportPercentage": 30.4,
+      "opposePercentage": 0,
+      "neutralPercentage": 69.6,
+      "totalOpinions": 102,
+      "averageOpinionScore": 0.081,
+      "intensity": "low",
+      "supportCount": 31,
+      "opposeCount": 0,
+      "neutralCount": 71
+    },
+    {
+      "state": "UP",
+      "supportPercentage": 26.1,
+      "opposePercentage": 0,
+      "neutralPercentage": 73.9,
+      "totalOpinions": 1746,
+      "averageOpinionScore": 0.077,
+      "intensity": "low",
+      "supportCount": 455,
+      "opposeCount": 0,
+      "neutralCount": 1291
+    },
+    {
+      "state": "Rajasthan",
+      "supportPercentage": 24.9,
+      "opposePercentage": 0,
+      "neutralPercentage": 75.1,
+      "totalOpinions": 567,
+      "averageOpinionScore": 0.071,
+      "intensity": "low",
+      "supportCount": 141,
+      "opposeCount": 0,
+      "neutralCount": 426
+    },
+    {
+      "state": "Punjab",
+      "supportPercentage": 22.8,
+      "opposePercentage": 0,
+      "neutralPercentage": 77.2,
+      "totalOpinions": 250,
+      "averageOpinionScore": 0.065,
+      "intensity": "low",
+      "supportCount": 57,
+      "opposeCount": 0,
+      "neutralCount": 193
+    },
+    {
+      "state": "Nagaland",
+      "supportPercentage": 22.2,
+      "opposePercentage": 0,
+      "neutralPercentage": 77.8,
+      "totalOpinions": 18,
+      "averageOpinionScore": 0.08,
+      "intensity": "low",
+      "supportCount": 4,
+      "opposeCount": 0,
+      "neutralCount": 14
+    },
+    {
+      "state": "Odissa",
+      "supportPercentage": 20.9,
+      "opposePercentage": 0,
+      "neutralPercentage": 79.1,
+      "totalOpinions": 435,
+      "averageOpinionScore": 0.062,
+      "intensity": "low",
+      "supportCount": 91,
+      "opposeCount": 0,
+      "neutralCount": 344
+    },
+    {
+      "state": "Manipur",
+      "supportPercentage": 8.3,
+      "opposePercentage": 0,
+      "neutralPercentage": 91.7,
+      "totalOpinions": 36,
+      "averageOpinionScore": 0.054,
+      "intensity": "very-low",
+      "supportCount": 3,
+      "opposeCount": 0,
+      "neutralCount": 33
+    },
+    {
+      "state": "Bihar",
+      "supportPercentage": 0,
+      "opposePercentage": 0,
+      "neutralPercentage": 100,
+      "totalOpinions": 1068,
+      "averageOpinionScore": 0.02,
+      "intensity": "very-low",
+      "supportCount": 0,
+      "opposeCount": 0,
+      "neutralCount": 1068
+    },
+    {
+      "state": "haryana",
+      "supportPercentage": 0,
+      "opposePercentage": 0,
+      "neutralPercentage": 100,
+      "totalOpinions": 235,
+      "averageOpinionScore": 0.027,
+      "intensity": "very-low",
+      "supportCount": 0,
+      "opposeCount": 0,
+      "neutralCount": 235
+    },
+    {
+      "state": "Jharkhand",
+      "supportPercentage": 0,
+      "opposePercentage": 0,
+      "neutralPercentage": 100,
+      "totalOpinions": 337,
+      "averageOpinionScore": 0.017,
+      "intensity": "very-low",
+      "supportCount": 0,
+      "opposeCount": 0,
+      "neutralCount": 337
+    }
+  ],
+  "demographicBreakdown": {
+    "byUrbanization": [
+      {
+        "category": "Urban Population",
+        "supportPercentage": 25,
+        "totalCount": 32
+      },
+      {
+        "category": "Rural Population",
+        "supportPercentage": 13.5,
+        "totalCount": 37
+      }
+    ],
+    "byAge": [
+      {
+        "ageRange": "18-25",
+        "supportPercentage": 28.6,
+        "opposePercentage": 0,
+        "totalCount": 7
+      },
+      {
+        "ageRange": "26-35",
+        "supportPercentage": 22.2,
+        "opposePercentage": 0,
+        "totalCount": 9
+      },
+      {
+        "ageRange": "36-45",
+        "supportPercentage": 62.5,
+        "opposePercentage": 0,
+        "totalCount": 8
+      },
+      {
+        "ageRange": "46-55",
+        "supportPercentage": 75,
+        "opposePercentage": 0,
+        "totalCount": 8
+      },
+      {
+        "ageRange": "55+",
+        "supportPercentage": 25,
+        "opposePercentage": 0,
+        "totalCount": 20
+      }
+    ],
+    "byIncome": [
+      {
+        "incomeLevel": "Low Income",
+        "supportPercentage": 38.6,
+        "opposePercentage": 0,
+        "totalCount": 44
+      },
+      {
+        "incomeLevel": "Middle Income",
+        "supportPercentage": 37.5,
+        "opposePercentage": 0,
+        "totalCount": 8
+      },
+      {
+        "incomeLevel": "High Income",
+        "supportPercentage": 0,
+        "opposePercentage": 0,
+        "totalCount": 0
+      }
+    ]
+  },
+  "opinionTrends": [
+    {
+      "month": "Jan",
+      "support": 31.4,
+      "oppose": 37.5,
+      "neutral": 25
+    },
+    {
+      "month": "Feb",
+      "support": 32.8,
+      "oppose": 30,
+      "neutral": 25
+    },
+    {
+      "month": "Mar",
+      "support": 34.2,
+      "oppose": 22.5,
+      "neutral": 25
+    },
+    {
+      "month": "Apr",
+      "support": 35.6,
+      "oppose": 15,
+      "neutral": 25
+    },
+    {
+      "month": "May",
+      "support": 37,
+      "oppose": 7.5,
+      "neutral": 25
+    },
+    {
+      "month": "Jun",
+      "support": 38.4,
+      "oppose": 0,
+      "neutral": 25
+    }
+  ],
+  "policyComparison": [
+    {
+      "policyName": "Healthcare",
+      "supportPercentage": 75,
+      "color": "#10b981"
+    },
+    {
+      "policyName": "Infrastructure",
+      "supportPercentage": 72,
+      "color": "#8b5cf6"
+    },
+    {
+      "policyName": "Education",
+      "supportPercentage": 68,
+      "color": "#3b82f6"
+    },
+    {
+      "policyName": "Environment",
+      "supportPercentage": 58,
+      "color": "#22c55e"
+    },
+    {
+      "policyName": "Tax Reform",
+      "supportPercentage": 45,
+      "color": "#f59e0b"
+    },
+    {
+      "policyName": "\n\n\n\n\n\n",
+      "supportPercentage": 38.4,
+      "color": "#ef4444",
+      "isCurrent": true
+    }
+  ],
+  "overallSentiment": {
+    "positive": 38.4,
+    "neutral": 61.6,
+    "negative": 0
+  },
+  "keyInsights": [
+    {
+      "type": "info",
+      "title": "Low Polarization",
+      "message": "Consensus detected across demographics. Policy has minimal divisiveness.",
+      "icon": "📊"
+    },
+    {
+      "type": "success",
+      "title": "Trending Upward",
+      "message": "Overall support has increased by 20% over the past 6 months across all simulations.",
+      "icon": "📈"
+    }
+  ],
+  "populationAnalytics": {
+    "totalPopulation": 950,
+    "activeUsers": 750,
+    "inactiveUsers": 199,
+    "growthRate": "+12.5%",
+    "stateBreakdown": [
+      {
+        "state": "UP",
+        "count": 160
+      },
+      {
+        "state": "Maharashtra",
+        "count": 100
+      },
+      {
+        "state": "Bihar",
+        "count": 80
+      },
+      {
+        "state": "WB",
+        "count": 70
+      },
+      {
+        "state": "Rajasthan",
+        "count": 60
+      },
+      {
+        "state": "Madhya Pradesh",
+        "count": 60
+      },
+      {
+        "state": "Delhi",
+        "count": 20
+      },
+      {
+        "state": "Karnataka",
+        "count": 50
+      },
+      {
+        "state": "Gujarat",
+        "count": 50
+      },
+      {
+        "state": "Tamil Nadu",
+        "count": 50
+      },
+      {
+        "state": "Assam",
+        "count": 30
+      },
+      {
+        "state": "Punjab",
+        "count": 20
+      },
+      {
+        "state": "Kerala",
+        "count": 30
+      },
+      {
+        "state": "Odissa",
+        "count": 30
+      },
+      {
+        "state": "Haryana",
+        "count": 20
+      },
+      {
+        "state": "Jharkhand",
+        "count": 30
+      },
+      {
+        "state": "Himachal",
+        "count": 10
+      },
+      {
+        "state": "Uttrakhand",
+        "count": 10
+      },
+      {
+        "state": "Goa",
+        "count": 10
+      },
+      {
+        "state": "Manipur",
+        "count": 10
+      },
+      {
+        "state": "Mizoram",
+        "count": 10
+      },
+      {
+        "state": "Nagaland",
+        "count": 10
+      },
+      {
+        "state": "Arunachal",
+        "count": 10
+      },
+      {
+        "state": "Jammu_kashmir",
+        "count": 10
+      },
+      {
+        "state": "AndamanNicobar",
+        "count": 10
+      }
+    ],
+    "demographics": {
+      "urban": {
+        "count": 304,
+        "percentage": 32
+      },
+      "rural": {
+        "count": 646,
+        "percentage": 68
+      }
+    },
+    "ageDistribution": [
+      {
+        "ageRange": "18-25",
+        "count": 104,
+        "percentage": 11
+      },
+      {
+        "ageRange": "26-35",
+        "count": 161,
+        "percentage": 17
+      },
+      {
+        "ageRange": "36-45",
+        "count": 133,
+        "percentage": 14
+      },
+      {
+        "ageRange": "46-55",
+        "count": 152,
+        "percentage": 16
+      },
+      {
+        "ageRange": "55+",
+        "count": 399,
+        "percentage": 42
+      }
+    ],
+    "incomeGroups": [
+      {
+        "incomeLevel": "Low Income",
+        "count": 798,
+        "percentage": 84
+      },
+      {
+        "incomeLevel": "Middle Income",
+        "count": 152,
+        "percentage": 16
+      },
+      {
+        "incomeLevel": "High Income",
+        "count": 0,
+        "percentage": 0
+      }
+    ]
+  },
+  "stateDetails": [
+    {
+      "state": "AndamanNicobar",
+      "population": 12,
+      "support": 58.3,
+      "oppose": 0,
+      "neutral": 41.7,
+      "averageOpinion": 0.13333269865133454,
+      "averageConfidence": 0.574903375,
+      "topDistricts": [
+        {
+          "district": "South Andaman Region",
+          "count": 3
+        },
+        {
+          "district": "Middle Andaman Region",
+          "count": 2
+        },
+        {
+          "district": "North Andaman Region",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "state": "AndhraPradesh",
+      "population": 700,
+      "support": 99.1,
+      "oppose": 0,
+      "neutral": 0.9,
+      "averageOpinion": 0.20865014667802853,
+      "averageConfidence": 0.6044092542857173,
+      "topDistricts": [
+        {
+          "district": "Godavari Delta Agro Zone",
+          "count": 117
+        },
+        {
+          "district": "Rayalaseema Dryland Zone",
+          "count": 117
+        },
+        {
+          "district": "South Coastal Fisheries Zone",
+          "count": 117
+        },
+        {
+          "district": "Krishna Guntur Urban Corridor",
+          "count": 116
+        },
+        {
+          "district": "North Coastal Tribal Zone",
+          "count": 116
+        }
+      ]
+    },
+    {
+      "state": "Arunachal",
+      "population": 24,
+      "support": 79.2,
+      "oppose": 0,
+      "neutral": 20.8,
+      "averageOpinion": 0.18811697063216726,
+      "averageConfidence": 0.564455625,
+      "topDistricts": [
+        {
+          "district": "Mishmi Dibang High Mountain",
+          "count": 5
+        },
+        {
+          "district": "Siang River Basin",
+          "count": 5
+        },
+        {
+          "district": "Western Himalayan Buddhist",
+          "count": 5
+        },
+        {
+          "district": "Central Tribal Highlands",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "population": 409,
+      "support": 98.5,
+      "oppose": 0,
+      "neutral": 1.5,
+      "averageOpinion": 0.20732435705237387,
+      "averageConfidence": 0.6056308753056245,
+      "topDistricts": [
+        {
+          "district": "Barak Valley",
+          "count": 81
+        },
+        {
+          "district": "Central Assam",
+          "count": 81
+        },
+        {
+          "district": "Lower Assam",
+          "count": 81
+        },
+        {
+          "district": "North Assam",
+          "count": 81
+        },
+        {
+          "district": "Upper Assam",
+          "count": 80
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "population": 1068,
+      "support": 0,
+      "oppose": 0,
+      "neutral": 100,
+      "averageOpinion": 0.019549697194747598,
+      "averageConfidence": 0.5442588061797745,
+      "topDistricts": [
+        {
+          "district": "Saran",
+          "count": 121
+        },
+        {
+          "district": "Bhagalpur",
+          "count": 120
+        },
+        {
+          "district": "Purnia",
+          "count": 120
+        },
+        {
+          "district": "Darbhanga",
+          "count": 119
+        },
+        {
+          "district": "Munger",
+          "count": 119
+        }
+      ]
+    },
+    {
+      "state": "Delhi",
+      "population": 181,
+      "support": 64.1,
+      "oppose": 0,
+      "neutral": 35.9,
+      "averageOpinion": 0.15029418769867417,
+      "averageConfidence": 0.6547296574585634,
+      "topDistricts": [
+        {
+          "district": "New Delhi",
+          "count": 17
+        },
+        {
+          "district": "North East Delhi",
+          "count": 17
+        },
+        {
+          "district": "North West Delhi",
+          "count": 17
+        },
+        {
+          "district": "South Delhi",
+          "count": 17
+        },
+        {
+          "district": "South East Delhi",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "state": "GOA",
+      "population": 34,
+      "support": 32.4,
+      "oppose": 0,
+      "neutral": 67.6,
+      "averageOpinion": 0.10158889846480706,
+      "averageConfidence": 0.6341990735294117,
+      "topDistricts": [
+        {
+          "district": "Bicholim",
+          "count": 3
+        },
+        {
+          "district": "Canacona",
+          "count": 3
+        },
+        {
+          "district": "Pernem",
+          "count": 3
+        },
+        {
+          "district": "Salcete",
+          "count": 3
+        },
+        {
+          "district": "Sattari",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "state": "Gujarat",
+      "population": 52,
+      "support": 32.7,
+      "oppose": 0,
+      "neutral": 67.3,
+      "averageOpinion": 0.09985198861129628,
+      "averageConfidence": 0.5793708461538463,
+      "topDistricts": [
+        {
+          "district": "Vadodara",
+          "count": 19
+        },
+        {
+          "district": "Rajkot",
+          "count": 13
+        },
+        {
+          "district": "Surat",
+          "count": 12
+        },
+        {
+          "district": "Ahmedabad",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "state": "haryana",
+      "population": 235,
+      "support": 0,
+      "oppose": 0,
+      "neutral": 100,
+      "averageOpinion": 0.026561338828283838,
+      "averageConfidence": 0.5684190638297875,
+      "topDistricts": [
+        {
+          "district": "Ambala",
+          "count": 40
+        },
+        {
+          "district": "Faridabad",
+          "count": 39
+        },
+        {
+          "district": "Rohtak",
+          "count": 39
+        },
+        {
+          "district": "Gurgaon",
+          "count": 38
+        },
+        {
+          "district": "Hisar",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "state": "Himachal",
+      "population": 64,
+      "support": 92.2,
+      "oppose": 0,
+      "neutral": 7.8,
+      "averageOpinion": 0.20286358801508145,
+      "averageConfidence": 0.5972903789062498,
+      "topDistricts": [
+        {
+          "district": "Central Himachal Urban",
+          "count": 12
+        },
+        {
+          "district": "Outer Shivalik Plains",
+          "count": 12
+        },
+        {
+          "district": "Tribal Buddhist TransHimalayan",
+          "count": 12
+        },
+        {
+          "district": "Western Himalayan HinduTribal",
+          "count": 12
+        },
+        {
+          "district": "Upper Shimla Apple Belt",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "state": "Jammu_kashmir",
+      "population": 131,
+      "support": 96.2,
+      "oppose": 0,
+      "neutral": 3.8,
+      "averageOpinion": 0.20091729139221384,
+      "averageConfidence": 0.597432824427481,
+      "topDistricts": [
+        {
+          "district": "kashmir",
+          "count": 126
+        }
+      ]
+    },
+    {
+      "state": "Jharkhand",
+      "population": 337,
+      "support": 0,
+      "oppose": 0,
+      "neutral": 100,
+      "averageOpinion": 0.017244090855320564,
+      "averageConfidence": 0.5389315281899119,
+      "topDistricts": [
+        {
+          "district": "North Chotanagpur",
+          "count": 70
+        },
+        {
+          "district": "Kolhan",
+          "count": 69
+        },
+        {
+          "district": "Palamu",
+          "count": 69
+        },
+        {
+          "district": "South Chotanagpur",
+          "count": 65
+        },
+        {
+          "district": "Santhal Pargana",
+          "count": 59
+        }
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "population": 52,
+      "support": 32.7,
+      "oppose": 0,
+      "neutral": 67.3,
+      "averageOpinion": 0.09665728019827606,
+      "averageConfidence": 0.5812406682692308,
+      "topDistricts": [
+        {
+          "district": "Bangalore",
+          "count": 16
+        },
+        {
+          "district": "Belgaum",
+          "count": 14
+        },
+        {
+          "district": "Mangalore",
+          "count": 10
+        },
+        {
+          "district": "Mysore",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "population": 290,
+      "support": 98.3,
+      "oppose": 0,
+      "neutral": 1.7,
+      "averageOpinion": 0.2814581415705743,
+      "averageConfidence": 0.6965820327586203,
+      "topDistricts": [
+        {
+          "district": "Central Travancore",
+          "count": 58
+        },
+        {
+          "district": "High Range (Central-East Kerala)",
+          "count": 58
+        },
+        {
+          "district": "Cochin Region (Central-West Kerala)",
+          "count": 57
+        },
+        {
+          "district": "North Kerala",
+          "count": 57
+        },
+        {
+          "district": "South Travancore",
+          "count": 55
+        }
+      ]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "population": 62,
+      "support": 43.5,
+      "oppose": 0,
+      "neutral": 56.5,
+      "averageOpinion": 0.10495947742591301,
+      "averageConfidence": 0.5894854112903224,
+      "topDistricts": [
+        {
+          "district": "Jabalpur",
+          "count": 23
+        },
+        {
+          "district": "Indore",
+          "count": 15
+        },
+        {
+          "district": "Bhopal",
+          "count": 14
+        },
+        {
+          "district": "Gwalior",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "population": 102,
+      "support": 30.4,
+      "oppose": 0,
+      "neutral": 69.6,
+      "averageOpinion": 0.08103704318557317,
+      "averageConfidence": 0.5883022279411765,
+      "topDistricts": [
+        {
+          "district": "Nagpur",
+          "count": 24
+        },
+        {
+          "district": "Mumbai",
+          "count": 22
+        },
+        {
+          "district": "Nashik",
+          "count": 21
+        },
+        {
+          "district": "Pune",
+          "count": 19
+        },
+        {
+          "district": "Aurangabad",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "state": "Maharastra",
+      "population": 910,
+      "support": 41.5,
+      "oppose": 0,
+      "neutral": 58.5,
+      "averageOpinion": 0.10821801022135542,
+      "averageConfidence": 0.6390408494505478,
+      "topDistricts": [
+        {
+          "district": "Nashik",
+          "count": 152
+        },
+        {
+          "district": "Chhatrapati Sambhajinagar",
+          "count": 151
+        },
+        {
+          "district": "Nagpur",
+          "count": 151
+        },
+        {
+          "district": "Pune",
+          "count": 151
+        },
+        {
+          "district": "Amravati",
+          "count": 150
+        }
+      ]
+    },
+    {
+      "state": "Manipur",
+      "population": 36,
+      "support": 8.3,
+      "oppose": 0,
+      "neutral": 91.7,
+      "averageOpinion": 0.054211379738501195,
+      "averageConfidence": 0.6009520833333333,
+      "topDistricts": [
+        {
+          "district": "Southern Hills",
+          "count": 9
+        },
+        {
+          "district": "Central Valley",
+          "count": 8
+        },
+        {
+          "district": "Northern Hills",
+          "count": 8
+        },
+        {
+          "district": "Eastern Zone",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "state": "Mizoram",
+      "population": 18,
+      "support": 33.3,
+      "oppose": 0,
+      "neutral": 66.7,
+      "averageOpinion": 0.1113361293245527,
+      "averageConfidence": 0.612501861111111,
+      "topDistricts": [
+        {
+          "district": "Eastern Zone",
+          "count": 4
+        },
+        {
+          "district": "Southern Zone",
+          "count": 4
+        },
+        {
+          "district": "Northern Zone",
+          "count": 3
+        },
+        {
+          "district": "Western Zone",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "population": 18,
+      "support": 22.2,
+      "oppose": 0,
+      "neutral": 77.8,
+      "averageOpinion": 0.08011002452649853,
+      "averageConfidence": 0.6027340277777777,
+      "topDistricts": [
+        {
+          "district": "Central Zone",
+          "count": 4
+        },
+        {
+          "district": "Eastern Zone",
+          "count": 4
+        },
+        {
+          "district": "Northern Zone",
+          "count": 3
+        },
+        {
+          "district": "Southern Zone",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "state": "Odissa",
+      "population": 435,
+      "support": 20.9,
+      "oppose": 0,
+      "neutral": 79.1,
+      "averageOpinion": 0.062347667162883647,
+      "averageConfidence": 0.608455256896552,
+      "topDistricts": [
+        {
+          "district": "Northern Division",
+          "count": 144
+        },
+        {
+          "district": "Central Division",
+          "count": 143
+        },
+        {
+          "district": "Southern Division",
+          "count": 143
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "population": 250,
+      "support": 22.8,
+      "oppose": 0,
+      "neutral": 77.2,
+      "averageOpinion": 0.06501755245666985,
+      "averageConfidence": 0.6263103060000008,
+      "topDistricts": [
+        {
+          "district": "Rupnagar",
+          "count": 50
+        },
+        {
+          "district": "Faridkot",
+          "count": 49
+        },
+        {
+          "district": "Jalandhar",
+          "count": 49
+        },
+        {
+          "district": "Patiala",
+          "count": 49
+        },
+        {
+          "district": "Firozpur",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "state": "Rajasthan",
+      "population": 567,
+      "support": 24.9,
+      "oppose": 0,
+      "neutral": 75.1,
+      "averageOpinion": 0.07115412740231568,
+      "averageConfidence": 0.6193324528218704,
+      "topDistricts": [
+        {
+          "district": "Jaipur",
+          "count": 81
+        },
+        {
+          "district": "Jodhpur",
+          "count": 81
+        },
+        {
+          "district": "Ajmer",
+          "count": 80
+        },
+        {
+          "district": "Bharatpur",
+          "count": 80
+        },
+        {
+          "district": "Bikaner",
+          "count": 80
+        }
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "population": 52,
+      "support": 40.4,
+      "oppose": 0,
+      "neutral": 59.6,
+      "averageOpinion": 0.10213093937495968,
+      "averageConfidence": 0.5807842067307691,
+      "topDistricts": [
+        {
+          "district": "Chennai",
+          "count": 15
+        },
+        {
+          "district": "Coimbatore",
+          "count": 14
+        },
+        {
+          "district": "Madurai",
+          "count": 12
+        },
+        {
+          "district": "Tiruchirappalli",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "state": "UP",
+      "population": 1746,
+      "support": 26.1,
+      "oppose": 0,
+      "neutral": 73.9,
+      "averageOpinion": 0.07691514628656242,
+      "averageConfidence": 0.597428058705611,
+      "topDistricts": [
+        {
+          "district": "Agra",
+          "count": 100
+        },
+        {
+          "district": "Gorakhpur",
+          "count": 100
+        },
+        {
+          "district": "Azamgarh",
+          "count": 99
+        },
+        {
+          "district": "Basti",
+          "count": 99
+        },
+        {
+          "district": "Kanpur",
+          "count": 98
+        }
+      ]
+    },
+    {
+      "state": "Uttrakhand",
+      "population": 109,
+      "support": 36.7,
+      "oppose": 0,
+      "neutral": 63.3,
+      "averageOpinion": 0.08068834059861796,
+      "averageConfidence": 0.6342243119266054,
+      "topDistricts": [
+        {
+          "district": "Garhwal",
+          "count": 52
+        },
+        {
+          "district": "Kumaon",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "state": "WB",
+      "population": 734,
+      "support": 34.3,
+      "oppose": 0,
+      "neutral": 65.7,
+      "averageOpinion": 0.08466242227277998,
+      "averageConfidence": 0.6075640888964563,
+      "topDistricts": [
+        {
+          "district": "Burdwan",
+          "count": 147
+        },
+        {
+          "district": "Malda",
+          "count": 147
+        },
+        {
+          "district": "Medinipur",
+          "count": 146
+        },
+        {
+          "district": "Presidency",
+          "count": 146
+        },
+        {
+          "district": "Jalpaiguri",
+          "count": 143
+        }
+      ]
+    }
+  ],
+  "rawData": {
+    "nationalSummary": {
+      "policy": "\n\n\n\n\n\n",
+      "executiveSummary": {
+        "totalPopulation": 8310,
+        "support": {
+          "count": 3195,
+          "percentage": "38.4%"
+        },
+        "oppose": {
+          "count": 0,
+          "percentage": "0.0%"
+        },
+        "neutral": {
+          "count": 5115,
+          "percentage": "61.6%"
+        },
+        "averageOpinion": "0.099",
+        "averageConfidence": "0.603",
+        "verdict": "MAJORITY SUPPORT"
+      },
+      "polarization": {
+        "standardDeviation": "0.087",
+        "polarizationIndex": "0.096",
+        "extremismRate": "0.0%",
+        "interpretation": "LOW POLARIZATION - Consensus"
+      },
+      "demographics": {
+        "byIncome": {
+          "Poor": {
+            "count": 8310,
+            "avgOpinion": "0.099",
+            "supportPct": "38.4%",
+            "opposePct": "0.0%"
+          }
+        }
+      },
+      "impact": {
+        "vulnerableGroupsHarmed": {
+          "count": 0,
+          "percentage": "0.0%"
+        }
+      },
+      "recommendations": [
+        {
+          "type": "MONITORING",
+          "severity": "MEDIUM",
+          "message": "Continue monitoring public opinion before final implementation."
+        }
+      ],
+      "timestamp": "2025-12-09T06:18:38.539Z"
+    },
+    "polarization": {
+      "standardDeviation": "0.087",
+      "polarizationIndex": "0.096",
+      "extremismRate": "0.0%",
+      "interpretation": "LOW POLARIZATION - Consensus"
+    },
+    "recommendations": [
+      {
+        "type": "MONITORING",
+        "severity": "MEDIUM",
+        "message": "Continue monitoring public opinion before final implementation."
+      }
+    ]
+  }
+}

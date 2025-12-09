@@ -1,0 +1,27 @@
+{
+  "opinion": 0.16848166496007488,
+  "confidence": 0.6496800000000001,
+  "reasoning": "I support this because I would benefit financially from this policy.",
+  "breakdown": {
+    "economicScore": 0.9429117881687066,
+    "socialScore": 0.19494,
+    "convenienceScore": 0.1196,
+    "healthEnvScore": 0,
+    "relevance": 0.42840000000000006,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.20000000000000004,
+      "convenience": 0.030000000000000002,
+      "healthEnv": 0.12000000000000002
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:35.334Z",
+    "humanId": "HUM_Maharashtra_Nashik_96"
+  },
+  "humanId": "HUM_Maharashtra_Nashik_96",
+  "state": "Maharashtra"
+}

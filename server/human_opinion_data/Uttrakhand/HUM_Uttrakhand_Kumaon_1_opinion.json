@@ -1,0 +1,27 @@
+{
+  "opinion": 0.13775941932202132,
+  "confidence": 0.660155,
+  "reasoning": "I'm neutral because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 0.40234401064920566,
+    "socialScore": 0.4648000000000001,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.485775,
+    "weights": {
+      "economic": 0.65,
+      "social": 0.2,
+      "convenience": 0.1,
+      "healthEnv": 0.05
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:37.995Z",
+    "humanId": "HUM_Uttrakhand_Kumaon_1"
+  },
+  "humanId": "HUM_Uttrakhand_Kumaon_1",
+  "state": "Uttrakhand"
+}

@@ -1,0 +1,27 @@
+{
+  "opinion": -0.02144783360567072,
+  "confidence": 0.5037,
+  "reasoning": "I'm neutral because I am unsure about the effects.",
+  "breakdown": {
+    "economicScore": 0.005465317960658781,
+    "socialScore": -0.1,
+    "convenienceScore": 0,
+    "healthEnvScore": 0,
+    "relevance": 0.30600000000000005,
+    "weights": {
+      "economic": 0.4,
+      "social": 0.3,
+      "convenience": 0.15,
+      "healthEnv": 0.15
+    }
+  },
+  "decision": "NEUTRAL",
+  "metadata": {
+    "policy": "The government announces free electricity subsidy of up to 200 units per month for all households wi",
+    "domain": "tax",
+    "timestamp": "2025-12-07T15:11:57.796Z",
+    "humanId": "HUM_Jharkhand_Santhal Pargana_57"
+  },
+  "humanId": "HUM_Jharkhand_Santhal Pargana_57",
+  "state": "Jharkhand"
+}

@@ -1,0 +1,27 @@
+{
+  "opinion": 0.37106984276999994,
+  "confidence": 0.729882,
+  "reasoning": "I support this because I would benefit financially from this policy and I this policy helps people like me.",
+  "breakdown": {
+    "economicScore": 1,
+    "socialScore": 0.5388,
+    "convenienceScore": 0.11499999999999999,
+    "healthEnvScore": 0,
+    "relevance": 0.4544099999999999,
+    "weights": {
+      "economic": 0.85,
+      "social": 0.1,
+      "convenience": 0.03,
+      "healthEnv": 0.02
+    }
+  },
+  "decision": "SUPPORT",
+  "metadata": {
+    "policy": "Bus Fare Hike",
+    "domain": "transport",
+    "timestamp": "2025-12-09T06:18:34.924Z",
+    "humanId": "HUM_Kerala_Central Travancore_0"
+  },
+  "humanId": "HUM_Kerala_Central Travancore_0",
+  "state": "Kerala"
+}

@@ -1,0 +1,1655 @@
+[
+  {
+    "humanId": "HUM_Arunachal_Western Himalayan Buddhist_0",
+    "householdId": "HH_Arunachal_Western Himalayan Buddhist_0",
+    "state": "Arunachal",
+    "district": "Western Himalayan Buddhist",
+    "demographics": {
+      "age": 44,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 52,
+      "changeAdaptability": 2,
+      "optimism": 43
+    },
+    "health": {
+      "healthcareAccess": 54,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.2,
+        "category": "Normal"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 32,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 102,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 220,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 72
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5133820107168892,
+      "confidence": 0.550693037380291,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Western Himalayan Buddhist_1",
+    "householdId": "HH_Arunachal_Western Himalayan Buddhist_0",
+    "state": "Arunachal",
+    "district": "Western Himalayan Buddhist",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 52,
+      "changeAdaptability": 2,
+      "optimism": 94
+    },
+    "health": {
+      "healthcareAccess": 54,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 19.9,
+        "category": "Normal"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 32,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 102,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 220,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 72
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5843683487839861,
+      "confidence": 0.27070684811248236,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Western Himalayan Buddhist_2",
+    "householdId": "HH_Arunachal_Western Himalayan Buddhist_1",
+    "state": "Arunachal",
+    "district": "Western Himalayan Buddhist",
+    "demographics": {
+      "age": 66,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 52,
+      "changeAdaptability": 2,
+      "optimism": 96
+    },
+    "health": {
+      "healthcareAccess": 54,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 25.5,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 32,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 102,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 220,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 72
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.06409812186549857,
+      "confidence": 0.30494815583525137,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Western Himalayan Buddhist_3",
+    "householdId": "HH_Arunachal_Western Himalayan Buddhist_2",
+    "state": "Arunachal",
+    "district": "Western Himalayan Buddhist",
+    "demographics": {
+      "age": 45,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 52,
+      "changeAdaptability": 2,
+      "optimism": 54
+    },
+    "health": {
+      "healthcareAccess": 54,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24,
+        "category": "Normal"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 32,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 102,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 220,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 72
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.6821964088202055,
+      "confidence": 0.561864167900037,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Western Himalayan Buddhist_4",
+    "householdId": "HH_Arunachal_Western Himalayan Buddhist_2",
+    "state": "Arunachal",
+    "district": "Western Himalayan Buddhist",
+    "demographics": {
+      "age": 50,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 52,
+      "changeAdaptability": 2,
+      "optimism": 99
+    },
+    "health": {
+      "healthcareAccess": 54,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 18.2,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 34
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 32,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 28
+    },
+    "mobility": {
+      "commuteTime": 102,
+      "transportationMode": "Train",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 16,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 220,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 72
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.3015345458026193,
+      "confidence": 0.642939398422442,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Central Tribal Highlands_0",
+    "householdId": "HH_Arunachal_Central Tribal Highlands_0",
+    "state": "Arunachal",
+    "district": "Central Tribal Highlands",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "SC",
+      "tribalConcentration": 82
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 46
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "commuteTime": 78,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 58
+    },
+    "environmental": {
+      "pollutionExposure": 240,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 68
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.31912728077513686,
+      "confidence": 0.3968949505877265,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Central Tribal Highlands_1",
+    "householdId": "HH_Arunachal_Central Tribal Highlands_1",
+    "state": "Arunachal",
+    "district": "Central Tribal Highlands",
+    "demographics": {
+      "age": 66,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 82
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 81
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 16.9,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "commuteTime": 78,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 58
+    },
+    "environmental": {
+      "pollutionExposure": 240,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 68
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.39140057324290334,
+      "confidence": 0.36397812432848786,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Central Tribal Highlands_2",
+    "householdId": "HH_Arunachal_Central Tribal Highlands_1",
+    "state": "Arunachal",
+    "district": "Central Tribal Highlands",
+    "demographics": {
+      "age": 26,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 82
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 99
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24,
+        "category": "Normal"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "commuteTime": 78,
+      "transportationMode": "Multiple",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 58
+    },
+    "environmental": {
+      "pollutionExposure": 240,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 68
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.12072378585454535,
+      "confidence": 0.46499050670061237,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Central Tribal Highlands_3",
+    "householdId": "HH_Arunachal_Central Tribal Highlands_2",
+    "state": "Arunachal",
+    "district": "Central Tribal Highlands",
+    "demographics": {
+      "age": 37,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 82
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Informal",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 56,
+      "changeAdaptability": 2,
+      "optimism": 69
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 30
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 26,
+      "savingsRate": -42
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 24
+    },
+    "mobility": {
+      "commuteTime": 78,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 20,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 58
+    },
+    "environmental": {
+      "pollutionExposure": 240,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 68
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.6488037993746856,
+      "confidence": 0.5329939186245426,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Siang River Basin_0",
+    "householdId": "HH_Arunachal_Siang River Basin_0",
+    "state": "Arunachal",
+    "district": "Siang River Basin",
+    "demographics": {
+      "age": 37,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 80
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 54,
+      "changeAdaptability": 2,
+      "optimism": 48
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 24.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -43
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "commuteTime": 93,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 210,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 74
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.30561848583624274,
+      "confidence": 0.650310683918707,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Siang River Basin_1",
+    "householdId": "HH_Arunachal_Siang River Basin_1",
+    "state": "Arunachal",
+    "district": "Siang River Basin",
+    "demographics": {
+      "age": 22,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 80
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 54,
+      "changeAdaptability": 2,
+      "optimism": 75
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -43
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "commuteTime": 93,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 210,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 74
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.695962144180148,
+      "confidence": 0.7481288504800738,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Siang River Basin_2",
+    "householdId": "HH_Arunachal_Siang River Basin_1",
+    "state": "Arunachal",
+    "district": "Siang River Basin",
+    "demographics": {
+      "age": 18,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 80
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Manufacturing",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 54,
+      "changeAdaptability": 2,
+      "optimism": 98
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.1,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -43
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "commuteTime": 93,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 210,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 74
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": true
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.5640664759007286,
+      "confidence": 0.39135178907025436,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Siang River Basin_3",
+    "householdId": "HH_Arunachal_Siang River Basin_2",
+    "state": "Arunachal",
+    "district": "Siang River Basin",
+    "demographics": {
+      "age": 37,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 80
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 0,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 54,
+      "changeAdaptability": 2,
+      "optimism": 19
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 15.6,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -43
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "commuteTime": 93,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 210,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 74
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.9486071838497079,
+      "confidence": 0.5265839384185855,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Siang River Basin_4",
+    "householdId": "HH_Arunachal_Siang River Basin_2",
+    "state": "Arunachal",
+    "district": "Siang River Basin",
+    "demographics": {
+      "age": 34,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 80
+    },
+    "socioEconomic": {
+      "incomePerCapita": 649,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 54,
+      "changeAdaptability": 2,
+      "optimism": 43
+    },
+    "health": {
+      "healthcareAccess": 56,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 23.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 32
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 28,
+      "savingsRate": -43
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 26
+    },
+    "mobility": {
+      "commuteTime": 93,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 18,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 54
+    },
+    "environmental": {
+      "pollutionExposure": 210,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 74
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.7971276488191834,
+      "confidence": 0.561262936054592,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Mishmi Dibang High Mountain_0",
+    "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_0",
+    "state": "Arunachal",
+    "district": "Mishmi Dibang High Mountain",
+    "demographics": {
+      "age": 51,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 86
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 50,
+      "changeAdaptability": 2,
+      "optimism": 3
+    },
+    "health": {
+      "healthcareAccess": 50,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 21.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 36
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 34,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 117,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 190,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 78
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.2872811459926434,
+      "confidence": 0.5498324921056428,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Mishmi Dibang High Mountain_1",
+    "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_0",
+    "state": "Arunachal",
+    "district": "Mishmi Dibang High Mountain",
+    "demographics": {
+      "age": 46,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 86
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 50,
+      "changeAdaptability": 2,
+      "optimism": 35
+    },
+    "health": {
+      "healthcareAccess": 50,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 20.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 36
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 34,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 117,
+      "transportationMode": "Bus",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 190,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 78
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.6372889199053802,
+      "confidence": 0.6972415383462937,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Mishmi Dibang High Mountain_2",
+    "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_1",
+    "state": "Arunachal",
+    "district": "Mishmi Dibang High Mountain",
+    "demographics": {
+      "age": 53,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "ST",
+      "tribalConcentration": 86
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 50,
+      "changeAdaptability": 2,
+      "optimism": 89
+    },
+    "health": {
+      "healthcareAccess": 50,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.5,
+        "category": "Normal"
+      },
+      "diseaseRisk": 36
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 34,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 117,
+      "transportationMode": "Bike",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 190,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 78
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.2804961954386136,
+      "confidence": 0.3537179088525728,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Mishmi Dibang High Mountain_3",
+    "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_2",
+    "state": "Arunachal",
+    "district": "Mishmi Dibang High Mountain",
+    "demographics": {
+      "age": 28,
+      "householdSize": 2,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 86
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 3,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 50,
+      "changeAdaptability": 2,
+      "optimism": 46
+    },
+    "health": {
+      "healthcareAccess": 50,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 18.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 36
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 34,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 117,
+      "transportationMode": "Walk",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 190,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 78
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": 0.037841272895424716,
+      "confidence": 0.49977806547240566,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Arunachal_Mishmi Dibang High Mountain_4",
+    "householdId": "HH_Arunachal_Mishmi Dibang High Mountain_2",
+    "state": "Arunachal",
+    "district": "Mishmi Dibang High Mountain",
+    "demographics": {
+      "age": 30,
+      "householdSize": 2,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 86
+    },
+    "socioEconomic": {
+      "incomePerCapita": 698,
+      "povertyStatus": 1,
+      "literacy": 1,
+      "educationLevel": 4,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q2"
+    },
+    "behavioral": {
+      "casteConsciousness": 2,
+      "riskTolerance": 2,
+      "institutionalTrust": 50,
+      "changeAdaptability": 2,
+      "optimism": 87
+    },
+    "health": {
+      "healthcareAccess": 50,
+      "healthLiteracy": 2,
+      "nutritionalStatus": {
+        "bmi": 22.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 36
+    },
+    "economicStability": {
+      "incomeStability": 2,
+      "debtVulnerability": 34,
+      "savingsRate": -44
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 32
+    },
+    "mobility": {
+      "commuteTime": 117,
+      "transportationMode": "Car",
+      "geographicMobility": 2
+    },
+    "political": {
+      "votingBehavior": "Occasional",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 2,
+      "digitalServicesAccess": 52
+    },
+    "environmental": {
+      "pollutionExposure": 190,
+      "climateVulnerability": 2,
+      "greenSpaceAccess": 78
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 2
+    },
+    "opinion": {
+      "current": -0.41035210008384615,
+      "confidence": 0.47191208859683054,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:28.909Z",
+      "version": 1
+    }
+  }
+]

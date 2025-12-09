@@ -1,0 +1,1046 @@
+[
+  {
+    "humanId": "HUM_Nagaland_Central Zone_0",
+    "householdId": "HH_Nagaland_Central Zone_0",
+    "state": "Nagaland",
+    "district": "Central Zone",
+    "demographics": {
+      "age": 43,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Christian",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Informal",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 72,
+      "changeAdaptability": 4,
+      "optimism": 6
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 16.7,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.5742586041387998,
+      "confidence": 0.4307904693241622,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Central Zone_1",
+    "householdId": "HH_Nagaland_Central Zone_0",
+    "state": "Nagaland",
+    "district": "Central Zone",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Formal",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 72,
+      "changeAdaptability": 4,
+      "optimism": 45
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 26.8,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.001133490321569397,
+      "confidence": 0.6956753413200318,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Central Zone_2",
+    "householdId": "HH_Nagaland_Central Zone_1",
+    "state": "Nagaland",
+    "district": "Central Zone",
+    "demographics": {
+      "age": 32,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q5"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 72,
+      "changeAdaptability": 4,
+      "optimism": 79
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.06463254551652975,
+      "confidence": 0.3858334990602553,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Central Zone_3",
+    "householdId": "HH_Nagaland_Central Zone_1",
+    "state": "Nagaland",
+    "district": "Central Zone",
+    "demographics": {
+      "age": 34,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 88
+    },
+    "socioEconomic": {
+      "incomePerCapita": 6440,
+      "povertyStatus": 0,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Informal",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 72,
+      "changeAdaptability": 4,
+      "optimism": 1
+    },
+    "health": {
+      "healthcareAccess": 74,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 48
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 18,
+      "savingsRate": -26
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 40
+    },
+    "mobility": {
+      "commuteTime": 58,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 18,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 65
+    },
+    "environmental": {
+      "pollutionExposure": 375,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 58
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.678965082830322,
+      "confidence": 0.6363769882212057,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Northern Zone_0",
+    "householdId": "HH_Nagaland_Northern Zone_0",
+    "state": "Nagaland",
+    "district": "Northern Zone",
+    "demographics": {
+      "age": 30,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 91
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9410,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 1,
+      "occupation": "Informal",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q3"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 4,
+      "optimism": 66
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 19.3,
+        "category": "Normal"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 55
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 62
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.7978546336598065,
+      "confidence": 0.36479680689838834,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Northern Zone_1",
+    "householdId": "HH_Nagaland_Northern Zone_1",
+    "state": "Nagaland",
+    "district": "Northern Zone",
+    "demographics": {
+      "age": 66,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 91
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9410,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 0,
+      "occupation": "Agriculture",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 4,
+      "optimism": 35
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 22.7,
+        "category": "Normal"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Bus",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 55
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 62
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.489220889808474,
+      "confidence": 0.27490494392397324,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Northern Zone_2",
+    "householdId": "HH_Nagaland_Northern Zone_2",
+    "state": "Nagaland",
+    "district": "Northern Zone",
+    "demographics": {
+      "age": 41,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 91
+    },
+    "socioEconomic": {
+      "incomePerCapita": 9410,
+      "povertyStatus": 1,
+      "literacy": 2,
+      "educationLevel": 2,
+      "occupation": "Manufacturing",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 68,
+      "changeAdaptability": 4,
+      "optimism": 34
+    },
+    "health": {
+      "healthcareAccess": 68,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21,
+        "category": "Normal"
+      },
+      "diseaseRisk": 52
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 24,
+      "savingsRate": -32
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 76,
+      "transportationMode": "Car",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 16,
+      "mediaConsumption": "Both"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 4,
+      "digitalServicesAccess": 55
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 62
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.6677914513472012,
+      "confidence": 0.47932259990710324,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Eastern Zone_0",
+    "householdId": "HH_Nagaland_Eastern Zone_0",
+    "state": "Nagaland",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 57,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 95
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13370,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 1,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 62,
+      "changeAdaptability": 4,
+      "optimism": 95
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 20.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 32,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 42
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 65
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.40651048102084264,
+      "confidence": 0.5071082570148845,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Eastern Zone_1",
+    "householdId": "HH_Nagaland_Eastern Zone_0",
+    "state": "Nagaland",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 53,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Hindu",
+      "caste": "ST",
+      "tribalConcentration": 95
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13370,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Self-employed",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 62,
+      "changeAdaptability": 4,
+      "optimism": 60
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 16.8,
+        "category": "Underweight"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 32,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Owned",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Walk",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 42
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 65
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.774117338881362,
+      "confidence": 0.4670216914046672,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Eastern Zone_2",
+    "householdId": "HH_Nagaland_Eastern Zone_1",
+    "state": "Nagaland",
+    "district": "Eastern Zone",
+    "demographics": {
+      "age": 49,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Other",
+      "caste": "ST",
+      "tribalConcentration": 95
+    },
+    "socioEconomic": {
+      "incomePerCapita": 13370,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Unemployed",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 62,
+      "changeAdaptability": 4,
+      "optimism": 37
+    },
+    "health": {
+      "healthcareAccess": 58,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 23.4,
+        "category": "Normal"
+      },
+      "diseaseRisk": 62
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 32,
+      "savingsRate": -38
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 36
+    },
+    "mobility": {
+      "commuteTime": 90,
+      "transportationMode": "Multiple",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 14,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 42
+    },
+    "environmental": {
+      "pollutionExposure": 325,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 65
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": 0.06460413796897413,
+      "confidence": 0.6235834453281914,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Southern Zone_0",
+    "householdId": "HH_Nagaland_Southern Zone_0",
+    "state": "Nagaland",
+    "district": "Southern Zone",
+    "demographics": {
+      "age": 38,
+      "householdSize": 1,
+      "sex": "Male",
+      "urbanization": "Semi-Urban",
+      "religion": "Sikh",
+      "caste": "SC",
+      "tribalConcentration": 83
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10400,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Agriculture",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q4"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 65,
+      "changeAdaptability": 4,
+      "optimism": 28
+    },
+    "health": {
+      "healthcareAccess": 62,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 21.8,
+        "category": "Normal"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 26,
+      "savingsRate": -34
+    },
+    "housing": {
+      "housingType": "Informal Settlement",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 81,
+      "transportationMode": "Bike",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 15,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 48
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.20631870862593704,
+      "confidence": 0.4594212535267379,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  },
+  {
+    "humanId": "HUM_Nagaland_Southern Zone_1",
+    "householdId": "HH_Nagaland_Southern Zone_1",
+    "state": "Nagaland",
+    "district": "Southern Zone",
+    "demographics": {
+      "age": 46,
+      "householdSize": 1,
+      "sex": "Female",
+      "urbanization": "Semi-Urban",
+      "religion": "Muslim",
+      "caste": "ST",
+      "tribalConcentration": 83
+    },
+    "socioEconomic": {
+      "incomePerCapita": 10400,
+      "povertyStatus": 0,
+      "literacy": 1,
+      "educationLevel": 2,
+      "occupation": "Services",
+      "employmentType": "Informal",
+      "wealthQuintile": "Q1"
+    },
+    "behavioral": {
+      "casteConsciousness": 3,
+      "riskTolerance": 4,
+      "institutionalTrust": 65,
+      "changeAdaptability": 4,
+      "optimism": 50
+    },
+    "health": {
+      "healthcareAccess": 62,
+      "healthLiteracy": 4,
+      "nutritionalStatus": {
+        "bmi": 26.6,
+        "category": "Overweight"
+      },
+      "diseaseRisk": 58
+    },
+    "economicStability": {
+      "incomeStability": 4,
+      "debtVulnerability": 26,
+      "savingsRate": -34
+    },
+    "housing": {
+      "housingType": "Rented",
+      "housingCostBurden": 38
+    },
+    "mobility": {
+      "commuteTime": 81,
+      "transportationMode": "Train",
+      "geographicMobility": 4
+    },
+    "political": {
+      "votingBehavior": "Regular",
+      "civicParticipation": 15,
+      "mediaConsumption": "Traditional"
+    },
+    "digital": {
+      "internetConnectivity": "Mobile Only",
+      "digitalLiteracy": 3,
+      "digitalServicesAccess": 48
+    },
+    "environmental": {
+      "pollutionExposure": 350,
+      "climateVulnerability": 4,
+      "greenSpaceAccess": 60
+    },
+    "legal": {
+      "citizenshipStatus": "Permanent Resident",
+      "criminalRecord": false
+    },
+    "information": {
+      "policyAwareness": 4
+    },
+    "opinion": {
+      "current": -0.4892368093564774,
+      "confidence": 0.5583617814587006,
+      "history": [],
+      "reasoning": ""
+    },
+    "connections": [],
+    "metadata": {
+      "createdAt": "2025-12-09T06:18:29.987Z",
+      "version": 1
+    }
+  }
+]
