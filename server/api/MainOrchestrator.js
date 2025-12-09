@@ -335,10 +335,11 @@ class MainOrchestrator {
         };
       }
     }
-
     return result;
   }
 
+
+  
   /**
    * Interpret polarization level
    */

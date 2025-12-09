@@ -3,11 +3,9 @@ import { useNavigate } from "react-router-dom";
 import IndiaMap from "../../components/dashboard/IndiaMap.jsx";
 import MetricsCards from "../../components/dashboard/MetricsCards.jsx";
 import { PdfUploadCard } from "../../components/dashboard/PdfUploadCard.jsx";
-import IndiaImpactCard from "../../components/dashboard/IndiaImpactCard.jsx";
+import IndiaAnalytics from "../../components/dashboard/IndiaAnalytics.jsx";
 import { Button } from "../../components/ui/button.jsx";
 import { BarChart3 } from "lucide-react";
-
-
 
 function DashboardHome() {
   const [isRunning, setIsRunning] = useState(false);
@@ -44,30 +42,29 @@ function DashboardHome() {
   if (loadingInitial) return null;
 
   return (
-    <div className="relative w-full space-y-8 pb-12">
-      {/* TOP SECTION: LEFT (header + metrics + map) & RIGHT (PDF parser) */}
+    <div className="relative w-full space-y-6 pb-12">
+      {/* 1. HEADER SECTION */}
+      <div>
+        <h1 className="text-2xl font-bold tracking-tight text-white">
+          Policy Simulation Dashboard
+        </h1>
+        <p className="text-zinc-400">
+          Analyze public sentiment across India&apos;s states.
+        </p>
+      </div>
+
+      {/* 2. BAR ON TOP (Metrics) */}
+      <MetricsCards />
+
+      {/* 3. MAIN CONTENT: Map (Left) & PDF Parser (Right) */}
       <div
         className={`flex flex-col ${
           !hasPolicyUploaded ? "xl:flex-row" : ""
         } gap-6`}
       >
-        {/* LEFT COLUMN */}
-        <div className="flex-1 space-y-6">
-          {/* Header */}
-          <div>
-            <h1 className="text-2xl font-bold tracking-tight text-white">
-              Policy Simulation Dashboard
-            </h1>
-            <p className="text-zinc-400">
-              Analyze public sentiment across India&apos;s states.
-            </p>
-          </div>
-
-          {/* Metrics row */}
-          <MetricsCards />
-
-          {/* India heatmap just below metrics, narrower and card-like */}
-          <div className="mt-2 bg-zinc-900 border border-zinc-800 rounded-2xl p-4 min-h-[340px]">
+        {/* LEFT COLUMN: MAP */}
+        <div className="flex-1">
+          <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-4 min-h-[500px] h-full shadow-inner">
             <IndiaMap />
           </div>
         </div>
@@ -80,9 +77,9 @@ function DashboardHome() {
         )}
       </div>
 
-      {/* National Impact Analytics Card */}
+      {/* 4. ANALYTICS (Tabs Only) */}
       <div className="pt-6 border-t border-zinc-800">
-        <IndiaImpactCard />
+        <IndiaAnalytics />
       </div>
     </div>
   );

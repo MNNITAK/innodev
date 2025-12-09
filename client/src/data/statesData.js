@@ -1,35 +1,20 @@
+// ... (Keep the existing INDIAN_STATES list and getSeededRandom helper)
 // Complete list of Indian States and Union Territories with their codes
 export const INDIAN_STATES = [
-  // States (28)
-  {
-    code: "AN",
-    name: "Andaman and Nicobar Islands",
-    type: "UT",
-    capital: "Port Blair",
-  },
+  { code: "AN", name: "Andaman and Nicobar Islands", type: "UT", capital: "Port Blair" },
   { code: "AP", name: "Andhra Pradesh", type: "State", capital: "Amaravati" },
   { code: "AR", name: "Arunachal Pradesh", type: "State", capital: "Itanagar" },
   { code: "AS", name: "Assam", type: "State", capital: "Dispur" },
   { code: "BR", name: "Bihar", type: "State", capital: "Patna" },
   { code: "CH", name: "Chandigarh", type: "UT", capital: "Chandigarh" },
   { code: "CT", name: "Chhattisgarh", type: "State", capital: "Raipur" },
-  {
-    code: "DN",
-    name: "Dadra and Nagar Haveli and Daman and Diu",
-    type: "UT",
-    capital: "Daman",
-  },
+  { code: "DN", name: "Dadra and Nagar Haveli and Daman and Diu", type: "UT", capital: "Daman" },
   { code: "DL", name: "Delhi", type: "UT", capital: "New Delhi" },
   { code: "GA", name: "Goa", type: "State", capital: "Panaji" },
   { code: "GJ", name: "Gujarat", type: "State", capital: "Gandhinagar" },
   { code: "HR", name: "Haryana", type: "State", capital: "Chandigarh" },
   { code: "HP", name: "Himachal Pradesh", type: "State", capital: "Shimla" },
-  {
-    code: "JK",
-    name: "Jammu and Kashmir",
-    type: "UT",
-    capital: "Srinagar (Summer), Jammu (Winter)",
-  },
+  { code: "JK", name: "Jammu and Kashmir", type: "UT", capital: "Srinagar (Summer), Jammu (Winter)" },
   { code: "JH", name: "Jharkhand", type: "State", capital: "Ranchi" },
   { code: "KA", name: "Karnataka", type: "State", capital: "Bengaluru" },
   { code: "KL", name: "Kerala", type: "State", capital: "Thiruvananthapuram" },
@@ -50,219 +35,90 @@ export const INDIAN_STATES = [
   { code: "TG", name: "Telangana", type: "State", capital: "Hyderabad" },
   { code: "TR", name: "Tripura", type: "State", capital: "Agartala" },
   { code: "UP", name: "Uttar Pradesh", type: "State", capital: "Lucknow" },
-  {
-    code: "UT",
-    name: "Uttarakhand",
-    type: "State",
-    capital: "Dehradun (Winter), Gairsain (Summer)",
-  },
+  { code: "UT", name: "Uttarakhand", type: "State", capital: "Dehradun (Winter), Gairsain (Summer)" },
   { code: "WB", name: "West Bengal", type: "State", capital: "Kolkata" },
 ];
 
-// Generate mock analytics data for each state
-export const generateStateAnalytics = (stateCode, stateName) => {
-  // Seed random generation based on state code for consistency
-  const seed = stateCode.charCodeAt(0) + stateCode.charCodeAt(1);
-  const random = (min, max) =>
-    min + (((seed * 9301 + 49297) % 233280) / 233280) * (max - min);
+const getSeededRandom = (seedStr) => {
+  let seed = 0;
+  for (let i = 0; i < seedStr.length; i++) seed += seedStr.charCodeAt(i);
+  return (min, max) => {
+    const x = Math.sin(seed++) * 10000;
+    return min + (x - Math.floor(x)) * (max - min);
+  };
+};
 
-  const baseIncome = random(80000, 180000);
-  const basePoverty = random(10, 35);
-  const baseHealthcare = random(45, 80);
-  const baseInternet = random(30, 75);
-  const baseAQI = random(80, 200);
+export const generateStateAnalytics = (stateCode, stateName) => {
+  const random = getSeededRandom(stateCode + "analytics_v3_clean");
+  
+  const support = Math.floor(random(40, 85));
+  const opposition = Math.floor(random(10, 100 - support - 5)); 
+  const riskLevels = ["Low", "Medium", "High", "Critical"];
+  const riskIndex = Math.floor(random(0, 4));
 
   return {
     state: stateName,
     stateCode: stateCode,
     lastUpdated: new Date().toISOString(),
+    
+    // UPDATED: Clean metrics without comparison data
+    summaryMetrics: [
+      { label: "Overall Support", value: support + "%" },
+      { label: "Opposition", value: opposition + "%" },
+      { label: "Population Simulated", value: (random(0.5, 12)).toFixed(1) + "M" },
+      { label: "Risk Level", value: riskLevels[riskIndex] },
+    ],
 
-    socioEconomic: {
-      title: "Socio-Economic",
-      metrics: [
-        {
-          id: "income",
-          label: "Avg. Annual Income",
-          type: "continuous",
-          unit: "₹",
-          oldValue: Math.round(baseIncome),
-          newValue: Math.round(baseIncome * random(1.02, 1.12)),
-          max: 250000,
-        },
-        {
-          id: "poverty",
-          label: "Poverty Line Rate",
-          type: "continuous",
-          unit: "%",
-          oldValue: Number(basePoverty.toFixed(1)),
-          newValue: Number((basePoverty * random(0.85, 0.98)).toFixed(1)),
-          max: 100,
-          inverse: true,
-        },
-        {
-          id: "employment",
-          label: "Employment Distribution",
-          type: "categorical",
-          data: [
-            {
-              label: "Formal",
-              old: Math.round(random(15, 25)),
-              new: Math.round(random(20, 30)),
-            },
-            {
-              label: "Informal",
-              old: Math.round(random(40, 50)),
-              new: Math.round(random(38, 46)),
-            },
-            {
-              label: "Agriculture",
-              old: Math.round(random(20, 35)),
-              new: Math.round(random(18, 32)),
-            },
-            {
-              label: "Unemployed",
-              old: Math.round(random(5, 12)),
-              new: Math.round(random(4, 10)),
-            },
-          ],
-        },
-      ],
-    },
-
-    health: {
-      title: "Health & Nutrition",
-      metrics: [
-        {
-          id: "access",
-          label: "Healthcare Access Index",
-          type: "ordinal",
-          unit: "/100",
-          oldValue: Math.round(baseHealthcare),
-          newValue: Math.round(baseHealthcare * random(1.05, 1.15)),
-          max: 100,
-        },
-        {
-          id: "stunting",
-          label: "Child Stunting Rate",
-          type: "continuous",
-          unit: "%",
-          oldValue: Number(random(25, 40).toFixed(1)),
-          newValue: Number(random(23, 38).toFixed(1)),
-          max: 50,
-          inverse: true,
-        },
-        {
-          id: "disease",
-          label: "Disease Risk Score",
-          type: "continuous",
-          unit: "/100",
-          oldValue: Math.round(random(35, 55)),
-          newValue: Math.round(random(30, 50)),
-          max: 100,
-          inverse: true,
-        },
-      ],
-    },
-
-    digital: {
-      title: "Digital Inclusion",
-      metrics: [
-        {
-          id: "internet",
-          label: "Internet Penetration",
-          type: "continuous",
-          unit: "%",
-          oldValue: Math.round(baseInternet),
-          newValue: Math.round(baseInternet * random(1.15, 1.35)),
-          max: 100,
-        },
-        {
-          id: "literacy",
-          label: "Digital Literacy Level",
-          type: "ordinal",
-          unit: "Scale (1-5)",
-          oldValue: Number(random(2.2, 3.5).toFixed(1)),
-          newValue: Number(random(2.8, 4.2).toFixed(1)),
-          max: 5,
-        },
-        {
-          id: "services",
-          label: "Digital Service Access",
-          type: "categorical",
-          data: [
-            {
-              label: "High",
-              old: Math.round(random(10, 20)),
-              new: Math.round(random(18, 30)),
-            },
-            {
-              label: "Medium",
-              old: Math.round(random(25, 35)),
-              new: Math.round(random(30, 40)),
-            },
-            {
-              label: "Low",
-              old: Math.round(random(45, 60)),
-              new: Math.round(random(30, 45)),
-            },
-          ],
-        },
-      ],
-    },
-
-    environment: {
-      title: "Environment",
-      metrics: [
-        {
-          id: "aqi",
-          label: "Avg. AQI Exposure",
-          type: "continuous",
-          unit: "AQI",
-          oldValue: Math.round(baseAQI),
-          newValue: Math.round(baseAQI * random(0.88, 0.98)),
-          max: 300,
-          inverse: true,
-        },
-        {
-          id: "green_space",
-          label: "Green Space Access",
-          type: "continuous",
-          unit: "%",
-          oldValue: Number(random(8, 18).toFixed(1)),
-          newValue: Number(random(9, 20).toFixed(1)),
-          max: 100,
-        },
-      ],
-    },
-
-    mobility: {
-      title: "Mobility",
-      metrics: [
-        {
-          id: "commute",
-          label: "Avg. Commute Time",
-          type: "continuous",
-          unit: "min",
-          oldValue: Math.round(random(30, 60)),
-          newValue: Math.round(random(25, 50)),
-          max: 120,
-          inverse: true,
-        },
-        {
-          id: "public_transport",
-          label: "Public Transport Usage",
-          type: "continuous",
-          unit: "%",
-          oldValue: Math.round(random(25, 45)),
-          newValue: Math.round(random(35, 60)),
-          max: 100,
-        },
-      ],
-    },
+    categories: {
+      socioEconomic: {
+        title: "Socio-Economic",
+        metrics: [
+          { id: "2.2", label: "Poverty Below Line", value: random(0.15, 0.45), type: "percent", inverse: true },
+          { id: "2.3", label: "Literacy Rate", value: random(0.60, 0.95), type: "percent" },
+          { id: "2.6", label: "Formal Employment", value: random(0.10, 0.50), type: "percent" },
+          { id: "5.1", label: "Income Stability", value: random(0.3, 0.8), type: "ordinal" },
+          { id: "5.2", label: "Debt Vulnerability", value: random(0.2, 0.6), type: "percent", inverse: true },
+        ]
+      },
+      health: {
+        title: "Health & Nutrition",
+        metrics: [
+          { id: "4.1", label: "Healthcare Access", value: random(0.4, 0.9), type: "ordinal" },
+          { id: "4.3", label: "Child Stunting", value: random(0.2, 0.45), type: "percent", inverse: true },
+          { id: "4.4", label: "Disease Risk", value: random(0.3, 0.7), type: "ordinal", inverse: true },
+          { id: "4.2", label: "Health Literacy", value: random(0.3, 0.8), type: "ordinal" },
+        ]
+      },
+      digital: {
+        title: "Digital & Tech",
+        metrics: [
+          { id: "10.1", label: "Internet Connectivity", value: random(0.4, 0.95), type: "percent" },
+          { id: "10.2", label: "Digital Literacy", value: random(0.2, 0.8), type: "ordinal" },
+          { id: "10.3", label: "Digital Services Access", value: random(0.3, 0.85), type: "ordinal" },
+        ]
+      },
+      environment: {
+        title: "Environment & Housing",
+        metrics: [
+          { id: "11.1", label: "Pollution Exposure", value: random(0.2, 0.8), type: "ordinal", inverse: true },
+          { id: "11.2", label: "Climate Vulnerability", value: random(0.3, 0.7), type: "ordinal", inverse: true },
+          { id: "6.1", label: "Pucca Housing", value: random(0.4, 0.9), type: "percent" },
+          { id: "11.3", label: "Green Space Access", value: random(0.1, 0.5), type: "percent" },
+        ]
+      },
+      governance: {
+        title: "Governance & Social",
+        metrics: [
+          { id: "13.1", label: "Policy Awareness", value: random(0.2, 0.7), type: "ordinal" },
+          { id: "3.3", label: "Institutional Trust", value: random(0.4, 0.8), type: "ordinal" },
+          { id: "9.2", label: "Civic Participation", value: random(0.1, 0.6), type: "ordinal" },
+          { id: "3.4", label: "Change Adaptability", value: random(0.3, 0.8), type: "ordinal" },
+        ]
+      }
+    }
   };
 };
 
-// Pre-generate all state data for performance
 export const ALL_STATES_ANALYTICS = INDIAN_STATES.reduce((acc, state) => {
   acc[state.code] = generateStateAnalytics(state.code, state.name);
   return acc;

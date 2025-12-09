@@ -2,7 +2,7 @@
 import { Card } from "@/components/ui/card";
 import { TrendingUp, TrendingDown, Users, AlertTriangle, Minus } from "lucide-react";
 
-import {usePdfUploadContext} from "./PdfUploadCard.jsx";
+import { usePdfUploadContext } from "./PdfUploadCard.jsx";
 
 function MetricsCards() {
   const { result, uploading, error } = usePdfUploadContext();
@@ -157,3 +157,4 @@ function MetricsCards() {
 }
 
 export default MetricsCards;
+
