@@ -3,7 +3,8 @@ import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/ca
 import { Users, UserCheck, Venus, Mars } from "lucide-react";
 import { usePdfUploadContext } from "../../components/dashboard/PdfUploadCard.jsx";
 
-// Animated Number Component
+
+
 const CountUp = ({ end, duration = 1500 }) => {
   const [count, setCount] = useState(0);
 
@@ -45,6 +46,7 @@ export default function PopulationPage() {
   const baseTotal = 10000;
   const scaleFactor = 1;
   
+
   // Calculate gender split based on India's ACTUAL ratio (54.4% male, 45.6% female - India's real sex ratio)
   const totalPopulation = baseTotal;
   const malePopulation = Math.round(totalPopulation * 0.544); // 54.4% male = 5,440
