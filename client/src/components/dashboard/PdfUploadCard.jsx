@@ -6,7 +6,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
 import {
   Upload,
   FileText,
@@ -118,13 +117,13 @@ function PdfUploadCard({ onRun, isRunning, onUploadComplete }) {
   };
 
   return (
-    <div className="w-full relative group">
+    <div className="w-full h-full relative group">
       {/* Ambient glow effect */}
-      <div className="absolute -inset-1 bg-gradient-to-r from-accent/20 via-accent/30 to-accent/20 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+      <div className="absolute -inset-1 bg-linear-to-r from-accent/20 via-accent/30 to-accent/20 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
 
-      <Card className="relative border border-white/10 bg-gradient-to-br from-[oklch(0.20_0_0)]/95 to-[oklch(0.16_0_0)]/95 backdrop-blur-xl shadow-2xl overflow-hidden">
+      <Card className="relative border border-white/10 bg-linear-to-br from-[oklch(0.20_0_0)]/95 to-[oklch(0.16_0_0)]/95 backdrop-blur-xl shadow-2xl overflow-hidden">
         {/* Subtle gradient overlay */}
-        <div className="absolute inset-0 bg-gradient-to-br from-accent/5 via-transparent to-transparent pointer-events-none" />
+        <div className="absolute inset-0 bg-linear-to-br from-accent/5 via-transparent to-transparent pointer-events-none" />
 
         <CardContent className="relative p-6 space-y-4">
           {/* Compact header with icon */}
@@ -148,7 +147,7 @@ function PdfUploadCard({ onRun, isRunning, onUploadComplete }) {
             className="group/upload relative flex items-center gap-3 px-4 py-4 border border-dashed border-white/20 rounded-xl cursor-pointer overflow-hidden transition-all duration-300 hover:border-accent/50 hover:bg-white/5"
           >
             {/* Hover gradient effect */}
-            <div className="absolute inset-0 bg-gradient-to-r from-accent/0 via-accent/5 to-accent/0 opacity-0 group-hover/upload:opacity-100 transition-opacity duration-500" />
+            <div className="absolute inset-0 bg-linear-to-r from-accent/0 via-accent/5 to-accent/0 opacity-0 group-hover/upload:opacity-100 transition-opacity duration-500" />
 
             <div className="relative flex items-center justify-center w-10 h-10 rounded-lg bg-white/5 group-hover/upload:bg-accent/10 transition-colors duration-300">
               <Upload className="h-5 w-5 text-white/60 group-hover/upload:text-accent transition-colors duration-300" />
