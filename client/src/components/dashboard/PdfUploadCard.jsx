@@ -2,9 +2,6 @@ import { useState, useEffect } from "react";
 import {
   Card,
   CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
 } from "@/components/ui/card";
 import {
   Upload,
@@ -117,7 +114,7 @@ function PdfUploadCard({ onRun, isRunning, onUploadComplete }) {
   };
 
   return (
-    <div className="w-full h-full relative group">
+    <div className="w-full relative group">
       {/* Ambient glow effect */}
       <div className="absolute -inset-1 bg-linear-to-r from-accent/20 via-accent/30 to-accent/20 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
 
@@ -132,7 +129,7 @@ function PdfUploadCard({ onRun, isRunning, onUploadComplete }) {
               <FileText className="h-4 w-4 text-accent" />
             </div>
             <div>
-              <h3 className="text-sm font-semibold text-white">
+              <h3 className="text-sm font-semibold text-white mt-4">
                 Policy Document
               </h3>
               <p className="text-xs text-white/50">
